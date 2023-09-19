@@ -7,11 +7,11 @@ theme:
     name: 'material'
     icon:
       logo: fontawesome/solid/brain
-      favicon: fontawesome/solid/brain
-    font:
-        text: Ubuntu
-        code: Ubuntu Mono
-    language: en
+      favicon: assets/meta/brain-solid.svg
+    # font:
+    #     text: Ubuntu
+    #     code: Ubuntu Mono
+    # language: en
     
     palette:
       # Light mode

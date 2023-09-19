@@ -5,7 +5,34 @@ URL: https://thienqc.substack.com/p/thanh-tri
 ---
 # Thành trì
 *Nhìn lại sau 5 năm*
-![[Review Thành trì]]
+
+
+![|450](https://i.imgur.com/z6VCEpB.jpg)
+
+
+*Tránh bão, nghỉ thi Y đức, ở nhà đọc sách, viết vu vơ cho mình những năm sau này.*
+
+***"[[Thành trì]]"*** có thể nói là một cuốn sách gối đầu giường của mỗi người hành nghề y, ít nhất là đối với tôi. Nghề y không phải là một màu trắng như chiếc áo blouse, mà nó nó có những mảnh màu tối - mưu mô, xảo trá, lừa gạt - nằm ẩn sâu dưới một hình thức tinh vi nào đó. Liên tục trong cuốn sách là những thách thức mà Andrew, một bác sĩ mới ra trường, phải đối mặt.
+#quote 
+> “The practice of medicine is an art, not a trade; a calling, not a business; a calling in which your heart will be exercised equally with your head." William Osler
+
+
+Cám dỗ lớn nhất là tiền tài. Ban đầu, anh không chạy theo đồng tiền, nhưng nó luôn có những cách để kéo anh lại gần nó, sa chân vào vũng bùn. Bên cạnh anh là người vợ kéo anh ra khỏi vũng bùn, nhưng ngày càng sa lầy, mãi đến khi cái chết xảy ra anh mới bừng tỉnh, trở lại làm người bác sĩ chân chính.Nền kinh tế thị trường đang làm tha hoá mối quan hệ bệnh nhân - thầy thuốc, biến quan hệ này thành quan hệ dịch vụ - khách hàng thuần tuý với đồng tiền chi phối tất cả. Cái gì sẽ kéo mình ở lại đây? Đó là ... (để trống, phải tìm ra).
+
+#quote 
+> "Mẹ hỏi con có thích ngành y không. Có và không. Con rất vui được chữa trị cho những người đến nhờ con khám, nhưng con không muốn biến y học thành một cái nghề, nghĩa là con sẽ không bao giờ có thể đòi một người bệnh trả tiền vì đã chữa bệnh cho người đó. Con coi y học là thiên chức, là phục vụ. Đòi tiền để chữa trị cho bệnh nhân thì chẳng khác nào nói với người đó rằng: tiền hay mạng sống." Alexandre Yersin viết trong thư gửi cho mẹ
+
+Bên cạnh đó là một nguyên tắc mà bất kì ai cũng nên có.
+> Abbey hỏi Andrew: "Nguyên tắc của cậu khi hành nghề y là gì?"
+> "Tôi phải luôn tự nhắc nhở là không bao giờ coi bất cứ điều gì mình học là tuyệt đối chắc chắn."
+
+[[Chủ nghĩa hoài nghi]] không hẳn giúp ta miễn nhiễm mọi sai lầm, nhưng chắc chắn sẽ hạn chế nó, nhất là những sai lầm cố hữu. Đừng cố chấp, những thứ được học ở trường có thể đã "lạc hậu", phải luôn cập nhật kiến thức.
+
+> - Thầy là bác sĩ tốt nhất hay là bác sĩ giỏi nhất?- Ta phải là bác sĩ hữu ích nhất cho bệnh nhân lúc này.Trích đoạn phim "[[Romantic Doctor Teacher Kim]]"
+
+Những phân đoạn trong truyện cũng giúp ta hiểu được phần nào. Cảnh cấp cứu cứu bệnh nhân dưới hầm mỏ, cảnh đỡ đẻ cho sản phụ trong cơn nguy kịch,... Muốn trở thành người bác sĩ như thế phải liên tục thực hành, học hành là việc suốt đời.---"Muốn giàu thì đừng học y!" ~ Hè 12
+
+Dưới con mắt của sinh viên năm 2, cuộc đời có vẻ dễ dàng quá. =))
 
 ---
 Trên đây bài review mình viết khi còn là Y2 (sinh viên năm 2) lúc mới đọc xong **Thành trì**. Bây giờ mình đã là Y6 sắp ra trường, cũng va vấp nhiều, cũng có thêm nhiều góc nhìn mới. Những gì mình ghi ở trên không sai, có điều nó quá lí tưởng, quá lãng mạn.
