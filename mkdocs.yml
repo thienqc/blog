@@ -35,7 +35,7 @@ copyright: Copyright &copy; 2023 thienqc
 # Configuration
 theme:
   name: material
-  custom_dir: material/.overrides
+  # custom_dir: material/.overrides
   features:
     - announce.dismiss
     - content.action.edit
@@ -86,13 +86,13 @@ plugins:
   - blog
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-  - minify:
-      minify_html: true
+  # - minify:
+  #     minify_html: true
 
 # Hooks
-hooks:
-  - material/.overrides/hooks/shortcodes.py
-  - material/.overrides/hooks/translations.py
+# hooks:
+#   - material/.overrides/hooks/shortcodes.py
+#   - material/.overrides/hooks/translations.py
 
 # Customization
 extra:
