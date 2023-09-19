@@ -5,8 +5,9 @@ site_author: thienqc
 
 theme:
     name: 'material'
-    logo: fontawesome/solid/brain
-    favicon: fontawesome/solid/brain
+    icon:
+      logo: fontawesome/solid/brain
+      favicon: fontawesome/solid/brain
     font:
         text: Ubuntu
         code: Ubuntu Mono
