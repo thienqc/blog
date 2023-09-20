@@ -1,1 +1,3 @@
-{% extends "custom_tags.html" %}
+---
+template: custom_tags.html
+---
