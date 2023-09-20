@@ -19,6 +19,9 @@ theme:
         scheme: default
         primary: deep purple
         accent: light blue
+    features:
+      - search.suggest
+      - search.highlight
 
 plugins:
   - search
