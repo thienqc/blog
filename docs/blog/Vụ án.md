@@ -1,6 +1,7 @@
 ---
 share: true
-tags: Dystopian-Fiction
+tags:
+  - Dystopian-Fiction
 ---
 # Vụ án
 ![|200](https://i.imgur.com/84F5Hgb.jpg)
