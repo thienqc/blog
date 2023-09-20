@@ -7,31 +7,19 @@ theme:
     name: 'material'
     icon:
       logo: fontawesome/solid/brain
-      favicon: assets/meta/brain-solid.svg
-    # font:
-    #     text: Ubuntu
-    #     code: Ubuntu Mono
-    # language: en
+      # favicon: assets/meta/brain-solid.png
+    font:
+        text: Roboto
+        code: Roboto Mono
+    language: vi
     
     palette:
       # Light mode
       - media: "(prefers-color-scheme: light)"
         scheme: default
-        primary: blue grey
+        primary: deep purple
         accent: light blue
-        toggle:
-          icon: material/toggle-switch-off-outline
-          name: Switch to dark mode
 
-      # Dark mode
-      - media: "(prefers-color-scheme: dark)"
-        scheme: slate
-        primary: blue grey
-        accent: light blue
-        toggle:
-          icon: material/toggle-switch
-          name: Switch to light mode
-  
     features:
         - navigation.indexes
         - navigation.top
@@ -40,7 +28,7 @@ theme:
         - navigation.expand
         - search.suggest
         - search.highlight
-        
+
 # Extensions
 markdown_extensions:
   - footnotes
@@ -72,6 +60,12 @@ plugins:
   - roamlinks 
 
 
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://unpkg.com/mermaid/dist/mermaid.min.js       
+
 
 extra:
   social:
@@ -79,10 +73,3 @@ extra:
       link: https://www.facebook.com/yds.thienqc/
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/thienqc/
-
-
-# extra_javascript:
-#   - javascripts/mathjax.js
-#   - https://polyfill.io/v3/polyfill.min.js?features=es6
-#   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-#   - https://unpkg.com/mermaid/dist/mermaid.min.js 
