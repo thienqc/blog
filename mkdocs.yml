@@ -11,7 +11,7 @@ theme:
     font:
         text: Roboto
         code: Roboto Mono
-    language: vi
+    language: en
     
     palette:
       # Light mode
@@ -26,7 +26,6 @@ theme:
 plugins:
   - search
   - roamlinks
-  - callouts
   - blogging:
       dirs:
         - blog
@@ -34,6 +33,11 @@ plugins:
         tags:
           index_page: tags.md
           insert: top
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 
 extra:
