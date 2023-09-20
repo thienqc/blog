@@ -21,15 +21,10 @@ theme:
         accent: light blue
 
 plugins:
+  - search
   - blogging:
       dirs:
         - blog
-
-      categories:
-        - name: reviews
-          dirs:
-            - reviews
-
       features:
         tags:
           index_page: tags.md
