@@ -1,3 +1,7 @@
-# Obsidian Notes
+---
+exclude_from_blog: true
+---
 
-[[Note 1]]
+# Blog
+
+{{ blog_content }}
