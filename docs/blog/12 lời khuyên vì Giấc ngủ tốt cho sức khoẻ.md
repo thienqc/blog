@@ -1,6 +1,6 @@
 ---
 Date: 2023-09-20
-tag:
+tags:
   - health
 share: true
 ---
