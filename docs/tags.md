@@ -1,1 +1,1 @@
-{{ tag_content }}
+{% extends "custom_tags.html" %}

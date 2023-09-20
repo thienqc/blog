@@ -5,6 +5,7 @@ site_author: thienqc
 
 theme:
     name: 'material'
+    custom_dir: overrides
     icon:
       logo: fontawesome/solid/brain
       # favicon: assets/meta/brain-solid.png
