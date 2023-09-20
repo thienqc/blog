@@ -16,5 +16,14 @@ Nằm trong một phần nhỏ đã thoát ngọn lửa vùi 90% tác phẩm c�
 
 
 
-> [!NOTE]+ Test
-> yayayayay
+!!!tip "Best practices"
+
+    rather than using Header 1 in the markdown, set the title in the meta section:
+
+    ```markdown title="article"
+    ---
+    title: Lorem ipsum dolor sit amet
+    ---
+    ```
+
+    With this, the tags will be correctly displayed below the header, rather than above it.

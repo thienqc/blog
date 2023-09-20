@@ -31,10 +31,13 @@ plugins:
   - blogging:
       dirs:
         - blog
+      theme:
+        name: card
       features:
         tags:
-          index_page: tags.md
+          # index_page: tags.md
           insert: top
+      time_format: ' %d-%m-%Y '
 
 markdown_extensions:
   - admonition
