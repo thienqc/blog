@@ -11,7 +11,8 @@ date: 2018-04-06
 
 ĐIỀU KỲ DIỆU CỦA TIỆM TẠP HOÁ NAMIYA - HIGASHINO KEIGO
 
-![[./Review Điều kì diệu của tiệm tạp hoá Namiya-1685162744614.jpeg|500]]
+![](https://i.imgur.com/xpbTkNF.jpg)
+
 
 Gửi m,
 

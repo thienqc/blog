@@ -40,7 +40,6 @@ share: true
 > Hồi xưa cứ nghĩ tại sao Sisyphus biết đẩy đá khổ như thế mà ổng vẫn làm?
 > Hmm, chắc là do ổng biết việc đẩy đá này ổng chắc chắn làm được, nên ổng làm. Đơn giản vậy thôi.
 
-
 ## Highlight
 > Làm sao để thoát khỏi hoàn cảnh này? - Camus tự hỏi, và ông tự trả lời - hãy tự sát. Nhưng đừng hiểu tự sát là treo cổ hay cắt tay. Đối với Camus, chỉ sự tự sát có tính triết học (philosophical suicide) mới dẫn con người đến tự do. Tự sát tức là tước quyền sát khỏi tay Chúa, tự sát triết học tức là tước quyền tạo nghĩa khỏi tay Chúa. Một khi con người tự hỏi về ý nghĩa sự tồn tại của chính mình, hắn đã quyết định bước chân ra khỏi cuộc sống, vì chẳng người sống bình thường nào lại tự hỏi về bản chất tồn tại của chính mình cả.
 > ~ [[./ĐỜI NGƯỜI DƯỚI CHỦ NGHĨA HIỆN SINH VÀ CẤU TRÚC|ĐỜI NGƯỜI DƯỚI CHỦ NGHĨA HIỆN SINH VÀ CẤU TRÚC]]
