@@ -5,6 +5,7 @@ Total_Pages: 204
 tags:
   - Reading_challenge_RC_2021
   - philosophy
+  - KhoSach
 Type: Book
 Last_Read: 2021-02-21
 aliases:
