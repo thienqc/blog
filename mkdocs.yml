@@ -32,7 +32,7 @@ copyright: Copyright &copy; 2023 thienqc
 plugins:
   - search
   # - roamlinks
-  - aulinks
+  - autolinks
   - callouts
   - blogging:
       dirs:
