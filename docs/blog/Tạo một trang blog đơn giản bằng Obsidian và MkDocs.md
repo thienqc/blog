@@ -10,6 +10,9 @@ extra:
 
 # Tạo một trang blog đơn giản bằng Obsidian và MkDocs
 
+![](https://i.imgur.com/pIrAiBr.png)
+
+
 Để làm được điều này có 2 bước:
 ## B1. Tạo 1 trang web tĩnh bằng MkDocs
 Ở đây mình sẽ dùng [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). MkDocs có thể dễ dàng tạo 1 trang web tĩnh, dễ sử dụng và dễ sửa đổi. Trong đó Material là theme được đánh giá tốt nhất và nó phù hợp với việc tạo một trang blog tối giản, tập trung vào nội dung.
