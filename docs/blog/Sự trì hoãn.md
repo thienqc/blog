@@ -23,3 +23,5 @@ Còn trì hoãn dài hạn là những việc mà ta chưa thấy lợi ích tr�
 
 ## Làm thế nào để không bị trì hoãn?
 Just do it
+
+Đọc thêm: [Reading slump](./Reading%20slump.md)
