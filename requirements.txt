@@ -1,3 +1,4 @@
 mkdocs-material
 mkdocs-blogging-plugin
 mkdocs-roamlinks-plugin
+mkdocs-callouts

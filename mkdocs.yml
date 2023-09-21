@@ -27,6 +27,7 @@ theme:
 plugins:
   - search
   - roamlinks
+  - callouts
   - blogging:
       dirs:
         - blog
