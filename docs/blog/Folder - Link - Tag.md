@@ -6,6 +6,10 @@ date: 2023-06-24
 URL: https://www.facebook.com/groups/594306492570157/posts/663193479014791/
 share: true
 description: Mình nên xây dựng cấu trúc nào? Dùng thư mục hay thẻ tốt hơn? Hay chỉ nên dùng các liên kết?
+extra:
+  - "[[Folders vs. Links vs. Tags -  reddit|Folders vs. Links vs. Tags -  reddit]]"
+  - "[[Links vs Tags vs Folders in Obsidian -  When Should You Use Each - YouTube|Links vs Tags vs Folders in Obsidian -  When Should You Use Each - YouTube]]"
+  - "[[How To Organize Your Notes in Obsidian - Folders, Tags and Links - YouTube|How To Organize Your Notes in Obsidian - Folders, Tags and Links - YouTube]]"
 ---
 
 # Folder - Tag - Link
@@ -35,8 +39,7 @@ Trong quyển "How to take smart note", Sönke Ahrens có nói: "Trong hệ t
 
 [hình minh hoạ](https://www.reddit.com/r/ObsidianMD/comments/vofakc/folders_vs_links_vs_tags/)
 
-%%
 ## Reference
-- [[Folders vs. Links vs. Tags -  reddit|Folders vs. Links vs. Tags -  reddit]]
-- [[Links vs Tags vs Folders in Obsidian -  When Should You Use Each - YouTube|Links vs Tags vs Folders in Obsidian -  When Should You Use Each - YouTube]]
-- [[How To Organize Your Notes in Obsidian - Folders, Tags and Links - YouTube|How To Organize Your Notes in Obsidian - Folders, Tags and Links - YouTube]]
+- [Folders vs. Links vs. Tags -  reddit](https://www.reddit.com/r/ObsidianMD/comments/vofakc/folders_vs_links_vs_tags/)
+- [Links vs Tags vs Folders in Obsidian -  When Should You Use Each - YouTube](https://www.youtube.com/watch?v=fwO8LzH9q3I)
+- [How To Organize Your Notes in Obsidian - Folders, Tags and Links - YouTube](https://www.youtube.com/watch?v=GUtXbwqS3iQ)

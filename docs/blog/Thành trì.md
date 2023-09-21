@@ -7,6 +7,7 @@ tags:
   - Reading_challenge_RC_2018
   - medical_fiction
   - favorite
+  - KhoSach
 Type: Book
 Last_Read: 2021-04-13
 share: true
