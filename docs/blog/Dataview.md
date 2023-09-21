@@ -24,7 +24,7 @@ Dataview là 1 plugin cực kì mạnh mẽ, giúp ta có thể truy vấn bất
 
 ~~~
 
-Để cài đặt dataview, bạn vào Settings → Community plugins → Browse → tìm "dataview" (hoặc nó nằm ngay trên cùng luôn).
+Để cài đặt dataview, bạn vào `Settings` → `Community plugins` → `Browse` → tìm "dataview" (hoặc nó nằm ngay trên cùng luôn).
 
 Để sử dụng được dataview, bạn cần phải đọc qua hướng dẫn sử dụngtại đây: [https://blacksmithgu.github.io/obsidian-dataview/](https://blacksmithgu.github.io/obsidian-dataview/)
 
@@ -35,3 +35,4 @@ Bạn cũng có thể ghé qua [Basic Dataview Query Builder](https://s-blu.git
 Khi đã có thể tự viết những query cơ bản, bạn có thể tìm thêm những cách viết nâng cao hơn tại [Dataview Example Vault](https://s-blu.github.io/obsidian_dataview_example_vault/)
 
 Còn đây là bảng kiểm giúp bạn tránh những lỗi sai cơ bản: [checklist](https://docs.google.com/document/d/1P8QljzvtmdpL1mfA2VL5Q972bRAsU1-CLxryVIgH80w/edit)
+
