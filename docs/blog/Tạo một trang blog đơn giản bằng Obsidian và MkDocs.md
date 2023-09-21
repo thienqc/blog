@@ -3,8 +3,8 @@ share: true
 tags:
   - tech
   - obsidian
-date: 2023-09-21
-description: Xây dụng bộ não thứ hai
+date: 2023-09-22
+description: Xây dựng bộ não thứ hai
 extra: 
 ---
 
@@ -21,7 +21,7 @@ Sau khi có được một trang web, nội dung của nó sẽ chứa trong th�
 Ưu điểm:
 - Giao diện tối giản, tập trung vào nội dung
 - Dễ dàng chỉnh sửa nội dung
-- Hỗ trợ [wikilink](wikilink.md)
+- Hỗ trợ `[wikilink](wikilink.md)`
 - Miễn phí
 
 Nhược điểm:
