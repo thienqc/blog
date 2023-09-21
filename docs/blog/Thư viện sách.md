@@ -8,6 +8,7 @@ description:
 ---
 
 # THƯ VIỆN SÁCH template
+![](https://i.imgur.com/hixrGTz.jpg)
 
 👉 [thienqc/Obsidian-Books (github.com)](https://github.com/thienqc/Obsidian-Books)
 
