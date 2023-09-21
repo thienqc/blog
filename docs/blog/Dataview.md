@@ -21,8 +21,6 @@ Dataview là 1 plugin cực kì mạnh mẽ, giúp ta có thể truy vấn bất
 - và RẤT NHIỀU ứng dụng khác
 
 ~~~md
-| Cover | Title | Author | Date |
-| ----- | ----- | ------ | ---- |
 
 ~~~
 
