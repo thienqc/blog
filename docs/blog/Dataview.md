@@ -20,9 +20,8 @@ Dataview là 1 plugin cực kì mạnh mẽ, giúp ta có thể truy vấn bất
 - Hiển thị sinh nhật hoặc sự kiện sắp tới
 - và RẤT NHIỀU ứng dụng khác
 
-~~~md
 
-~~~
+
 
 Để cài đặt dataview, bạn vào `Settings` → `Community plugins` → `Browse` → tìm "dataview" (hoặc nó nằm ngay trên cùng luôn).
 
