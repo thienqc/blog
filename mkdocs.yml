@@ -34,7 +34,7 @@ plugins:
       features:
         tags:
           index_page: tags.md
-          insert: top
+          insert: bottom
       time_format: ' %d-%m-%Y '
 
 markdown_extensions:
