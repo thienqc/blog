@@ -43,6 +43,12 @@ markdown_extensions:
   - pymdownx.superfences
   - footnotes
   - tables
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - def_list
 
 
 extra:
