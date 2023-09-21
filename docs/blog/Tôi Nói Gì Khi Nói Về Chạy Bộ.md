@@ -20,7 +20,7 @@ share: true
 ![](https://i.imgur.com/Cm0TQXv.jpg)
 
 
-📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21132&authkey=!AAPSuEtaePaU-sM)
+Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21132&authkey=!AAPSuEtaePaU-sM)
 
 ---
 ## Highlights
