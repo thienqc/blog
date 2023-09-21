@@ -31,3 +31,4 @@ Nói tóm lại, mình thấy Notion được xây dựng thêm hướng 
 Nếu có bất kì thắc mắc hay thảo luận, hãy để lại bình luận nhé. Chúc bạn một ngày tốt lành.
 
 
+Xem thêm: [[./Dataview|Dataview]]
