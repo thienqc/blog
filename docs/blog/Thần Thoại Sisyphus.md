@@ -21,8 +21,9 @@ share: true
 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21130&authkey=!ANtPm4g0YNPGhsg)
 
 ---
-## Post
-[[Sisyphus thời hiện đại|Sisyphus thời hiện đại]]
+
+> [!important] Post
+> [[Sisyphus thời hiện đại|Sisyphus thời hiện đại]]
 
 ## My thought
 
