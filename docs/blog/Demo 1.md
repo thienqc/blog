@@ -1,5 +1,5 @@
 ---
-Date: 2023-08-16
+date: 2023-08-16
 share: true
 title: Blog 1
 description: Nội dung
