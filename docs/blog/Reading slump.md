@@ -65,3 +65,5 @@ Ngoài những lý do từ phía nội dung sách, cuộc sống hiện đại l
 Dù làm gì đi nữa thì quan trọng nhất là bạn không nên thúc ép bản thân. Bởi không chỉ việc đọc sách mà bất cứ sở thích nào đi nữa, một khi đã có sự ép buộc thì đều mất đi thú vui vốn dĩ.
 
 Hãy cứ thử tưởng tượng xem một ngày đẹp trời, bạn sắp dọn lại căn phòng của mình thì đột nhiên mẹ xuất hiện và sai bảo điều bạn sắp làm mà xem. Dám cá là bạn sẽ muốn làm ngược lại thôi, vì đây vốn dĩ là [tâm lý phản kháng](https://vietcetera.com/vn/vi-sao-ta-khong-thich-nguoi-khac-bao-minh-phai-lam-gi) chung của con người.
+
+Đọc thêm: [Sự trì hoãn](./S%E1%BB%B1%20tr%C3%AC%20ho%C3%A3n.md)
