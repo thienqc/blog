@@ -22,12 +22,14 @@ Mình dùng Github là nơi chứa trang web và chỉ cần vài bước là c�
 Sau khi có được một trang web, nội dung của nó sẽ chứa trong thư mục `docs` dưới các file .md. Do đó, mình sẽ dùng plugin [GitHub Publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) để đồng bộ nội dung trong vault của mình và trên github. 
 ## Đánh giá
 Ưu điểm:
+
 - Giao diện tối giản, tập trung vào nội dung
 - Dễ dàng chỉnh sửa nội dung
 - Hỗ trợ `[wikilink](wikilink.md)`
 - Miễn phí
 
 Nhược điểm:
+
 - Khó làm nếu không quen lập trình
 - Không tối ưu SEO bằng các nền tảng khác
 
