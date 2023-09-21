@@ -24,10 +24,11 @@ share: true
 
 
 > [!important] Post
-> [[Nhìn lại Thành trì sau 5 năm|Nhìn lại Thành trì sau 5 năm]]
+> [[./Nhìn lại Thành trì sau 5 năm|Nhìn lại Thành trì sau 5 năm]]
 
 ---
 
-Abbey hỏi Andrew: "Nguyên tắc của cậu khi hành nghề y là gì?"
-> "Tôi phải luôn tự nhắc nhở là không bao giờ coi bất cứ điều gì mình học là tuyệt đối chắc chắn."
+> Abbey hỏi Andrew: "Nguyên tắc của cậu khi hành nghề y là gì?"
+
+⇒ "Tôi phải luôn tự nhắc nhở là không bao giờ coi bất cứ điều gì mình học là tuyệt đối chắc chắn."
 

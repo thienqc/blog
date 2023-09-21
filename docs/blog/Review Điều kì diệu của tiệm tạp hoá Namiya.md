@@ -39,10 +39,9 @@ P/S: Bà chủ tịch trại trẻ và ông chủ tiệm trước đây là ngư
 
 Bộ phim chuyển thể không thể hiện hết nội tâm nhân vật, lược bỏ một số nhân vật, nhưng thế cũng ok rồi, không đòi hỏi nhiều ở phim chuyển thể.
 
-Bài *Reborn* khá hay, nhẹ nhàng, da diết.
+Bài *[Reborn](https://youtu.be/GMUiipgOPVY))* khá hay, nhẹ nhàng, da diết.
 
 Bắt đầu ghiền truyện của tác giả Higashino Keigo.
 
-![https://youtu.be/GMUiipgOPVY](https://youtu.be/GMUiipgOPVY)
-
+---
 Sách: [[./Điều Kỳ Diệu Của Tiệm Tạp Hóa Namiya|Điều Kỳ Diệu Của Tiệm Tạp Hóa Namiya]]
