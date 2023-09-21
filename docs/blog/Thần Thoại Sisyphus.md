@@ -12,7 +12,7 @@ aliases:
 share: true
 ---
 
-# Thần Thoại Sisyphus
+# Thần thoại Sisyphus
 [Author:: [[Albert Camus|Albert Camus]]] - (Publication_Year:: 1942)
 
 ![](https://i.imgur.com/gaCGNCR.jpg)
