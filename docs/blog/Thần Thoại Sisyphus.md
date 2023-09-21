@@ -14,7 +14,7 @@ share: true
 ---
 
 # Thần thoại Sisyphus
-[Author:: [[../../Albert Camus|Albert Camus]]] - (Publication_Year:: 1942)
+[Author:: [[./Albert Camus|Albert Camus]]] - (Publication_Year:: 1942)
 
 ![](https://i.imgur.com/gaCGNCR.jpg)
 
@@ -36,7 +36,7 @@ share: true
 > Chả buồn học bài. Hay chính xác hơn là tự nhiên mình thấy ghét học bài, không phải nói là tự nhiên sợ việc phải học. Mình sợ phải đẩy tiếp tảng đá hay sao? Mình đâu có cách nào khác đâu? Thế là phải làm tiếp hay sao. Thật sự thật sự mệt. Sisyphus hạnh phúc? Mình vẫn chưa *hiểu* hết.
 
 
-> [!NOTE] [[230102|230102]]
+> [!NOTE] 230102
 > Hồi xưa cứ nghĩ tại sao Sisyphus biết đẩy đá khổ như thế mà ổng vẫn làm?
 > Hmm, chắc là do ổng biết việc đẩy đá này ổng chắc chắn làm được, nên ổng làm. Đơn giản vậy thôi.
 
