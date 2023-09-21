@@ -11,7 +11,6 @@ description: '"Thành trì" là một cuốn sách gối đầu giường của 
 # Review Thành trì
 *Nhìn lại sau 5 năm*
 
-
 ![](https://i.imgur.com/kQoMfgx.jpg)
 
 *Tránh bão, nghỉ thi Y đức, ở nhà đọc sách, viết vu vơ cho mình những năm sau này.*
