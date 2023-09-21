@@ -13,7 +13,7 @@ share: true
 ---
 
 # Thành trì
-[Author:: [A J Cronin](A%20J%20Cronin.md)] - (Publication_Year:: 1937)
+[Author:: [[A J Cronin|A J Cronin]]] - (Publication_Year:: 1937)
 
 ![](https://i.imgur.com/Qey6Bch.jpg)
 
@@ -38,4 +38,4 @@ Abbey hỏi Andrew: "Nguyên tắc của cậu khi hành nghề y là gì?"
 
 ---
 
-[Review Thành trì](Review%20Th%C3%A0nh%20tr%C3%AC.md)
+[[Nhìn lại Thành trì sau 5 năm|Nhìn lại Thành trì sau 5 năm]]
