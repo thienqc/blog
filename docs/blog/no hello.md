@@ -5,10 +5,10 @@ date: 2023-07-20
 URL: 
 share: true
 description: đừng nói xin chào
+extra: "[[Về cách nhắn tin, yêu cầu người lạ|Về cách nhắn tin, yêu cầu người lạ]]"
 ---
 
 # no hello
-
 ![](https://i.imgur.com/PsRRmhR.png)
 *trung bình một cuộc trò chuyện mình nhận từ người lạ*
 
@@ -36,10 +36,3 @@ Giải pháp ở đây không phải là hỏi để hỏi tiếp, mà cứ **HO
 
 
 Tóm lại, việc chào hỏi đúng cách luôn là điều tốt, vì nó cho thấy sự tôn trọng. Tuy nhiên, điều quan trọng là không chỉ nói xin chào mà còn phải hỏi những câu hỏi trực tiếp và giải quyết vấn đề đang được thảo luận. Bằng cách này, bạn có thể đảm bảo cuộc trò chuyện có hiệu quả và ý nghĩa, và cả hai bên đều hiểu rõ vấn đề được thảo luận.
-
-%%
-
----
-# Extra
-
-[[Về các nhắn tin, yêu cầu người lạ|Về các nhắn tin, yêu cầu người lạ]]
