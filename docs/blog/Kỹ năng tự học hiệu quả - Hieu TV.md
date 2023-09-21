@@ -16,4 +16,4 @@ tags:
 - Những cái công việc nhỏ mà áp dụng đc những kiến thức của mình -> thành tựu nhỏ -> động lực, hứng thú để tiếp tục
 
 
-⇒ [Tự học - một nhu cầu thời đại](../../T%E1%BB%B1%20h%E1%BB%8Dc%20-%20m%E1%BB%99t%20nhu%20c%E1%BA%A7u%20th%E1%BB%9Di%20%C4%91%E1%BA%A1i.md)
+⇒ Sách [Tự học - một nhu cầu thời đại](../../T%E1%BB%B1%20h%E1%BB%8Dc%20-%20m%E1%BB%99t%20nhu%20c%E1%BA%A7u%20th%E1%BB%9Di%20%C4%91%E1%BA%A1i.md)

@@ -22,6 +22,7 @@ Nếu cùng đích cuộc đời là đi tìm ý nghĩa cuộc sống
 > "Con hãy tận hưởng những đường vòng nho nhỏ đó hết mình nhé. Vì con sẽ tìm thấy những thứ quan trọng hơn điều con muốn."
 > ~ Ging nói với Gon trong [Hunter x Hunter](../../Hunter%20x%20Hunter.md).
 
+
 ### Kết
 Albert Camus đã viết trong tiểu luận [Thần Thoại Sisyphus](./Th%E1%BA%A7n%20Tho%E1%BA%A1i%20Sisyphus.md):
 
