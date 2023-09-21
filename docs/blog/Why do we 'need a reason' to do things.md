@@ -1,7 +1,7 @@
 ---
 tags:
   - hmm
-date: 2022-07-01
+date: 2023-07-01
 URL: https://thienqc.substack.com/p/why-do-we-need-a-reason-to-do-things
 share: true
 ---
