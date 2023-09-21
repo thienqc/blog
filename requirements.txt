@@ -2,4 +2,5 @@ mkdocs-material
 mkdocs-blogging-plugin
 # mkdocs-roamlinks-plugin
 mkdocs-callouts
-mkdocs-ezlinked-plugin
+# mkdocs-ezlinked-plugin
+mkdocs-autolinks-plugin
