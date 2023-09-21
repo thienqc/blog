@@ -31,7 +31,8 @@ copyright: Copyright &copy; 2023 thienqc
 
 plugins:
   - search
-  - roamlinks
+  # - roamlinks
+  - ezlinks
   - callouts
   - blogging:
       dirs:
