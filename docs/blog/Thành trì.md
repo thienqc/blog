@@ -14,7 +14,7 @@ share: true
 ---
 
 # Thành trì
-[Author:: [[A J Cronin|A J Cronin]]] - (Publication_Year:: 1937)
+[Author:: [[../../AJ Cronin|AJ Cronin]]] - (Publication_Year:: 1937)
 
 ![](https://i.imgur.com/Qey6Bch.jpg)
 
