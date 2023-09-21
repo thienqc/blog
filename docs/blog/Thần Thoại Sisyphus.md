@@ -19,7 +19,7 @@ share: true
 ![](https://i.imgur.com/gaCGNCR.jpg)
 
 
-📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21130&authkey=!ANtPm4g0YNPGhsg)
+Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21130&authkey=!ANtPm4g0YNPGhsg)
 
 ---
 
