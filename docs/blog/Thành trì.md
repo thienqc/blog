@@ -18,7 +18,7 @@ share: true
 
 ![](https://i.imgur.com/Qey6Bch.jpg)
 
-📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21131&authkey=!AEps34BmYhxeQ9Q)
+Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21131&authkey=!AEps34BmYhxeQ9Q)
 
 ---
 
