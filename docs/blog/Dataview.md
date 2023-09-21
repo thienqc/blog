@@ -35,3 +35,4 @@ Khi đã có thể tự viết những query cơ bản, bạn có thể tìm th�
 
 Còn đây là bảng kiểm giúp bạn tránh những lỗi sai cơ bản: [checklist](https://docs.google.com/document/d/1P8QljzvtmdpL1mfA2VL5Q972bRAsU1-CLxryVIgH80w/edit)
 
+Xem thêm: [[./DATABASE Notion vs DATAVIEW Obsidian|DATABASE Notion vs DATAVIEW Obsidian]]
