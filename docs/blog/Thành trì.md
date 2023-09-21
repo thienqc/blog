@@ -7,6 +7,7 @@ tags:
   - Reading_challenge_RC_2018
   - medical_fiction
   - favorite
+  - KhoSach
 Type: Book
 Last_Read: 2021-04-13
 share: true
@@ -21,21 +22,12 @@ share: true
 
 ---
 
-Một số ý hay, ca bệnh
 
-**Thương hàn**
-- 
-**Suy giáp**
-- Phù niêm: phù cứng ở mặt (da mặt sưng phồng không co dãn)
-- Da khô, nhám, đầu ngón tay hơi dày lên (ngón tay chuối mắn)
-- Nói năng chuệch choạc
-- Hỏng trí nhớ, suy nghĩ chậm chạp
-- Hung hăng, muốn giết người
+> [!important] Post
+> [[Nhìn lại Thành trì sau 5 năm|Nhìn lại Thành trì sau 5 năm]]
+
 ---
 
 Abbey hỏi Andrew: "Nguyên tắc của cậu khi hành nghề y là gì?"
 > "Tôi phải luôn tự nhắc nhở là không bao giờ coi bất cứ điều gì mình học là tuyệt đối chắc chắn."
 
----
-
-[[Nhìn lại Thành trì sau 5 năm|Nhìn lại Thành trì sau 5 năm]]
