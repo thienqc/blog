@@ -23,6 +23,11 @@ theme:
     features:
       - search.suggest
       - search.highlight
+      - navigation.footer
+
+copyright: Copyright &copy; 2023 thienqc
+
+
 
 plugins:
   - search
