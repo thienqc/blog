@@ -14,7 +14,8 @@ share: true
 # How to Study in Medical School
 [Author:: [Armin Kamyab](Armin%20Kamyab.md)] - (Publication_Year:: 2008)
 
-![How to Study in Medical School-1685179309948.jpeg](../assets/img/How%20to%20Study%20in%20Medical%20School-1685179309948.jpeg)
+![](https://i.imgur.com/7jdXMDe.jpg)
+
 Ebook:: 📙 [PDF](https://onedrive.live.com/download?resid=E92BC60129512289%21137&authkey=!AIFEgkU1djD4gl8)
 
 ---
