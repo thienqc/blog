@@ -7,7 +7,7 @@ tags:
 
 # Kỹ năng tự học hiệu quả
 
-[Kỹ Năng Tự Học Hiệu Quả - Hieu TV](https://www.youtube.com/watch?v=-ilse9rTDto)
+[Kỹ Năng Tự Học Hiệu Quả - YouTube](https://www.youtube.com/watch?v=-ilse9rTDto)
 
 - Nguồn học liệu để học rất rất nhiều trên internet
 - Áp lực (bên ngoài) >< động lực (bên trong)
