@@ -5,9 +5,9 @@ tags:
 ---
 
 # Be Kind, Be Useful, Be Fearless
-## West Wing Week: 11/11/16 or, "Be Kind, Be Useful, Be Fearless" - YouTube
-https://www.youtube.com/watch?v=-GlJdcxyLOY
-## Transcript:
+[West Wing Week: 11/11/16 or, "Be Kind, Be Useful, Be Fearless" - YouTube](https://www.youtube.com/watch?v=-GlJdcxyLOY)
+
+**Transcript:**
 - [00:00](https://www.youtube.com/watch?v=undefined&t=0s) Narrator: Welcome to the West Wing Week, your guide to everything that's happening at 1600 Pennsylvania Avenue. This week the President welcomed the Cleveland Cavaliers to the White House. The President: Now, that's something right there. Narrator: Gave some words of wisdom to the final internship class of his presidency, and met with the President-Elect.
 - [00:15](https://www.youtube.com/watch?v=undefined&t=15s) That's November 4th through the 10th or -- The President: ==Be kind, be useful, be fearless==. Narrator: On Tuesday, the President held a Q&A with the final internship class of the Obama administration. The President: People, they say to themselves, "Oh, I want to be a senator," or "I want to be a congressman.
 - [00:32](https://www.youtube.com/watch?v=undefined&t=32s) " Or in business, they say, "I want to be rich" as opposed to saying, "I want to invent this great product" or "I want to help kids read." What is it that you enjoy doing, you're passionate about, that moves you, that you can throw yourself into, that you can master? Then you will naturally get really good at it and make a really important contribution.
