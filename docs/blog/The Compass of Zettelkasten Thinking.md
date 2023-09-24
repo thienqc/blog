@@ -3,6 +3,7 @@ share: true
 tags:
   - PKM
 description: Cách mở rộng ý tưởng
+date: 2023-09-24
 ---
 
 # The Compass of Zettelkasten Thinking
