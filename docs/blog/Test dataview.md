@@ -23,3 +23,11 @@ share: true
 - [How to review a book](./How%20to%20review%20a%20book.md)
 
 ```
+
+```md
+```dataview
+LIST
+FROM #Book 
+WHERE share=true
+```
+```
