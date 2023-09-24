@@ -13,10 +13,14 @@ description: Cách mở rộng ý tưởng
 
 
 [How To Take Smart Notes (3 methods no one's talking about) - YouTube](https://www.youtube.com/watch?v=5O46Rqh5zHE&t=284s)
-![The Compass of Zettelkasten Thinking-1687912168210.jpeg](../assets/img/The%20Compass%20of%20Zettelkasten%20Thinking-1687912168210.jpeg)
+
+![](https://i.imgur.com/9zw24XX.jpg)
+
 
 [Vicky Zhao & Fei-Ling Tseng: The Compass of Zettelkasten Thinking: Associative Thinking Made Easy - YouTube](https://www.youtube.com/watch?v=-7r9t9T9Aww)
-![The Compass of Zettelkasten Thinking-1687912026307.jpeg](../assets/img/The%20Compass%20of%20Zettelkasten%20Thinking-1687912026307.jpeg)
+
+![](https://i.imgur.com/nZdo5OV.jpg)
+
 
 [Compass Points_0.pdf (harvard.edu)](https://pz.harvard.edu/sites/default/files/Compass%20Points_0.pdf)
 1. E = Excited
