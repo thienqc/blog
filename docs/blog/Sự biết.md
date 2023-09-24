@@ -2,6 +2,7 @@
 tags:
   - quote
 share: true
+date: 2023-09-21
 ---
 
 # Sự biết
