@@ -3,6 +3,7 @@ tags:
   - speech
 share: true
 description: Bộ lọc giúp cải thiện giao tiếp
+date: 2023-09-23
 ---
 
 # # Triple Filter Test

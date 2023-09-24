@@ -9,6 +9,7 @@ tags:
 Type: Book
 Last_Read: 2019-08-22
 share: true
+date: 2019-08-22
 ---
 
 # How to Study in Medical School

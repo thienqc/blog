@@ -11,10 +11,11 @@ Last_Read: 2021-02-21
 aliases:
   - Sisyphus
 share: true
+date: 2021-02-21
 ---
 
 # Thần thoại Sisyphus
-[Author:: [Albert Camus](Albert%20Camus.md)] - (Publication_Year:: 1942)
+[Author:: [Albert Camus](../../Albert%20Camus.md)] - (Publication_Year:: 1942)
 
 ![](https://i.imgur.com/gaCGNCR.jpg)
 
@@ -24,15 +25,15 @@ Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21
 ---
 
 > [!important] Post
-> [Sisyphus thời hiện đại](Sisyphus%20th%E1%BB%9Di%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i.md)
+> [Sisyphus thời hiện đại](./Sisyphus%20th%E1%BB%9Di%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i.md)
 
 ## My thought
 
-> [!NOTE] [210224](210224.md)
+> [!NOTE] [210224](../../210224.md)
 > Nếu Sisyphus biết rằng việc lăn tảng đá lên rồi cũng rơi xuống nhưng mà vẫn làm, không sợ bị số phận đè nặng, vẫn làm cái việc mà mình phải làm, thì mình vẫn chưa sẵn sàng nổ máy hậu Tết trong khi tuần sau thi rồi, thi lâm sàng, thi lí thuyết, thậm chí là đang ở giữa tuần học online rồi. 'Just do it' ư? Có lẽ không hợp với mình sao? Rõ ràng là mình biết chỉ cần làm thôi nhưng vẫn không làm. Phi lí là đây chứ đâu..
 
 
-> [!NOTE] [210404](210404.md)
+> [!NOTE] [210404](../../210404.md)
 > Chả buồn học bài. Hay chính xác hơn là tự nhiên mình thấy ghét học bài, không phải nói là tự nhiên sợ việc phải học. Mình sợ phải đẩy tiếp tảng đá hay sao? Mình đâu có cách nào khác đâu? Thế là phải làm tiếp hay sao. Thật sự thật sự mệt. Sisyphus hạnh phúc? Mình vẫn chưa *hiểu* hết.
 
 
@@ -42,9 +43,9 @@ Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21
 
 ## Highlight
 > Làm sao để thoát khỏi hoàn cảnh này? - Camus tự hỏi, và ông tự trả lời - hãy tự sát. Nhưng đừng hiểu tự sát là treo cổ hay cắt tay. Đối với Camus, chỉ sự tự sát có tính triết học (philosophical suicide) mới dẫn con người đến tự do. Tự sát tức là tước quyền sát khỏi tay Chúa, tự sát triết học tức là tước quyền tạo nghĩa khỏi tay Chúa. Một khi con người tự hỏi về ý nghĩa sự tồn tại của chính mình, hắn đã quyết định bước chân ra khỏi cuộc sống, vì chẳng người sống bình thường nào lại tự hỏi về bản chất tồn tại của chính mình cả.
-> ~ [ĐỜI NGƯỜI DƯỚI CHỦ NGHĨA HIỆN SINH VÀ CẤU TRÚC](%C4%90%E1%BB%9CI%20NG%C6%AF%E1%BB%9CI%20D%C6%AF%E1%BB%9AI%20CH%E1%BB%A6%20NGH%C4%A8A%20HI%E1%BB%86N%20SINH%20V%C3%80%20C%E1%BA%A4U%20TR%C3%9AC.md)
+> ~ [ĐỜI NGƯỜI DƯỚI CHỦ NGHĨA HIỆN SINH VÀ CẤU TRÚC](./%C4%90%E1%BB%9CI%20NG%C6%AF%E1%BB%9CI%20D%C6%AF%E1%BB%9AI%20CH%E1%BB%A6%20NGH%C4%A8A%20HI%E1%BB%86N%20SINH%20V%C3%80%20C%E1%BA%A4U%20TR%C3%9AC.md)
 
-⇒ liên tưởng tới [hỗn mang trong Người bóng bay](Ng%C6%B0%E1%BB%9Di%20b%C3%B3ng%20bay.md#^hon-mang), tuy tác giả nói "trọng tâm của tác phẩm này có lẽ được xây dựng trên bốn chữ ==chư hành vô thường==" [^1]
+⇒ liên tưởng tới [hỗn mang trong Người bóng bay](../../Ng%C6%B0%E1%BB%9Di%20b%C3%B3ng%20bay.md#^hon-mang), tuy tác giả nói "trọng tâm của tác phẩm này có lẽ được xây dựng trên bốn chữ ==chư hành vô thường==" [^1]
 [^1]: Chu hành vô thường (諸行無常): hết thảy hiện tượng và muôn vật trong thế gian luôn luôn biến chuyển không ngừng
 
 #### Chương: THẦN THOẠI SISYPHUS

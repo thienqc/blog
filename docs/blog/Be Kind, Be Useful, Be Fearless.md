@@ -2,6 +2,7 @@
 share: true
 tags:
   - life-style
+date: 2023-09-23
 ---
 
 # Be Kind, Be Useful, Be Fearless
