@@ -10,6 +10,7 @@ tags:
 Type: Book
 Last_Read: 2020-12-22
 share: true
+date: 2020-12-20
 ---
 
 # Tôi tự học
