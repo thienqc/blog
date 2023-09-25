@@ -24,12 +24,13 @@ Như thế chỉ có giá trị mang tính nội tại mới giúp bạn gắn b
 
 Khi ấy bạn mới có thể vượt qua những cơn buồn chán (running blue) hay những chấn thương dai dẳng do chạy bộ.
 
+Nguồn: https://chay365.com/lam-cach-nao-ban-co-dong-luc-lau-dai-trong-chay-bo/
 
 > [!example] Xem thêm
 > - [Why do we 'need a reason' to do things](./Why%20do%20we%20'need%20a%20reason'%20to%20do%20things.md)
 > - [Reading slump](./Reading%20slump.md)
+> - [Sự trì hoãn](./S%E1%BB%B1%20tr%C3%AC%20ho%C3%A3n.md)
 
-Nguồn: https://chay365.com/lam-cach-nao-ban-co-dong-luc-lau-dai-trong-chay-bo/
 
 [^1]: Kolodny, Niko, 'Instrumental Reasons', in Daniel Star (ed.), _The Oxford Handbook of Reasons and Normativity_, Oxford Handbooks (2018; online edn, Oxford Academic, 10 July 2018)
 [^2]: https://www.runnersworld.com/advanced/a20813461/philosophy-and-the-serious-runner/
