@@ -3,6 +3,7 @@ share: true
 date: 2023-09-25
 tags:
   - obsidian
+description: Tung xúc sắc và ứng dụng
 ---
 
 # Dice Roller plugin
@@ -23,6 +24,7 @@ tags:
 
 ### Obsidian Dice Roller: not just for gaming
 [Obsidian Dice Roller: not just for gaming - YouTube](https://www.youtube.com/watch?v=wHA5gzPOPPM)
+
 - [00:00](https://www.youtube.com/watch?v=wHA5gzPOPPM&t=0s) Intro
 - [00:35](https://www.youtube.com/watch?v=wHA5gzPOPPM&t=35s) Dice Roller for random numbers
 - [03:53](https://www.youtube.com/watch?v=wHA5gzPOPPM&t=233s) Rolling on Dataview fields
