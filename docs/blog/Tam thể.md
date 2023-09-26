@@ -9,12 +9,13 @@ tags:
   - KhoSach
 Type: Book
 share: true
+date: 2023-09-26
 ---
 
 # Tam thể (1)
 [Author:: [Liu Cixin](Liu%20Cixin.md)] - (Publication_Year:: 2006)
 
-![150](../assets/img/Tam%20th%E1%BB%83%20(1)-1695709420778.jpeg)
+![150](https://i.imgur.com/v0DC4MJ.jpg)
 
 Hùng tráng, kịch tính, triết lý, nên thơ, với những tri thức khoa học thú vị, Tam thể là phần mở đầu mang cảm hứng sử thi cho tam bộ khúc của Lưu Từ Hân. Sau tất cả những mưu toan ly kỳ, nham hiểm, những nỗ lực tưởng chừng tuyệt vọng để sinh tồn, câu hỏi còn đọng lại, không phải "Loài người nên làm gì để đối phó với sự xâm lăng của Tam Thể?", mà là "Loài người đã làm gì chính mình?"
 
