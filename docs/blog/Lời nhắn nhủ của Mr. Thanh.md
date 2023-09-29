@@ -5,7 +5,7 @@ tags:
 date: 2022-01-07
 ---
 
-
+# Lời nhắn nhủ của Mr. Thanh
 
 Tính chất ngành y khác ngành IT. IT thì ít giao tiếp, nên ai họ cũng viết ra, nên có nhiều tài liệu đọc lắm, tìm là có.Còn ngành y thì a ko chắc, có thể cần sự giao tiếp nhiều mới có được kiến thức
 
