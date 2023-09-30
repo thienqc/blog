@@ -24,6 +24,7 @@ date: 2023-09-24
 
 
 [Compass Points_0.pdf (harvard.edu)](https://pz.harvard.edu/sites/default/files/Compass%20Points_0.pdf)
+
 1. E = Excited
    What excites you about this idea or propositions? What’s the upside?
 2. W = Worrisome
