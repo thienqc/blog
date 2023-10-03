@@ -3,13 +3,13 @@ share: true
 ---
 # 10 bài ngẫu nhiên
 
-- [Reading slump](./Reading%20slump.md)
-- [CHỌN NHẦM NGHỀ THÌ PHẢI LÀM SAO](./CH%E1%BB%8CN%20NH%E1%BA%A6M%20NGH%E1%BB%80%20TH%C3%8C%20PH%E1%BA%A2I%20L%C3%80M%20SAO.md)
-- [Lời nhắn nhủ của Mr. Thanh](./L%E1%BB%9Di%20nh%E1%BA%AFn%20nh%E1%BB%A7%20c%E1%BB%A7a%20Mr.%20Thanh.md)
-- [Nhìn lại Thành trì sau 5 năm](./Nh%C3%ACn%20l%E1%BA%A1i%20Th%C3%A0nh%20tr%C3%AC%20sau%205%20n%C4%83m.md)
-- [Mục đích sống](./M%E1%BB%A5c%20%C4%91%C3%ADch%20s%E1%BB%91ng.md)
-- [All-in-one vs right tool for right job](./All-in-one%20vs%20right%20tool%20for%20right%20job.md)
-- [Mất lửa](./M%E1%BA%A5t%20l%E1%BB%ADa.md)
-- [Nếu một ngày Notion biến mất](./N%E1%BA%BFu%20m%E1%BB%99t%20ng%C3%A0y%20Notion%20bi%E1%BA%BFn%20m%E1%BA%A5t.md)
-- [Thư viện sách](./Th%C6%B0%20vi%E1%BB%87n%20s%C3%A1ch.md)
-- [Map Of Content (MOC)](./Map%20Of%20Content%20(MOC).md)
+- [Sự trì hoãn](./S%E1%BB%B1%20tr%C3%AC%20ho%C3%A3n.md) 
+- [How to review a book](./How%20to%20review%20a%20book.md) 
+- [Review Điều kì diệu của tiệm tạp hoá Namiya](./Review%20%C4%90i%E1%BB%81u%20k%C3%AC%20di%E1%BB%87u%20c%E1%BB%A7a%20ti%E1%BB%87m%20t%E1%BA%A1p%20ho%C3%A1%20Namiya.md) 
+- [MAF - Chức năng hiếu khí tối đa](./MAF%20-%20Ch%E1%BB%A9c%20n%C4%83ng%20hi%E1%BA%BFu%20kh%C3%AD%20t%E1%BB%91i%20%C4%91a.md) 
+- [Nếu một ngày Notion biến mất](./N%E1%BA%BFu%20m%E1%BB%99t%20ng%C3%A0y%20Notion%20bi%E1%BA%BFn%20m%E1%BA%A5t.md) 
+- [no hello](./no%20hello.md) 
+- [Lời nhắn nhủ của Mr. Thanh](./L%E1%BB%9Di%20nh%E1%BA%AFn%20nh%E1%BB%A7%20c%E1%BB%A7a%20Mr.%20Thanh.md) 
+- [Tam thể](./Tam%20th%E1%BB%83.md) 
+- [Thành trì](./Th%C3%A0nh%20tr%C3%AC.md) 
+- [Tạo một trang blog đơn giản bằng Obsidian và MkDocs](./T%E1%BA%A1o%20m%E1%BB%99t%20trang%20blog%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20b%E1%BA%B1ng%20Obsidian%20v%C3%A0%20MkDocs.md)
