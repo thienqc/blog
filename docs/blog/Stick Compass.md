@@ -16,6 +16,6 @@ description: Xác định phương hướng không cần la bàn
 
 ![](https://i.imgur.com/xZNLIIJ.png)
 
-Vì mặt trời di chuyển từ Đông → Tây, nên bóng của cây gậy sẽ di chuyển từ Tây → Đông.
+Vì [mặt trời di chuyển từ Đông → Tây](./M%E1%BA%B7t%20tr%E1%BB%9Di%20di%20chuy%E1%BB%83n%20t%E1%BB%AB%20%C4%90%C3%B4ng%20sang%20T%C3%A2y.md), nên bóng của cây gậy sẽ di chuyển từ Tây → Đông.
 
 ![](https://i.imgur.com/iom3WWA.png)
