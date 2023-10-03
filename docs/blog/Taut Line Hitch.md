@@ -2,6 +2,7 @@
 share: true
 tags:
   - trek
+  - knots
 date: 2023-10-03
 URL: https://www.youtube.com/watch?v=Ks2FskttO_4
 description: Nút chạy
