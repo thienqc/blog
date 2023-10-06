@@ -1,6 +1,6 @@
 ---
 Cover: Rèn Luyện Kỹ Năng Sinh Tồn Nơi Hoang Dã-1696519845846.jpeg
-Last_Read: 2023-10-05
+Last_Read: ""
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 473
 tags:
@@ -8,6 +8,7 @@ tags:
 Type: Book
 Status: reading
 share: true
+date: 2023-10-05
 ---
 
 # Rèn Luyện Kỹ Năng Sinh Tồn Nơi Hoang Dã
