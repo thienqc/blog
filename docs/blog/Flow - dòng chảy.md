@@ -1,6 +1,6 @@
 ---
 Cover: Flow - dòng chảy-1689083222029.jpeg
-Last_Read: 2023-10-06
+Last_Read: ""
 Rating: ""
 Total_Pages: 552
 tags:
@@ -9,6 +9,7 @@ tags:
 Type: Book
 Status: reading
 share: true
+date: 2023-10-06
 ---
 
 # Flow - dòng chảy
