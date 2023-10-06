@@ -14,7 +14,7 @@ share: true
 # Flow - dòng chảy
 [Author:: [Mihaly Csikszentmihalyi](Mihaly%20Csikszentmihalyi.md)] - (Publication_Year:: 1990)
 
-![333](../assets/img/Flow%20-%20d%C3%B2ng%20ch%E1%BA%A3y-1689083222029.jpeg)
+![](https://i.imgur.com/ImedPfJ.jpg)
 
 
 Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21145&authkey=!AKIpLNZFODzrdwY)
