@@ -26,8 +26,11 @@ B2: Dùng giấy nhám làm sạch phần rìa cắt, bên ngoài bên trong c�
 ![](https://i.imgur.com/YtnXmBV.jpg)
 
 B3: Ghép 2 lon lại với nhau (lon bị bẻ rìa nằm ở dưới)
+
 B4: Đục 1 lỗ to ở giữa, 16 lỗ ở rìa.
+
 B5: Cắt lấy phần đáy lon còn lại làm nắp đậy
+
 
 ![](https://i.imgur.com/CcyHSNS.jpg)
 
@@ -36,5 +39,11 @@ B5: Cắt lấy phần đáy lon còn lại làm nắp đậy
 - Nhiên liệu đốt: cồn 90 độ
 - Sử dụng đồng xu để tăng áp suất trong bếp, lửa toả ra mạnh và đều hơn.
 
-<video controls src="">https://res.cloudinary.com/thienqc/video/upload/v1696651711/liahxgt4bgajhq0vupoy.mp4</video>
 
+<iframe width="315" height="560"
+src="https://www.youtube.com/embed/NcKYLGwgmIM"
+title="YouTube video player" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture;
+web-share"
+allowfullscreen></iframe>
