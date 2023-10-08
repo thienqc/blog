@@ -14,7 +14,8 @@ share: true
 # Quái vật ghé thăm
 [Author:: [Patrick Ness](../../Patrick%20Ness.md)] - (Publication_Year:: 2011)
 
-![150](../assets/img/Qu%C3%A1i%20v%E1%BA%ADt%20gh%C3%A9%20th%C4%83m-1685059227477.jpeg)
+![](https://i.imgur.com/necNZXu.jpg)
+
 
 Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21146&authkey=!AM7V3XsMlF1slZE)
 
