@@ -12,7 +12,9 @@ description:
 ![](https://i.imgur.com/PLLJ52I.png)
 
 
-Hiện nay ngày càng có nhiều app ghi chú ra đời (gần 500 app trên [Product Hunt](https://www.producthunt.com/categories/notes-documents)). Từ những app thế hệ thứ nhất cổ điển (OneNote, Evernote,...) hay những app thế hệ thứ hai (Notion, Coda, Bear,...) cho tới những app thế hệ thứ ba (Obsidian, RemNote, Logseq,...), mỗi ứng dụng đều có ưu nhược điểm và sẽ hướng tới những đối tượng khác nhau. 
+Hiện nay ngày càng có nhiều app ghi chú ra đời (gần 500 app trên [Product Hunt](https://www.producthunt.com/categories/notes-documents)).
+
+Từ những app thế hệ thứ nhất cổ điển (OneNote, Evernote,...) hay những app thế hệ thứ hai (Notion, Coda, Bear,...) cho tới những app thế hệ thứ ba (Obsidian, RemNote, Logseq,...), mỗi ứng dụng đều có ưu nhược điểm và sẽ hướng tới những đối tượng khác nhau. [^1]
 
 **Thế làm sao để biết ứng dụng nào phù hợp với bản thân?**
 
@@ -47,3 +49,4 @@ Trước hết bạn cần xác định **MỤC ĐÍCH** cho việc ghi chú c�
 
 Tuy nhiên, sau cùng, ứng dụng cũng là công cụ, và nó phục vụ cho con người. Thế nên đừng vì cố gắng sử dụng công cụ để rồi ta thành nô lệ cho nó, quên mất đi bản thân cần điều gì, mục đích ban đầu của việc ghi chú là gì.
 
+[^1]: [First Generation, Second Generation, and Third Generation Note Taking Apps – Relentless Simplicity (harding.blog)](https://bill.harding.blog/2023/07/24/first-generation-second-generation-and-third-generation-note-taking-apps/)
