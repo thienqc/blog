@@ -13,7 +13,7 @@ description: Tung xúc sắc và ứng dụng
 ## Ứng dụng
 ### ~~Chơi TTRPG~~
 ### Chọn ngẫu nhiên 1 câu hỏi cho daily journal
-`dice: [Questions for daily journal^daily-journal](Questions%20for%20daily%20journal%5Edaily-journal.md)`
+`dice: [[Questions for daily journal^daily-journal]]`
 
 
 ### Câu trích dẫn ngẫu nhiên
