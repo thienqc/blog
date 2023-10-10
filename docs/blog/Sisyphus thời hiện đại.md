@@ -20,11 +20,11 @@ Nếu cùng đích cuộc đời là đi tìm ý nghĩa cuộc sống
 
 > [!quote] Quote
 > "Con hãy tận hưởng những đường vòng nho nhỏ đó hết mình nhé. Vì con sẽ tìm thấy những thứ quan trọng hơn điều con muốn."
-> ~ Ging nói với Gon trong [Hunter x Hunter](Hunter%20x%20Hunter.md).
+> ~ Ging nói với Gon trong [Hunter x Hunter](../../Hunter%20x%20Hunter.md).
 
 
 ### Kết
-Albert Camus đã viết trong tiểu luận [Thần Thoại Sisyphus](Th%E1%BA%A7n%20Tho%E1%BA%A1i%20Sisyphus.md):
+Albert Camus đã viết trong tiểu luận [Thần Thoại Sisyphus](./Th%E1%BA%A7n%20Tho%E1%BA%A1i%20Sisyphus.md):
 
 > [!quote] Quote
 > Tôi bỏ đi, để lại Sisyphus dưới chân núi! Người ta sẽ luôn luôn tìm thấy lại gánh nặng của mình. Nhưng Sisyphus dạy cho ta một sự chân thật cao hơn, đến độ có thể phủ nhận các vị thần và nâng những tảng đá lên. Chàng cũng kết luận mọi sự đều tốt đẹp. Vũ trụ từ đây không còn chủ nhân dường như không còn trơ trụi hay vô ích đối với chàng. Mỗi nguyên tử của tảng đá kia, mỗi vảy khoáng vật trong ngọn núi ngập bóng đêm kia, trong bản thân nó tạo thành một thế giới. Bản thân cuộc tranh đấu hướng tới đỉnh cao là đủ đế lấp đầy trái tim con người. Ta phải tưởng tượng là Sisyphus hạnh phúc.
