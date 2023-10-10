@@ -28,10 +28,11 @@ Việc xác định được phong cách ghi chú của bản thân có thể ch
 
 ![](https://i.imgur.com/4LK8ykW.png)
 
-Xem thêm:
-> [The 4 Notetaking Styles: How to Choose a Digital Notes App as Your Second Brain - Forte Labs](https://fortelabs.com/blog/the-4-notetaking-styles-how-to-choose-a-digital-notes-app-as-your-second-brain/)
-> [4 phong cách ghi chú, bạn là kiểu nào? - The Too Blue Scientist](https://thetoobluescientist.com/4-phong-cach-ghi-chu/)
-> [Ứng dụng ghi chú nào phù hợp nhất với bạn? - Tuấn Mon (tuanmon.com)](https://tuanmon.com/review-ung-dung-ghi-chu/)
+> [!Example] Xem thêm
+> - [4 PHONG CÁCH GHI CHÚ - CÁI NÀO PHÙ HỢP VỚI BẠN](./4%20PHONG%20C%C3%81CH%20GHI%20CH%C3%9A%20-%20C%C3%81I%20N%C3%80O%20PH%C3%99%20H%E1%BB%A2P%20V%E1%BB%9AI%20B%E1%BA%A0N.md)
+> - [The 4 Notetaking Styles: How to Choose a Digital Notes App as Your Second Brain - Forte Labs](https://fortelabs.com/blog/the-4-notetaking-styles-how-to-choose-a-digital-notes-app-as-your-second-brain/)
+> - [4 phong cách ghi chú, bạn là kiểu nào? - The Too Blue Scientist](https://thetoobluescientist.com/4-phong-cach-ghi-chu/)
+> - [Ứng dụng ghi chú nào phù hợp nhất với bạn? - Tuấn Mon](https://tuanmon.com/review-ung-dung-ghi-chu/)
 
 ## Đặc điểm các app ghi chú
 
