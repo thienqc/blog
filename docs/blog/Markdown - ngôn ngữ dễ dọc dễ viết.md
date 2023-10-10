@@ -44,7 +44,7 @@ Nhớ trong đầu là 1 dấu * là *in nghiêng*, 2 dấu ** là **in đ�
 
 Với Obsidian, đơn giản là bạn chỉ cần bôi đen văn bản, gõ `*` hoặc `**` thì nó sẽ tạo ra 2 vệ binh đứng 2 bên văn bản đó, hoặc dùng phím tắt như các phần mềm khác (Ctrl + I, Ctrl + B)
 
-Liên kết (tới ghi chú khác/hình ảnh) trong Obsidian chỉ cần nhớ là dùng `[`, Obsidian sẽ lo phần còn lại. Hiển thị nội dung thì thêm `!` phía trước, ví dụ `!TenNote](%60,%20Obsidian%20s%E1%BA%BD%20lo%20ph%E1%BA%A7n%20c%C3%B2n%20l%E1%BA%A1i.%20Hi%E1%BB%83n%20th%E1%BB%8B%20n%E1%BB%99i%20dung%20th%C3%AC%20th%C3%AAm%C2%A0%60!%60%C2%A0ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc,%20v%C3%AD%20d%E1%BB%A5%C2%A0%60!TenNote.md)` hoặc `![HinhAnh.png](HinhAnh.png)`
+Liên kết (tới ghi chú khác/hình ảnh) trong Obsidian chỉ cần nhớ là dùng `[[`, Obsidian sẽ lo phần còn lại. Hiển thị nội dung thì thêm `!` phía trước, ví dụ `![[TenNote]]` hoặc `![[HinhAnh.png]]`
 
 Đó là những cú pháp markdown cơ bản. Với nó bạn có thể viết được 80-90% ghi chú rồi. Những cú pháp nâng cao về bảng, hình ảnh, footnote, comment, toán học, coding block bạn có thể xem thêm tại hướng dẫn của Obsidian.
 [Basic formatting syntax - Obsidian Help](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)

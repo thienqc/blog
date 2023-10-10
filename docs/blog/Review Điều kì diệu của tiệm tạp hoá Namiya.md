@@ -45,4 +45,4 @@ Bài *[Reborn](https://youtu.be/GMUiipgOPVY))* khá hay, nhẹ nhàng, da diết
 Bắt đầu ghiền truyện của tác giả Higashino Keigo.
 
 ---
-Sách: [Điều Kỳ Diệu Của Tiệm Tạp Hóa Namiya](%C4%90i%E1%BB%81u%20K%E1%BB%B3%20Di%E1%BB%87u%20C%E1%BB%A7a%20Ti%E1%BB%87m%20T%E1%BA%A1p%20H%C3%B3a%20Namiya.md)
+Sách: [Điều Kỳ Diệu Của Tiệm Tạp Hóa Namiya](./%C4%90i%E1%BB%81u%20K%E1%BB%B3%20Di%E1%BB%87u%20C%E1%BB%A7a%20Ti%E1%BB%87m%20T%E1%BA%A1p%20H%C3%B3a%20Namiya.md)

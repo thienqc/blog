@@ -67,7 +67,7 @@ Vấn đề cốt lõi ở đây là, kiến thức phải sờ thấy được,
 
 ## 3. Loại suy bằng cách liên tưởng
 
-[Richard P Feynman](Richard%20P%20Feynman.md), người đoạt giải Nobel Vật lí, nhưng chỉ số IQ của ông lại thấp khét tiếng nhất trong lĩnh vực vật lí, IQ = 120 so với mức trung bình là 140 của lĩnh vực này, nhưng ông lại là người thông thái nhất sau Einstein, ông luôn được sinh viên yêu thích vì giảng bài rất hài hước và rất dễ hiểu. Là một chuyên gia ghi nhớ những gì đã học, Freynman đưa ra phương pháp ghi nhớ 4 bước mang tên ông, Bill Gate đã phải sử dụng và coi Freynman là “người thầy vĩ đại nhất”.
+[Richard P Feynman](../../Richard%20P%20Feynman.md), người đoạt giải Nobel Vật lí, nhưng chỉ số IQ của ông lại thấp khét tiếng nhất trong lĩnh vực vật lí, IQ = 120 so với mức trung bình là 140 của lĩnh vực này, nhưng ông lại là người thông thái nhất sau Einstein, ông luôn được sinh viên yêu thích vì giảng bài rất hài hước và rất dễ hiểu. Là một chuyên gia ghi nhớ những gì đã học, Freynman đưa ra phương pháp ghi nhớ 4 bước mang tên ông, Bill Gate đã phải sử dụng và coi Freynman là “người thầy vĩ đại nhất”.
 
 Loại suy bằng cách liên tưởng do Freynman đề xuất.
 

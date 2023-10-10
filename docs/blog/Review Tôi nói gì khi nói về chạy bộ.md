@@ -45,4 +45,4 @@ Viết xàm đủ rồi, kết thôi, mượn tạm một câu vậy.
 > "Có ba lí do để tôi thất bại, tập luyện không đủ, tập luyện không đủ và tập luyện không đủ".
 > ~ Haruki Murakami
 
-Sách: [Tôi Nói Gì Khi Nói Về Chạy Bộ](T%C3%B4i%20N%C3%B3i%20G%C3%AC%20Khi%20N%C3%B3i%20V%E1%BB%81%20Ch%E1%BA%A1y%20B%E1%BB%99.md)
+Sách: [Tôi Nói Gì Khi Nói Về Chạy Bộ](./T%C3%B4i%20N%C3%B3i%20G%C3%AC%20Khi%20N%C3%B3i%20V%E1%BB%81%20Ch%E1%BA%A1y%20B%E1%BB%99.md)
