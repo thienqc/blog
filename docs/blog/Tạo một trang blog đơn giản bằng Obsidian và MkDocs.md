@@ -25,7 +25,7 @@ Sau khi có được một trang web, nội dung của nó sẽ chứa trong th�
 
 - Giao diện tối giản, tập trung vào nội dung
 - Dễ dàng chỉnh sửa nội dung
-- Hỗ trợ `[wikilink](wikilink.md)`
+- Hỗ trợ `[[wikilink]]`
 - Miễn phí
 
 Nhược điểm:
