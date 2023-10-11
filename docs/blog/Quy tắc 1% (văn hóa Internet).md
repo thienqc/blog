@@ -16,4 +16,4 @@ description:
 
 Ví dụ như Wikipedia: 90% số người tham gia cộng đồng chỉ xem nội dung, 9% người tham gia chỉnh sửa nội dung và 1% người tham gia chủ động tạo nội dung mới.
 
-Với group [Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157) có 4k8 mems thì có 45 người (0.93%) tham gia viết bài.
+Với group [Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157) với 4k8 mems thì có 45 người (0.93%) tham gia viết bài, 78 người tham gia đóng góp.
