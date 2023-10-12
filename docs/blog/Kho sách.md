@@ -22,3 +22,4 @@ date: 2023-10-08
 | [Thần Thoại Sisyphus](./Th%E1%BA%A7n%20Tho%E1%BA%A1i%20Sisyphus.md)                                         | 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21130&authkey=!ANtPm4g0YNPGhsg) |
 | [Tôi Tự Học](./T%C3%B4i%20T%E1%BB%B1%20H%E1%BB%8Dc.md)                                                           | 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21138&authkey=!AB0rPU2Me_RLkG4) |
 | [How to Study in Medical School](./How%20to%20Study%20in%20Medical%20School.md)                   | 📙 [PDF](https://onedrive.live.com/download?resid=E92BC60129512289%21137&authkey=!AIFEgkU1djD4gl8)  |
+
