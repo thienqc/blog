@@ -53,3 +53,4 @@ Ngoài ra còn rất nhiều app ghi chú khác trên thị trường ma�
 Mỗi bạn sẽ có một kiểu sắp xếp thông tin, một kiểu ghi chú, phù hợp với từng app khác nhau, nên đừng vì 1 app này mà thay đổi phong cách không phù hợp với bản thân.
 
 Phong cách ghi chú của bạn như thế nào? Và bạn đang dùng app nào để ghi chú? Hãy để lại bình luận và thảo luận với mọi người nhé.
+
