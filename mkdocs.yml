@@ -73,3 +73,6 @@ extra:
       link: https://www.facebook.com/yds.thienqc/
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/thienqc/
+  analytics:
+    provider: google
+    property: G-ZPZM0XYHEK
