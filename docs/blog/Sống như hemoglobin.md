@@ -26,4 +26,5 @@ Có nhiều cách để thư giãn, trong đó, cách mình hay làm va
 
 Áp lực, căng thẳng là điều không thể tránh khỏi. Vì vậy, hãy cho mình một chút thời gian để thư giãn và tái tạo năng lượng của mình. Hãy tìm cách để làm cho cuộc sống của bạn trở nên thư thái và làm việc một cách hiệu quả hơn. Hãy cho mình một cơ hội để tận hưởng cuộc sống.
 
+
 [^1]: Mah CD, Mah KE, Kezirian EJ, Dement WC. The effects of sleep extension on the athletic performance of collegiate basketball players. _Sleep_. 2011;34(7):943-950. Published 2011 Jul 1. doi:10.5665/SLEEP.1132
