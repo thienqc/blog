@@ -55,5 +55,8 @@ Nhấn vào kí hiệu Sync (ở góc phải) để nó lấy dữ li�
 
 - Không đặt tên file có chứa emoji
 - Ngoài combo Dropbox - Dropsync bạn có thể dùng Google Drive - Autosync, OneDrive - Onesync, cách thiết lập cũng tương tự
-- Những bạn dùng iOS thì có thể dùng iCloud
 
+🍏 Với người dùng iPhone
+
+- Nếu bạn dùng Mac: sử dụng iCloud làm máy chủ trung gian
+- Nếu bạn dùng Window: cách tốt nhất hiện nay là dùng plugin Remotely Save
