@@ -29,4 +29,5 @@ Albert Camus đã viết trong tiểu luận [Thần Thoại Sisyphus](./Th%
 > [!quote] Quote
 > Tôi bỏ đi, để lại Sisyphus dưới chân núi! Người ta sẽ luôn luôn tìm thấy lại gánh nặng của mình. Nhưng Sisyphus dạy cho ta một sự chân thật cao hơn, đến độ có thể phủ nhận các vị thần và nâng những tảng đá lên. Chàng cũng kết luận mọi sự đều tốt đẹp. Vũ trụ từ đây không còn chủ nhân dường như không còn trơ trụi hay vô ích đối với chàng. Mỗi nguyên tử của tảng đá kia, mỗi vảy khoáng vật trong ngọn núi ngập bóng đêm kia, trong bản thân nó tạo thành một thế giới. Bản thân cuộc tranh đấu hướng tới đỉnh cao là đủ đế lấp đầy trái tim con người. Ta phải tưởng tượng là Sisyphus hạnh phúc.
 
+
 [^1]: Cái chết là không thể tránh, nên cuộc sống là vô nghĩa, nhân loại nên ngừng áp đặt trật tự và ý nghĩa lên vũ trụ phi lý này. - Albert Camus
