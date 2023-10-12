@@ -129,4 +129,5 @@ Tóm lại nè: 5 cách ghi nhớ kiến thức
 5- Ứng dụng: phải ứng dụng được kiến thức
 
 ---
+
 [Nguồn](https://www.facebook.com/Bs.Phuc.Radiologist/posts/pfbid02n87dyhhGpymkodY9RkybYzoq2ZG5bPXCFiX6GLWdWWVMMmCsC6H3tvePiV4tta3il)

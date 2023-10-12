@@ -15,7 +15,6 @@ description: Tung xúc sắc và ứng dụng
 ### Chọn ngẫu nhiên 1 câu hỏi cho daily journal
 `dice: [[Questions for daily journal^daily-journal]]`
 
-
 ### Câu trích dẫn ngẫu nhiên
 `dice: #quote`
 ### Random từ Inbox

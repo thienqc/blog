@@ -49,4 +49,5 @@ Trước hết bạn cần xác định **MỤC ĐÍCH** cho việc ghi chú c�
 
 Tuy nhiên, sau cùng, ứng dụng cũng là công cụ, và nó phục vụ cho con người. Thế nên đừng vì cố gắng sử dụng công cụ để rồi ta thành nô lệ cho nó, quên mất đi bản thân cần điều gì, mục đích ban đầu của việc ghi chú là gì.
 
+
 [^1]: [First Generation, Second Generation, and Third Generation Note Taking Apps – Relentless Simplicity (harding.blog)](https://bill.harding.blog/2023/07/24/first-generation-second-generation-and-third-generation-note-taking-apps/)

@@ -23,3 +23,4 @@ How to Make Notion Faster
 - Rethink Your Widgets
 - Avoid Extensions
 - Delete Old & Unused Pages
+

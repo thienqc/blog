@@ -49,4 +49,3 @@ Vậy sau cùng bạn nhận lại được gì? Đối với mình, mình đư�
 Nếu có cơ hội, mình sẽ quay lại đây và ngồi thiền lâu hơn nữa.
 
 ~ Lang Biang, Đà Lạt, May 01, 2021
-

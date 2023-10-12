@@ -35,5 +35,4 @@ Tuỳ hướng dây cuối cùng mà ra 1856 hoặc 1857
 
 
 
-
 [What is the "Correct" Taut-Line Hitch? - YouTube](https://www.youtube.com/watch?v=Ks2FskttO_4)

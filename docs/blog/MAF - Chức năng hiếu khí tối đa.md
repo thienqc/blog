@@ -117,4 +117,5 @@ Bộ não đáp ứng với stress bằng cách sản xuất những hormon căn
 
 Làm 3 khảo sát bên dưới để kiểm tra mức độ nguy cơ với căng thẳng vật lí, sinh hoá, tâm lí - cảm xúc.
 
+
 Nguồn: [https://philmaffetone.com/method/process/](https://philmaffetone.com/method/process/)

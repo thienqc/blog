@@ -12,7 +12,6 @@ description:
 
 ## Tự làm kính thiên văn khúc xạ đơn giản
 
-
 ![](https://i.imgur.com/HTOvenc.png)
 *Sơ đồ chế tạo kính thiên văn khúc xạ đơn giản*
 

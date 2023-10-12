@@ -59,4 +59,3 @@ Nhìn chung, markdown là ngôn ngữ nhìn sao hiểu vậy. Obsidian có chế
 
 Nếu bạn quen với các thanh công cụ ghi chú, có thể xem thêm bài [Các plugin hỗ trợ ghi chú](https://www.facebook.com/groups/594306492570157/posts/659594299374709)
 
-

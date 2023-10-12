@@ -31,7 +31,6 @@ B4: Đục 1 lỗ to ở giữa, 16 lỗ ở rìa.
 
 B5: Cắt lấy phần đáy lon còn lại làm nắp đậy
 
-
 ![](https://i.imgur.com/CcyHSNS.jpg)
 
 ## Thành quả

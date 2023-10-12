@@ -45,4 +45,3 @@ Hiện tại [Lương bác sĩ mới ra trường sau 1/7/2023](https://thu
 NHƯNG không phải thế giới chỉ toàn màu đen như thế, ở đâu đó vẫn có những con người luôn ra sức hết mình vì bệnh nhân, hoàn toàn không màng tới tiền bạc. Người đó đã từng nói với mình rằng "con hãy hết mình vì bệnh nhân, rồi Người sẽ trả công cho con". Mình tin như vậy. Mình tin nếu mình luôn hướng tới cái thiện, thì mọi thứ tốt đẹp sẽ đến với mình. Có những lúc mình sẽ va vấp, nhưng hãy cố đứng lên, hãy nhìn nhận lại bản thân để tiến bước tiếp. Có như thế, thành-trì dù vững chắc đến đâu cũng sẽ sụp đổ.
 
 "... trên bầu trời trước mặt anh bảng lảng một vầng mây mang hình dáng một bức tường thành rạn nứt." ~ câu kết "Thành trì"
-
