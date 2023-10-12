@@ -39,4 +39,3 @@ Bản thân mình cần tránh những thói quen xấu như:
 - **Lan man**: Điều này sẽ làm đối phương bị phân tâm hoặc không hứng thú với những gì đang nói. Mình không nên trách họ, điều cần trau dồi khả năng nói của mình.
 - **Nói không đúng lúc**: Khi không phải lúc thích hợp để nói chuyện với người khác, nhưng lại lo sau này sẽ quên, mình vẫn nói, rồi đối phương bực mình và thậm chí sẽ không nhớ những gì mình nói.
 - **Lời nói không trung thực**: Mình thường nói "Tôi nghĩ" vì mình không biết điều gì đó có chắc chắn đúng hay không, nhưng nếu mình không biết điều đó có đúng thì tốt nhất tôi không nên nói điều đó. Luôn nói “tôi nghĩ” khiến mình mất đi sự tín nhiệm.
-
