@@ -35,3 +35,4 @@ Còn e nếu làm bệnh viện mà muốn từ bỏ thì chắc ko được. Ho
 Có 1 cái ngta gọi là khủng hoảng tuổi 23 và khủng hoảng tuổi 32. 
 23: Vô định vô hướng ko biết mình muốn làm gì
 32: Nhìn là gần 10 năm đi làm lại ko thấy mình làm được gì nhiều
+
