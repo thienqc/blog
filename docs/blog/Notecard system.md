@@ -22,4 +22,3 @@ https://ryanholiday.net/the-notecard-system-the-key-for-remembering-organizing-a
 - có nên chuyển qua digital:
 	- NO, card giấy có thể xem được nội dung nhanh
 	- digital chỉ thấy được tiêu đề/preview
-
