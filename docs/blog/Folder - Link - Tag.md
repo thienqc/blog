@@ -16,7 +16,6 @@ extra:
 
 ![](https://i.imgur.com/VjkNBiE.jpg)
 
-
 ❓ Mình nên xây dựng cấu trúc nào? Dùng thư mục hay thẻ tốt hơn? Hay chỉ nên dùng các liên kết? Bài viết này nói về những lựa chọn các sắp xếp ghi chú, so sánh đặc điểm của từng loại, và hi vọng giải quyết được các câu hỏi trên. Với những ứng dụng khác, ví dụ như Evernote, OneNote được xây dựng theo cấu trúc thư mục, hay như Google Keep bạn có thể quản lí ghi chú qua thẻ, giúp dễ dàng quản lí và tìm kiếm. Với Obsidian không chỉ có một cách duy nhất để cấu trúc các ghi chú, điều đó mang tới sự linh hoạt, nhưng lại làm cho nhiều người bối rối hoặc quá tải. Có 3 kiểu để bạn sắp xếp các ghi chú trong Obsidian: THƯ MỤC, THẺ, LIÊN KẾT.
 
 ## 📂 FOLDER
