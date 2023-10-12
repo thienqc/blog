@@ -21,7 +21,6 @@ Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21
 
 ---
 
-
 > [!Quote] Trang 19
 > Trong khi chờ người đến cứu, các bạn hãy làm theo những lời khuyên sau đây:  
 > - Ở YÊN TẠI CHỖ, nếu các bạn không tìm được đường ra và chắc chắn mọi người sẽ phát hiện ra được sự mất tích của các bạn và sẽ tổ chức tìm kiếm. Điều nầy rất cần thiết cho các bạn, vì nó hạn chế sự tiêu hao sức lực, năng lượng... trong khi các bạn đang thiếu thốn thực phẩm và có thể bị tổn thương.
