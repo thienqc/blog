@@ -15,7 +15,6 @@ date: 2023-09-24
 
 ![](https://i.imgur.com/CcZS1BH.jpg)
 
-
 Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21139&authkey=!AEPjrMaAhPHRdAM)
 
 ---
