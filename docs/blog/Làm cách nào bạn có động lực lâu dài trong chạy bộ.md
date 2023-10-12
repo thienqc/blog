@@ -32,6 +32,7 @@ Nguồn: https://chay365.com/lam-cach-nao-ban-co-dong-luc-lau-dai-trong-chay-bo/
 > - [Sự trì hoãn](./S%E1%BB%B1%20tr%C3%AC%20ho%C3%A3n.md)
 
 
+
 [^1]: Kolodny, Niko, 'Instrumental Reasons', in Daniel Star (ed.), _The Oxford Handbook of Reasons and Normativity_, Oxford Handbooks (2018; online edn, Oxford Academic, 10 July 2018)
 [^2]: https://www.runnersworld.com/advanced/a20813461/philosophy-and-the-serious-runner/
 
