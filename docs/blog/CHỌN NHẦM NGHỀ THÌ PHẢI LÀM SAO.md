@@ -10,7 +10,6 @@ share: true
 
 [FB: Vũ Khắc Ngọc](https://www.facebook.com/vukhacngoc86/posts/10221296433709326)
 
-
 > [!question] Question
 > Sáng nay có bạn đang học ĐH năm 2 gọi điện cho thầy, xin học lớp ôn thi của thầy để thi lại. "Em mới quyết định thi lại vào tối qua", giọng rất quả quyết. Trong khi kỳ thi chỉ còn có 2 tháng nữa
 
