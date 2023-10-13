@@ -9,8 +9,7 @@ description:
 
 # Làm gì cũng hăng say và không biết mệt (Flow state chi tiết)
 
-
-![Làm gì cũng hăng say và không biết mệt (Flow state chi tiết) - YouTube](https://www.youtube.com/watch?v=DiE8EG-pjpw)
+[Làm gì cũng hăng say và không biết mệt (Flow state chi tiết) - YouTube](https://www.youtube.com/watch?v=DiE8EG-pjpw)
 
 ### 4 bước tạo trạng thái dòng chảy
 
