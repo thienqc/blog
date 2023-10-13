@@ -16,7 +16,7 @@ description:
 - **Font**: JetBrains Mono
 - **Plugin**:
 	- Canvas
-	- Dataview
+	- [Dataview](./Dataview.md)
 	- Booksidian
 	- Kindle Hightlights
 	- Minimal Theme Settings
