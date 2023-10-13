@@ -33,3 +33,4 @@ Notion được lưu trữ trên Amazon Web Services (AWS), một trong những 
 
 > [!Example] Xem thêm
 > - [Quá nhiều app ghi chú, chọn cái nào bây giờ](./Qu%C3%A1%20nhi%E1%BB%81u%20app%20ghi%20ch%C3%BA,%20ch%E1%BB%8Dn%20c%C3%A1i%20n%C3%A0o%20b%C3%A2y%20gi%E1%BB%9D.md)
+> - [Cách mình đồng bộ Obsidian giữa các thiết bị](./C%C3%A1ch%20m%C3%ACnh%20%C4%91%E1%BB%93ng%20b%E1%BB%99%20Obsidian%20gi%E1%BB%AFa%20c%C3%A1c%20thi%E1%BA%BFt%20b%E1%BB%8B.md)

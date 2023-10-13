@@ -6,7 +6,6 @@ tags:
 share: true
 ---
 
-
 # Cách mình đồng bộ obsidian giữa các thiết bị
 
 ![](https://i.imgur.com/dr0JHdK.jpg)
@@ -60,3 +59,6 @@ Nhấn vào kí hiệu Sync (ở góc phải) để nó lấy dữ li�
 
 - Nếu bạn dùng Mac: sử dụng iCloud làm máy chủ trung gian
 - Nếu bạn dùng Window: cách tốt nhất hiện nay là dùng plugin Remotely Save
+
+> [!Example] Xem thêm
+> - [Nếu một ngày Notion biến mất](./N%E1%BA%BFu%20m%E1%BB%99t%20ng%C3%A0y%20Notion%20bi%E1%BA%BFn%20m%E1%BA%A5t.md)
