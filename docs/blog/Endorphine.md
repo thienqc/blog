@@ -23,7 +23,7 @@ description: Chất giảm đau nội sinh
 	- Hoạt động vui vẻ, Thiền, Cười thành tiếng, Tập thể dục
 		- ⇒ tăng khả năng chịu đau
 		- Runner's high: hưng phấn ở người chạy bộ, một số người trải qua sau khi tập luyện ở cường độ cao
-		- chứng nghiện tập thể dục (exercise   addiction)
+		- chứng nghiện tập thể dục (exercise addiction)
 			- não bị mất nhạy cảm khi tiếp xúc nhiều lần và quá mức với endophine
 			- ngày càng tăng cường độ tập luyện
 
