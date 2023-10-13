@@ -64,6 +64,7 @@ Trước hết bạn cần xác định **MỤC ĐÍCH** cho việc ghi chú c�
 
 Tuy nhiên, sau cùng, ứng dụng cũng là công cụ, và nó phục vụ cho con người. Thế nên đừng vì cố gắng sử dụng công cụ để rồi ta thành nô lệ cho nó, quên mất đi bản thân cần điều gì, mục đích ban đầu của việc ghi chú là gì.
 
+**👉 Tham gia bình luận tại group [Obsidian - Second Brain](https://www.facebook.com/groups/obsidian.secondbrain/posts/719656646701807/)**
 
 [^1]: [First Generation, Second Generation, and Third Generation Note Taking Apps – Relentless Simplicity (harding.blog)](https://bill.harding.blog/2023/07/24/first-generation-second-generation-and-third-generation-note-taking-apps/)
 [^2]: [Review ứng dụng ghi chú tốt nhất theo từng phong cách ghi chú | Thinh Vu Blog](https://thinhvu.com/2021/08/29/review-ung-dung-ghi-chu-tot-nhat/)
