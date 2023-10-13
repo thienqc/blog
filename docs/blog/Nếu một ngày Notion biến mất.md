@@ -30,3 +30,6 @@ Còn về những phương diện quản lí team, quản lí công việc,... m
 Chúng ta vẫn có thể [Export](https://www.notion.so/help/export-your-content) dữ liệu để sao lưu Notion, nhưng có mấy ai nhớ phải làm việc này?
 ## Kết luận
 Notion được lưu trữ trên Amazon Web Services (AWS), một trong những nhà cung cấp dịch vụ đám mây lớn. Cộng với việc hiện có hơn 30 triệu người dùng, thì việc Notion vẫn còn hoạt động trong vài năm tới là khả thi. Nhưng nếu quá phụ thuộc vào Notion thì ta đang bỏ tất cả trứng vào một giỏ.
+
+> [!Example] Xem thêm
+> - [Quá nhiều app ghi chú, chọn cái nào bây giờ](./Qu%C3%A1%20nhi%E1%BB%81u%20app%20ghi%20ch%C3%BA,%20ch%E1%BB%8Dn%20c%C3%A1i%20n%C3%A0o%20b%C3%A2y%20gi%E1%BB%9D.md)
