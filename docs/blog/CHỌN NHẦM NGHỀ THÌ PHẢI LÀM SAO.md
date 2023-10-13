@@ -56,3 +56,8 @@ Làm tốt một công việc ngay cả ta không thích nó là một thứ b�
 Nếu chúng ta không thể là người may mắn để có lựa chọn tốt nhất, hãy tự chọn cho mình lựa chọn ít xấu nhất. Và như thế, bạn sẽ thấy nhẹ nhàng hơn và nhận ra rằng, cuộc đời chúng ta sẽ là những chuỗi ngày học sai để đúng không ngừng nghỉ, nên có “nhầm nghề” vài lần…thì cũng bình tĩnh mà đón nhận thôi.
 
 Keep calm and carry on!
+
+> [!Example] Xem thêm
+> - [Mặt trái của nghề BS tại Mỹ](./M%E1%BA%B7t%20tr%C3%A1i%20c%E1%BB%A7a%20ngh%E1%BB%81%20BS%20t%E1%BA%A1i%20M%E1%BB%B9.md)
+> - [Những thách thức của bác sĩ trẻ thời nay](./Nh%E1%BB%AFng%20th%C3%A1ch%20th%E1%BB%A9c%20c%E1%BB%A7a%20b%C3%A1c%20s%C4%A9%20tr%E1%BA%BB%20th%E1%BB%9Di%20nay.md)
+> - [Lời nhắn nhủ của Mr. Thanh](./L%E1%BB%9Di%20nh%E1%BA%AFn%20nh%E1%BB%A7%20c%E1%BB%A7a%20Mr.%20Thanh.md)
