@@ -15,7 +15,8 @@ share: true
 # Suối nguồn
 [Author:: [Ayn Rand](Ayn%20Rand.md)] - (Publication_Year:: 1943)
 
-![Suối nguồn-1685070788468.jpeg](../assets/img/Su%E1%BB%91i%20ngu%E1%BB%93n-1685070788468.jpeg)
+![](https://i.imgur.com/MVfAd40.jpg)
+
 
 Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21161&authkey=!AOzzN4AoL6u3Olc)
 
