@@ -58,6 +58,9 @@ Giải pháp?
 
 [Nguồn](https://www.facebook.com/100001140853298/posts/pfbid06Y8osdsJHAXnTjFjEtjPaSW2aMZGcjSuC2c6LL57RYeBYAe8EALm7PzaWcBP1LJ5l/)
 
+> [!Example] Xem thêm
+> - [Mặt trái của nghề BS tại Mỹ](./M%E1%BA%B7t%20tr%C3%A1i%20c%E1%BB%A7a%20ngh%E1%BB%81%20BS%20t%E1%BA%A1i%20M%E1%BB%B9.md)
+
 ---
 # My thought
 `2023-06-17`
@@ -66,3 +69,4 @@ Ok, con đường sắp tới của mình là ở Việt Nam
 - 18 tháng: "chắc là" ngoại ở BV ??, khi nào đăng kí: chưa tìm hiểu
 - Xin BV làm (BS Cường)
 - Ở nhà học tiếng anh (đi du học): xa vời
+
