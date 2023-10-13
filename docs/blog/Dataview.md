@@ -23,9 +23,17 @@ Dataview là 1 plugin cực kì mạnh mẽ, giúp ta có thể truy vấn bất
 
 
 ```md
-	| Cover | Title | Author | Date |
-| ----- | ----- | ------ | ---- |
-
+	```dataview
+	TABLE without ID
+		embed(link(Cover,"10")) as Cover,
+		file.link as Title,
+		Author,
+		dateformat(Last_Read,"MMM-dd") as Date
+	FROM #Books
+	WHERE Rating="⭐⭐⭐⭐⭐"
+	SORT date(Last_Read) DESC
+	LIMIT 25
+	```
 ```
 
 
