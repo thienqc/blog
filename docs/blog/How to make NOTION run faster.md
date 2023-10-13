@@ -32,4 +32,4 @@ Chuyển nhà =))
 
 > [!Example] Xem thêm
 > - [Nếu một ngày Notion biến mất](./N%E1%BA%BFu%20m%E1%BB%99t%20ng%C3%A0y%20Notion%20bi%E1%BA%BFn%20m%E1%BA%A5t.md)
-> - [Obsidian importer](../../Obsidian%20importer.md)
+> - [Obsidian importer](./Obsidian%20importer.md)
