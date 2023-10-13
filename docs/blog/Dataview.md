@@ -11,6 +11,7 @@ description: chơi đùa với dữ liệu
 *Chơi đùa với dữ liệu*
 
 Dataview là 1 plugin cực kì mạnh mẽ, giúp ta có thể truy vấn bất kì note nào có trong vault. Bạn có thể:
+
 - Tạo danh sách những quyển sách đang đọc hay muốn đọc
 - Liệt kê các công việc phải làm trong ngày
 - Tạo bảng hiển thị số lần hoàn thành mục tiêu hàng ngày hoặc hàng tuần
@@ -19,6 +20,8 @@ Dataview là 1 plugin cực kì mạnh mẽ, giúp ta có thể truy vấn bất
 - Tìm các trang không có tag để theo dõi
 - Hiển thị sinh nhật hoặc sự kiện sắp tới
 - và RẤT NHIỀU ứng dụng khác
+
+
 ```md
 	| Cover | Title | Author | Date |
 | ----- | ----- | ------ | ---- |
@@ -29,7 +32,7 @@ Dataview là 1 plugin cực kì mạnh mẽ, giúp ta có thể truy vấn bất
 
 Để cài đặt dataview, bạn vào `Settings` → `Community plugins` → `Browse` → tìm "dataview" (hoặc nó nằm ngay trên cùng luôn).
 
-Để sử dụng được dataview, bạn cần phải đọc qua hướng dẫn sử dụngtại đây: [https://blacksmithgu.github.io/obsidian-dataview/](https://blacksmithgu.github.io/obsidian-dataview/)
+Để sử dụng được dataview, bạn cần phải đọc qua hướng dẫn sử dụng tại đây: [https://blacksmithgu.github.io/obsidian-dataview/](https://blacksmithgu.github.io/obsidian-dataview/)
 
 Tài liệu này có thể dài nhưng nó hữu ích giúp bạn có nền tảng để tự viết ra những đoạn . Nhanh hơn, bạn có thể đọc phần "Metadata" và "Structure of a Query", vẫn nên đọc từ trên xuống dưới nhé.
 
