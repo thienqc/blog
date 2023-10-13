@@ -47,4 +47,4 @@ Những bài sau mình sẽ giới thiệu những plugin hay, các bạn
 > - [Dataview](./Dataview.md)
 > - [Dice Roller plugin](./Dice%20Roller%20plugin.md)
 > - [Obsidian Image plugin](./Obsidian%20Image%20plugin.md)
-> - [Obsidian importer](../../Obsidian%20importer.md)
+> - [Obsidian importer](./Obsidian%20importer.md)
