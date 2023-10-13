@@ -9,6 +9,8 @@ description:
 
 # Quá nhiều app ghi chú, chọn cái nào bây giờ
 
+**👉 Tham gia bình luận tại group [Obsidian - Second Brain](https://www.facebook.com/groups/obsidian.secondbrain/posts/719656646701807/)**
+
 ![](https://i.imgur.com/PLLJ52I.png)
 
 
@@ -41,6 +43,19 @@ Việc xác định được phong cách ghi chú của bản thân có thể ch
 Cho dù đã xác định phong cách ghi chú của mình (hoặc chưa), thì trong mỗi nhóm vẫn có quá nhiều app để chọn lựa. Trang [NoteApps.info](https://noteapps.info/) có thể dùng để so sánh các ứng dụng dựa trên các đặc điểm của từng ứng dụng: giao diện, lên kế hoạch, chia sẻ, chế độ offline, hỗ trợ di động, chia sẻ, định dạng ghi chú, bảng...
 
 Mỗi ứng dụng sẽ có những đặc điểm riêng mà bạn sẽ phải cân nhắc khi lựa chọn cái được cái mất.
+
+Một số tính năng (xem xét) mà app ghi chú cá nhân cần có [^2]
+
+- Khả năng hoạt động đa nền tảng
+- Khả năng đồng bộ tốt giữa các loại thiết bị
+- Thao tác nhanh chóng, hiệu quả
+- Tính tương thích và khả năng chuyển đổi định dạng nhanh chóng
+- Trải nghiệm người dùng thú vị
+- Tự động lưu trữ và có thể khôi phục các phiên bản cũ khi cần (version history)
+- Hỗ trợ ngôn ngữ Markdown
+- Thuận tiện trong việc tổ chức, sắp xếp và tra cứu các nội dung đã được soạn thảo
+- Tiết kiệm chi phí
+- Chi phí cơ hội cho việc học một sản phẩm mới chấp nhận được
 ## Rốt cuộc nên chọn cái nào?
 
 Nếu đọc tới đây mà bạn vẫn **chưa chọn được ứng dụng nào** cho mình, thì không sao cả, vì mình cũng như bạn.
@@ -51,3 +66,4 @@ Tuy nhiên, sau cùng, ứng dụng cũng là công cụ, và nó phục vụ ch
 
 
 [^1]: [First Generation, Second Generation, and Third Generation Note Taking Apps – Relentless Simplicity (harding.blog)](https://bill.harding.blog/2023/07/24/first-generation-second-generation-and-third-generation-note-taking-apps/)
+[^2]: [Review ứng dụng ghi chú tốt nhất theo từng phong cách ghi chú | Thinh Vu Blog](https://thinhvu.com/2021/08/29/review-ung-dung-ghi-chu-tot-nhat/)
