@@ -45,7 +45,7 @@ hãy bước vào cuộc hành trình đầy thú vị này._
 >~ Ralph Waldo Emerson  
   
 > **_"Chỉ khi bạn đọc những cuốn sách mà người khác đang đọc, bạn mới có thể biết được họ đang nghĩ gì."_**  
-> ~Haruki Murakami, tác giả "_Biên niên ký chim vặn dây cót"_  
+> ~[Haruki Murakami](../../Haruki%20Murakami.md), tác giả "_[Biên niên ký chim vặn dây cót](../../Bi%C3%AAn%20Ni%C3%AAn%20K%C3%BD%20Chim%20V%E1%BA%B7n%20D%C3%A2y%20C%C3%B3t.md)"_  
   
 > **_"Có nhiều cách để vun đắp tâm hồn trẻ thơ. Tình yêu sách là cách tốt nhất."_**  
 > ~ J. K. Onassis  
@@ -159,3 +159,7 @@ Cảm ơn bạn đã đi đến cuối hành trình, mong rằng cuộc hành tr
 
 
 Nguồn: [tve-4u](https://tve-4u.org/threads/tai-sao-ban-nen-doc-sach.16677/)
+
+> [!Example] Xem thêm
+> - [Kho sách](./Kho%20s%C3%A1ch.md)
+> - [Đọc sách để làm gì](./%C4%90%E1%BB%8Dc%20s%C3%A1ch%20%C4%91%E1%BB%83%20l%C3%A0m%20g%C3%AC.md)

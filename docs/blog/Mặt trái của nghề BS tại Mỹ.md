@@ -26,3 +26,6 @@ Bs Wynn Tran, London, Anh Quốc
 
 
 [Nguồn](https://www.facebook.com/huynhtranmd/posts/pfbid02enN5Afipyu7WbTX7iL2k8XFtitDLec9phV8DNC816G51VdYPYfKC1hREd4qnXmFl)
+
+> [!Example] Xem thêm
+> - [Những thách thức của bác sĩ trẻ thời nay](./Nh%E1%BB%AFng%20th%C3%A1ch%20th%E1%BB%A9c%20c%E1%BB%A7a%20b%C3%A1c%20s%C4%A9%20tr%E1%BA%BB%20th%E1%BB%9Di%20nay.md)
