@@ -8,12 +8,10 @@ description: Chất giảm đau nội sinh
 ---
 
 # Endorphins, Mechanisms of Action, Animation - YouTube
-https://www.youtube.com/watch?v=e-lzXJCmerc
 
-![](https://www.youtube.com/watch?v=e-lzXJCmerc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e-lzXJCmerc?si=YdWCtchwWFsK4VcK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-- Endorphins = ==Endo==genous mor==phine== = morphine nội sinh
+- Endorphins = **Endo**genous mor**phine** = morphine nội sinh
 	- gắn vào thụ thể opioid
 	- Tác dụng giống morphine: giảm đau + hưng phấn
 - Tiền chất POMC, được tổng hợp tại tuyến yên, hạ đồi, tuỷ và một số mô khác (hệ miễn dịch)
