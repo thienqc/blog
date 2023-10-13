@@ -21,6 +21,9 @@ Vì vậy, để đem lại tác động tích cực cho xã hội, chúng ta c�
 
 HÃY SỐNG CÓ TRÁCH NHIỆM HƠN!
 
+> [!Example] Xem thêm
+> - [Be Kind, Be Useful, Be Fearless](./Be%20Kind,%20Be%20Useful,%20Be%20Fearless.md)
+> - [Một điểm chung Kim Dung](./M%E1%BB%99t%20%C4%91i%E1%BB%83m%20chung%20Kim%20Dung.md)
 
 [^1]: https://vnexpress.net/chu-dau-tu-carina-phan-doi-ket-luan-dieu-tra-hoa-hoan-13-nguoi-chet-3905528.html
 
