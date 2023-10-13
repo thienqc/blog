@@ -23,3 +23,7 @@ date: 2023-09-23
 > Hãy tử tế, hữu ích và đừng sợ
 
 Đây là một lời khuyên đơn giản, dễ nhớ và dễ tiếp thu, đồng thời giúp mình quan tâm đến người khác khi hành động và đưa ra quyết định. Đây là một lời nhắc nhở đáng xem xét rằng những gì mình có đóng góp trong bất kì tình huống nào.
+
+> [!Example] Xem thêm
+> - [Chịu trách nhiệm](./Ch%E1%BB%8Bu%20tr%C3%A1ch%20nhi%E1%BB%87m.md)
+> - [Một điểm chung Kim Dung](./M%E1%BB%99t%20%C4%91i%E1%BB%83m%20chung%20Kim%20Dung.md)
