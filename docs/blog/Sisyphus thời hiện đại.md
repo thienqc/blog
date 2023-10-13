@@ -4,9 +4,13 @@ tags:
 date: 2023-07-07
 URL: https://thienqc.substack.com/p/sisyphus-thoi-hien-ai
 share: true
+description: Cuộc sống là một hành trình... đẩy đá
 ---
 
 # Sisyphus thời hiện đại
+
+![](https://i.imgur.com/SP5avNZ.png)
+
 ### Từ thần thoại Hy Lạp
 Sisyphus là một vị vua trẻ tuổi của Thessaly. Sisyphus đã nhiều lần troll các vị thần. Vì làm các vị thần tức giận, Sisyphus bị chịu một hình phạt bởi các vị thần: Sisyphus ngày ngày phải vần, lăn một tảng đá cực lớn, từ dưới đất lên một ngọn núi cao dốc đứng. Không thể nào nói hết nỗi cực nhọc khốn khổ của công việc đó đến như thế nào. Mệt tưởng đứt hơi, khát đến cháy cổ, mồ hôi đổ ra như tắm, nhưng nào có hoàn thành được công việc, Sisyphus cứ vần, cứ lăn tảng đá đến gần tới đỉnh núi thì nó lại bật ra khỏi tay lao xuống dốc. Thế là bao nhiêu mồ hôi, công sức mất hết. Sisyphus lại phải bắt tay làm lại từ đầu, xuống chân núi lăn, vần tảng đá lên. Ngày này qua ngày khác, Sisyphus cứ phải làm cái công việc khổ sai cực hình như thế, một công việc vô nghĩa và không có kết quả, nhưng lại đòi hỏi sự nỗ lực và kiên trì của Sisyphus.
 
