@@ -36,3 +36,7 @@ Có 1 cái ngta gọi là khủng hoảng tuổi 23 và khủng hoảng tuổi 3
 23: Vô định vô hướng ko biết mình muốn làm gì
 32: Nhìn là gần 10 năm đi làm lại ko thấy mình làm được gì nhiều
 
+> [!Example] Xem thêm
+> - [CHỌN NHẦM NGHỀ THÌ PHẢI LÀM SAO](./CH%E1%BB%8CN%20NH%E1%BA%A6M%20NGH%E1%BB%80%20TH%C3%8C%20PH%E1%BA%A2I%20L%C3%80M%20SAO.md)
+> - [Mặt trái của nghề BS tại Mỹ](./M%E1%BA%B7t%20tr%C3%A1i%20c%E1%BB%A7a%20ngh%E1%BB%81%20BS%20t%E1%BA%A1i%20M%E1%BB%B9.md)
+> - [Những thách thức của bác sĩ trẻ thời nay](./Nh%E1%BB%AFng%20th%C3%A1ch%20th%E1%BB%A9c%20c%E1%BB%A7a%20b%C3%A1c%20s%C4%A9%20tr%E1%BA%BB%20th%E1%BB%9Di%20nay.md)

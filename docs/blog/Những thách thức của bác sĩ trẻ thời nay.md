@@ -60,6 +60,8 @@ Giải pháp?
 
 > [!Example] Xem thêm
 > - [Mặt trái của nghề BS tại Mỹ](./M%E1%BA%B7t%20tr%C3%A1i%20c%E1%BB%A7a%20ngh%E1%BB%81%20BS%20t%E1%BA%A1i%20M%E1%BB%B9.md)
+> - [CHỌN NHẦM NGHỀ THÌ PHẢI LÀM SAO](./CH%E1%BB%8CN%20NH%E1%BA%A6M%20NGH%E1%BB%80%20TH%C3%8C%20PH%E1%BA%A2I%20L%C3%80M%20SAO.md)
+> - [Lời nhắn nhủ của Mr. Thanh](./L%E1%BB%9Di%20nh%E1%BA%AFn%20nh%E1%BB%A7%20c%E1%BB%A7a%20Mr.%20Thanh.md)
 
 ---
 # My thought

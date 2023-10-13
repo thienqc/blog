@@ -29,3 +29,5 @@ Bs Wynn Tran, London, Anh Quốc
 
 > [!Example] Xem thêm
 > - [Những thách thức của bác sĩ trẻ thời nay](./Nh%E1%BB%AFng%20th%C3%A1ch%20th%E1%BB%A9c%20c%E1%BB%A7a%20b%C3%A1c%20s%C4%A9%20tr%E1%BA%BB%20th%E1%BB%9Di%20nay.md)
+> - [CHỌN NHẦM NGHỀ THÌ PHẢI LÀM SAO](./CH%E1%BB%8CN%20NH%E1%BA%A6M%20NGH%E1%BB%80%20TH%C3%8C%20PH%E1%BA%A2I%20L%C3%80M%20SAO.md)
+> - [Lời nhắn nhủ của Mr. Thanh](./L%E1%BB%9Di%20nh%E1%BA%AFn%20nh%E1%BB%A7%20c%E1%BB%A7a%20Mr.%20Thanh.md)

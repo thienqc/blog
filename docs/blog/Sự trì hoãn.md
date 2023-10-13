@@ -26,4 +26,4 @@ Just do it
 
 > [!example] Xem thêm
 > - [Reading slump](../../reading%20slump.md)
-> - [Làm cách nào bạn có động lực lâu dài trong chạy bộ](../../L%C3%A0m%20c%C3%A1ch%20n%C3%A0o%20b%E1%BA%A1n%20c%C3%B3%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20l%C3%A2u%20d%C3%A0i%20trong%20ch%E1%BA%A1y%20b%E1%BB%99.md)
+> - [Làm cách nào bạn có động lực lâu dài trong chạy bộ](./L%C3%A0m%20c%C3%A1ch%20n%C3%A0o%20b%E1%BA%A1n%20c%C3%B3%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20l%C3%A2u%20d%C3%A0i%20trong%20ch%E1%BA%A1y%20b%E1%BB%99.md)

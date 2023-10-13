@@ -119,3 +119,7 @@ Làm 3 khảo sát bên dưới để kiểm tra mức độ nguy cơ với căn
 
 
 Nguồn: [https://philmaffetone.com/method/process/](https://philmaffetone.com/method/process/)
+
+> [!Example] Xem thêm
+> - [Tôi Nói Gì Khi Nói Về Chạy Bộ](./T%C3%B4i%20N%C3%B3i%20G%C3%AC%20Khi%20N%C3%B3i%20V%E1%BB%81%20Ch%E1%BA%A1y%20B%E1%BB%99.md)
+> - [Làm cách nào bạn có động lực lâu dài trong chạy bộ](./L%C3%A0m%20c%C3%A1ch%20n%C3%A0o%20b%E1%BA%A1n%20c%C3%B3%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20l%C3%A2u%20d%C3%A0i%20trong%20ch%E1%BA%A1y%20b%E1%BB%99.md)

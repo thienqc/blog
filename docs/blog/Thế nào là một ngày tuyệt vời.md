@@ -28,6 +28,8 @@ Nói về việc 'cuối cùng cũng xong'. Ừ thì xong đó, thi cử xong r�
 
 Có thể ngày hôm nay không làm việc gì thấy 'có ích', nhưng tới tối với evening routine (read-blog-strech) thì ngày hôm nay có thể kết thúc được.
 
+> [!Example] Xem thêm
+> - [Làm gì cho yêu đời](./L%C3%A0m%20g%C3%AC%20cho%20y%C3%AAu%20%C4%91%E1%BB%9Di.md)
 
 [^ban-the]: [Homo Deus Lược sử tương lai](../../Homo%20Deus%20L%C6%B0%E1%BB%A3c%20s%E1%BB%AD%20t%C6%B0%C6%A1ng%20lai.md)
 [^1]: Kahneman, D., Fredrickson, B. L., Schreiber, C. A., & Redelmeier, D. A. (1993). When More Pain Is Preferred to Less: Adding a Better End. Psychological Science, 4(6), 401–405. https://doi.org/10.1111/j.1467-9280.1993.tb00589.x

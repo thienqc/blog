@@ -35,3 +35,9 @@ date: 2023-09-27
 - Vui vẻ: có thời gian tận hưởng với bạn bè, gia đình; xem phim; đọc sách.
 - Học nói "không": đây không phải lúc để chấp nhận bất cứ yêu cầu gì, nhớ rằng, nó chỉ tạm thời.
 - Biết khi nào bạn cần trợ giúp.
+
+
+> [!Example] Xem thêm
+> - [Làm gì cho yêu đời](./L%C3%A0m%20g%C3%AC%20cho%20y%C3%AAu%20%C4%91%E1%BB%9Di.md)
+> - [Mất lửa](./M%E1%BA%A5t%20l%E1%BB%ADa.md)
+> - [12 lời khuyên vì Giấc ngủ tốt cho sức khoẻ](./12%20l%E1%BB%9Di%20khuy%C3%AAn%20v%C3%AC%20Gi%E1%BA%A5c%20ng%E1%BB%A7%20t%E1%BB%91t%20cho%20s%E1%BB%A9c%20kho%E1%BA%BB.md)

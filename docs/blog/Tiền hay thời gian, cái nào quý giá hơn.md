@@ -16,3 +16,7 @@ Tôi luôn quan niệm rằng hãy sống thật xứng đáng ở thời điể
 Đây là một kĩ năng mà mỗi người chúng ta trong lối sống hiện đại này cần phải học và làm chủ nó. Khi mà công nghệ đang ngày càng tiên tiến, giới trẻ ngày càng lệ thuộc vào smartphone. Không khó để vào một quán cà phê mà toàn bộ những người ở đó dù ngồi cùng bàn nhưng họ không nói chuyện với nhau mà đều cắm mặt điện thoại. Điện thoại là vật tốt nhưng cách chúng ta sử dụng nó sai cách làm nảy sinh nhiều tiêu cực. Hãy bỏ điện thoại xuống mà nói chuyện với mọi người xung quanh đi.
 
 Những ngày này, có cô ấy ngồi sau, dù không nói gì nhiều nhưng cái cảm giác có cô ấy ngồi sau, tôi thích cảm giác ấy. Một cảm giác yên tâm...
+
+> [!Example] Xem thêm
+> - [Làm gì cho yêu đời](./L%C3%A0m%20g%C3%AC%20cho%20y%C3%AAu%20%C4%91%E1%BB%9Di.md)
+> - [Mất cân bằng](./M%E1%BA%A5t%20c%C3%A2n%20b%E1%BA%B1ng.md)

@@ -44,12 +44,15 @@ Nguồn: [MOCs are both active thinking notes and navigational notes - Nick Mil
 ## Các ví dụ về MOC
 
 Theo tui, MoC là một note, chứa
+
 - Liên kết tới các note
 - hoặc Liên kết tới MOC khác
+
 Những vd về MOC
 1. Cấu trúc cho ý tưởng của bạn
 - Trình tự ý tưởng
 - Nhóm các ý tưởng
+- 
 2. Nhóm các dự án
 3. Nhóm các hành động vào các dự án
 4. Định nghĩa một dự án

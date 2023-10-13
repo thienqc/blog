@@ -19,9 +19,12 @@ Dataview là 1 plugin cực kì mạnh mẽ, giúp ta có thể truy vấn bất
 - Tìm các trang không có tag để theo dõi
 - Hiển thị sinh nhật hoặc sự kiện sắp tới
 - và RẤT NHIỀU ứng dụng khác
-
-| Cover | Title | Author | Date |
+```md
+	| Cover | Title | Author | Date |
 | ----- | ----- | ------ | ---- |
+
+```
+
 
 
 Để cài đặt dataview, bạn vào `Settings` → `Community plugins` → `Browse` → tìm "dataview" (hoặc nó nằm ngay trên cùng luôn).
@@ -40,3 +43,4 @@ Còn đây là bảng kiểm giúp bạn tránh những lỗi sai cơ bản: [c
 > [!Example] Xem thêm
 > - [DATABASE Notion vs DATAVIEW Obsidian](./DATABASE%20Notion%20vs%20DATAVIEW%20Obsidian.md)
 > - [Test dataview](./Test%20dataview.md)
+> - [Thư viện sách](./Th%C6%B0%20vi%E1%BB%87n%20s%C3%A1ch.md)

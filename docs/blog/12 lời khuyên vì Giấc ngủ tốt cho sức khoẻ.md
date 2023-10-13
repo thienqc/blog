@@ -43,3 +43,7 @@ Cố gắng ra ngoài trong ánh sáng mặt trời tự nhiên ít nhất 30 ph
 
 ## 12. Đừng nằm ì trên giường
 Nếu bạn thấp mình vẫn còn tỉnh táo sau khi năng trên giường khoảng 20 phút, hoặc đang bắt đầu cảm thấy lo âu, lo lắng, hãy đứng dậy và thực hiện một số hoạt động thư giãn cho đến khi cảm thấy buồn ngủ. Sự lo lắng rằng mình không thể ngủ có thể khiến bạn càng khó ngủ hơn.
+
+> [!Example] Xem thêm
+> - [Làm gì cho yêu đời](./L%C3%A0m%20g%C3%AC%20cho%20y%C3%AAu%20%C4%91%E1%BB%9Di.md)
+> - [Thế nào là một ngày tuyệt vời](./Th%E1%BA%BF%20n%C3%A0o%20l%C3%A0%20m%E1%BB%99t%20ng%C3%A0y%20tuy%E1%BB%87t%20v%E1%BB%9Di.md)
