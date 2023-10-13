@@ -24,3 +24,6 @@ date: 2023-06-06
 2. Tập thể dục 30 phút mỗi ngày
 3. Ngủ đủ giấc: 7 tiếng
 4. Rèn luyện lại thói quen nghiên cứu tài liệu, đọc sách
+
+> [!Example] Xem thêm
+> - [Nghiện game](./Nghi%E1%BB%87n%20game.md) 
