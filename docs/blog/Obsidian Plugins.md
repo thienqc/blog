@@ -1,7 +1,7 @@
 ---
 share: true
 tags:
-  - obsidian
+  - obsidian_plugin
 URL: 
 description: 
 date: 2023-10-13
@@ -48,3 +48,4 @@ Những bài sau mình sẽ giới thiệu những plugin hay, các bạn
 > - [Dice Roller plugin](./Dice%20Roller%20plugin.md)
 > - [Obsidian Image plugin](./Obsidian%20Image%20plugin.md)
 > - [Obsidian importer](./Obsidian%20importer.md)
+> - [Cách xử lí plugin Custom Frame](./C%C3%A1ch%20x%E1%BB%AD%20l%C3%AD%20plugin%20Custom%20Frame.md)
