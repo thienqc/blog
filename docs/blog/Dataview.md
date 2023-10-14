@@ -1,6 +1,6 @@
 ---
 tags:
-  - obsidian
+  - obsidian_plugin
 date: 2023-09-17
 URL: https://www.facebook.com/groups/594306492570157/posts/707585224575616/
 share: true
@@ -23,17 +23,9 @@ Dataview là 1 plugin cực kì mạnh mẽ, giúp ta có thể truy vấn bất
 
 
 ```md
-	```dataview
-	TABLE without ID
-		embed(link(Cover,"10")) as Cover,
-		file.link as Title,
-		Author,
-		dateformat(Last_Read,"MMM-dd") as Date
-	FROM #Books
-	WHERE Rating="⭐⭐⭐⭐⭐"
-	SORT date(Last_Read) DESC
-	LIMIT 25
-	```
+	| Cover | Title | Author | Date |
+| ----- | ----- | ------ | ---- |
+
 ```
 
 

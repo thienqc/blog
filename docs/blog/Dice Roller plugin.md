@@ -2,7 +2,7 @@
 share: true
 date: 2023-09-25
 tags:
-  - obsidian
+  - obsidian_plugin
 description: Tung xúc sắc và ứng dụng
 ---
 
