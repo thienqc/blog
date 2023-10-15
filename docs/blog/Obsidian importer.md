@@ -1,6 +1,6 @@
 ---
 tags:
-  - obsidian
+  - obsidian_plugin
 date: 2023-08-13
 URL: https://www.facebook.com/groups/594306492570157/posts/690167869650685
 share: true
