@@ -7,7 +7,7 @@ share: true
 ---
 
 # Hình ảnh trong Obsidian
-![444](../assets/img/Obsidian%20Image-1688902026415.jpeg)
+![](https://i.imgur.com/7WhyuWI.jpg)
 
 Để chèn hình ảnh vào obsidian có nhiều cách: kéo-thả, Copy-Paste, gọi qua cú pháp.
 

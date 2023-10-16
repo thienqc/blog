@@ -49,3 +49,4 @@ Những bài sau mình sẽ giới thiệu những plugin hay, các bạn
 > - [Obsidian Image plugin](./Obsidian%20Image%20plugin.md)
 > - [Obsidian importer](./Obsidian%20importer.md)
 > - [Cách xử lí plugin Custom Frame](./C%C3%A1ch%20x%E1%BB%AD%20l%C3%AD%20plugin%20Custom%20Frame.md)
+> - [Link with alias](./Obsidian%20Aliases.md#Link%20with%20alias)
