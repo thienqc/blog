@@ -47,5 +47,9 @@ Tạo hotkey cho nó trong mục Template Hotkeys
 
 Khi sử dụng thì bôi đen đoạn chữ cần đổi font, rồi dùng hotkey là ok.
 
+## Dùng tag
+
+[Format text based on header or tag - Help - Obsidian Forum](https://forum.obsidian.md/t/format-text-based-on-header-or-tag/33754/4)
+
 > [!Example] Xem thêm
 > [Q&A Obisidian](./Q&A%20Obisidian.md)
