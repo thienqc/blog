@@ -60,5 +60,8 @@ Nhấn vào kí hiệu Sync (ở góc phải) để nó lấy dữ li�
 - Nếu bạn dùng Mac: sử dụng iCloud làm máy chủ trung gian
 - Nếu bạn dùng Window: cách tốt nhất hiện nay là dùng plugin Remotely Save
 
+
+> Bài [Meta Post - Syncing between Devices - Meta - Obsidian Forum](https://forum.obsidian.md/t/meta-post-syncing-between-devices/20983) giới thiệu nhiều cách đồng bộ các thiết bị với nhau.
+
 > [!Example] Xem thêm
 > - [Nếu một ngày Notion biến mất](./N%E1%BA%BFu%20m%E1%BB%99t%20ng%C3%A0y%20Notion%20bi%E1%BA%BFn%20m%E1%BA%A5t.md)

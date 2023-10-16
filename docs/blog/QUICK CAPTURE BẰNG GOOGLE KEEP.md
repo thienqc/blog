@@ -25,5 +25,10 @@ Mình sử dụng plugin **Custom Frame** để tạo một cửa sổ Google 
 
 Khi làm việc với Obsidian trên máy tính, mình sẽ xử lí các ghi chú nhanh có trong Google Keep, sau khi sử dụng xong, mình sẽ xoá luôn các ghi chú này.
 
+## MỘT GHI CHÚ NHANH
+
+> một ghi chú sẽ không quá 6 dòng mỗi dòng không quá 6 chữ
+
+
 > [!Example] Xem thêm
 > [Cách xử lí plugin Custom Frame](./C%C3%A1ch%20x%E1%BB%AD%20l%C3%AD%20plugin%20Custom%20Frame.md)
