@@ -35,4 +35,3 @@ date: 2023-09-24
    What is your current stance or opinion on the idea or proposition? How might you move forward in your evaluation of this idea or proposition
 
 
-   
