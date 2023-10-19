@@ -21,6 +21,7 @@ Dataview là 1 plugin cực kì mạnh mẽ, giúp ta có thể truy vấn bất
 - Hiển thị sinh nhật hoặc sự kiện sắp tới
 - và RẤT NHIỀU ứng dụng khác
 
+## Cấu trúc 
 
 ```md
 	| Cover | Title | Author | Date |
@@ -29,6 +30,57 @@ Dataview là 1 plugin cực kì mạnh mẽ, giúp ta có thể truy vấn bất
 ```
 
 
+### 1. ` ```dataview`
+Mục đích là khai báo ở dưới là 1 code block cho dataview
+Lưu ý:
+
+- phím bấm \` nằm ở góc trái trên của bàn phím, bên cạnh phím số 1, không phải dấu nháy đơn ‘.
+- khi bấm 3 lần dấu \` thì Obsidian sẽ tạo ra 1 code block
+- dataview phải được viết thường, không được viết hoa.
+
+### 2. `TABLE`
+Kiểu hiện thị dữ liệu. Có 4 dạng dữ liệu
+
+- TABLE: dạng bảng
+- LIST: dạng danh sách
+- CALENDAR: dạng lịch
+- TASK: lọc những note có chứa to do block (`- [ ]`)
+
+Lưu ý:
+
+- TABLE, Table, table hay tAbLe đều đúng 
+- TABLE, LIST là như nhau, khác ở chỗ TABLE sẽ chia cột. Bài này mình sẽ nói về TABLE.
+- CALENDAR: 
+
+### 3. `embed(link(Cover,"10")) as Cover, file.link as Title, Author, dateformat(Last_Read,"MMM-dd") as Date`
+Khai báo những thuộc tính sẽ hiển thị.
+
+Có 2 loại thuộc tính:
+
+- Thuộc tính ẩn: file.link
+- Thuộc tính thấy được: Grade
+	- Khai báo trong YAML
+	- Khai báo trong inline
+
+
+As : khai bao tên của cột đó, nếu không có thì mặc định là tên thuộc tính (ví dụ: file.link, Author)
+
+Lưu ý:
+- Để ý SÓT dấu ”,” cuối dòng
+
+
+### 4. `FROM #Books`
+Cho biết sẽ lấy những note nằm ở đâu, có thể là `“Folder”`, `#tag`, hoặc trong file cụ thể
+
+Nếu không khai báo, mặc định là toàn bộ vault.
+
+### 5. `WHERE Rating="⭐⭐⭐⭐⭐"`
+Điều kiện lọc.
+Những ví dụ về biểu thức:
+- containt ()
+- >, <, …
+
+## Cách cài đặt và tài liệu
 
 Để cài đặt dataview, bạn vào `Settings` → `Community plugins` → `Browse` → tìm "dataview" (hoặc nó nằm ngay trên cùng luôn).
 
