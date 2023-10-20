@@ -1,10 +1,12 @@
 ---
 share: true
-tags: 
+tags:
+  - self-study
 date: 2023-10-20
 URL: 
 description: Thực học
 ---
+
 # Thấu hiểu chính mình để thay đổi bản thân
 
 ## Quản trị Cuộc đời - Thấu hiểu chính mình để thay đổi bản thân | TS. Giản Tư Trung - YouTube
