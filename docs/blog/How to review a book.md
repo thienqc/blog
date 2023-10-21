@@ -6,7 +6,7 @@ tags:
 ---
 
 # Cách review một quyển sách
-1. Nếu có thể, hãy tóm tắt tác phẩm chỉ bằng 1 hoặc 2 câu. (Trong bài review về [Suối Nguồn](../../Su%E1%BB%91i%20ngu%E1%BB%93n.md), mình có dùng câu: Câu chuyện về cuộc đấu tranh giữa chủ nghĩa cá nhân và chủ nghĩa tập thể. - đây là mình tóm tắt tác phẩm bằng 1 câu)
+1. Nếu có thể, hãy tóm tắt tác phẩm chỉ bằng 1 hoặc 2 câu. (Trong bài review về [Suối Nguồn](./Su%E1%BB%91i%20ngu%E1%BB%93n.md), mình có dùng câu: Câu chuyện về cuộc đấu tranh giữa chủ nghĩa cá nhân và chủ nghĩa tập thể. - đây là mình tóm tắt tác phẩm bằng 1 câu)
 
 2. Nêu 1 câu trích dẫn trong tác phẩm mà bạn yêu thích nhất, và lý do vì sao bạn thích câu ấy?
 
