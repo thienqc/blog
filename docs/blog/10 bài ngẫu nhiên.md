@@ -3,13 +3,13 @@ share: true
 ---
 # 10 bài ngẫu nhiên
 
-- [Q&A Obisidian](./Q&A%20Obisidian.md) 
-- [Tri thức](./Tri%20th%E1%BB%A9c.md) 
-- [Kính thiên văn khúc xạ](./K%C3%ADnh%20thi%C3%AAn%20v%C4%83n%20kh%C3%BAc%20x%E1%BA%A1.md) 
-- [All-in-one vs right tool for right job](./All-in-one%20vs%20right%20tool%20for%20right%20job.md) 
-- [Folder - Link - Tag](./Folder%20-%20Link%20-%20Tag.md) 
-- [Saint of the Day](./Saint%20of%20the%20Day.md) 
-- [Lời nhắn nhủ của Mr. Thanh](./L%E1%BB%9Di%20nh%E1%BA%AFn%20nh%E1%BB%A7%20c%E1%BB%A7a%20Mr.%20Thanh.md) 
-- [Mặt trời di chuyển từ Đông sang Tây](./M%E1%BA%B7t%20tr%E1%BB%9Di%20di%20chuy%E1%BB%83n%20t%E1%BB%AB%20%C4%90%C3%B4ng%20sang%20T%C3%A2y.md) 
-- [DATABASE Notion vs DATAVIEW Obsidian](./DATABASE%20Notion%20vs%20DATAVIEW%20Obsidian.md) 
-- [Quá nhiều app ghi chú, chọn cái nào bây giờ](./Qu%C3%A1%20nhi%E1%BB%81u%20app%20ghi%20ch%C3%BA,%20ch%E1%BB%8Dn%20c%C3%A1i%20n%C3%A0o%20b%C3%A2y%20gi%E1%BB%9D.md)
+- [01.10 Saint Thérèse of Lisieux](./01.10%20Saint%20Th%C3%A9r%C3%A8se%20of%20Lisieux.md) 
+- [Làm gì cũng hăng say và không biết mệt (FLOW)](./L%C3%A0m%20g%C3%AC%20c%C5%A9ng%20h%C4%83ng%20say%20v%C3%A0%20kh%C3%B4ng%20bi%E1%BA%BFt%20m%E1%BB%87t%20(FLOW).md) 
+- [KHỦNG HOẢNG HIỆN SINH LÀ CÁI ĐẾCH GÌ](./KH%E1%BB%A6NG%20HO%E1%BA%A2NG%20HI%E1%BB%86N%20SINH%20L%C3%80%20C%C3%81I%20%C4%90%E1%BA%BECH%20G%C3%8C.md) 
+- [Làm cách nào bạn có động lực lâu dài trong chạy bộ](./L%C3%A0m%20c%C3%A1ch%20n%C3%A0o%20b%E1%BA%A1n%20c%C3%B3%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20l%C3%A2u%20d%C3%A0i%20trong%20ch%E1%BA%A1y%20b%E1%BB%99.md) 
+- [Trước khi ra mắt - No 3](./Tr%C6%B0%E1%BB%9Bc%20khi%20ra%20m%E1%BA%AFt%20-%20No%203.md) 
+- [Hôm nay tôi tốt nghiệp](./H%C3%B4m%20nay%20t%C3%B4i%20t%E1%BB%91t%20nghi%E1%BB%87p.md) 
+- [Where the hell is Matt](./Where%20the%20hell%20is%20Matt.md) 
+- [Be Kind, Be Useful, Be Fearless](./Be%20Kind,%20Be%20Useful,%20Be%20Fearless.md) 
+- [Commonplace Book](./Commonplace%20Book.md) 
+- [Việt Nam tươi đẹp](./Vi%E1%BB%87t%20Nam%20t%C6%B0%C6%A1i%20%C4%91%E1%BA%B9p.md)
