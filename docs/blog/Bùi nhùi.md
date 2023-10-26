@@ -36,7 +36,7 @@ Chuẩn bị ở nhà
 
 ❌ Nhược điểm là phải tự làm trước ở nhà
 
-> Mình dùng trong chuyến đi [Hồ Tri An camping - 231023](./H%E1%BB%93%20Tri%20An%20camping%20-%20231023.md)
+> Mình dùng trong chuyến đi [Hồ Trị An camping - 231023](./H%E1%BB%93%20Tr%E1%BB%8B%20An%20camping%20-%20231023.md)
 
 ## Cồn khô
 
