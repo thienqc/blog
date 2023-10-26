@@ -1,19 +1,19 @@
 ---
-Cover: Rèn Luyện Kỹ Năng Sinh Tồn Nơi Hoang Dã-1696519845846.jpeg
-Last_Read: ""
+Cover: Rèn Luyện Kỹ Năng Sinh Tồn Nơi Hoang Dã-1698154148695.jpeg
+Last_Read: 2023-10-21
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 473
 tags:
   - KhoSach
-Type: Book
-Status: reading
+  - Reading_challenge_RC_2023
+Type:
+  - Book
 share: true
 date: 2023-10-05
 ---
 
 # Rèn Luyện Kỹ Năng Sinh Tồn Nơi Hoang Dã
 [Author:: [Phạm Văn Nhân](Ph%E1%BA%A1m%20V%C4%83n%20Nh%C3%A2n.md)] - (Publication_Year:: 2001)
-
 ![](https://i.imgur.com/4VsDe5N.png)
 
 Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21144&authkey=!AK_j7nwtSi7tGlU)
