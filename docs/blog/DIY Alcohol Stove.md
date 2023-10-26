@@ -46,3 +46,5 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media;
 gyroscope; picture-in-picture;
 web-share"
 allowfullscreen></iframe>
+
+Thực tế: [Hồ Tri An camping - 231023](./H%E1%BB%93%20Tri%20An%20camping%20-%20231023.md)
