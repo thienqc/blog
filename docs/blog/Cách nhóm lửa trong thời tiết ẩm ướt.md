@@ -28,7 +28,7 @@ Bổ sung thêm là nên đốt dưới chỗ được che mưa (mưa vào sao m
 
 ## Thành quả
 
-[Hồ Tri An camping - 231023](./H%E1%BB%93%20Tri%20An%20camping%20-%20231023.md)
+[Hồ Trị An camping - 231023](./H%E1%BB%93%20Tr%E1%BB%8B%20An%20camping%20-%20231023.md)
 
 ![](https://i.imgur.com/goHG9pj.jpg)
 
