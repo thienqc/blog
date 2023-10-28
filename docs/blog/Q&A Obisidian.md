@@ -21,3 +21,4 @@ description:
 - [Cách xử lí plugin Custom Frame](./C%C3%A1ch%20x%E1%BB%AD%20l%C3%AD%20plugin%20Custom%20Frame.md)
 - [Obsidian Search > Phân biệt line và section](./Obsidian%20Search.md#Phân%20biệt%20line%20và%20section)
 - [Obsidian Search > Property là Checkbox](./Obsidian%20Search.md#Property%20là%20Checkbox)
+- [Dataview TASK example](./Dataview%20TASK%20example.md)
