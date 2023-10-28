@@ -24,9 +24,7 @@ Dataview là 1 plugin cực kì mạnh mẽ, giúp ta có thể truy vấn bất
 ## Cấu trúc 
 
 ```md
-	| Cover | Title | Author | Date |
-| ----- | ----- | ------ | ---- |
-
+	
 ```
 
 
@@ -99,3 +97,4 @@ Còn đây là bảng kiểm giúp bạn tránh những lỗi sai cơ bản: [c
 > - [DATABASE Notion vs DATAVIEW Obsidian](./DATABASE%20Notion%20vs%20DATAVIEW%20Obsidian.md)
 > - [Test dataview](./Test%20dataview.md)
 > - [Thư viện sách](./Th%C6%B0%20vi%E1%BB%87n%20s%C3%A1ch.md)
+> - [Dataview TASK example](./Dataview%20TASK%20example.md)
