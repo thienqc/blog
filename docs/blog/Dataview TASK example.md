@@ -13,9 +13,18 @@ description:
 > Lọc task chưa hoàn thành từ 2 thư mục, không bao gồm 2 tag, chỉ những task có scheduled, và scheduled quá hạn, sắp xếp theo priority
 
 
+```md
+TASK
+FROM "3. Journal" OR "8. Resources/Bank"
+WHERE !completed
+	AND scheduled
+	AND date(scheduled) <= date(today)
+	AND none(econtains(tags, "#inbox"))
+	AND none(econtains(tags, "#shopping"))
+SORT priority
+```
 
-
-
+`thay md=dataview`
 
 > [!Example] Xem thêm
 > [Dataview](./Dataview.md)

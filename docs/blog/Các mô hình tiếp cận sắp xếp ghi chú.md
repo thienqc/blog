@@ -81,3 +81,5 @@ Việc tìm hiểu các mô hình sắp xếp ghi chú giúp ta ghi chú hiệu 
 > We shape our tools and our tools shape us.
 
 Chúng ta tạo ra công cụ và công cụ định hình chúng ta. Vì vậy hãy vận dụng nó một cách hiệu quả!
+
+**💬 Thảo luận [Obsidian - Second Brain](https://www.facebook.com/groups/obsidian.secondbrain/posts/729186122415526/)**
