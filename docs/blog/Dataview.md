@@ -23,9 +23,7 @@ Dataview là 1 plugin cực kì mạnh mẽ, giúp ta có thể truy vấn bất
 
 ## Cấu trúc 
 
-```md
-	
-```
+
 
 
 ### 1. ` ```dataview`

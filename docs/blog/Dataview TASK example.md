@@ -13,9 +13,7 @@ description:
 > Lọc task chưa hoàn thành từ 2 thư mục, không bao gồm 2 tag, chỉ những task có scheduled, và scheduled quá hạn, sắp xếp theo priority
 
 
-```md
-	
-```
+
 
 
 
