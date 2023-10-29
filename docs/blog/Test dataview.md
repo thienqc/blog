@@ -13,7 +13,7 @@ FROM #Book
 WHERE share=true
 ```
 
-`thay md=dataview`
+`thêm ```dataview`
 
 
 > [!Example] Xem thêm
