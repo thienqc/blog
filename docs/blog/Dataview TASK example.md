@@ -24,7 +24,8 @@ WHERE !completed
 SORT priority
 ```
 
-`thay md=dataview`
+`thêm ```dataview`
+
 
 > [!Example] Xem thêm
 > [Dataview](./Dataview.md)
