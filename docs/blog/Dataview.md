@@ -35,7 +35,7 @@ SORT date(Last_Read) DESC
 LIMIT 25
 ```
 
-`thay md=dataview`
+`thêm ```dataview`
 
 ### 1. ` ```dataview`
 Mục đích là khai báo ở dưới là 1 code block cho dataview
