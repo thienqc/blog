@@ -37,7 +37,6 @@ Với liên kết, bạn có thể làm những điều như thư mục (
 Trong quyển "[How to take smart note](./How%20to%20take%20smart%20note.md)", Sönke Ahrens có nói: "Trong hệ thống cũ, câu hỏi là: Tôi lưu ghi chú này theo chủ đề nào? Trong hệ thống mới, câu hỏi đặt ra là: Tôi muốn tình cờ gặp lại điều này trong bối cảnh nào?". Dù với cách nào, cuối cùng thì quan trọng nhất vẫn là ghi chú, thế nên hãy sắp xếp sao cho mình có thể dễ truy cập các ghi chú, và hãy thật sự tận hưởng việc viết ghi chú nhé. Hi vọng qua bài viết này, bạn có thể sắp xếp ghi chú của mình hợp lí, phù hợp với bản thân. 😊😊😊
 
 [hình minh hoạ](https://www.reddit.com/r/ObsidianMD/comments/vofakc/folders_vs_links_vs_tags/)
-
 ## Reference
 - [Folders vs. Links vs. Tags -  reddit](https://www.reddit.com/r/ObsidianMD/comments/vofakc/folders_vs_links_vs_tags/)
 - [Links vs Tags vs Folders in Obsidian -  When Should You Use Each - YouTube](https://www.youtube.com/watch?v=fwO8LzH9q3I)
