@@ -31,6 +31,7 @@ Sau cùng, các ứng dụng được tạo ra cũng chỉ để phục vu
 
 Cho mình biết ý kiến của bạn về việc lựa chọn ứng dụng phù hợp với bản thân nhé.
 
+
 > [!Example] Xem thêm
 > - [Obsidian có thể làm được mọi thứ không](./Obsidian%20c%C3%B3%20th%E1%BB%83%20l%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%8Di%20th%E1%BB%A9%20kh%C3%B4ng.md)
 > - [Quá nhiều app ghi chú, chọn cái nào bây giờ](./Qu%C3%A1%20nhi%E1%BB%81u%20app%20ghi%20ch%C3%BA,%20ch%E1%BB%8Dn%20c%C3%A1i%20n%C3%A0o%20b%C3%A2y%20gi%E1%BB%9D.md)
