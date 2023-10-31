@@ -31,4 +31,3 @@ Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21
 > Abbey hỏi Andrew: "Nguyên tắc của cậu khi hành nghề y là gì?"
 
 ⇒ "Tôi phải luôn tự nhắc nhở là không bao giờ coi bất cứ điều gì mình học là tuyệt đối chắc chắn."
-
