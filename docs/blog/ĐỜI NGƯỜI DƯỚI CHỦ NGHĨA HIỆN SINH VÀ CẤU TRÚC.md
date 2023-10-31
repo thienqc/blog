@@ -65,7 +65,7 @@ Như vậy, đời người và những ý niệm xoay quanh nó như sinh tử,
 Albert Camus [^13] viết: “Giữa bầu trời này và những gương mặt hướng lên nó, chẳng có thứ gì chất chứa một huyền thoại, một áng văn, một đạo đức, và một tôn giáo - chỉ có những tảng đá, những thớ thịt, những vì sao, và những sự thật bàn tay ta có thể chạm tới”. Thật đau đớn và bẽ bàng biết bao khi nhận thức được nỗi cô đơn tột cùng của loài người trong vũ trụ lặng thinh. Nhưng chủ nghĩa cấu trúc sẽ bảo đây chưa phải điều đáng sợ nhất. Điều đáng sợ nhất là loài người sẽ chẳng bao giờ chạm đến bất cứ chân lý vẹn toàn nào, kể cả chân lý của sự sinh và diệt. Họ chỉ là con rối của những cấu trúc vĩ đại hơn mình.
 
 ________________
-Refercences/Tài liệu tham khảo
+**Refercences/Tài liệu tham khảo**
 
 [^1]:  J. Miller, The Passion of Michel Foucault. Cambridge, Mass: Harvard University Press, 2000.
 [^2]: R. Braidotti, The posthuman. New York: Polity Press, 2014.
