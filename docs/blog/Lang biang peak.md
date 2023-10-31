@@ -48,7 +48,7 @@ Vậy sau cùng bạn nhận lại được gì? Đối với mình, mình đư�
 
 Nếu có cơ hội, mình sẽ quay lại đây và ngồi thiền lâu hơn nữa.
 
-~ Lang Biang, Đà Lạt, May 01, 2021
+~ *Lang Biang, Đà Lạt, May 01, 2021*
 
 > [!Example] Xem thêm
 > [Dinh ngày mưa](./Dinh%20ng%C3%A0y%20m%C6%B0a.md)

@@ -19,7 +19,7 @@ Chúng ta cần nhận thức rõ ràng rằng, không chỉ những việc mìn
 
 Vì vậy, để đem lại tác động tích cực cho xã hội, chúng ta cần hành động có trách nhiệm hơn và có ý thức hơn với những quyết định của mình. Việc này không chỉ tạo ra ảnh hưởng tốt cho chính bản thân mà còn giúp góp phần cải thiện chất lượng cuộc sống của cộng đồng. Chúng ta có thể bắt đầu từ những hành động nhỏ nhất, chẳng hạn như giữ gìn vệ sinh môi trường, tôn trọng lẫn nhau trong giao tiếp và hành vi, hay đóng góp vào các hoạt động xã hội. Hành động đúng đắn và có trách nhiệm hơn sẽ giúp xã hội phát triển bền vững hơn và đem lại hạnh phúc cho chính bản thân và những người xung quanh.
 
-HÃY SỐNG CÓ TRÁCH NHIỆM HƠN!
+**HÃY SỐNG CÓ TRÁCH NHIỆM HƠN!**
 
 > [!Example] Xem thêm
 > - [Be Kind, Be Useful, Be Fearless](./Be%20Kind,%20Be%20Useful,%20Be%20Fearless.md)

@@ -24,5 +24,4 @@ tags:
 
 9. Nếu có thể, hãy thử so sánh tác phẩm với các sách khác trong cùng thời kỳ, hoặc trong cùng lĩnh vực.
 
-
 [Nguồn](https://www.facebook.com/groups/625230697658922/permalink/762583777256946/)

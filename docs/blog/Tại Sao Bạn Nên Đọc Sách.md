@@ -9,7 +9,6 @@ share: true
 # Tại sao bạn nên đọc sách
 _Chào các bạn,_  
 ​
-
 Chắc hẳn, các bạn, những người đã tham gia vào đây, đều là những người ham mê và trân trọng giá trị của sách, nhưng đã bao giờ các bạn tự hỏi mình: **“_Tại sao mình lại phải đọc sách”,_** và **_"mình phải đọc sách như thế nào?"_** chưa?​
 
   

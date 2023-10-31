@@ -62,7 +62,6 @@ Sự kết hợp giữa suy tư thâm trầm và bộc lộ triệu chứng mãn
 
 Chúng ta sẽ tìm hiểu thêm một số triết gia hiện sinh sau, và xem xem vì sao vụ khủng hoảng hiện sinh này lại liên quan tới mấy ông triết gia đó.
 
-
 [https://www.facebook.com/329807464317716/posts/336333686998427/](https://www.facebook.com/329807464317716/posts/336333686998427/)
 
 

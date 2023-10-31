@@ -32,4 +32,3 @@ Kẻ tự biết bản thân mình ra sao sẽ có được tất cả. Bản th
 ## [Sự biết](./S%E1%BB%B1%20bi%E1%BA%BFt.md)
 
 > Điều khiến chúng ta gặp trở ngại, không phải là điều mà mình không biết. Mà đó là khi ta ba hoa về điều bản thân nghĩ rằng mình đã biết. ~ Mark Twain
-

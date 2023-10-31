@@ -13,7 +13,6 @@ description:
 
 ![](https://i.imgur.com/PLLJ52I.png)
 
-
 Hiện nay ngày càng có nhiều app ghi chú ra đời (gần 500 app trên [Product Hunt](https://www.producthunt.com/categories/notes-documents)).
 
 Từ những app thế hệ thứ nhất cổ điển (OneNote, Evernote,...) hay những app thế hệ thứ hai (Notion, Coda, Bear,...) cho tới những app thế hệ thứ ba (Obsidian, RemNote, Logseq,...), mỗi ứng dụng đều có ưu nhược điểm và sẽ hướng tới những đối tượng khác nhau. [^1]

@@ -8,7 +8,6 @@ date: 2023-09-28
 
 # Obsidian có thể làm được mọi thứ không?
 
-
 > [!Question] Obsidian có thể làm được mọi thứ không?
 > CÓ
 

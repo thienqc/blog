@@ -28,4 +28,3 @@ Nói chung là biến những thứ nhàm chán thành sân chơi của mình.
 
 
 ![](https://i.imgur.com/zqaE0wF.png)
-

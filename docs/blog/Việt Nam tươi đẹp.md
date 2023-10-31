@@ -15,3 +15,4 @@ description: Những chuyến đi
 - [Lang biang peak](./Lang%20biang%20peak.md)
 - [Đèo Hải Vân](./%C4%90%C3%A8o%20H%E1%BA%A3i%20V%C3%A2n.md)
 - [Dinh ngày mưa](./Dinh%20ng%C3%A0y%20m%C6%B0a.md)
+- [Hồ Trị An camping - 231023](./H%E1%BB%93%20Tr%E1%BB%8B%20An%20camping%20-%20231023.md)

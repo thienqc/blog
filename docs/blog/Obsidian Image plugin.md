@@ -30,5 +30,6 @@ Một cách khác để giải quyết vấn đề dung lượng là ta
 
 Còn bạn, bạn chọn cách nào để lưu trữ hình ảnh?
 
+
 > [!Example] Xem thêm
 > [Obsidian Plugins](./Obsidian%20Plugins.md)

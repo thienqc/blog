@@ -43,6 +43,7 @@ Những bài sau mình sẽ giới thiệu những plugin hay, các bạn
 
 🔗 [Link](https://www.facebook.com/groups/obsidian.secondbrain/posts/647811267219679/)
 
+
 > [!tip] Plugin
 > - [Dataview](./Dataview.md)
 > - [Dice Roller plugin](./Dice%20Roller%20plugin.md)

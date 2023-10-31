@@ -33,5 +33,4 @@ Bổ sung thêm là nên đốt dưới chỗ được che mưa (mưa vào sao m
 ![](https://i.imgur.com/goHG9pj.jpg)
 
 
-
 > Tham khảo: [How To Make and Sustain a Fire in The Rain - YouTube](https://www.youtube.com/watch?v=L-5g7-AyqHA)

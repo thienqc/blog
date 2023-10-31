@@ -28,6 +28,7 @@ Nói về việc 'cuối cùng cũng xong'. Ừ thì xong đó, thi cử xong r�
 
 Có thể ngày hôm nay không làm việc gì thấy 'có ích', nhưng tới tối với evening routine (read-blog-strech) thì ngày hôm nay có thể kết thúc được.
 
+
 > [!Example] Xem thêm
 > - [Làm gì cho yêu đời](./L%C3%A0m%20g%C3%AC%20cho%20y%C3%AAu%20%C4%91%E1%BB%9Di.md)
 

@@ -18,7 +18,6 @@ date: 2023-09-23
 - [01:45](https://www.youtube.com/watch?v=undefined&t=105s) To find out more information about any of these topics or see complete videos of these events, go to whitehouse.gov, and thanks again for checking out this addition of your West Wing Week.
 ---
 
-
 > [!Summary] Summary
 > Hãy tử tế, hữu ích và đừng sợ
 

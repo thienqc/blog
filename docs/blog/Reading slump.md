@@ -10,7 +10,6 @@ date: 2023-09-19
 # Reading slump
 Cho dù có yêu đọc sách đến đâu thì vẫn sẽ có một thời điểm nào đó, bạn cảm thấy chán. Nguyên nhân và cách thoát khỏi "bệnh chán đọc" (reading slump) này là gì?
 
-
 Kệ sách của bạn ngày càng nhiều lên. Những tựa sách muốn mua ngày càng dài dằng dặc. Thể loại nào nhìn cũng muốn gom hết về, nhưng bạn lại chẳng thực sự muốn [mở ra đọc](https://vietcetera.com/vn/lam-sao-de-hinh-thanh-thoi-quen-doc-sach)? Xin chia buồn, đây là những triệu chứng điển hình đầu tiên của "bệnh chán đọc" – reading slump. Và chúc mừng, vì chắc chắn bạn không phải người duy nhất.
 
 ## Reading slump là gì?

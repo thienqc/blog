@@ -13,7 +13,6 @@ description:
 > Mọi người cho em hỏi: có cách nào để thay đổi font chữ của 1 đoạn text trong note không ạ?
 > 
 > Note của em có cả tiếng Trung & tiếng Việt. Font chữ mặc định trong Appearance là Times New Roman, nên những chữ tiếng Trung hiển thị khá xấu. Em muốn tìm cách chọn 1 font khác cho từng đoạn text tiếng Trung ạ.
-
 ## Dùng quote block
 
 [raw.githubusercontent.com/thienqc/obsidian/main/Font quote.md](https://raw.githubusercontent.com/thienqc/obsidian/main/Font%20quote.md)
