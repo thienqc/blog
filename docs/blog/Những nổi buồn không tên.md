@@ -8,7 +8,6 @@ share: true
 
 # Những nỗi buồn không tên
 *Hôm nay là một ngày như thế*
-
 ### Sáng
 Sáng nay mình lên trường để ôn thi. Ngồi chờ thầy đầu tiên tới dạy nhưng không có ai lên, chuyện này khá bất thường đối với trường mình khi chưa có thông báo gì hết. Rồi thì cũng tới bài tiếp theo. Sau đó giải lao tí. Ngồi nói chuyện với bạn, hỏi "Sao nãy không ai dạy ta?". Mới lật lại slide bài giảng thì tên người dạy là BS. Nguyễn Hữu Trung. Chuyện là cách đây mấy ngày, Thầy đã từ giã cõi đời rồi. Một nỗi buồn ngang. Vì là Thầy lớn trong bộ môn, nên trước giờ Thầy không có dạy tụi mình, hôm nay buổi tổng ôn nên mới được chiếu cố mà dạy cho sấp nhỏ này. Thế mà, Thầy đã ra đi rồi. Thầy ra đi quá đột ngột. Thầy vẫn còn quá nhiều thứ để cống hiến cho đời mà. Mặc dù mình chưa từng tiếp xúc với Thầy, nhưng qua những hình ảnh về đội ngũ NVYT đứng chào linh cữu của Thầy, mà mình thấy cuộc đời này sao mà vô thường thế.
 
