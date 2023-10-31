@@ -53,5 +53,6 @@ Mỗi bạn sẽ có một kiểu sắp xếp thông tin, một kiểu g
 
 Phong cách ghi chú của bạn như thế nào? Và bạn đang dùng app nào để ghi chú? Hãy để lại bình luận và thảo luận với mọi người nhé.
 
+
 > [!Example] Xem thêm
 > [Quá nhiều app ghi chú, chọn cái nào bây giờ](./Qu%C3%A1%20nhi%E1%BB%81u%20app%20ghi%20ch%C3%BA,%20ch%E1%BB%8Dn%20c%C3%A1i%20n%C3%A0o%20b%C3%A2y%20gi%E1%BB%9D.md)
