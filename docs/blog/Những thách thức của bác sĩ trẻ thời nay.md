@@ -71,4 +71,3 @@ Ok, con đường sắp tới của mình là ở Việt Nam
 - 18 tháng: "chắc là" ngoại ở BV ??, khi nào đăng kí: chưa tìm hiểu
 - Xin BV làm (BS Cường)
 - Ở nhà học tiếng anh (đi du học): xa vời
-
