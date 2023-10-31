@@ -8,6 +8,7 @@ date: 2023-06-06
 
 # Dopamine detox
 ## B1: Nhổ cỏ
+
 > Cắt bỏ hoàn toàn những kích thích dopamine liều cao
 
 1. Không sử dụng tất cả app mạng xã hội trên thiết bị di động: FB, IG, Youtube, Tiktok
@@ -18,6 +19,7 @@ date: 2023-06-06
 4. Cắt bỏ hoàn toàn đường chế biến và các thực phẩm chế biến, bánh kẹo
 5. Không đụng vào tất cả các nội dung cũng như hoạt động liên quan tới tình dục
 ## B2: Trồng cây
+
 > Bù đắp lượng dopamine thiếu hụt thông qua các hoạt động sản sinh dopamine ổn định
 
 1. Thiền ít nhất 10 phút trước khi đi ngủ và khi mới thức dậy
