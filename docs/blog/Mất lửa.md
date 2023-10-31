@@ -28,7 +28,6 @@ Trạng thái tồn tại chân không.
 
 ![](https://i.imgur.com/oRN3KKQ.png)
 
-
 > [!Example] Xem thêm
 > - [Làm gì cho yêu đời](./L%C3%A0m%20g%C3%AC%20cho%20y%C3%AAu%20%C4%91%E1%BB%9Di.md)
 > - [Mất cân bằng](./M%E1%BA%A5t%20c%C3%A2n%20b%E1%BA%B1ng.md)
