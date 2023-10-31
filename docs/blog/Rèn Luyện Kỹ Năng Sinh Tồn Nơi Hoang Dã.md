@@ -33,3 +33,6 @@ Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21
 > Ông Nội đề nghị ba chị em ở nguyên vị trí, tiết kiệm pin điện thoại và bố trí lực lượng tìm kiếm. Hơn 19h, lực lượng chức năng xã Chư Đang Ya tìm ra ba chị em. Sau 5 giờ, ba người được đưa về trụ sở UBND xã, ăn tối và liên hệ người nhà đến đón.
 > 
 > [Ba chị em đi chơi bị lạc trên núi - VnExpress](https://vnexpress.net/ba-chi-em-di-choi-bi-lac-tren-nui-4657060.html)
+
+- Khi máy bay thay đổi độ cao, lỗ tai sẽ cảm thấy căng trương (ù tai) do thay đổi áp suất không khí, các bạn hít một hơi sâu rồi ngậm miệng, bịt mũi thở ra thật mạnh hoặc hắt hơi thì sẽ khỏi. (Location 403)
+- Gà, vịt làm sạch, ướp gia vị tùy thích (Location 3904)
