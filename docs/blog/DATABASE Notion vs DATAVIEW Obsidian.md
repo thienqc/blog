@@ -30,6 +30,5 @@ Chỉ có Notion hỗ trợ API, giúp kết nối với nhiều hệ t
 Nói tóm lại, mình thấy Notion được xây dựng thêm hướng app quản lí, còn Obsidian là một app ghi chú tuyệt vời. Cả 2 đều sẽ có những ưu nhược điểm riêng phù hợp với từng đối tượng khác nhau. Hi vọng qua bài viết này, bạn có thể sử dụng công cụ phù hợp với nhu cầu của mình.
 Nếu có bất kì thắc mắc hay thảo luận, hãy để lại bình luận nhé. Chúc bạn một ngày tốt lành.
 
-
 > [!Example] Xem thêm
 > - [Dataview](./Dataview.md)
