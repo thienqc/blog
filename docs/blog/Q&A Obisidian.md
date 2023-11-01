@@ -22,3 +22,4 @@ description:
 - [Obsidian Search > Phân biệt line và section](./Obsidian%20Search.md#Phân%20biệt%20line%20và%20section)
 - [Obsidian Search > Property là Checkbox](./Obsidian%20Search.md#Property%20là%20Checkbox)
 - [Dataview TASK example](./Dataview%20TASK%20example.md)
+- [Cách ghép các note nhỏ trong Obsidian](./C%C3%A1ch%20gh%C3%A9p%20c%C3%A1c%20note%20nh%E1%BB%8F%20trong%20Obsidian.md)
