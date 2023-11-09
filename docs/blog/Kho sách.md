@@ -2,7 +2,7 @@
 share: true
 tags:
   - KhoSach
-date: 2023-11-07
+date: 2023-11-09
 ---
 
 # Kho sách
@@ -10,9 +10,10 @@ date: 2023-11-07
 | File                                                                                                             | Ebook                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | [Ta ba lô trên đất Á](./Ta%20ba%20l%C3%B4%20tr%C3%AAn%20%C4%91%E1%BA%A5t%20%C3%81.md)                                         | 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21167&authkey=!AJE6b6h62AWvLmM) |
+| [John đi tìm Hùng](./John%20%C4%91i%20t%C3%ACm%20H%C3%B9ng.md)                                               | 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21168&authkey=!AJSSQTo5coD3Wng) |
 | [Numagician I - Những Con Số Ảo Thuật](./Numagician%20I%20-%20Nh%E1%BB%AFng%20Con%20S%E1%BB%91%20%E1%BA%A2o%20Thu%E1%BA%ADt.md)       | 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21166&authkey=!AOe4Q_9fXSQDMi4) |
-| [How to take smart note](./How%20to%20take%20smart%20note.md)                                   | 📘 [Epub](https://onedrive.live.com/download?resid=E92BC60129512289%21162&authkey=!ACAHXyxr-XNkNtU) |
 | [Suối nguồn](./Su%E1%BB%91i%20ngu%E1%BB%93n.md)                                                           | 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21161&authkey=!AOzzN4AoL6u3Olc) |
+| [How to take smart note](./How%20to%20take%20smart%20note.md)                                   | 📘 [Epub](https://onedrive.live.com/download?resid=E92BC60129512289%21162&authkey=!ACAHXyxr-XNkNtU) |
 | [Lâu Đài](./L%C3%A2u%20%C4%90%C3%A0i.md)                                                                 | 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21160&authkey=!ANZOabvl6www7fM) |
 | [Quái vật ghé thăm](./Qu%C3%A1i%20v%E1%BA%ADt%20gh%C3%A9%20th%C4%83m.md)                                             | 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21146&authkey=!AM7V3XsMlF1slZE) |
 | [Flow - dòng chảy](./Flow%20-%20d%C3%B2ng%20ch%E1%BA%A3y.md)                                               | 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21145&authkey=!AKIpLNZFODzrdwY) |
@@ -26,6 +27,5 @@ date: 2023-11-07
 | [Thần Thoại Sisyphus](./Th%E1%BA%A7n%20Tho%E1%BA%A1i%20Sisyphus.md)                                         | 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21130&authkey=!ANtPm4g0YNPGhsg) |
 | [Tôi Tự Học](./T%C3%B4i%20T%E1%BB%B1%20H%E1%BB%8Dc.md)                                                           | 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21138&authkey=!AB0rPU2Me_RLkG4) |
 | [How to Study in Medical School](./How%20to%20Study%20in%20Medical%20School.md)                   | 📙 [PDF](https://onedrive.live.com/download?resid=E92BC60129512289%21137&authkey=!AIFEgkU1djD4gl8)  |
-
 
 
