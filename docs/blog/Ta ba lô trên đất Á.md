@@ -1,14 +1,15 @@
 ---
 Cover: Pasted image 20231107221519.png
-Rating: 
+Rating: ⭐⭐⭐⭐
 Total_Pages: 331
 tags:
   - KhoSach
   - Phuot
+  - Reading_challenge_RC_2023
 type:
   - Book
-Last_Read: 
-date: 2023-11-07
+Last_Read: 2023-11-09
+date: 2023-11-09
 share: true
 ---
 
@@ -18,7 +19,7 @@ share: true
 ![](https://i.imgur.com/KMNpQ2n.png)
 
 
-> [!NOTE]- Note
+> [!NOTE]- Description
 > Cuốn sách đầu tiên của người Việt hướng dẫn chi tiết về việc đi du lịch.
 > 
 > “Hầu hết mọi người đều thích du lịch, và hầu hết người trẻ đều thích du lịch bụi. Nhưng làm thế nào để có thể đi? Nếu bạn đang tự hỏi câu đó, thì tôi có tin mừng cho bạn: du lịch bụi không phải là chế tạo tên lửa. Nó dễ thôi, và không tốn nhiều tiền như ta tưởng.”
@@ -48,3 +49,25 @@ Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21
 - “nhẫn”, (Location 378)
 - Sẽ luôn có cái gì đó ngăn cản bạn thực hiện điều mình muốn: công việc dồn dập, kỳ thi sắp đến, chưa có đủ tiền (mà tiền chẳng bao giờ là đủ), hay vướng bận gia đình... (Location 405)
 - Khi đến một vùng đất lạ, đừng ghé thăm viện bảo tàng hay di tích lịch sử, mà hãy đến ngay một khu chợ địa phương. Lịch sử trong bảo tàng là lịch sử chết, còn lịch sử ở chợ trời mới là lịch sử sống. (Location 1516)
+- “Hai mươi năm sau nhìn lại, bạn sẽ thất vọng vì những gì mình chưa làm hơn là những gì bạn đã làm”. (Location 3936)
+    - Note: Làm sao mà nhớ được mình CHƯA làm chuyện gì?
+- “Hai mươi năm sau, mình có thất vọng vì đã bỏ lỡ cơ hội này không?” (Location 3939)
+	- Note: Thật ra là trong lòng đã muốn đi rồi, chỉ chờ dịp để xuất phát thôi, còn đây cũng chỉ là những lí do vớ vẩn!
+- “Chân ta đi ôm mặt đất nồng ấm, tim ta say yêu cơn gió lang thang. Và tóc ta khát mãi trời xanh tươi”. (Location 4601)
+- “Happiness is the journey, not the destination”. “Hạnh phúc là trên đường, không phải là điểm đến”, (Location 4608)
+- Tốt nhất là có một số kinh nghiệm giắt lưng, có tí “common sense” nhất định trước khi lên đường đi bụi. (Location 4655)
+- Banana Pancake Trail - Cung đường Bánh Chuối, (Location 4658)
+- Thà mặc quần rách mông mà đi khắp thế giới. Còn hơn nhốt mình trong biệt thự với đô la. (Location 4857)
+
+## My review
+
+`231109`
+
+4/5
+
+Mặc dù thông tin đã cũ (2015) nhưng tinh thần chung về "tuổi trẻ nên đi khám phá" vẫn y nguyên như thế!
+
+
+> [!Example] Xem thêm
+> - [John đi tìm Hùng](./John%20%C4%91i%20t%C3%ACm%20H%C3%B9ng.md)
+> - [Đường Biên Hạnh Phúc](./%C4%90%C6%B0%E1%BB%9Dng%20Bi%C3%AAn%20H%E1%BA%A1nh%20Ph%C3%BAc.md)
