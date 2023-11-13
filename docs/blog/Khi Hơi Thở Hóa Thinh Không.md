@@ -22,7 +22,8 @@ Last_Read: 2021-10-18
 # Khi hơi thở hoá thinh không
 [Author:: [Paul Kalanithi](../../Paul%20Kalanithi.md)] - (Publication_Year:: 2016)
 
-![150](../assets/img/Khi%20H%C6%A1i%20Th%E1%BB%9F%20H%C3%B3a%20Thinh%20Kh%C3%B4ng-1685030608967.jpeg)
+![](https://i.imgur.com/HHwdD7E.jpg)
+
 
 Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21171&authkey=!ACRGB9N6rol-1bQ)
 
@@ -40,7 +41,7 @@ Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21
 
 Nhân dịp đọc lần 5: 18/10/2021
 
-Ý nghĩa có lẽ nằm ở chỗ phấn đấu.
+Ý nghĩa *có lẽ* nằm ở chỗ phấn đấu.
 
 Biết đc rằng, trong phòng mổ, 2 kim đồng hồ ở vị trí ngẫu nhiên.
 Ngẫm ra, ý nghĩa cuộc đời có lẽ nằm ở chỗ chăm chỉ làm việc và cống hiến..
