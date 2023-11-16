@@ -65,11 +65,11 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
   - pymdownx.tabbed:
-    alternate_style: true
-    combine_header_slug: true
-    slugify: !!python/object/apply:pymdownx.slugs.slugify
-      kwds:
-        case: lower
+      alternate_style: true
+      combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   - toc:
       permalink: true
 
