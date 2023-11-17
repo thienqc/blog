@@ -37,6 +37,7 @@ plugins:
   - blogging:
       dirs:
         - blog
+      template: override/custom-blog.html
       features:
         tags:
           index_page: tags.md

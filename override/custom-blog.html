@@ -1,0 +1,36 @@
+{# Import the original template, required. #}
+{% extends "blog.html" %}
+
+{# A macro to render a blog entry, required. #}
+{% macro render_blog(title, description, time, url, page) -%}
+<div class="blog-post">
+    <h3 class="blog-post-title">
+        <a class="link" href="{{ url }}">{{ title }}</a>
+    </h3>
+
+    {% if show_tags and "tags" in page.meta %}
+        {% call render_tags(page.meta["tags"], index_url) %}
+        {% endcall %}
+    {% endif %}
+
+    <p class="blog-post-description">
+        {{ description }}
+    </p>
+    <div class="blog-post-extra">
+        Updated on  
+        <span>{{ time }}</span>
+    </div>
+    <hr />
+</div>
+{{ caller() }}
+{%- endmacro %}
+
+{# Custom css, optional. #}
+{% block style %}
+{{ super() }}
+<style>
+    .md-typeset .blog-post-description {
+        margin-bottom: 0;
+    }
+</style>
+{% endblock %}
