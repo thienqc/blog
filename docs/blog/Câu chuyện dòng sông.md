@@ -8,9 +8,10 @@ Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 254
 tags:
   - KhoSach
+  - Reading_challenge_RC_2023
 type:
   - Book
-Last_Read: 
+Last_Read: 2023-11-11
 ---
 
 # Câu chuyện dòng sông
