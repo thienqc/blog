@@ -21,6 +21,6 @@ sấm chớp → mưa → cầu vồng → màu đỏ → cờ Việt Nam → H�
 
 :v
 
-Obsidian cũng có một plugin là [Journey)](https://github.com/akaalias/obsidian-journey-plugin) giúp tìm ra con đường kết nối giữa các node khá là thú vị!
+Obsidian cũng có một plugin là [Journey](https://github.com/akaalias/obsidian-journey-plugin) giúp tìm ra con đường kết nối giữa các node khá là thú vị!
 
 ![](https://i.imgur.com/Jbh3S6O.png)
