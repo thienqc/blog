@@ -1,9 +1,10 @@
 ---
 share: true
-date: 2023-11-13
+date: 2023-11-20
 tags:
   - KhoSach
   - Phuot
+  - Reading_challenge_RC_2023
 URL: https://www.goodreads.com/book/show/40787020
 description: 
 Cover: Hoang Dã - Hành trình tìm lại mình trên Đường mòn Pacific Crest-1699873665090.jpeg
@@ -11,7 +12,7 @@ Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 386
 type:
   - Book
-Last_Read: 
+Last_Read: 2023-11-20
 ---
 
 # Hoang Dã: Hành trình tìm lại mình trên Đường mòn Pacific Crest
