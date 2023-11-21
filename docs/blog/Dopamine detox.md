@@ -29,3 +29,4 @@ date: 2023-06-06
 
 > [!Example] Xem thêm
 > - [Nghiện game](./Nghi%E1%BB%87n%20game.md) 
+> - [Thử thách 72h không dùng Facebook](./Th%E1%BB%AD%20th%C3%A1ch%2072h%20kh%C3%B4ng%20d%C3%B9ng%20Facebook.md)
