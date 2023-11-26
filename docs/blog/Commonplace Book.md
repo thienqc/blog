@@ -20,3 +20,5 @@ Mình cho rằng nó rất giống với Second Brain...
 
 [Commonplace book - Wikipedia](https://en.wikipedia.org/wiki/Commonplace_book)
 
+[Bản thảo Voynich được viết bằng một thứ ngôn ngữ bí ẩn.](https://www.facebook.com/www.ctump.edu.vn/posts/pfbid03wdS9TK6ocZtUUUVt6m5toHKjz8mZo9Shd9ManFPoitL9y8VZda5sEptQBEgKU1gl)
+
