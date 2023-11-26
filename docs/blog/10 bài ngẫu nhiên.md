@@ -3,13 +3,13 @@ share: true
 ---
 # 10 bài ngẫu nhiên
 
-- [Câu chuyện dòng sông](./C%C3%A2u%20chuy%E1%BB%87n%20d%C3%B2ng%20s%C3%B4ng.md) 
-- [PHIM cho người Yêu Du Lịch l Tập Tành Làm Vlog](./PHIM%20cho%20ng%C6%B0%E1%BB%9Di%20Y%C3%AAu%20Du%20L%E1%BB%8Bch%20l%20T%E1%BA%ADp%20T%C3%A0nh%20L%C3%A0m%20Vlog.md) 
-- [Test dataview](./Test%20dataview.md) 
-- [Đọc sách (2023.10)](./%C4%90%E1%BB%8Dc%20s%C3%A1ch%20(2023.10).md) 
-- [Điều Kỳ Diệu Của Tiệm Tạp Hóa Namiya](./%C4%90i%E1%BB%81u%20K%E1%BB%B3%20Di%E1%BB%87u%20C%E1%BB%A7a%20Ti%E1%BB%87m%20T%E1%BA%A1p%20H%C3%B3a%20Namiya.md) 
-- [Việt Nam tươi đẹp](./Vi%E1%BB%87t%20Nam%20t%C6%B0%C6%A1i%20%C4%91%E1%BA%B9p.md) 
+- [Map Of Content (MOC)](./Map%20Of%20Content%20(MOC).md) 
+- [Hồ Trị An camping - 231023](./H%E1%BB%93%20Tr%E1%BB%8B%20An%20camping%20-%20231023.md) 
+- [Sisyphus thời hiện đại](./Sisyphus%20th%E1%BB%9Di%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i.md) 
+- [ĐỜI NGƯỜI DƯỚI CHỦ NGHĨA HIỆN SINH VÀ CẤU TRÚC](./%C4%90%E1%BB%9CI%20NG%C6%AF%E1%BB%9CI%20D%C6%AF%E1%BB%9AI%20CH%E1%BB%A6%20NGH%C4%A8A%20HI%E1%BB%86N%20SINH%20V%C3%80%20C%E1%BA%A4U%20TR%C3%9AC.md) 
+- [Dinh ngày mưa](./Dinh%20ng%C3%A0y%20m%C6%B0a.md) 
 - [Thói quen hằng ngày của Haruki Murakami](./Th%C3%B3i%20quen%20h%E1%BA%B1ng%20ng%C3%A0y%20c%E1%BB%A7a%20Haruki%20Murakami.md) 
-- [Tự học - một nhu cầu thời đại](./T%E1%BB%B1%20h%E1%BB%8Dc%20-%20m%E1%BB%99t%20nhu%20c%E1%BA%A7u%20th%E1%BB%9Di%20%C4%91%E1%BA%A1i.md) 
-- [Tôi Tự Học](./T%C3%B4i%20T%E1%BB%B1%20H%E1%BB%8Dc.md) 
-- [Tại Sao Bạn Nên Đọc Sách](./T%E1%BA%A1i%20Sao%20B%E1%BA%A1n%20N%C3%AAn%20%C4%90%E1%BB%8Dc%20S%C3%A1ch.md)
+- [Why do we 'need a reason' to do things](./Why%20do%20we%20'need%20a%20reason'%20to%20do%20things.md) 
+- [Mất lửa](./M%E1%BA%A5t%20l%E1%BB%ADa.md) 
+- [Hôm nay tôi tốt nghiệp](./H%C3%B4m%20nay%20t%C3%B4i%20t%E1%BB%91t%20nghi%E1%BB%87p.md) 
+- [Ta ba lô trên đất Á](./Ta%20ba%20l%C3%B4%20tr%C3%AAn%20%C4%91%E1%BA%A5t%20%C3%81.md) 

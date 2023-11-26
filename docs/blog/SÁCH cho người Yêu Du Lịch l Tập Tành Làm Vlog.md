@@ -28,7 +28,7 @@ Có câu nói là, không phải ai đọc sách cũng thích đi du lịch, nh�
 - Nhật kí Che Guevara
 - Bhutan đường tới hạnh phúc
 - Cuộc phiêu lưu cuối cùng của Feynman
-- Tôi là một con lừa
+- [Tôi là một con lừa](../../T%C3%B4i%20l%C3%A0%20m%E1%BB%99t%20con%20l%E1%BB%ABa.md)
 - Con đường hồi giáo
 - Từ bàn môn điếm đến Chernobyl
 - Chốc lát những bến bờ
