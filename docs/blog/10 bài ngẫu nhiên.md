@@ -3,13 +3,13 @@ share: true
 ---
 # 10 bài ngẫu nhiên
 
-- [Map Of Content (MOC)](./Map%20Of%20Content%20(MOC).md) 
-- [Hồ Trị An camping - 231023](./H%E1%BB%93%20Tr%E1%BB%8B%20An%20camping%20-%20231023.md) 
-- [Sisyphus thời hiện đại](./Sisyphus%20th%E1%BB%9Di%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i.md) 
-- [ĐỜI NGƯỜI DƯỚI CHỦ NGHĨA HIỆN SINH VÀ CẤU TRÚC](./%C4%90%E1%BB%9CI%20NG%C6%AF%E1%BB%9CI%20D%C6%AF%E1%BB%9AI%20CH%E1%BB%A6%20NGH%C4%A8A%20HI%E1%BB%86N%20SINH%20V%C3%80%20C%E1%BA%A4U%20TR%C3%9AC.md) 
-- [Dinh ngày mưa](./Dinh%20ng%C3%A0y%20m%C6%B0a.md) 
-- [Thói quen hằng ngày của Haruki Murakami](./Th%C3%B3i%20quen%20h%E1%BA%B1ng%20ng%C3%A0y%20c%E1%BB%A7a%20Haruki%20Murakami.md) 
-- [Why do we 'need a reason' to do things](./Why%20do%20we%20'need%20a%20reason'%20to%20do%20things.md) 
-- [Mất lửa](./M%E1%BA%A5t%20l%E1%BB%ADa.md) 
-- [Hôm nay tôi tốt nghiệp](./H%C3%B4m%20nay%20t%C3%B4i%20t%E1%BB%91t%20nghi%E1%BB%87p.md) 
-- [Ta ba lô trên đất Á](./Ta%20ba%20l%C3%B4%20tr%C3%AAn%20%C4%91%E1%BA%A5t%20%C3%81.md) 
+- [Bàn về học sâu](./B%C3%A0n%20v%E1%BB%81%20h%E1%BB%8Dc%20s%C3%A2u.md) 
+- [Đường Biên Hạnh Phúc](./%C4%90%C6%B0%E1%BB%9Dng%20Bi%C3%AAn%20H%E1%BA%A1nh%20Ph%C3%BAc.md) 
+- [Thần Thoại Sisyphus](./Th%E1%BA%A7n%20Tho%E1%BA%A1i%20Sisyphus.md) 
+- [Tôi Nói Gì Khi Nói Về Chạy Bộ](./T%C3%B4i%20N%C3%B3i%20G%C3%AC%20Khi%20N%C3%B3i%20V%E1%BB%81%20Ch%E1%BA%A1y%20B%E1%BB%99.md) 
+- [Tại Sao Bạn Nên Đọc Sách](./T%E1%BA%A1i%20Sao%20B%E1%BA%A1n%20N%C3%AAn%20%C4%90%E1%BB%8Dc%20S%C3%A1ch.md) 
+- [Linh thao](./Linh%20thao.md) 
+- [Làm gì cho yêu đời](./L%C3%A0m%20g%C3%AC%20cho%20y%C3%AAu%20%C4%91%E1%BB%9Di.md) 
+- [Obsidian Image plugin](./Obsidian%20Image%20plugin.md) 
+- [Cách mình đồng bộ Obsidian giữa các thiết bị](./C%C3%A1ch%20m%C3%ACnh%20%C4%91%E1%BB%93ng%20b%E1%BB%99%20Obsidian%20gi%E1%BB%AFa%20c%C3%A1c%20thi%E1%BA%BFt%20b%E1%BB%8B.md) 
+- [Sự biết](./S%E1%BB%B1%20bi%E1%BA%BFt.md) 
