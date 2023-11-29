@@ -1,15 +1,16 @@
 ---
 share: true
 ---
+
 # 10 bài ngẫu nhiên
 
-- [Bàn về học sâu](./B%C3%A0n%20v%E1%BB%81%20h%E1%BB%8Dc%20s%C3%A2u.md) 
-- [Đường Biên Hạnh Phúc](./%C4%90%C6%B0%E1%BB%9Dng%20Bi%C3%AAn%20H%E1%BA%A1nh%20Ph%C3%BAc.md) 
-- [Thần Thoại Sisyphus](./Th%E1%BA%A7n%20Tho%E1%BA%A1i%20Sisyphus.md) 
-- [Tôi Nói Gì Khi Nói Về Chạy Bộ](./T%C3%B4i%20N%C3%B3i%20G%C3%AC%20Khi%20N%C3%B3i%20V%E1%BB%81%20Ch%E1%BA%A1y%20B%E1%BB%99.md) 
-- [Tại Sao Bạn Nên Đọc Sách](./T%E1%BA%A1i%20Sao%20B%E1%BA%A1n%20N%C3%AAn%20%C4%90%E1%BB%8Dc%20S%C3%A1ch.md) 
-- [Linh thao](./Linh%20thao.md) 
-- [Làm gì cho yêu đời](./L%C3%A0m%20g%C3%AC%20cho%20y%C3%AAu%20%C4%91%E1%BB%9Di.md) 
-- [Obsidian Image plugin](./Obsidian%20Image%20plugin.md) 
-- [Cách mình đồng bộ Obsidian giữa các thiết bị](./C%C3%A1ch%20m%C3%ACnh%20%C4%91%E1%BB%93ng%20b%E1%BB%99%20Obsidian%20gi%E1%BB%AFa%20c%C3%A1c%20thi%E1%BA%BFt%20b%E1%BB%8B.md) 
-- [Sự biết](./S%E1%BB%B1%20bi%E1%BA%BFt.md) 
+- [Tự học - một nhu cầu thời đại](./T%E1%BB%B1%20h%E1%BB%8Dc%20-%20m%E1%BB%99t%20nhu%20c%E1%BA%A7u%20th%E1%BB%9Di%20%C4%91%E1%BA%A1i.md) 
+- [DIY Alcohol Stove](./DIY%20Alcohol%20Stove.md) 
+- [Mất lửa](./M%E1%BA%A5t%20l%E1%BB%ADa.md) 
+- [DABDA](./DABDA.md) 
+- [Notecard system](./Notecard%20system.md) 
+- [Quá nhiều app ghi chú, chọn cái nào bây giờ](./Qu%C3%A1%20nhi%E1%BB%81u%20app%20ghi%20ch%C3%BA,%20ch%E1%BB%8Dn%20c%C3%A1i%20n%C3%A0o%20b%C3%A2y%20gi%E1%BB%9D.md) 
+- [Cách ghép các note nhỏ trong Obsidian](./C%C3%A1ch%20gh%C3%A9p%20c%C3%A1c%20note%20nh%E1%BB%8F%20trong%20Obsidian.md) 
+- [DATABASE Notion vs DATAVIEW Obsidian](./DATABASE%20Notion%20vs%20DATAVIEW%20Obsidian.md) 
+- [Obsidian Aliases](./Obsidian%20Aliases.md) 
+- [Hoang Dã - Hành trình tìm lại mình trên Đường mòn Pacific Crest](./Hoang%20D%C3%A3%20-%20H%C3%A0nh%20tr%C3%ACnh%20t%C3%ACm%20l%E1%BA%A1i%20m%C3%ACnh%20tr%C3%AAn%20%C4%90%C6%B0%E1%BB%9Dng%20m%C3%B2n%20Pacific%20Crest.md) 
