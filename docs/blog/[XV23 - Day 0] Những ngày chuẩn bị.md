@@ -52,7 +52,7 @@ description:
 
 ### Đồ công nghệ
 - Điện thoại pixel 4a5G
-- Sạc dự phòng 10000ma
+- Sạc dự phòng 10000mAh
 - Kindle
 - Máy ghi âm
 - Tai nghe
@@ -88,7 +88,26 @@ description:
 - Dây
 - Khăn ướt
 
-Khối lượng khoảng 15kg
+![](https://i.imgur.com/2myN2lD.png)
+
+Khối lượng khoảng **15kg** (người ta khuyên không quá 20% trọng lượng cơ thể, nhưng mà thấy toàn đồ cần thiết, có lẽ sẽ xem xét bỏ bớt lại sau khi đi vài ngày)
+
+## Lịch trình dự kiến
+Những nơi sẽ ghé qua
+- Lâm Đồng: Bảo Lộc, Đà Lạt, đỉnh LangBiang
+- Ninh Thuận
+- Khánh Hoà: Nha Trang, núi cô Tiên, cực đông
+- Phú Yên
+- Kontum: cột mốc 3 nước
+- Bình Định
+- Quảng Ngãi
+- Đà Nẵng
+- Huế
+- Quảng Nam: Hội An
+- Quảng Trị: La Vang
+- Hà Nội
+- Hải Phòng
+- Vùng Tây Bắc, Đông Bắc
 
 > [!Example] Xem thêm
 > [Xuyên việt 2023](../../Xuy%C3%AAn%20vi%E1%BB%87t%202023.md)
