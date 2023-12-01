@@ -94,6 +94,7 @@ Khối lượng khoảng **15kg** (người ta khuyên không quá 20% trọng l
 
 ## Lịch trình dự kiến
 Những nơi sẽ ghé qua
+
 - Lâm Đồng: Bảo Lộc, Đà Lạt, đỉnh LangBiang
 - Ninh Thuận
 - Khánh Hoà: Nha Trang, núi cô Tiên, cực đông
