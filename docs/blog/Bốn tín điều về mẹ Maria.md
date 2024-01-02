@@ -5,7 +5,7 @@ tags:
 date: 2024-01-01
 URL: 
 description: 
-permalink: /bon-tin-dieu-ve-me-maria
+permalink: bon-tin-dieu-ve-me-maria
 ---
 
 # Bốn tín điều về mẹ Maria
