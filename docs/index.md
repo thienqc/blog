@@ -6,4 +6,4 @@ exclude_from_blog: true
 
 Chọn một bài bất kì và khám phá nào 💡
 
-{{ post_content }}
+{{ blog_content }}

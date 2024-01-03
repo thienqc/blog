@@ -25,7 +25,7 @@ theme:
       - search.highlight
       - navigation.footer
 
-copyright: Copyright &copy; 2023 thienqc
+copyright: Copyright &copy; 2024 thienqc
 
 
 
@@ -36,7 +36,7 @@ plugins:
   - callouts
   - blogging:
       dirs:
-        - blog
+        - post
       template: override/custom-blog.html
       features:
         tags:
