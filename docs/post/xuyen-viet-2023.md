@@ -1,6 +1,5 @@
 ---
 filename: xuyen-viet-2023
-done: true
 share: true
 tags:
   - XV23
@@ -13,8 +12,8 @@ aliases:
 ---
 
 # Xuyên việt 2023
-- [XV23 - Ngày 00 • Những ngày chuẩn bị](../../XV23-ngay-00.md)
-- [XV23 - ngày 01 • Lâm Đồng](../../XV23-ngay-01.md)
+- [XV23 - Ngày 00 • Những ngày chuẩn bị](./xv23-ngay-00.md)
+- [XV23 - ngày 01 • Lâm Đồng](../../xv23-ngay-01.md)
 - [XV23 - ngày 02 • LangBiang](../../XV23-ngay-02.md)
 - [XV23 - ngày 03 • Bye Đà Lạt](../../XV23-ngay-03.md)
 - [XV23 - ngày 04 • Ninh Thuận](../../XV23-ngay-04.md)
