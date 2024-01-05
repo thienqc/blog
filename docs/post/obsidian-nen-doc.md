@@ -40,6 +40,7 @@ URL: https://www.facebook.com/groups/594306492570157/posts/676397947694344/
 - [Cách tạo thêm nhiều bố cục cho ghi chú như dạng card, grid, column, aside, kanban..](https://www.facebook.com/groups/594306492570157/posts/673245754676230/)
 - [Lời khuyên cho người mới bắt đầu sử dụng Obsidian](https://www.facebook.com/groups/594306492570157/posts/697620295572109/)
 - [Lộ trình học Obsidian](https://www.facebook.com/groups/594306492570157/posts/696868922313913/)
+
 **Capture**
 - [QUICK CAPTURE BẰNG GOOGLE KEEP](https://www.facebook.com/groups/obsidian.secondbrain/posts/722121669788638/)
 - [READWISE](https://www.facebook.com/groups/obsidian.secondbrain/posts/731101778890627/)
