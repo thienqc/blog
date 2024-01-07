@@ -1,9 +1,9 @@
 ---
 filename: dataview-task-example
-done: true
 share: true
 tags:
   - obsidian
+  - dataview
 date: 2023-10-28
 URL: 
 description: 
