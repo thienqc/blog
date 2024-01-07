@@ -4,9 +4,9 @@ aliases:
   - Test DATAVIEW
 description: 
 URL: 
-done: true
 tags:
   - demo
+  - dataview
 share: true
 date: 2023-09-22
 ---
