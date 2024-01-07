@@ -2,9 +2,9 @@
 filename: dataview
 aliases:
   - DATAVIEW
-done: true
 tags:
   - obsidian_plugin
+  - dataview
 date: 2023-09-17
 URL: https://www.facebook.com/groups/594306492570157/posts/707585224575616/
 share: true
@@ -79,7 +79,6 @@ As : khai bao tên của cột đó, nếu không có thì mặc định là tê
 Lưu ý:
 - Để ý SÓT dấu ”,” cuối dòng
 
-
 ### 4. `FROM #Books`
 Cho biết sẽ lấy những note nằm ở đâu, có thể là `“Folder”`, `#tag`, hoặc trong file cụ thể
 
@@ -111,3 +110,4 @@ Còn đây là bảng kiểm giúp bạn tránh những lỗi sai cơ bản: [c
 > - [Test DATAVIEW](./test-dataview.md)
 > - [Thư viện sách](./thu-vien-sach-template.md)
 > - [Dataview TASK example](./dataview-task-example.md)
+> - [Dataview Hiển thị link tới note](./dataview-hien-thi-link-toi-note.md)
