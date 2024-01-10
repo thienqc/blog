@@ -2,7 +2,6 @@
 filename: dieu-ki-dieu-cua-tiem-tap-hoa-namiya
 description: 
 URL: 
-done: true
 Cover: Điều Kỳ Diệu Của Tiệm Tạp Hóa Namiya-1685161962221.jpeg
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 358
