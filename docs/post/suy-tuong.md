@@ -2,7 +2,6 @@
 filename: suy-tuong
 description: 
 URL: 
-done: true
 Cover: Suy tưởng-1695384092586.jpeg
 Last_Read: 
 Total_Pages: 
