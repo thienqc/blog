@@ -1,6 +1,5 @@
 ---
 filename: quick-capture-bang-google-keep
-done: true
 share: true
 tags:
   - obsidian
