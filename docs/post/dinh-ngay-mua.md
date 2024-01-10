@@ -1,6 +1,5 @@
 ---
 filename: dinh-ngay-mua
-done: true
 share: true
 tags:
   - trek
