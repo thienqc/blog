@@ -1,6 +1,5 @@
 ---
 filename: kinh-thien-van-khuc-xa
-done: true
 share: true
 tags:
   - Astrology
