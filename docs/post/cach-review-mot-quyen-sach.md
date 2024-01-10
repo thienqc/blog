@@ -4,7 +4,6 @@ aliases:
   - Cách review một quyển sách
 description: 
 URL: 
-done: true
 share: true
 date: 2023-05-17
 tags:
