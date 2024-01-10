@@ -2,7 +2,6 @@
 filename: how-to-take-smart-note
 description: 
 URL: 
-done: true
 cover: How to take smart note-1697157991394.jpeg
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 
