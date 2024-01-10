@@ -2,7 +2,6 @@
 filename: notecard-system
 description: 
 URL: 
-done: true
 share: true
 tags:
   - PKM
