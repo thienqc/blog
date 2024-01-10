@@ -3,7 +3,6 @@ filename: hinh-anh-trong-obsidian
 aliases:
   - Hình ảnh trong Obsidian
 description: 
-done: true
 tags:
   - obsidian_plugin
 date: 2023-07-01
