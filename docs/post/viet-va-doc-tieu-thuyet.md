@@ -2,7 +2,6 @@
 filename: viet-va-doc-tieu-thuyet
 description: 
 URL: 
-done: true
 Cover: Viết và đọc tiểu thuyết-1688913461920.jpeg
 Last_Read: 2023-11-26
 Rating: ⭐⭐⭐
