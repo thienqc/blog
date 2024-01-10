@@ -2,7 +2,6 @@
 filename: lau-dai
 description: 
 URL: 
-done: true
 Cover: Lâu Đài-1685192028074.jpeg
 Rating: ⭐⭐⭐⭐
 Total_Pages: 330
