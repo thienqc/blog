@@ -1,6 +1,5 @@
 ---
 filename: bu-dang-binh-phuoc
-done: true
 share: true
 tags:
   - trek
