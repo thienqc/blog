@@ -4,7 +4,6 @@ aliases:
   - Tôi nói gì khi nói về chạy bộ
 description: 
 URL: 
-done: true
 Cover: Tôi Nói Gì Khi Nói Về Chạy Bộ-1685029872324.jpeg
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 236
