@@ -1,6 +1,5 @@
 ---
 filename: no-hello
-done: true
 tags:
   - hmm
 date: 2023-07-20
