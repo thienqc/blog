@@ -3,7 +3,6 @@ filename: obsidian-co-phuc-tap-hay-choang-ngop
 aliases:
   - Obsidian có phức tạp hay choáng ngợp?
 description: 
-done: true
 tags:
   - obsidian
 date: 2023-06-16
