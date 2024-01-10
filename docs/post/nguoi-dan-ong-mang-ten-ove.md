@@ -4,7 +4,6 @@ filename: nguoi-dan-ong-mang-ten-ove
 description: 
 date: 2024-01-03
 URL: 
-done: true
 Cover: Người đàn ông mang tên Ove-1693055045590.jpeg
 Last_Read: 2023-08-26
 Rating: ⭐⭐⭐⭐⭐
