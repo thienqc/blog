@@ -2,7 +2,6 @@
 filename: su-tri-hoan
 description: 
 URL: 
-done: true
 date: 2023-09-21
 tags:
   - life-style
