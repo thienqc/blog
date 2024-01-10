@@ -2,7 +2,6 @@
 filename: loi-nhan-nhu-cua-mr-thanh
 description: 
 URL: 
-done: true
 share: true
 tags:
   - career
