@@ -6,7 +6,6 @@ tags:
   - DocSach
 date: 2023-12-31
 URL: 
-done: true
 aliases:
   - Reading challenge 2023
 ---
