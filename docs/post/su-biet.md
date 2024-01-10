@@ -2,7 +2,6 @@
 filename: su-biet
 description: 
 URL: 
-done: true
 tags:
   - quote
 share: true
