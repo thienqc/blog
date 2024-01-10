@@ -2,7 +2,6 @@
 filename: review-toi-noi-gi-khi-noi-ve-chay-bo
 description: 
 URL: 
-done: true
 date: 2023-05-25
 tags:
   - Run
