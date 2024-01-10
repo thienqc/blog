@@ -1,6 +1,5 @@
 ---
 filename: co-don-hay-co-doc-khao-khat-duoc-noi-chuyen
-done: true
 share: true
 tags:
   - hmm
