@@ -1,7 +1,6 @@
 ---
 filename: triple-filter-test
 URL: 
-done: true
 tags:
   - speech
 share: true
