@@ -3,7 +3,6 @@ filename: why-do-we-need-a-reason-to-do-things
 aliases:
   - Why do we "need a reason" to do things?
 description: 
-done: true
 tags:
   - hmm
 date: 2023-07-01
