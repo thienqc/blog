@@ -8,7 +8,6 @@ description: Lại một năm nữa trôi qua, vào ngày này tôi càng muốn
 aliases:
   - Tôi viết gì khi viết về tuổi 25
 filename: toi-viet-gi-khi-viet-ve-tuoi-25
-done: true
 ---
 
 # Tôi viết gì khi viết về tuổi 25
