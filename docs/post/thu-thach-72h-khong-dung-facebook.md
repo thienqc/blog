@@ -1,6 +1,5 @@
 ---
 filename: thu-thach-72h-khong-dung-facebook
-done: true
 share: true
 tags:
   - challenge
