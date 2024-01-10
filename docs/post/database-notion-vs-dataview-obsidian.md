@@ -1,7 +1,6 @@
 ---
 filename: database-notion-vs-dataview-obsidian
 URL: 
-done: true
 date: 2023-06-09
 link: https://www.facebook.com/groups/594306492570157/posts/654784003189072/
 tags:
