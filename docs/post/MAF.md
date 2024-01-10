@@ -2,7 +2,6 @@
 filename: MAF
 description: 
 URL: 
-done: true
 date: 2023-05-27
 tags:
   - Run

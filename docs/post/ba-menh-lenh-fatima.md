@@ -1,6 +1,5 @@
 ---
 filename: ba-menh-lenh-fatima
-done: true
 share: true
 tags:
   - DucMe

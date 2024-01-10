@@ -2,7 +2,6 @@
 filename: DABDA
 description: 
 URL: 
-done: true
 date: 2022-03-20
 tags:
   - hmm

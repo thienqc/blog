@@ -1,6 +1,5 @@
 ---
 filename: hai-cau-chuyen
-done: true
 share: true
 tags:
   - love

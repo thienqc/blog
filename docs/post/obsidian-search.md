@@ -1,6 +1,5 @@
 ---
 filename: obsidian-search
-done: true
 share: true
 tags:
   - obsidian

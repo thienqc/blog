@@ -4,7 +4,6 @@ aliases:
   - Obsidian có thể làm được mọi thứ không?
 description: 
 URL: 
-done: true
 share: true
 tags:
   - PKM

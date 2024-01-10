@@ -1,6 +1,5 @@
 ---
 filename: ung-dung-read-it-later
-done: true
 share: true
 tags:
   - PKM

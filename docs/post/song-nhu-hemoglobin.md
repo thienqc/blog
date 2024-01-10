@@ -1,7 +1,6 @@
 ---
 filename: song-nhu-hemoglobin
 description: 
-done: true
 tags:
   - life-style
 date: 2023-07-03

@@ -1,6 +1,5 @@
 ---
 filename: ngay-0-o-singapore
-done: true
 share: true
 tags:
   - SG-trip

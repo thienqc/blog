@@ -2,7 +2,6 @@
 filename: khi-hoi-tho-hoa-thinh-khong
 aliases:
   - Khi hơi thở hoá thinh không
-done: true
 share: true
 tags:
   - Reading_challenge_RC_2017

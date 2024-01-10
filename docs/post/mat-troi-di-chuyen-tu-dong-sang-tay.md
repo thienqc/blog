@@ -2,7 +2,6 @@
 filename: mat-troi-di-chuyen-tu-dong-sang-tay
 aliases:
   - Mặt trời di chuyển từ Đông → Tây
-done: true
 share: true
 tags:
   - Astrology

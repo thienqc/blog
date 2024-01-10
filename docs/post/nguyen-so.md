@@ -1,6 +1,5 @@
 ---
 filename: nguyen-so
-done: true
 share: true
 tags:
   - hmm

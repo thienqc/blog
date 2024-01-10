@@ -1,6 +1,5 @@
 ---
 filename: cach-ghep-cac-note-nho-trong-obsidian
-done: true
 share: true
 tags:
   - obsidian

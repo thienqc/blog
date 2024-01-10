@@ -4,7 +4,6 @@ aliases:
   - Thành trì
 description: 
 URL: 
-done: true
 Cover: Thành trì-1685071436124.jpeg
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 532

@@ -1,6 +1,5 @@
 ---
 filename: john-di-tim-hung
-done: true
 share: true
 tags:
   - Reading_challenge_RC_2018

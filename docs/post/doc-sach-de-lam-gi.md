@@ -1,6 +1,5 @@
 ---
 filename: doc-sach-de-lam-gi
-done: true
 share: true
 tags:
   - short-story

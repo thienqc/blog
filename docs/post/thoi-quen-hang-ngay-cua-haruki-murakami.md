@@ -1,6 +1,5 @@
 ---
 filename: thoi-quen-hang-ngay-cua-haruki-murakami
-done: true
 share: true
 tags:
   - life-style

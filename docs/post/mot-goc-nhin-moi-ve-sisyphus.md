@@ -1,6 +1,5 @@
 ---
 filename: mot-goc-nhin-moi-ve-sisyphus
-done: true
 share: true
 tags:
   - Sisyphus

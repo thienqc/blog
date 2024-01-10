@@ -4,7 +4,6 @@ aliases:
   - Làm thế nào để NOTION chạy nhanh hơn
 description: 
 URL: 
-done: true
 tags:
   - notion
 share: true

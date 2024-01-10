@@ -3,7 +3,6 @@ filename: the-nao-la-mot-ngay-tuyet-voi
 aliases:
   - Thế nào là một ngày tuyệt vời?
 description: 
-done: true
 tags:
   - life-style
 date: 2023-07-04

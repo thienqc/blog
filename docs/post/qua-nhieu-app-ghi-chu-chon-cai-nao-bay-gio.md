@@ -8,7 +8,6 @@ URL:
 description: 
 aliases:
   - Quá nhiều app ghi chú, chọn cái nào bây giờ
-done: true
 ---
 
 # Quá nhiều app ghi chú, chọn cái nào bây giờ

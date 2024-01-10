@@ -1,6 +1,5 @@
 ---
 filename: Q&A-obsidian
-done: true
 share: true
 tags:
   - obsidian

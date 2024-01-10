@@ -1,7 +1,6 @@
 ---
 filename: dice-roller-plugin
 URL: 
-done: true
 share: true
 date: 2023-09-25
 tags:

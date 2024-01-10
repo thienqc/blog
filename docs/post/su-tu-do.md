@@ -2,7 +2,6 @@
 filename: su-tu-do
 aliases:
   - SỰ TỰ DO
-done: true
 share: true
 tags:
   - hmm

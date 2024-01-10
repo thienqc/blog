@@ -1,6 +1,5 @@
 ---
 filename: commonplace-book
-done: true
 share: true
 tags:
   - PKM

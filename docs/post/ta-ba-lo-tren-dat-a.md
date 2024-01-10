@@ -2,7 +2,6 @@
 filename: ta-ba-lo-tren-dat-a
 description: 
 URL: 
-done: true
 Cover: Pasted image 20231107221519.png
 Rating: ⭐⭐⭐⭐
 Total_Pages: 331

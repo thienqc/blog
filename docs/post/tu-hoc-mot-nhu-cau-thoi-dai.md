@@ -2,7 +2,6 @@
 filename: tu-hoc-mot-nhu-cau-thoi-dai
 description: 
 URL: 
-done: true
 Cover: Tự học - một nhu cầu thời đại-1685026446708.jpeg
 Rating: ""
 Total_Pages: 317

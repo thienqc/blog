@@ -2,7 +2,6 @@
 filename: doc
 aliases:
   - ĐỌC
-done: true
 share: true
 tags:
   - reading

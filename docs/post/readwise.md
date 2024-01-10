@@ -1,6 +1,5 @@
 ---
 filename: readwise
-done: true
 share: true
 tags:
   - PKM

@@ -1,6 +1,5 @@
 ---
 filename: taut-line-hitch
-done: true
 share: true
 tags:
   - trek

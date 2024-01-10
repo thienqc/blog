@@ -3,7 +3,6 @@ filename: obsidian-importer
 aliases:
   - OBSIDIAN IMPORTER
 description: 
-done: true
 tags:
   - obsidian_plugin
 date: 2023-08-13

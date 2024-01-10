@@ -2,7 +2,6 @@
 filename: the-wiki-game
 aliases:
   - Game "kết nối"
-done: true
 share: true
 tags:
   - game

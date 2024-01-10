@@ -1,6 +1,5 @@
 ---
 filename: sexy-move-method
-done: true
 share: true
 tags:
   - rubik

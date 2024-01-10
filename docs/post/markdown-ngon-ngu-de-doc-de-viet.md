@@ -2,7 +2,6 @@
 filename: markdown-ngon-ngu-de-doc-de-viet
 aliases:
   - MARKDOWN - NGÔN NGỮ DỄ ĐỌC DỄ VIẾT
-done: true
 tags:
   - obsidian
 date: 2023-07-19

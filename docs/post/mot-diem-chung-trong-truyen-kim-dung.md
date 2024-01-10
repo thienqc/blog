@@ -2,7 +2,6 @@
 filename: mot-diem-chung-trong-truyen-kim-dung
 aliases:
   - Một điểm chung trong truyện Kim Dung
-done: true
 share: true
 tags:
   - Book

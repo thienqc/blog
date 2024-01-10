@@ -4,7 +4,6 @@ aliases:
   - Suối nguồn
 description: 
 URL: 
-done: true
 Cover: Suối nguồn-1685070788468.jpeg
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 1210

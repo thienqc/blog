@@ -8,7 +8,6 @@ URL:
 description: Vị Thánh của ngày
 aliases:
   - Saint of the Day
-done: true
 ---
 
 # Saint of the Day

@@ -2,7 +2,6 @@
 filename: know-thyself
 aliases:
   - Know thyself (Γνώθι σαυτόν)
-done: true
 share: true
 tags:
   - manga

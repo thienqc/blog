@@ -2,7 +2,6 @@
 filename: doc-sach-2023-12
 aliases:
   - Đọc sách - T12.2023
-done: true
 share: true
 tags:
   - DocSach
@@ -17,7 +16,7 @@ Tháng này mình đi [xuyên Việt](./xuyen-viet-2023.md) nhưng mình cũng c
 
 [Việt Nam phong tục](../../Vi%E1%BB%87t%20Nam%20phong%20t%E1%BB%A5c.md)
 
-[Được học](../../%C4%90%C6%B0%E1%BB%A3c%20h%E1%BB%8Dc.md)
+[duoc-hoc](./duoc-hoc.md)
 
 [Người gác đêm 2](../../Ng%C6%B0%E1%BB%9Di%20g%C3%A1c%20%C4%91%C3%AAm%202.md)
 

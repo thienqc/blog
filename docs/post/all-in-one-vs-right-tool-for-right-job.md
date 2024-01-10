@@ -3,7 +3,6 @@ filename: all-in-one-vs-right-tool-for-right-job
 aliases:
   - BẠN CHỌN "APP-TẤT-CẢ-TRONG-MỘT" HAY "ĐÚNG-APP-ĐÚNG-VIỆC"?
 description: 
-done: true
 tags:
   - PKM
   - obsidian

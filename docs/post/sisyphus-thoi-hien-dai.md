@@ -1,6 +1,5 @@
 ---
 filename: sisyphus-thoi-hien-dai
-done: true
 tags:
   - Reflection
 date: 2023-07-07

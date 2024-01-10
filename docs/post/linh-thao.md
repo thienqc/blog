@@ -1,6 +1,5 @@
 ---
 filename: linh-thao
-done: true
 share: true
 tags:
   - AMDG

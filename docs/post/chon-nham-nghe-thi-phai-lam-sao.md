@@ -4,7 +4,6 @@ aliases:
   - CHỌN NHẦM NGHỀ THÌ PHẢI LÀM SAO???
 description: 
 URL: 
-done: true
 date: 2022-05-16
 tags:
   - Reference

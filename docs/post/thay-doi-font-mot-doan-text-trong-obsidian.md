@@ -1,6 +1,5 @@
 ---
 filename: thay-doi-font-mot-doan-text-trong-obsidian
-done: true
 share: true
 tags:
   - obsidian

@@ -2,7 +2,6 @@
 filename: review-dieu-ki-dieu-cua-tiem-tap-hoa-namiya
 description: 
 URL: 
-done: true
 share: true
 tags:
   - Book

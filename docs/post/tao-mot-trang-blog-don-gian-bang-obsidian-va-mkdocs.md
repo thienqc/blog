@@ -1,7 +1,6 @@
 ---
 filename: tao-mot-trang-blog-don-gian-bang-obsidian-va-mkdocs
 URL: 
-done: true
 share: true
 tags:
   - tech

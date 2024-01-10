@@ -1,6 +1,5 @@
 ---
 filename: cach-nhom-lua-trong-thoi-tiet-am-uot
-done: true
 share: true
 tags:
   - camping

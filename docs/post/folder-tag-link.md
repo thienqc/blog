@@ -2,7 +2,6 @@
 filename: folder-tag-link
 aliases:
   - Folder - Tag - Link
-done: true
 tags:
   - obsidian
   - PKM

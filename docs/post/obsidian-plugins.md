@@ -2,7 +2,6 @@
 filename: obsidian-plugins
 aliases:
   - Obsidian plugins
-done: true
 share: true
 tags:
   - obsidian_plugin

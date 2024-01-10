@@ -1,6 +1,5 @@
 ---
 filename: obsidian-aliases
-done: true
 share: true
 tags:
   - obsidian

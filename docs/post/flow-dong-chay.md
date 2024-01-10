@@ -2,7 +2,6 @@
 filename: flow-dong-chay
 description: 
 URL: 
-done: true
 Cover: Flow - dòng chảy-1689083222029.jpeg
 Last_Read: 
 Rating: ""

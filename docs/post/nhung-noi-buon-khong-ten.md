@@ -3,7 +3,6 @@ filename: nhung-noi-buon-khong-ten
 aliases:
   - Những nỗi buồn không tên
 description: 
-done: true
 tags:
   - hmm
 date: 2023-07-06

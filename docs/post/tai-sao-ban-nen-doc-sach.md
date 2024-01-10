@@ -4,7 +4,6 @@ aliases:
   - Tại sao bạn nên đọc sách
 description: 
 URL: 
-done: true
 date: 2023-06-10
 link: https://tve-4u.org/threads/tai-sao-ban-nen-doc-sach.16677/
 tags:
