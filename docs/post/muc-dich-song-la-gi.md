@@ -4,7 +4,6 @@ aliases:
   - Mục đích sống là gì
 description: 
 URL: 
-done: true
 tags:
   - SIY
 date: 2023-05-25
