@@ -2,7 +2,6 @@
 filename: thu-vien-sach-template
 aliases:
   - THƯ VIỆN SÁCH template
-done: true
 tags:
   - obsidian
 date: 2023-08-22
