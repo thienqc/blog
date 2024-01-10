@@ -1,6 +1,5 @@
 ---
 filename: cau-chuyen-dong-song
-done: true
 share: true
 date: 2023-11-11
 URL: 
