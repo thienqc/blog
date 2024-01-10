@@ -2,7 +2,6 @@
 filename: nghien-game
 description: 
 URL: 
-done: true
 share: true
 tags:
   - life-style
