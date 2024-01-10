@@ -2,7 +2,6 @@
 filename: review-thanh-tri
 aliases:
   - Review Thành trì
-done: true
 tags:
   - Book
   - Reflection
