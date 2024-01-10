@@ -1,6 +1,5 @@
 ---
 filename: ho-tri-an-camping-231023
-done: true
 share: true
 tags:
   - camp
