@@ -2,7 +2,6 @@
 filename: lang-biang-peak
 description: 
 URL: 
-done: true
 date: 2021-05-03
 tags:
   - trip
