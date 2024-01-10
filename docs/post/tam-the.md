@@ -2,7 +2,6 @@
 filename: tam-the
 description: 
 URL: 
-done: true
 Cover: Tam thể-1698154101560.jpeg
 Last_Read: 2023-09-26
 Rating: ⭐⭐⭐⭐
