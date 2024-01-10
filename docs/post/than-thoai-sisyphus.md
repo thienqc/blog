@@ -2,7 +2,6 @@
 filename: than-thoai-sisyphus
 description: 
 URL: 
-done: true
 Cover: Thần Thoại Sisyphus-1685195279791.jpeg
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 204
