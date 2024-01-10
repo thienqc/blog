@@ -1,6 +1,5 @@
 ---
 filename: deo-hai-van
-done: true
 share: true
 tags:
   - trek
