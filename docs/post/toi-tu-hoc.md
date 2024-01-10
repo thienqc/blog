@@ -4,7 +4,6 @@ aliases:
   - Tôi tự học
 description: 
 URL: 
-done: true
 Cover: Tôi Tự Học-1685061893022.jpeg
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 264
