@@ -2,7 +2,6 @@
 filename: ren-luyen-ky-nang-sinh-ton-noi-hoang-da
 description: 
 URL: 
-done: true
 Cover: Rèn Luyện Kỹ Năng Sinh Tồn Nơi Hoang Dã-1698154148695.jpeg
 Last_Read: 2023-10-21
 Rating: ⭐⭐⭐⭐⭐
