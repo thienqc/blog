@@ -2,7 +2,6 @@
 filename: Numagician
 description: 
 URL: 
-done: true
 Cover: Numagician I - Những Con Số Ảo Thuật-1685193409027.jpeg
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 182
