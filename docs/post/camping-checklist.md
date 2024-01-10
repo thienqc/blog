@@ -1,6 +1,5 @@
 ---
 filename: camping-checklist
-done: true
 share: true
 tags:
   - camp
