@@ -4,7 +4,6 @@ aliases:
   - Quái vật ghé thăm
 description: 
 URL: 
-done: true
 Cover: Quái vật ghé thăm-1685059227477.jpeg
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 214
