@@ -2,7 +2,6 @@
 filename: loi-the-bat-cong
 aliases:
   - The Unfair Advantage - Lợi thế bất công
-done: true
 share: true
 tags:
   - life
