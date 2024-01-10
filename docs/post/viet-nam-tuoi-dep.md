@@ -1,6 +1,5 @@
 ---
 filename: viet-nam-tuoi-dep
-done: true
 share: true
 tags:
   - trip
