@@ -1,6 +1,5 @@
 ---
 filename: neu-mot-ngay-notion-bien-mat
-done: true
 share: true
 tags:
   - notion
