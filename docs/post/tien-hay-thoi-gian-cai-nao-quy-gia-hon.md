@@ -4,7 +4,6 @@ aliases:
   - Tiền hay thời gian, cái nào quý giá hơn?
 description: 
 URL: 
-done: true
 date: 2023-03-20
 tags:
   - hmm
