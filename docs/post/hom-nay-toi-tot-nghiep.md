@@ -1,6 +1,5 @@
 ---
 filename: hom-nay-toi-tot-nghiep
-done: true
 share: true
 tags:
   - Sisyphus
