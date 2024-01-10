@@ -1,6 +1,5 @@
 ---
 filename: stick-compass
-done: true
 share: true
 tags:
   - trek
