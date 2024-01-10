@@ -2,7 +2,6 @@
 filename: map-of-content-moc
 aliases:
   - Map of Content (MOC)
-done: true
 tags:
   - obsidian
   - PKM
