@@ -1,6 +1,5 @@
 ---
 filename: quy-tac-1%
-done: true
 share: true
 tags:
   - SocialMedia
