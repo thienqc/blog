@@ -2,7 +2,6 @@
 filename: doc-sach-2023-11
 aliases:
   - Đọc sách - T11.2023
-done: true
 share: true
 tags:
   - DocSach
