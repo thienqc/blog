@@ -1,6 +1,5 @@
 ---
 filename: tri-thuc
-done: true
 share: true
 tags:
   - knowledge
