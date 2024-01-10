@@ -1,6 +1,5 @@
 ---
 filename: cac-mo-hinh-tiep-can-sap-xep-ghi-chu
-done: true
 share: true
 tags:
   - PKM
