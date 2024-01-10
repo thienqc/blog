@@ -1,6 +1,5 @@
 ---
 filename: diy-alcohol-stove
-done: true
 share: true
 tags:
   - DIY
