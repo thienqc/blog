@@ -1,5 +1,6 @@
 ---
 share: true
+ID: 240111
 filename: dataview-hien-thi-link-toi-note
 aliases:
   - Dataview Hiển thị link tới note
