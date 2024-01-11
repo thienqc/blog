@@ -3,6 +3,7 @@ filename: loi-the-bat-cong
 aliases:
   - The Unfair Advantage - Lợi thế bất công
 share: true
+ID: 240111
 tags:
   - life
 date: 2023-11-14
