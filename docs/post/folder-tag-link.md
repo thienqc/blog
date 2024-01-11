@@ -8,6 +8,7 @@ tags:
 date: 2023-06-24
 URL: https://www.facebook.com/groups/594306492570157/posts/663193479014791/
 share: true
+ID: 240111
 description: Mình nên xây dựng cấu trúc nào? Dùng thư mục hay thẻ tốt hơn? Hay chỉ nên dùng các liên kết?
 extra:
   - "[Folders vs. Links vs. Tags -  reddit](Folders%20vs.%20Links%20vs.%20Tags%20-%20%20reddit.md)"
