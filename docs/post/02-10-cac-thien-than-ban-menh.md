@@ -3,6 +3,7 @@ filename: 02-10-cac-thien-than-ban-menh
 aliases:
   - 02.10 | Các Thiên thần Bản mệnh
 share: true
+ID: 240111
 tags:
   - SaintOfTheDay
 date: 2023-10-02

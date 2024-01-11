@@ -6,6 +6,7 @@ date: 2023-05-27
 tags:
   - Run
 share: true
+ID: 240111
 ---
 
 # MAF - Chức năng hiếu khí tối đa

@@ -6,6 +6,7 @@ tags:
 date: 2023-07-05
 URL: https://thienqc.substack.com/p/chiu-trach-nhiem
 share: true
+ID: 240111
 aliases:
   - Chịu trách nhiệm
 ---

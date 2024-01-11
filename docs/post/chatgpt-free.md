@@ -1,5 +1,6 @@
 ---
 share: true
+ID: 240111
 filename: chatgpt-free
 aliases:
   - Đăng kí ChatGPT 3.5 miễn phí tại Việt Nam
