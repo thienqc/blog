@@ -8,6 +8,7 @@ date: 2023-12-31
 URL: 
 aliases:
   - Reading challenge 2023
+comments: true
 ---
 
 # Reading challenge 2023
@@ -20,6 +21,7 @@ May là mình vẫn duy trì được chỉ tiêu như mọi năm (55 quyển) k
 Có thể thấy, xu hướng nửa đầu năm là những quyển thể loại trinh thám để nhằm mục đích đọc nhanh và gọn, còn nửa sau là những quyển thuộc thể loại du kí, đây là những quyển mình đọc phục vụ cho chuyến đi cuối năm.
 
 Do đó sẽ có 2 quyển được chọn làm quyển sách của năm là
+
 • [Người đàn ông mang tên Ove](./nguoi-dan-ong-mang-ten-ove.md)
 • [Hoang Dã: Hành trình tìm lại mình trên Đường mòn Pacific Crest](./hoang-da-hanh-trinh-tim-lai-minh-tren-duong-mon-pacific-crest.md)
 
