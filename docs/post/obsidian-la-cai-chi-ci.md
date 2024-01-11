@@ -1,5 +1,6 @@
 ---
 share: true
+ID: 240111
 filename: obsidian-la-cai-chi-ci
 aliases:
   - Obsidian là cái chi chi
