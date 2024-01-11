@@ -10,6 +10,7 @@ tags:
 date: 2023-07-08
 URL: https://thienqc.substack.com/p/all-in-one-or-right-tool-for-the
 share: true
+ID: 240111
 ---
 
 # BẠN CHỌN "APP-TẤT-CẢ-TRONG-MỘT" HAY "ĐÚNG-APP-ĐÚNG-VIỆC"?
