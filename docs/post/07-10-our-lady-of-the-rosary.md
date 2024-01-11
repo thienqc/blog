@@ -3,6 +3,7 @@ filename: 07-10-our-lady-of-the-rosary
 aliases:
   - 07.10 | Our Lady of the Rosary
 share: true
+ID: 240111
 tags:
   - SaintOfTheDay
 date: 2023-10-07
