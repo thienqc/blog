@@ -8,7 +8,7 @@ tags:
 date: 2023-07-01
 URL: https://thienqc.substack.com/p/why-do-we-need-a-reason-to-do-things
 share: true
-ID: 240111
+ID: 159159
 ---
 
 # Why do we "need a reason" to do things?

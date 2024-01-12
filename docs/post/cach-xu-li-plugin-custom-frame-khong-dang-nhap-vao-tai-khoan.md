@@ -3,7 +3,7 @@ filename: cach-xu-li-plugin-custom-frame-khong-dang-nhap-vao-tai-khoan
 aliases:
   - Cách xử lí plugin Custom Frame không đăng nhập vào tài khoản
 share: true
-ID: 240111
+ID: 159159
 tags:
   - obsidian_plugin
 date: 2023-10-14

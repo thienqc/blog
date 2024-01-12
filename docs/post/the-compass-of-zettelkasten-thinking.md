@@ -2,7 +2,7 @@
 filename: the-compass-of-zettelkasten-thinking
 URL: 
 share: true
-ID: 240111
+ID: 159159
 tags:
   - PKM
 description: Cách mở rộng ý tưởng

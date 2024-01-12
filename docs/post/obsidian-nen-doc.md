@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 240111
+ID: 159159
 filename: obsidian-nen-doc
 aliases:
   - TỔNG HỢP BÀI VIẾT NÊN ĐỌC TRONG GROUP
