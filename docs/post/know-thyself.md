@@ -3,7 +3,7 @@ filename: know-thyself
 aliases:
   - Know thyself (Γνώθι σαυτόν)
 share: true
-ID: 240111
+ID: 159159
 tags:
   - manga
 date: 2023-10-02
