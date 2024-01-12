@@ -5,7 +5,7 @@ tags:
 date: 2023-07-07
 URL: https://thienqc.substack.com/p/sisyphus-thoi-hien-ai
 share: true
-ID: 240111
+ID: 159159
 description: Cuộc sống là một hành trình... đẩy đá
 aliases:
   - Sisyphus thời hiện đại
