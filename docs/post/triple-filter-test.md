@@ -4,7 +4,7 @@ URL:
 tags:
   - speech
 share: true
-ID: 240111
+ID: 159159
 description: Bộ lọc giúp cải thiện giao tiếp
 date: 2023-09-23
 aliases:
