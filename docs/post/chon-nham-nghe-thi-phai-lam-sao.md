@@ -2,14 +2,12 @@
 filename: chon-nham-nghe-thi-phai-lam-sao
 aliases:
   - CHỌN NHẦM NGHỀ THÌ PHẢI LÀM SAO???
-description: 
-URL: 
 date: 2022-05-16
 tags:
   - Reference
   - career
 share: true
-ID: 240111
+ID: 159160
 ---
 
 # CHỌN NHẦM NGHỀ THÌ PHẢI LÀM SAO???
