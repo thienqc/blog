@@ -1,12 +1,11 @@
 ---
 filename: camping-checklist
 share: true
-ID: 240111
+ID: 159160
 tags:
   - camp
 date: 2023-10-13
 URL: https://coolofthewild.com/camping-checklist/
-description: 
 ---
 
 # Camping checklist
