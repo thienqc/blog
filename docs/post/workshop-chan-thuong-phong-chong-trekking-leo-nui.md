@@ -1,5 +1,6 @@
 ---
 share: true
+ID: 240111
 filename: workshop-chan-thuong-phong-chong-trekking-leo-nui
 aliases:
   - Workshop CHẤN THƯƠNG TREKKING - LEO NÚI, PP PHÒNG CHỐNG - TRỊ LIỆU PHỤC HỒI
