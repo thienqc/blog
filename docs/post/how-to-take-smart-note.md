@@ -12,6 +12,7 @@ type:
 Last_Read: 
 date: 2023-10-13
 share: true
+ID: 240111
 aliases:
   - How to take smart note
 ---
