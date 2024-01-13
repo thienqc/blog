@@ -8,7 +8,7 @@ tags:
 date: 2023-07-01
 URL: https://www.facebook.com/groups/594306492570157/posts/667179891949483
 share: true
-ID: 159159
+ID: 159160
 ---
 
 # Hình ảnh trong Obsidian
