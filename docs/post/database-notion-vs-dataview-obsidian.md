@@ -8,7 +8,7 @@ tags:
   - notion
 description: Cái nhìn tổng quan về Notion và Obsidian.
 share: true
-ID: 159159
+ID: 159160
 aliases:
   - DATABASE Notion vs DATAVIEW Obsidian
 ---
