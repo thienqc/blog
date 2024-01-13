@@ -9,7 +9,7 @@ tags:
 date: 2023-06-14
 URL: https://www.facebook.com/Bs.Phuc.Radiologist/posts/pfbid02mrSjQmK45kW4fkSLkbRyJJ5LEWcziC9VxrThTNgWp4JokwvpGYFM1FbUUBKqnRcwl
 share: true
-ID: 159159
+ID: 159160
 ---
 
 # CÁCH GHI NHỚ KIẾN THỨC
