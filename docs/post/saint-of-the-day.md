@@ -1,11 +1,10 @@
 ---
 filename: saint-of-the-day
 share: true
-ID: 159159
+ID: 159160
 tags:
   - SaintOfTheDay
 date: 2023-11-01
-URL: 
 description: Vị Thánh của ngày
 aliases:
   - Saint of the Day
