@@ -4,13 +4,16 @@ share: true
 ID: 159160
 tags:
   - SaintOfTheDay
-date: 2023-11-01
+date: 2024-01-18
 description: Vị Thánh của ngày
 aliases:
   - Saint of the Day
 ---
 
 # Saint of the Day
+
+## July
+- [26.07 Chân Phước Anre Phú Yên](./26-07-anre-phu-yen.md)
 
 ## September
 - [29.09 | Saints Michael, Gabriel, and Raphael](./29-09-saints-michael-gabriel-and-raphael.md)
