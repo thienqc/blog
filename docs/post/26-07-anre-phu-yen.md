@@ -14,6 +14,7 @@ URL: https://www.facebook.com/photo?fbid=760130849479148&set=a.461380502687519
 # 26.07 | Chân Phước Anre Phú Yên
 
 ![](https://i.imgur.com/D1RCrnM.png)
+
 *Tượng Anrê Phú Yên trong khuôn viên Nhà thờ Mằng Lăng*
 
 Chân Phước Anre Phú Yên sinh năm 1625 tại Phú Yên. Ngài được cha Đắc Lộ, một trong những thừa sai của Dòng Tên tại Việt Nam, rửa tội tại Dinh Trấn năm 1641. Năm sau, ngài theo cha Đắc Lộ ra trụ sở Dòng Tên ở Hội An, gia nhập Hội Thầy Giảng. Mặc dầu ít tuổi nhất trong Hội, ngài tỏ ra là một thanh niên đạo hạnh, thông minh và hiếu học, nhiệt thành với hoạt động tông đồ, nên được cha Đắc Lộ gọi là “vị thánh nhỏ”. 
