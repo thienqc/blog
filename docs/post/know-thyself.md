@@ -2,6 +2,7 @@
 filename: know-thyself
 aliases:
   - Know thyself (Γνώθι σαυτόν)
+  - Biết chính mình
 share: true
 ID: 159160
 tags:
