@@ -30,6 +30,7 @@ Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21
 ---
 
 Một vài nguyên tắc làm việc
+
 - Đi từ cái dễ đến cái khó, và phải tin ở sự thành công
 - Đề làm việc có hiệu quả thì làm việc đều đều, không nên để gián đoạn
 - Bất cứ học một môn nào phải khởi đầu bằng những yếu tố đầu tiên của môn học ấy, và đừng bao giờ đốt giai đoạn
@@ -38,9 +39,6 @@ Một vài nguyên tắc làm việc
 - Biết dùng thời giờ làm việc và tiết kiệm từng phút một
 - Hễ làm việc gì thì hãy làm cho hoàn tất, đừng phải trở lại một lần thứ hai
 - Phải có sức khoẻ dồi dào
-
-> [!quote] Quote
-> Thiên tài chẳng qua là một sự nhẫn nại lâu ngày. 
 
 ---
 ## Mục lục
@@ -61,7 +59,7 @@ Một vài nguyên tắc làm việc
 
 ### §2. NHỮNG YẾU TỐ CHÍNH
 #### a. Học vấn và thời gian
-- > “Đời sống ta có hạn mà sự học hỏi thì vô hạn…” ~ [Trang Tử](../../Trang%20T%E1%BB%AD.md)
+- “Đời sống ta có hạn mà sự học hỏi thì vô hạn…” ~ [Trang Tử](../../Trang%20T%E1%BB%AD.md)
 - Hạng "dốt kim thời": họ viện lẽ “bể học mênh mông mà thời giờ không có đủ…vậy tốt hơn việc nhà mình mình biết, ghé mắt vào việc nhà kẻ khác để làm gì? Học làm gì, rút cuộc cũng không hiểu biết gì hơn người không học… Socrate há không có nói: “Điều mà ta biết rõ nhất là ta không biết gì cả!” hay sao?” 
 - Hạng chuyên môn: họ quyết định chọn một vài sự hiểu biết nào mà họ thích nhất, rồi bám lấy, ngăn tường đắp luỹ, đem tất cả thời giờ và tâm trí họ để nghiên cứu một cách sâu xa triệt để hơn. Đấy là giải pháp của nhà chuyên môn.
 - Hạng người “ngụy bác học” hay “ngụy trí thức” lại cũng là nạn nhân của vấn đề nan giải trên đây: cái học thì vô cùng mà thời gian thì có hạn. Họ không chịu dốt, nhưng họ cũng không có đủ can đảm làm nhà chuyên môn. Họ là hạng người “dở dở ương ương”: cái gì cũng biết, nhưng không có cái gì thực biết. Đấy cũng là lối học ở nhà trường đã đào tạo một hạng người “bác học nửa mùa”.
@@ -109,17 +107,29 @@ Một vài nguyên tắc làm việc
 - Biết từ chối, đó là một sức mạnh của tâm hồn.
 - Người quyết tâm đào tạo cho mình một đời sống tinh thần, phải ít ra có một đời sống đơn giản, một nếp sống xa hẳn cuộc sống xa hoa của đời náo nhiệt bên ngoài, nghĩa là, nếu có thể được, nên có một nếp sống của một người “ẩn dật”…
 #### c. Đời sống đơn giản
-
-
+- Lầm cái phụ với cái chánh, lầm hình thức với nội dung, có thể nói đó là cái thông bệnh của phần đông người đời nay vậy.
+- Một hiền triết Hy Lạp có nói: “Nếu anh có ngựa tốt, hãy nói: Con ngựa tôi tốt, chứ không phải tôi tốt.”
+- mỗi sự kiện tự nó không có ý nghĩa gì cả: nó chỉ có giá trị khi nào nó được sắp đặt ngay vào vị trí của nó, liên lạc mật thiết với nhau như một tổ chức tự nhiên của một vật sống.
 #### d. Sự tập trung tinh thần
-
+- Muốn có được một nền tảng văn hoá vững vàng phải biết thống nhất tất cả sự hiểu biết cùng học hỏi của ta vào một chiều sâu nào đó.
+- Nhờ sự tập trung tinh thần, ta lần lần tìm ra mối dây liên lạc duy nhất nối liền những ý tưởng cùng những sự kiện tạp nhạp mà mới xem qua ta không thấy ăn chịu với nhau chút gì cả.
+- “nhất dĩ quán chi”
+- “Có gì lạ, chỉ vì tôi cứ nghĩ đến nó mãi mà thôi!” ~Newton nói về "lực hấp dẫn"
+- Darwin “đeo đuổi mãi theo một vấn đề suốt năm này đến năm kia mà không biết nản”
 #### đ. Óc tổng quan
-
+- Chống lại sự tản mạn tinh thần
+- biết đem những chi tiết phụ ghép vào cái chánh, biết nhận thấy cái dây liên lạc mật thiết giữa các sự vật rời rạc nhau, biết tìm hiểu cái ý nghĩa thâm sâu của mọi sự mọi vật trên đời
 #### e. Óc nhân quả
-
+- Vậy, trước một hiện tượng nào, hãy hỏi: Tại sao? Và nếu có ai quả quyết với mình một điều gì, phải lập tức đòi hỏi lấy “bằng cứ”!
+- Nhưng “việc đời phức tạp mà đời người rất ngắn, con người phải tạm sống với những kết luận tạm”. => Thà kết luận tạm mới 1 mớ lí do thiếu sót hơn là không có một nguyên nhân cỏn con nào
 #### g. Óc tế nhị
-
+- “Những đầu óc tinh nhuệ mới nhận thấy được sự khác nhau trong sự vật, những đầu óc tầm thường chỉ thấy toàn là những sự giống nhau thôi”
 #### h. Óc thán thưởng
+- Platon có nói: “Biết ngạc nhiên, đó là nguyên nhân của triết học”
+- Tán thưởng tiêu cực: ngạc nhiên, thán thưởng một cách tự nhiên không cần cố gắng gì cả; sự so sánh và sự tương phản giữa hai hoàn cảnh khác nhau.
+- Tán thưởng tích cực: đặt vấn đề, đặt những câu hỏi, để mà “tiên đoán” hay dự đoán những gì ta sắp đọc, sắp nghe…
+	- phương pháp dạy học của Socrate hay của Khổng Tử: biết đặt câu hỏi là cả một nghệ thuật của phép dạy dỗ, làm kích thích tư tưởng.
+- Platon nói rất sâu sắc: “Hiểu biết, thực ra, là một sự nhận ra những gì ta đã biết” (Connaître, au fond, c’est reconnaître). Nghĩa là, cái thật biết là cái biết do mình đã tìm ra.
 
 ### §4. NHỮNG PHƯƠNG TIỆN CHÁNH
 
