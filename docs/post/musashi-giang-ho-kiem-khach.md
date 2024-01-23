@@ -21,7 +21,7 @@ Last_Read: 2024-01-17
 
 [Author::[Eiji Yoshikawa](Eiji%20Yoshikawa.md)] - (Publication_Year:: 1935)
 
-![Musashi - giang hồ kiếm khách-1704789602282.jpeg](../assets/img/Musashi%20-%20giang%20h%E1%BB%93%20ki%E1%BA%BFm%20kh%C3%A1ch-1704789602282.jpeg)
+![](https://i.imgur.com/VnZWgDu.jpg)
 
 Dù được mệnh danh là một kiếm sĩ bậc thầy, nhưng  ông chắc chắn là người thường chứ không phải thiên tài, kì nhân gì cả. Vì là người thường nên cuộc đời ông cũng rất bình thường. Một tuổi trẻ nông nỗi, không chí chắn, chỉ biết dùng kiếm giải quyết một chuyện. Nhưng trên con đường kiếm đạo của mình, ông đã ra sức trau rồi sức mạnh, cả thể chất đặc biệt là tinh thần. Vì biết mình không biết gì cả nên ông học tập, quan sát, đúc kết, ngẫm nghĩ mọi thứ xung quanh, con người. Thế nên đến cuối đời ông được mọi người ca tụng là ronin vĩ đại nhất.
 
