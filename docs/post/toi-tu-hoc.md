@@ -15,7 +15,7 @@ tags:
   - Reading_challenge_RC_2024
 Type:
   - Book
-Last_Read: 2020-12-22
+Last_Read: 2024-01-23
 share: true
 ID: 159160
 date: 2024-01-23
@@ -308,7 +308,7 @@ Học viết, biết đem ý tưởng của tiếng nói nước này sang qua t
 8. Phải có sức khoẻ dồi dào
 
 ### KẾT LUẬN
-- Người học thức là người thà biết ít mà thật biết những gì mình biết, còn những gì mình không biết, thì cũng biết rõ là mình không biết.
+- “Tri chi vi tri chi, bất tri vi bất tri, thị tri dã”: Người học thức là người thà biết ít mà thật biết những gì mình biết, còn những gì mình không biết, thì cũng biết rõ là mình không biết.
 - Càng biết rộng càng hay, càng biết sâu càng quý.
 - Cái lợi của sách là giúp cho mình suy nghĩ, chứ không phải suy nghĩ thế cho mình.
 - Học mà không hóa có hại cho tinh thần, cũng như ăn mà không tiêu, có hại cho sức khỏe.
