@@ -5,7 +5,7 @@ ID: 159160
 tags:
   - obsidian
   - PKM
-date: 2023-10-14
+date: 2024-01-24
 URL: https://www.facebook.com/groups/obsidian.secondbrain/posts/722121669788638
 description: 
 ---
@@ -23,7 +23,7 @@ description:
 
 ## XỬ LÍ TRÊN MÁY TÍNH
 
-Mình sử dụng plugin **Custom Frame** để tạo một cửa sổ Google Keep trong cửa sổ làm việc của Obsidian luôn.
+Mình sử dụng plugin **[Open Gate](https://obsidian.md/plugins?id=open-gate)** để tạo một cửa sổ Google Keep trong cửa sổ làm việc của Obsidian luôn.
 
 Khi làm việc với Obsidian trên máy tính, mình sẽ xử lí các ghi chú nhanh có trong Google Keep, sau khi sử dụng xong, mình sẽ xoá luôn các ghi chú này.
 
@@ -31,5 +31,8 @@ Khi làm việc với Obsidian trên máy tính, mình sẽ xử lí các ghi ch
 
 > một ghi chú sẽ không quá 6 dòng mỗi dòng không quá 6 chữ
 
-> [!Example] Xem thêm
-> [Cách xử lí plugin Custom Frame không đăng nhập vào tài khoản](./cach-xu-li-plugin-custom-frame-khong-dang-nhap-vao-tai-khoan.md)
+`Update 2024-01-24`: sử dụng plugin Open Gate thay vì  
+
+- Ủng hộ tác giả VN: [nguyenvanduocit](https://github.com/nguyenvanduocit)
+- Không còn bị lỗi [không đăng nhập được khi sử dụng Custom Frame](./cach-xu-li-plugin-custom-frame-khong-dang-nhap-vao-tai-khoan.md)
+- Câu lệnh: Open Gate tiện lợi hơn nhiều, cũng như cửa sổ có thể ở tab mới (center), hoặc right pane
