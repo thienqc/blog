@@ -19,6 +19,7 @@ URL:
 Lí do là vì người đóng gói chưa chèn thêm 1 trang trống phía sau trang bìa, nên xuất hiện tình trạng lệch trang.
 
 Cách giải quyết như sau
+
 - Ở đây mình sử dụng phần mềm [Foxit Reader](https://www.foxit.com/downloads/#Foxit-Reader/) (free)
 - Vào tab `View`
 	- Chọn `Continuous Facing` để bật trang đôi
@@ -29,4 +30,5 @@ Cách giải quyết như sau
 
 
 Thành quả
+
 ![](https://i.imgur.com/ujKkgTJ.png)
