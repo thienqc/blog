@@ -33,5 +33,4 @@ Nghe giống kiểu "Làm công việc mình yêu thích thì cả đời sẽ k
 Cái này làm mình liên tưởng tới việc học, mình kết nối nhiều điểm chấm lại với nhau để tìm ra SỰ THẬT.
 
 > [!Example] Xem thêm
-> - [Đọc sách T09.2023](./doc-sach-2023-09.md)
-> - [Đọc sách - T11.2023](./doc-sach-2023-11.md)
+> - [Reading challenge](./reading-challenge.md)
