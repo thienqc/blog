@@ -24,3 +24,6 @@ Tháng này mình đi [xuyên Việt](./xuyen-viet-2023.md) nhưng mình cũng c
 [Bật đèn](../../B%E1%BA%ADt%20%C4%91%C3%A8n.md)
 
 [Những người đàn ông không có đàn bà](../../Nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20%C4%91%C3%A0n%20%C3%B4ng%20kh%C3%B4ng%20c%C3%B3%20%C4%91%C3%A0n%20b%C3%A0.md)
+
+> [!Example] Xem thêm
+> - [Reading challenge](./reading-challenge.md)

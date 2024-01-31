@@ -1,7 +1,7 @@
 ---
 filename: doc-sach-2023-09
 aliases:
-  - Đọc sách - T9.2023
+  - Đọc sách - T09.2023
 URL: 
 share: true
 ID: 159160
@@ -11,7 +11,7 @@ date: 2023-09-30
 description: 
 ---
 
-# Đọc sách - T9.2023
+# Đọc sách - T09.2023
 Tháng này mình đọc không nhiều, chủ yếu là trinh thám.
 ## [Thánh Giá Rỗng](../../Th%C3%A1nh%20Gi%C3%A1%20R%E1%BB%97ng.md)
 Được đánh giá là top 5 tiểu thuyết trinh thám hay nhất Nhật Bản 2014, "Thánh giá rỗng" được tác giả [Keigo Higashino](../../Keigo%20Higashino.md) khai thác về chủ đề "Liệu có tồn tại một phiên toà hoàn hảo dành cho nhân loại?". 
@@ -29,5 +29,4 @@ Sci-fi sẽ tạo ra một thế giới với những quy tắc phù hợp. Và 
 
 
 > [!Example] Xem thêm
-> - [Đọc sách - T10.2023](./doc-sach-2023-10.md)
-> - [Đọc sách - T11.2023](./doc-sach-2023-11.md)
+> - [Reading challenge](./reading-challenge.md)
