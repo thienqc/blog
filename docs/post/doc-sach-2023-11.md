@@ -90,5 +90,4 @@ Mình thường hay hỏi người khác có thích đọc sách không? Nếu c
 COIVD-19 đã qua nhưng khi nhắc lại thì vẫn còn rất nhiều chuyện để nói, SG giãn cách ra sao, công ăn việc làm lúc đó, người thân, di chứng hậu COVID,...
 
 > [!Example] Xem thêm
-> - [Đọc sách T09.2023](./doc-sach-2023-09.md)
-> - [Đọc sách T10.2023](./doc-sach-2023-10.md)
+> - [Reading challenge](./reading-challenge.md)
