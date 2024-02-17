@@ -1,7 +1,7 @@
 ---
 filename: xuyen-viet-2023
 share: true
-ID: 159160
+ID: 126987
 tags:
   - XV23
 date: 2023-12-01
@@ -11,7 +11,20 @@ aliases:
   - Xuyên việt 2023
   - xuyên việt
 ---
+---
+filename: xuyen-viet-2023
 
+share: true
+ID: 126987
+tags:
+  - XV23
+date: 2023-12-01
+URL: 
+description: Hành trình tuổi trẻ
+aliases:
+  - Xuyên việt 2023
+  - xuyên việt
+---
 # Xuyên việt 2023
 - [XV23 - Ngày 00 • Những ngày chuẩn bị](./xv23-ngay-00.md)
 - [XV23 - ngày 01 • Lâm Đồng](../../xv23-ngay-01.md)
