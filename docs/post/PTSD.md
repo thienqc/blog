@@ -4,23 +4,9 @@ ID: 159160
 filename: PTSD
 aliases:
   - PTSD
-description: 
 tags:
   - mental
 date: 2024-02-17
-URL: 
----
----
-share: true
-ID: 159160
-filename: PTSD
-aliases:
-  - PTSD
-description: 
-tags:
-  - mental
-date: 2024-02-17
-URL:
 ---
 # PTSD
 
