@@ -7,19 +7,6 @@ tags:
   - Phuot
 date: 2023-11-10
 URL: https://www.youtube.com/watch?v=bKrHIjLqNUg
-description: 
----
----
-filename: sach-cho-nguoi-yeu-du-lich
-
-share: true
-ID: 126987
-tags:
-  - Sach
-  - Phuot
-date: 2023-11-10
-URL: https://www.youtube.com/watch?v=bKrHIjLqNUg
-description:
 ---
 # SÁCH cho người Yêu Du Lịch l Tập Tành Làm Vlog
 

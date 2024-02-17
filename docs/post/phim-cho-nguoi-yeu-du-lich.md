@@ -7,19 +7,6 @@ tags:
   - Phim
 date: 2023-11-10
 URL: https://www.youtube.com/watch?v=8fpwY_-HgDE
-description: 
----
----
-filename: phim-cho-nguoi-yeu-du-lich
-
-share: true
-ID: 126987
-tags:
-  - Phuot
-  - Phim
-date: 2023-11-10
-URL: https://www.youtube.com/watch?v=8fpwY_-HgDE
-description:
 ---
 # PHIM cho người Yêu Du Lịch l Tập Tành Làm Vlog
 - [Into the Wild](../../Into%20the%20wild.md)
