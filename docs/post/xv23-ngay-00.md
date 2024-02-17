@@ -3,13 +3,12 @@ filename: xv23-ngay-00
 aliases:
   - XV23 - Ngày 00 • Những ngày chuẩn bị
 share: true
-ID: 159160
+ID: 126987
 tags:
   - XV23
 date: 2023-12-01
 description: Những ngày chuẩn bị
 ---
-
 # XV23 - Ngày 00 • Những ngày chuẩn bị
 
 ## Checklist đồ đi xuyên việt
