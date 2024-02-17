@@ -2,7 +2,7 @@
 filename: the-compass-of-zettelkasten-thinking
 URL: 
 share: true
-ID: 159160
+ID: 126987
 tags:
   - PKM
 description: Cách mở rộng ý tưởng
@@ -10,7 +10,19 @@ date: 2023-09-24
 aliases:
   - The Compass of Zettelkasten Thinking
 ---
+---
+filename: the-compass-of-zettelkasten-thinking
+URL: 
 
+share: true
+ID: 126987
+tags:
+  - PKM
+description: Cách mở rộng ý tưởng
+date: 2023-09-24
+aliases:
+  - The Compass of Zettelkasten Thinking
+---
 # The Compass of Zettelkasten Thinking
 - **North:** The Source. Where did it originate.
 - **West:** What is similar.
