@@ -1,14 +1,14 @@
 ---
 filename: ket-xe-thi-lam-gi
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - hmm
 date: 2023-10-26
 URL: 
-description: 
+description:
 ---
-
 # Kẹt xe thì làm gì
 
 Dựa trên bài viết của Hoàng Long: [Turn traffic jam into your playground](https://www.facebook.com/longhoangbui2/posts/pfbid0zikZrpqRWVf25fHBJ3tNHu7h4yeuJqL3LNY8shvbyYi1tHKCAsNqrnR2Z8J1XhpRl)
