@@ -2,16 +2,16 @@
 filename: review-thanh-tri
 aliases:
   - Review Thành trì
+
 tags:
   - Book
   - Reflection
 date: 2023-07-02
 URL: https://thienqc.substack.com/p/thanh-tri
 share: true
-ID: 159160
+ID: 126987
 description: '"Thành trì" là một cuốn sách gối đầu giường của mỗi người hành nghề y'
 ---
-
 # Review Thành trì
 *Nhìn lại sau 5 năm*
 
