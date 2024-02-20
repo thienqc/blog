@@ -17,10 +17,9 @@ Type:
   - Book
 Last_Read: 2024-01-23
 share: true
-ID: 159160
+ID: 126987
 date: 2024-01-23
 ---
-
 # Tôi tự học
 [Author:: [Nguyễn Duy Cần](../../Nguy%E1%BB%85n%20Duy%20C%E1%BA%A7n.md)] - (Publication_Year:: 1959)
 
