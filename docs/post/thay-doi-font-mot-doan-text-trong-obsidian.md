@@ -1,14 +1,14 @@
 ---
 filename: thay-doi-font-mot-doan-text-trong-obsidian
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - obsidian
 date: 2023-10-16
 URL: 
-description: 
+description:
 ---
-
 # Thay đổi font một đoạn text trong Obsidian
 
 > [!question] [Câu hỏi](https://www.facebook.com/groups/obsidian.secondbrain/posts/722968966370575/)
