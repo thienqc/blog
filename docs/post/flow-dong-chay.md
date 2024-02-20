@@ -2,6 +2,7 @@
 filename: flow-dong-chay
 description: 
 URL: 
+
 Cover: Flow - dòng chảy-1689083222029.jpeg
 Last_Read: 
 Rating: ""
@@ -13,14 +14,13 @@ Type:
   - Book
 Status: reading
 share: true
-ID: 159160
+ID: 126987
 date: 2023-10-06
 aliases:
   - Flow - dòng chảy
   - flow
   - dòng chảy
 ---
-
 # Flow - dòng chảy
 [Author:: [Mihaly Csikszentmihalyi](Mihaly%20Csikszentmihalyi.md)] - (Publication_Year:: 1990)
 
