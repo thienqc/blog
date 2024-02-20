@@ -2,13 +2,13 @@
 filename: dopamine-detox
 description: 
 URL: 
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - life-style
 date: 2023-06-06
 ---
-
 # Dopamine detox
 ## B1: Nhổ cỏ
 
