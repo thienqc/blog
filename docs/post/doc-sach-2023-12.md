@@ -2,15 +2,15 @@
 filename: doc-sach-2023-12
 aliases:
   - Đọc sách - T12.2023
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - DocSach
 date: 2023-12-29
 URL: 
-description: 
+description:
 ---
-
 # Đọc sách - T12.2023
 
 Tháng này mình đi [xuyên Việt](./xuyen-viet-2023.md) nhưng mình cũng cố gắng đọc xong những quyển sách để hoàn thành [Reading challenge 2023](./reading-challenge-2023.md). Mình đọc vào những lúc chờ xe, chờ tàu, chờ máy bay, trên xe, trên tàu, trên máy bay, một vài buổi cà phê, trước khi đi ngủ,... nói chung là cố gắng đọc vào những lúc có thời gian rảnh.
