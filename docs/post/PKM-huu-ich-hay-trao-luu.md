@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 filename: PKM-huu-ich-hay-trao-luu
 aliases:
   - PKM có thực sự hữu ích hay chỉ là một trào lưu thoáng qua?
@@ -9,9 +9,8 @@ tags:
   - obsidian
   - PKM
 date: 2024-01-12
-URL: 
+URL:
 ---
-
 # GIÁ TRỊ CỦA PKM: NÓ THỰC SỰ HỮU ÍCH HAY CHỈ LÀ MỘT TRÀO LƯU THOÁNG QUA?
 
 **PKM** (_Personal knowledge management_) hay quản lí tri thức cá nhân là quá trình tự quản lý, tổ chức, và tận dụng kiến thức cá nhân của một người. Nó bao gồm việc thu thập, lưu trữ, sắp xếp, kết nối và chia sẻ kiến thức để nâng cao khả năng học và làm việc hiệu quả.
