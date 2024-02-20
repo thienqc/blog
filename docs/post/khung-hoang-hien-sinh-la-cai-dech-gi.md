@@ -4,14 +4,14 @@ aliases:
   - KHỦNG HOẢNG HIỆN SINH LÀ CÁI "ĐẾCH" GÌ?
 description: 
 URL: 
+
 date: 2021-04-09
 tags:
   - MonsterBox
   - Existentialism
 share: true
-ID: 159160
+ID: 126987
 ---
-
 # KHỦNG HOẢNG HIỆN SINH LÀ CÁI "ĐẾCH" GÌ?
 
 Bạn hãy lưu ý rằng, thường thường đằng sau những tuyên ngôn có vẻ khủng là những thứ chẳng đáng giá gì; bạn đừng mong đợi những dòng sau sẽ thỏa mãn được sự ham hố tò mò của mình, nó chăng có gì hấp dẫn, và nó cũng chẳng đem lại được gì đáng kể - cùng lắm nó chỉ khơi gợi cho những bạn trẻ nào thực sự đã và đang gặp "khủng hoảng hiện sinh" tìm đọc sách, chịu suy tư, trải nghiệm cuộc sống theo những cách khác, và trưởng thành
