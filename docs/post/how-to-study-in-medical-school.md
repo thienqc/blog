@@ -2,23 +2,23 @@
 filename: how-to-study-in-medical-school
 description: 
 URL: 
+
 Cover: How to Study in Medical School-1685179309948.jpeg
 Rating: ⭐⭐⭐⭐
 Total_Pages: 100
 tags:
-  - Reading_challenge_RC_2019
+  - Reading_challenge/RC_2019
   - KhoSach
   - medical
 Type:
   - Book
 Last_Read: 2019-08-22
 share: true
-ID: 159160
+ID: 126987
 date: 2019-08-22
 aliases:
   - How to Study in Medical School
 ---
-
 # How to Study in Medical School
 [Author:: [Armin Kamyab](Armin%20Kamyab.md)] - (Publication_Year:: 2008)
 
