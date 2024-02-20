@@ -1,16 +1,16 @@
 ---
 filename: no-hello
+
 tags:
   - hmm
 date: 2023-07-20
 URL: 
 share: true
-ID: 159160
+ID: 126987
 description: đừng nói xin chào
 extra:
   - "[Về cách nhắn tin, yêu cầu người lạ](V%E1%BB%81%20c%C3%A1ch%20nh%E1%BA%AFn%20tin,%20y%C3%AAu%20c%E1%BA%A7u%20ng%C6%B0%E1%BB%9Di%20l%E1%BA%A1.md)"
 ---
-
 # no hello
 ![](https://i.imgur.com/PsRRmhR.png)
 
