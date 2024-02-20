@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 filename: rabbit-hole
 aliases:
   - Rabbit hole
@@ -8,9 +8,8 @@ description:
 tags:
   - term
 date: 2024-01-11
-URL: 
+URL:
 ---
-
 # Rabbit hole
 Thuật ngữ "rabbit hole" xuất phát từ câu chuyện "Alice's Adventures in Wonderland" của Lewis Carroll. Trong câu chuyện, Alice, nhân vật chính, rơi xuống một lỗ thỏ và khám phá một thế giới kỳ lạ. Thuật ngữ này được sử dụng trong ngôn ngữ phổ thông để mô tả việc rơi vào một hành trình, ý tưởng, hoặc nhiệm vụ mà người tham gia dường như không thể thoát ra.
 

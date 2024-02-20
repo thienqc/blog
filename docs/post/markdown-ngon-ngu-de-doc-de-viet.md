@@ -2,17 +2,17 @@
 filename: markdown-ngon-ngu-de-doc-de-viet
 aliases:
   - MARKDOWN - NGÔN NGỮ DỄ ĐỌC DỄ VIẾT
+
 tags:
   - obsidian
 date: 2023-07-19
 URL: https://www.facebook.com/groups/594306492570157/posts/677685864232219/
 share: true
-ID: 159160
+ID: 126987
 description: Dễ lắm, vào đây tui chỉ cho.
 extra:
   - "[Markdown không khó như bạn nghĩ](Markdown%20kh%C3%B4ng%20kh%C3%B3%20nh%C6%B0%20b%E1%BA%A1n%20ngh%C4%A9.md)"
 ---
-
 # MARKDOWN - NGÔN NGỮ DỄ ĐỌC DỄ VIẾT
 
 Markdown là ngôn ngữ được sử dụng chính trong Obsidian. Markdown được tạo ra nhằm mục đích **dễ đọc và dễ viết** nhất có thể. Cú pháp của Markdown hoàn toàn bao gồm các ký tự dấu chấm câu, các ký tự này đã được chọn cẩn thận để trông giống như ý nghĩa của chúng. Ví dụ: dấu hoa thị (`*`) bao quanh một từ trông giống như `*nhấn mạnh*`. Danh sách đánh dấu trông giống như danh sách. Ngay cả các đoạn trích dẫn cũng trông giống như các đoạn văn bản được trích dẫn, giả sử bạn đã từng sử dụng email.
@@ -63,3 +63,4 @@ Nhìn chung, markdown là ngôn ngữ nhìn sao hiểu vậy. Obsidian có chế
 
 Nếu bạn quen với các thanh công cụ ghi chú, có thể xem thêm bài [Các plugin hỗ trợ ghi chú](https://www.facebook.com/groups/594306492570157/posts/659594299374709)
 
+*[Bài viết thuộc group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/677685864232219/)*

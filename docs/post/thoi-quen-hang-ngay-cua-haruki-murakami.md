@@ -1,7 +1,8 @@
 ---
 filename: thoi-quen-hang-ngay-cua-haruki-murakami
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - life-style
   - habit
@@ -11,7 +12,6 @@ description:
 aliases:
   - Thói quen hằng ngày của Haruki Murakami
 ---
-
 # Thói quen hằng ngày của Haruki Murakami
 
 > When I’m in writing mode for a novel, I get up at 4:00 am and work for five to six hours. In the afternoon, I run for 10km or swim for 1500m (or do both), then I read a bit and listen to some music. I go to bed at 9:00 pm. I keep to this routine every day without variation. The repetition itself becomes the important thing; it’s a form of mesmerism. I mesmerize myself to reach a deeper state of mind. But to hold to such repetition for so long — six months to a year — requires a good amount of mental and physical strength. In that sense, writing a long novel is like survival training. Physical strength is as necessary as artistic sensitivity.

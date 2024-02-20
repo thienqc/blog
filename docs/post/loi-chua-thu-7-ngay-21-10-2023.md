@@ -1,7 +1,8 @@
 ---
 filename: loi-chua-thu-7-ngay-21-10-2023
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - LoiChua
 date: 2023-10-20
@@ -10,7 +11,6 @@ description:
 aliases:
   - Lời Chúa thứ 7 ngày 21.10.2023
 ---
-
 # Lời Chúa thứ 7 ngày 21.10.2023
 
 Tin mừng: Lc 12, 8-12

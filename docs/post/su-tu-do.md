@@ -2,21 +2,9 @@
 filename: su-tu-do
 aliases:
   - SỰ TỰ DO
-share: true
-ID: 159160
-tags:
-  - hmm
-date: 2023-10-28
-URL: 
-description: 
----
----
-filename: su-tu-do
-aliases:
-  - SỰ TỰ DO
 
 share: true
-ID: 159160
+ID: 126987
 tags:
   - hmm
 date: 2023-10-28

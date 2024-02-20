@@ -1,7 +1,8 @@
 ---
 filename: neu-mot-ngay-notion-bien-mat
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - notion
   - PKM
@@ -11,7 +12,6 @@ description:
 aliases:
   - Nếu một ngày Notion biến mất
 ---
-
 # Nếu một ngày Notion biến mất
 ## Đặt vấn đề
 Dạo gần đây có phải mọi người hay gặp dòng chữ này "Something's not right. Retrying... ❗".

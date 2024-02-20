@@ -6,11 +6,11 @@ description:
 tags:
   - hmm
 URL: 
+
 share: true
-ID: 159160
+ID: 126987
 date: 2023-03-05
 ---
-
 # Mất lửa?
 Thor trong Endgame, anh ấy đã "mất lửa" sau khi hoàn thành được việc báo thù cho dân tộc của mình: "chặt đầu Thanos". Nhưng tại sao dù đã hoàn thành mục tiêu của mình thì anh trở nên sa sút phong độ? Việc không có mục tiêu nào làm cho con người mất phương hướng dần dẫn tới mất lửa? Có thật là vậy? Có mục tiêu nhưng vẫn bị mất lửa?  
   

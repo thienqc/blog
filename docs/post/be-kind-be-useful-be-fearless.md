@@ -2,15 +2,15 @@
 filename: be-kind-be-useful-be-fearless
 description: 
 URL: 
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - life-style
 date: 2023-09-23
 aliases:
   - Be Kind, Be Useful, Be Fearless
 ---
-
 # Be Kind, Be Useful, Be Fearless
 [West Wing Week: 11/11/16 or, "Be Kind, Be Useful, Be Fearless" - YouTube](https://www.youtube.com/watch?v=-GlJdcxyLOY)
 

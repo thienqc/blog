@@ -4,24 +4,24 @@ aliases:
   - Tôi nói gì khi nói về chạy bộ
 description: 
 URL: 
+
 Cover: Tôi Nói Gì Khi Nói Về Chạy Bộ-1685029872324.jpeg
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 236
 tags:
-  - Reading_challenge_RC_2017
-  - Reading_challenge_RC_2019
-  - Reading_challenge_RC_2020
-  - Reading_challenge_RC_2022
+  - Reading_challenge/RC_2017
+  - Reading_challenge/RC_2019
+  - Reading_challenge/RC_2020
+  - Reading_challenge/RC_2022
   - favorite
   - KhoSach
 Type:
   - Book
 Last_Read: 2022-10-17
 share: true
-ID: 159160
+ID: 126987
 date: 2022-10-17
 ---
-
 # Tôi nói gì khi nói về chạy bộ
 [Author:: [Haruki Murakami](../../Haruki%20Murakami.md)] - (Publication_Year:: 2007)
 

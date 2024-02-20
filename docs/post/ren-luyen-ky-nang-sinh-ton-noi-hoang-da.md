@@ -2,22 +2,22 @@
 filename: ren-luyen-ky-nang-sinh-ton-noi-hoang-da
 description: 
 URL: 
+
 Cover: Rèn Luyện Kỹ Năng Sinh Tồn Nơi Hoang Dã-1698154148695.jpeg
 Last_Read: 2023-10-21
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 473
 tags:
   - KhoSach
-  - Reading_challenge_RC_2023
+  - Reading_challenge/RC_2023
 Type:
   - Book
 share: true
-ID: 159160
+ID: 126987
 date: 2023-10-05
 aliases:
   - Rèn Luyện Kỹ Năng Sinh Tồn Nơi Hoang Dã
 ---
-
 # Rèn Luyện Kỹ Năng Sinh Tồn Nơi Hoang Dã
 [Author:: [Phạm Văn Nhân](Ph%E1%BA%A1m%20V%C4%83n%20Nh%C3%A2n.md)] - (Publication_Year:: 2001)
 ![](https://i.imgur.com/4VsDe5N.png)

@@ -1,7 +1,7 @@
 ---
 filename: qua-nhieu-app-ghi-chu-chon-cai-nao-bay-gio
 share: true
-ID: 159160
+ID: 126987
 tags:
   - PKM
 date: 2023-10-10
@@ -9,8 +9,8 @@ URL:
 description: 
 aliases:
   - Quá nhiều app ghi chú, chọn cái nào bây giờ
----
 
+---
 # Quá nhiều app ghi chú, chọn cái nào bây giờ
 
 **👉 Tham gia bình luận tại group [Obsidian - Second Brain](https://www.facebook.com/groups/obsidian.secondbrain/posts/719656646701807/)**

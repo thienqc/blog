@@ -1,9 +1,10 @@
 ---
 filename: john-di-tim-hung
+
 share: true
-ID: 159160
+ID: 126987
 tags:
-  - Reading_challenge_RC_2018
+  - Reading_challenge/RC_2018
   - KhoSach
 date: 2023-11-09
 URL: 
@@ -17,7 +18,6 @@ Last_Read: 2018-05-10
 aliases:
   - John đi tìm Hùng
 ---
-
 # John đi tìm Hùng
 [Author:: [Trần Hùng John](Tr%C3%A2%CC%80n%20Hu%CC%80ng%20John.md)] - (Publication_Year:: 2013)
 

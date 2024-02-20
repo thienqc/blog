@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 filename: hinh-canh-mat-tri
 aliases:
   - Hình cảnh mất trí

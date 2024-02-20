@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 filename: reading-challenge-2022
 aliases:
   - Reading challenge 2022
@@ -8,9 +8,8 @@ description:
 tags:
   - DocSach
 date: 2024-01-25
-URL: 
+URL:
 ---
-
 # Reading challenge 2022
 
 ![](https://i.imgur.com/X9GjKkL.jpg)

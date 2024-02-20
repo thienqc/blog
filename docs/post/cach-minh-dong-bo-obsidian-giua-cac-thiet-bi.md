@@ -4,14 +4,14 @@ aliases:
   - Cách mình đồng bộ obsidian giữa các thiết bị
 description: 
 URL: 
+
 date: 2023-05-21
 Link: https://www.facebook.com/groups/594306492570157/posts/644009084266564
 tags:
   - obsidian
 share: true
-ID: 159160
+ID: 126987
 ---
-
 # Cách mình đồng bộ obsidian giữa các thiết bị
 
 ![](https://i.imgur.com/dr0JHdK.jpg)
@@ -67,6 +67,8 @@ Nhấn vào kí hiệu Sync (ở góc phải) để nó lấy dữ li�
 - Nếu bạn dùng Window: cách tốt nhất hiện nay là dùng plugin Remotely Save
 
 > Bài [Meta Post - Syncing between Devices - Meta - Obsidian Forum](https://forum.obsidian.md/t/meta-post-syncing-between-devices/20983) giới thiệu nhiều cách đồng bộ các thiết bị với nhau.
+
+*[Thảo luận tại group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/644009084266564/)*
 
 > [!Example] Xem thêm
 > - [Nếu một ngày Notion biến mất](./neu-mot-ngay-notion-bien-mat.md)

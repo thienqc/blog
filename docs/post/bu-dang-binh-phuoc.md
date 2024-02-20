@@ -1,12 +1,11 @@
 ---
 filename: bu-dang-binh-phuoc
 share: true
-ID: 159160
+ID: 126987
 tags:
   - trek
 date: 2020-10-31
 ---
-
 # Bù Đăng, Bình Phước
 
 `201031`

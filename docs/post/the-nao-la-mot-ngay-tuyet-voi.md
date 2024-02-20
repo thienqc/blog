@@ -3,14 +3,14 @@ filename: the-nao-la-mot-ngay-tuyet-voi
 aliases:
   - Thế nào là một ngày tuyệt vời?
 description: 
+
 tags:
   - life-style
 date: 2023-07-04
 URL: https://thienqc.substack.com/p/the-nao-la-mot-ngay-tuyet-voi
 share: true
-ID: 159160
+ID: 126987
 ---
-
 # Thế nào là một ngày tuyệt vời?
 
 ### 2 bản thể

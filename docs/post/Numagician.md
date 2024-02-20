@@ -2,22 +2,22 @@
 filename: Numagician
 description: 
 URL: 
+
 Cover: Numagician I - Những Con Số Ảo Thuật-1685193409027.jpeg
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 182
 tags:
-  - Reading_challenge_RC_2017
+  - Reading_challenge/RC_2017
   - KhoSach
 Type:
   - Book
 Last_Read: 2017-10-08
 share: true
-ID: 159160
+ID: 126987
 date: 2023-10-26
 aliases:
   - Numagician I - Những Con Số Ảo Thuật
 ---
-
 # Numagician I - Những Con Số Ảo Thuật
 [Author:: [Fususu](Fususu.md)] - (Publication_Year:: 2015)
 

@@ -2,15 +2,15 @@
 filename: doc-sach-2023-10
 aliases:
   - Đọc sách - T10.2023
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - DocSach
 date: 2023-10-31
 URL: 
-description: 
+description:
 ---
-
 # Đọc sách - T10.2023
 Tháng này mình đọc chỉ 2 cuốn, vì bận lễ [tốt nghiệp](./hom-nay-toi-tot-nghiep.md), cũng như đam mê bộ môn Sinh tồn
 ## [Rèn Luyện Kỹ Năng Sinh Tồn Nơi Hoang Dã](./ren-luyen-ky-nang-sinh-ton-noi-hoang-da.md)

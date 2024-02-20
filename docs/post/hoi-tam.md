@@ -1,15 +1,15 @@
 ---
 filename: hoi-tam
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - AMDG
   - LinhThao
 date: 2023-11-26
 URL: 
-description: 
+description:
 ---
-
 # Hồi tâm
 
 Hồi Tâm là cùng Chúa nhìn lại ngày sống, điểm lại các hoạt động nhằm giúp bạn ý thức hơn về sự hiện diện và hoạt động của Chúa, sự đáp trả của bạn với Chúa, và là cơ hội để nhìn vào chính mình với quyết tâm đổi mới. Mỗi ngày, ít nhất 1 lần, thánh I-Nhã khuyên ta nên ngừng lại để “hồi tâm.” Phút Hồi Tâm được làm khoảng 15-20 phút, gồm 5 bước.

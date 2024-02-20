@@ -2,15 +2,15 @@
 filename: the-wiki-game
 aliases:
   - Game "kết nối"
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - game
 date: 2023-11-17
 URL: https://en.wikipedia.org/wiki/Wikipedia:Wiki_Game
 description: Wikirace
 ---
-
 # Game "kết nối"
 
 [Wikipedia:Wiki Game - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Wiki_Game)

@@ -1,7 +1,8 @@
 ---
 filename: cac-mo-hinh-tiep-can-sap-xep-ghi-chu
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - PKM
 date: 2023-10-27
@@ -10,7 +11,6 @@ description:
 aliases:
   - Các mô hình tiếp cận sắp xếp ghi chú
 ---
-
 # Các mô hình tiếp cận sắp xếp ghi chú
 
 Dựa trên [video này của Zsolt](https://www.youtube.com/watch?v=AtdAAD47aQY). Bạn có thể xem video có giải thích chi tiết hơn, bài này mình sẽ nêu vài điểm chính và ý kiến của mình.

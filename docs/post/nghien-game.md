@@ -2,15 +2,15 @@
 filename: nghien-game
 description: 
 URL: 
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - life-style
 date: 2023-09-21
 aliases:
   - Nghiệm game
 ---
-
 # Nghiện game
 
 r/science

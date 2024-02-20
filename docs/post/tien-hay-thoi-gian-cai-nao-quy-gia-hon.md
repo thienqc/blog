@@ -4,13 +4,13 @@ aliases:
   - Tiền hay thời gian, cái nào quý giá hơn?
 description: 
 URL: 
+
 date: 2023-03-20
 tags:
   - hmm
 share: true
-ID: 159160
+ID: 126987
 ---
-
 # Tiền hay thời gian, cái nào quý giá hơn?
 
 Ai trong chúng ta rồi cũng sẽ biết "Tiền không phải là thứ quý giá nhất, thời gian mới là thứ đáng trân trọng."

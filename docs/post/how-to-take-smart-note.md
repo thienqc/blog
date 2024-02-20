@@ -2,6 +2,7 @@
 filename: how-to-take-smart-note
 description: 
 URL: 
+
 cover: How to take smart note-1697157991394.jpeg
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 
@@ -12,11 +13,10 @@ type:
 Last_Read: 
 date: 2023-10-13
 share: true
-ID: 159160
+ID: 126987
 aliases:
   - How to take smart note
 ---
-
 # How to take smart note
 [Author::[Sönke Ahrens](S%C3%B6nke%20Ahrens.md)] - (Publication_Year:: 2022)
 

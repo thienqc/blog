@@ -4,13 +4,13 @@ aliases:
   - Cách review một quyển sách
 description: 
 URL: 
+
 share: true
-ID: 159160
+ID: 126987
 date: 2023-05-17
 tags:
   - Book
 ---
-
 # Cách review một quyển sách
 1. Nếu có thể, hãy tóm tắt tác phẩm chỉ bằng 1 hoặc 2 câu. (Trong bài review về [Suối nguồn](./suoi-nguon.md), mình có dùng câu: Câu chuyện về cuộc đấu tranh giữa chủ nghĩa cá nhân và chủ nghĩa tập thể. - đây là mình tóm tắt tác phẩm bằng 1 câu)
 

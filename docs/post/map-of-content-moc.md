@@ -2,16 +2,16 @@
 filename: map-of-content-moc
 aliases:
   - Map of Content (MOC)
+
 tags:
   - obsidian
   - PKM
 date: 2023-07-11
 URL: https://www.facebook.com/groups/594306492570157/posts/673457237988415/
 share: true
-ID: 159160
+ID: 126987
 description: Bản đồ ghi chú
 ---
-
 # Map of Content (MOC)
 ## Đầu tiên thì ghi chú là gì? 
 Ghi chú là vật chứa suy nghĩ. Theo đó: 
@@ -90,3 +90,4 @@ Theo tui, MoC là một note, chứa
 - Thuốc
 - Quy trình phẫu thuật 
 
+*[Bài viết thuộc group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/673457237988415/)*

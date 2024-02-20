@@ -1,7 +1,7 @@
 ---
 filename: co-don-hay-co-doc-khao-khat-duoc-noi-chuyen
 share: true
-ID: 159160
+ID: 126987
 tags:
   - hmm
 date: 2023-11-20
@@ -10,7 +10,6 @@ description:
 aliases:
   - Cô đơn hay cô độc, khao khát được nói chuyện
 ---
-
 # Cô đơn hay cô độc, khao khát được nói chuyện
 Nghịch lí của việc háo hức đi cắm trại một mình lại là muốn được đi *với 1 người khác* để trò chuyện, để chia sẻ. 
 

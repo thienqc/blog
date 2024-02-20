@@ -4,13 +4,13 @@ aliases:
   - Mục đích sống là gì
 description: 
 URL: 
+
 tags:
   - SIY
 date: 2023-05-25
 share: true
-ID: 159160
+ID: 126987
 ---
-
 # Mục đích sống là gì
 
 Theo [Dế Mèn Phiêu Lưu Ký](../../D%E1%BA%BF%20M%C3%A8n%20Phi%C3%AAu%20L%C6%B0u%20K%C3%BD.md), mục đích ở đời là hành động.

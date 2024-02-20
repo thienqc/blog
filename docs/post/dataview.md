@@ -8,10 +8,9 @@ tags:
 date: 2023-09-17
 URL: https://www.facebook.com/groups/594306492570157/posts/707585224575616/
 share: true
-ID: 159160
+ID: 126987
 description: chơi đùa với dữ liệu
 ---
-
 # DATAVIEW
 *Chơi đùa với dữ liệu*
 
@@ -105,6 +104,7 @@ Khi đã có thể tự viết những query cơ bản, bạn có thể tìm th�
 
 Còn đây là bảng kiểm giúp bạn tránh những lỗi sai cơ bản: [checklist](https://docs.google.com/document/d/1P8QljzvtmdpL1mfA2VL5Q972bRAsU1-CLxryVIgH80w/edit)
 
+*[Thảo luận tại group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/707585224575616/)*
 
 > [!Example] Xem thêm
 > - [DATABASE Notion vs DATAVIEW Obsidian](./database-notion-vs-dataview-obsidian.md)

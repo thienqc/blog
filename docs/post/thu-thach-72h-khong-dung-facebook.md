@@ -1,15 +1,15 @@
 ---
 filename: thu-thach-72h-khong-dung-facebook
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - challenge
   - no-tech
 date: 2023-11-21
 URL: 
-description: 
+description:
 ---
-
 # Thử thách 72h không dùng Facebook
 
 `Thời gian: 7h 8/8/2018 - 7h 11/8/2018`

@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 filename: workshop-chan-thuong-phong-chong-trekking-leo-nui
 aliases:
   - Workshop CHẤN THƯƠNG TREKKING - LEO NÚI, PP PHÒNG CHỐNG - TRỊ LIỆU PHỤC HỒI
@@ -8,9 +8,8 @@ description:
 tags:
   - trek
 date: 2024-01-11
-URL: 
+URL:
 ---
-
 # Workshop CHẤN THƯƠNG TREKKING - LEO NÚI, PP PHÒNG CHỐNG - TRỊ LIỆU PHỤC HỒI
 
 ## Tổng quan

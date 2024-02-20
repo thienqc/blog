@@ -2,23 +2,23 @@
 filename: ta-ba-lo-tren-dat-a
 description: 
 URL: 
+
 Cover: Pasted image 20231107221519.png
 Rating: ⭐⭐⭐⭐
 Total_Pages: 331
 tags:
   - KhoSach
   - Phuot
-  - Reading_challenge_RC_2023
+  - Reading_challenge/RC_2023
 type:
   - Book
 Last_Read: 2023-11-09
 date: 2023-11-09
 share: true
-ID: 159160
+ID: 126987
 aliases:
   - Ta ba lô trên đất Á
 ---
-
 # Ta ba lô trên đất Á
 [Author::[Rosie Nguyễn](Rosie%20Nguy%C3%AA%CC%83n.md)] - (Publication_Year:: 2015)
 

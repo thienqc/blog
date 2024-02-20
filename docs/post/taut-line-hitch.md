@@ -1,7 +1,8 @@
 ---
 filename: taut-line-hitch
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - trek
   - knots
@@ -12,7 +13,6 @@ aliases:
   - Taut Line Hitch
   - nút chạy
 ---
-
 # Taut Line Hitch
 *nút chạy*
 

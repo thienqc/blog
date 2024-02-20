@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 filename: doc-sach-2024-01
 aliases:
   - Đọc sách -T01.2024
@@ -8,9 +8,8 @@ description:
 tags:
   - DocSach
 date: 2024-01-31
-URL: 
+URL:
 ---
-
 # Đọc sách - T01.2024
 
 ![](https://i.imgur.com/DcBEP7z.png)

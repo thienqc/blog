@@ -2,15 +2,15 @@
 filename: obsidian-plugins
 aliases:
   - Obsidian plugins
+
 share: true
-ID: 159160
+ID: 126987
 tags:
-  - obsidian_plugin
+  - obsidian/plugin
 URL: 
 description: 
 date: 2023-10-13
 ---
-
 # Obsidian plugins
 
 ![](https://i.imgur.com/0s94tDy.jpg)
@@ -45,7 +45,7 @@ Cái này sẽ tuỳ thuộc và nhu cầu của bạn. Theo mình thì b
 
 Những bài sau mình sẽ giới thiệu những plugin hay, các bạn có thắc mắc hay yêu cầu gì có thể để lại bình luận nhé.
 
-🔗 [Link](https://www.facebook.com/groups/obsidian.secondbrain/posts/647811267219679/)
+*[Thảo luận tại group Obsidian - Second Brain](https://www.facebook.com/groups/obsidian.secondbrain/posts/647811267219679/)*
 
 
 > [!tip] Plugin

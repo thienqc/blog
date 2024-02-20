@@ -1,7 +1,8 @@
 ---
 filename: kinh-thien-van-khuc-xa
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - Astrology
   - DIY
@@ -11,7 +12,6 @@ description:
 aliases:
   - Kính thiên văn khúc xạ
 ---
-
 # Kính thiên văn khúc xạ
 
 ## Tự làm kính thiên văn khúc xạ đơn giản

@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 filename: reading-challenge-2020
 aliases:
   - Reading challenge 2020
@@ -8,9 +8,8 @@ description:
 tags:
   - DocSach
 date: 2024-01-23
-URL: 
+URL:
 ---
-
 # Reading challenge 2020
 ![](https://i.imgur.com/gIBurE4.jpg)
 

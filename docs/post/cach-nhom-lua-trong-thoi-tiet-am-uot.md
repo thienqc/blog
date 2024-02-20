@@ -1,12 +1,11 @@
 ---
 filename: cach-nhom-lua-trong-thoi-tiet-am-uot
 share: true
-ID: 159160
+ID: 126987
 tags:
   - camping
 date: 2023-10-22
 ---
-
 # Cách nhóm lửa trong thời tiết ẩm ướt
 
 ## Chuẩn bị

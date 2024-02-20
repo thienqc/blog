@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 filename: reading-challenge-2018
 aliases:
   - Reading challenge 2018
@@ -8,9 +8,8 @@ description:
 tags:
   - DocSach
 date: 2024-01-21
-URL: 
+URL:
 ---
-
 # Reading challenge 2018
 Cuối năm là thời điểm mà chúng tổng kết, điểm lại tất tần tật mọi thứ tỉ tì ti trên đời. Và mình sẽ tổng kết một năm 2018 qua những quyển sách mình đọc. Đọc sách không cốt ở số lượng mà là chất lượng. Như trong một lời giới thiệu trong “Cuộc đời của Pi” rằng cái thú của đọc sách là nhặt được những hạt ngọc trong đó. Để nhìn nhận những hạt ngọc đã nhặt được mình dựa vào “Thử thách đọc sách 2018” của Trạm đọc.
 

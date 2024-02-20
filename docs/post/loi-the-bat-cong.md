@@ -2,15 +2,15 @@
 filename: loi-the-bat-cong
 aliases:
   - The Unfair Advantage - Lợi thế bất công
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - life
 date: 2023-11-14
 URL: 
 description: Lợi thế bất công
 ---
-
 # The Unfair Advantage - Lợi thế bất công
 
 Lợi thế bất công đơn giản là những *yếu tố* mang lại cho bản thân lợi thế hơn so với những người khác.

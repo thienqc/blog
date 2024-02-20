@@ -3,15 +3,15 @@ filename: cach-ghi-nho-kien-thuc
 aliases:
   - CÁCH GHI NHỚ KIẾN THỨC
 description: 
+
 tags:
   - self-study
   - Reference
 date: 2023-06-14
 URL: https://www.facebook.com/Bs.Phuc.Radiologist/posts/pfbid02mrSjQmK45kW4fkSLkbRyJJ5LEWcziC9VxrThTNgWp4JokwvpGYFM1FbUUBKqnRcwl
 share: true
-ID: 159160
+ID: 126987
 ---
-
 # CÁCH GHI NHỚ KIẾN THỨC
 
 Ngay khi đang học phổ thông, tôi đã nổi tiếng đến mức “tai tiếng”, khi ngồi trong lớp học với tâm trí lơ đãng, toàn liên tưởng đến những thứ đâu đâu, không bao giờ ghi chép bài. Tôi chỉ có một quyển vở duy nhất. Cuốn vở nhàu nát vì dùng cho cả 3 năm cấp III, tôi gập lại và giắt vào nan hoa xe đạp, chỉ thỉnh thoảng mới ghi vài chữ không đầu không cuối.

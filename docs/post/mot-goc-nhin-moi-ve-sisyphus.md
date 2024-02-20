@@ -1,14 +1,14 @@
 ---
 filename: mot-goc-nhin-moi-ve-sisyphus
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - Sisyphus
 date: 2023-11-16
 URL: 
 description: 
 ---
-
 # Một góc nhìn mới về Sisyphus
 
 ![](https://i.imgur.com/SP5avNZ.png)

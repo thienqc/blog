@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 filename: after-mile-20
 aliases:
   - After mile 20
@@ -9,7 +9,6 @@ tags:
   - marathon
 date: 2024-01-06
 ---
-
 # After mile 20
 A marathon is broken into two separate but equal parts: the first 20 miles and the last 6.2.
 

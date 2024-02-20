@@ -4,14 +4,14 @@ aliases:
   - Làm cách nào bạn có động lực lâu dài trong chạy bộ?
 description: 
 URL: 
+
 share: true
-ID: 159160
+ID: 126987
 date: 2023-09-25
 tags:
   - Run
   - motivation
 ---
-
 # Làm cách nào bạn có động lực lâu dài trong chạy bộ?
 
 Tôi làm quen với chạy bộ đến nay được 10 năm. Có lẽ là một số ít những người đầu tiên hình thành phong trào chạy bộ này. Mặc dù đến với nó khá muộn khi bước sang tuổi tứ tuần. Lý do ban đầu của tôi là do sức khỏe khi cân nặng 78kg, mỡ nhiều, đường huyết cao. Đó là lý do mang tính phương tiện (instrumental reason)[^1]. Sức khỏe thường là một lý do phổ biến. Các lý do khác có thể là tò mò, ham vui, theo phong trào, muốn chứng tỏ bản thân. Tất cả lý do này đều từ bên ngoài với **động cơ ngoại tại (extrinsic motivation)**.

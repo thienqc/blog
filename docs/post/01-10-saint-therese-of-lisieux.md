@@ -3,14 +3,14 @@ filename: 01-10-saint-therese-of-lisieux
 aliases:
   - 01.10 | Saint Thérèse of Lisieux
 share: true
-ID: 159160
+ID: 126987
 tags:
   - SaintOfTheDay
 date: 2023-10-01
 URL: https://www.franciscanmedia.org/saint-of-the-day/saint-therese-of-lisieux/
 description: 
----
 
+---
 # 01.10 | Saint Thérèse of Lisieux
 
 ![](https://i.imgur.com/4NZSg1M.png)

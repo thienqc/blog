@@ -3,14 +3,14 @@ filename: obsidian-co-phuc-tap-hay-choang-ngop
 aliases:
   - Obsidian có phức tạp hay choáng ngợp?
 description: 
+
 tags:
   - obsidian
 date: 2023-06-16
 URL: https://www.facebook.com/groups/594306492570157/posts/659231826077623/
 share: true
-ID: 159160
+ID: 126987
 ---
-
 # Obsidian có phức tạp hay choáng ngợp?
 
 Nếu bạn cảm thấy choáng ngợp trước những khả năng mạnh mẽ, phức tạp mà Obsidian có thể làm, thì có thể bạn đang suy nghĩ quá nhiều hoặc đang cố gắng quá sức. Thực sự có vẻ đáng sợ nếu bạn dành quá nhiều thời gian để đọc hoặc xem các bài hướng dẫn, video của những người thành thạo về kỹ thuật, chuyên làm những thứ cực kì phức tạp, đặc biệt nếu họ là lập trình viên.
@@ -30,3 +30,5 @@ Mình thấy nhiều người chỉ muốn ghi chép nhưng choáng ngợp tr
 Ý kiến của bạn về "**Lí do Obsidian khó dùng là gì?"** Chia sẻ với mọi người bằng cách để lại bình luận nhé.
 
 Cre: [r/ObsidianMD](https://www.reddit.com/r/ObsidianMD/comments/u9uq8k/)
+
+*[Bài viết thuộc group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/659231826077623/)*

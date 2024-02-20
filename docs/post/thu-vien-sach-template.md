@@ -2,15 +2,15 @@
 filename: thu-vien-sach-template
 aliases:
   - THƯ VIỆN SÁCH template
+
 tags:
   - obsidian
 date: 2023-08-22
 URL: https://www.facebook.com/groups/594306492570157/posts/694635769203895/
 share: true
-ID: 159160
-description: 
+ID: 126987
+description:
 ---
-
 # THƯ VIỆN SÁCH template
 ![](https://i.imgur.com/hixrGTz.jpg)
 
@@ -35,15 +35,20 @@ description:
 ## Tuỳ chỉnh
 ### Theme
 Mình sử dụng theme Minimal để hiển thị dataview dạng Card. [Xem cách sử dụng](https://minimal.guide/cards)
+
 Bạn có thể tuỳ chỉnh theme bằng plugin [Minimal Theme Settings](obsidian://show-plugin?id=obsidian-style-settings) và [Style Settings](obsidian://show-plugin?id=obsidian-style-settings)
+
 Nếu bạn muốn sử dụng theme khác thì cũng không sao, vì mình đã tạo sẵn file `Cards.css` để bạn sử dụng tương tự khi dùng Minimal theme.
 ### Booksidian
 Bạn xem hướng dẫn [ở đây](obsidian://show-plugin?id=booksidian-plugin), và copy link **Currently Reading** vào `RSS Base URL`
 ### Kindle Highlights
 Bạn có thể chọn sync từ Amazon hoặc từ file `My Clippings.txt`. Xem hướng dẫn [ở đây](obsidian://show-plugin?id=obsidian-kindle-plugin)
+
 Mình sử dụng cách sync từ file `My Clippings.txt`, sau đó mình sẽ xoá nội dung trong file đi. Những highlight trong Obsidian sau khi sync mình sẽ copy chúng vào từng quyển sách, và ghi chú sâu về nó.
+
 ### Reading challenge
 Bạn thay giá trị `2023` trong hàm `WHERE contains(shelves,"Reading Challenge 2023")` sang năm tương ứng.
+
 ### Template
 Xem cách sử dụng [Template](https://help.obsidian.md/Plugins/Templates) để tạo trang Author mới.
 
@@ -53,3 +58,5 @@ Xem cách sử dụng [Template](https://help.obsidian.md/Plugins/Templates) đ�
 - Chủ yếu mình đọc và đánh dấu/ghi chú bằng kindle nên mình sử dụng **Kindle Highlights** để lấy highlight/note thì kindle
 - Mình lấy những highlight vừa nhập, copy qua quyển sách. Ghi lại những suy nghĩ của mình về câu quote, hoặc nội dung quyển sách. Mình cố gắng liên kết với những kiến thức mình đã biết trước đó càng nhiều càng tốt.
 - Khi cảm thấy lượng thông tin đủ nhiều thì mình sẽ viết bài về chủ đề đó, lưu trong thư mục `000 ZK notes`
+
+*[Thảo luận tại group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/694635769203895)*

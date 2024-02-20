@@ -1,7 +1,7 @@
 ---
 filename: dataview-task-example
 share: true
-ID: 159160
+ID: 126987
 tags:
   - obsidian
   - dataview
@@ -11,7 +11,6 @@ description:
 aliases:
   - Dataview TASK example
 ---
-
 # Dataview TASK example
 
 > [!question] [Yêu cầu](https://www.facebook.com/groups/obsidian.secondbrain/posts/707585224575616/?comment_id=729045892429549)

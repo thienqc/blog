@@ -1,7 +1,8 @@
 ---
 filename: Q&A-obsidian
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - obsidian
 date: 2023-10-16
@@ -10,7 +11,6 @@ description:
 aliases:
   - Q&A Obisidian
 ---
-
 # Q&A Obisidian
 
 > [!Question] Tổng hợp giải đáp thắc mắc từ nhiều nguồn

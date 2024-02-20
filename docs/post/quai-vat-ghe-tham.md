@@ -4,20 +4,20 @@ aliases:
   - Quái vật ghé thăm
 description: 
 URL: 
+
 Cover: Quái vật ghé thăm-1685059227477.jpeg
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 214
 tags:
-  - Reading_challenge_RC_2021
+  - Reading_challenge/RC_2021
   - KhoSach
 Type:
   - Book
 Last_Read: 2021-08-28
 date: 2023-10-08
 share: true
-ID: 159160
+ID: 126987
 ---
-
 # Quái vật ghé thăm
 [Author:: [Patrick Ness](../../Patrick%20Ness.md)] - (Publication_Year:: 2011)
 

@@ -2,11 +2,12 @@
 filename: than-thoai-sisyphus
 description: 
 URL: 
+
 Cover: Thần Thoại Sisyphus-1685195279791.jpeg
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 204
 tags:
-  - Reading_challenge_RC_2021
+  - Reading_challenge/RC_2021
   - philosophy
   - KhoSach
 Type:
@@ -16,10 +17,9 @@ aliases:
   - Thần thoại Sisyphus
   - Sisyphus
 share: true
-ID: 159160
+ID: 126987
 date: 2021-02-21
 ---
-
 # Thần thoại Sisyphus
 [Author:: [Albert Camus](../../Albert%20Camus.md)] - (Publication_Year:: 1942)
 

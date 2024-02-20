@@ -1,14 +1,14 @@
 ---
 filename: cach-ghep-cac-note-nho-trong-obsidian
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - obsidian
 date: 2023-11-01
 URL: 
-description: 
+description:
 ---
-
 # Cách ghép các note nhỏ trong Obsidian
 
 > [!Question] [Câu hỏi](https://www.facebook.com/photo/?fbid=1344245219528391&set=p.1344245219528391)

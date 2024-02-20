@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 filename: duoc-hoc
 aliases:
   - Được học
@@ -17,7 +17,6 @@ Type:
   - Book
 Last_Read: 2023-12-16
 ---
-
 # Được học
 [Author:: [Tara Westover](Tara%20Westover.md)] - (Publication_Year:: 2018)
 

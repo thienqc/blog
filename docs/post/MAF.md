@@ -2,13 +2,13 @@
 filename: MAF
 description: 
 URL: 
+
 date: 2023-05-27
 tags:
   - Run
 share: true
-ID: 159160
+ID: 126987
 ---
-
 # MAF - Chức năng hiếu khí tối đa
 
 “By far the worst thing you can do is give up before you have even started. Health and fitness is not easy but everyone can achieve it.”

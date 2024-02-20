@@ -4,12 +4,13 @@ aliases:
   - Thành trì
 description: 
 URL: 
+
 Cover: Thành trì-1685071436124.jpeg
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 532
 tags:
-  - Reading_challenge_RC_2021
-  - Reading_challenge_RC_2018
+  - Reading_challenge/RC_2021
+  - Reading_challenge/RC_2018
   - medical_fiction
   - favorite
   - KhoSach
@@ -17,10 +18,9 @@ Type:
   - Book
 Last_Read: 2021-04-13
 share: true
-ID: 159160
+ID: 126987
 date: 2021-04-13
 ---
-
 # Thành trì
 [Author:: [AJ Cronin](../../AJ%20Cronin.md)] - (Publication_Year:: 1937)
 

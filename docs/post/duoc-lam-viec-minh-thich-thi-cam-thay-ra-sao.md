@@ -4,13 +4,13 @@ aliases:
   - ĐƯỢC LÀM VIỆC MÌNH THÍCH THÌ CẢM THẤY RA SAO?
 description: 
 URL: 
+
 date: 2021-04-18
 tags:
   - MonsterBox
 share: true
-ID: 159160
+ID: 126987
 ---
-
 # ĐƯỢC LÀM VIỆC MÌNH THÍCH THÌ CẢM THẤY RA SAO?
 
 “Khi làm việc mình thích thì anh có đỡ stress hơn không?”, bạn gái tôi quay sang hỏi, khi tôi đang ngồi tranh thủ đọc thêm một vài tài liệu cho bài viết sắp tới. Cô là sinh viên mới ra trường, đang làm ở công ty đa quốc gia, một trong những tập đoàn hóa chất lớn nhất thế giới, ở một vị trí đáng mơ ước vốn không dành cho sinh viên mới ra trường.

@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 filename: loi-nguyen-cua-thanh-thomas-merton
 aliases:
   - Lời nguyện của thánh Thomas Merton
@@ -8,9 +8,8 @@ description:
 tags:
   - pray
 date: 2024-01-16
-URL: 
+URL:
 ---
-
 # Lời nguyện của thánh Thomas Merton
 
 Lạy Chúa là Thiên Chúa của con, con không biết con đang đi đâu.

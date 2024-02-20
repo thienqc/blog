@@ -3,14 +3,14 @@ filename: hinh-anh-trong-obsidian
 aliases:
   - Hình ảnh trong Obsidian
 description: 
+
 tags:
-  - obsidian_plugin
+  - obsidian/plugin
 date: 2023-07-01
 URL: https://www.facebook.com/groups/594306492570157/posts/667179891949483
 share: true
-ID: 159160
+ID: 126987
 ---
-
 # Hình ảnh trong Obsidian
 ![](https://i.imgur.com/7WhyuWI.jpg)
 
@@ -35,6 +35,7 @@ Một cách khác để giải quyết vấn đề dung lượng là ta
 
 Còn bạn, bạn chọn cách nào để lưu trữ hình ảnh?
 
+*[Thảo luận tại group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/667179891949483/)*
 
 > [!Example] Xem thêm
 > [Obsidian plugins](./obsidian-plugins.md)

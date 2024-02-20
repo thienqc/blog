@@ -1,15 +1,14 @@
 ---
 filename: quick-capture-bang-google-keep
 share: true
-ID: 159160
+ID: 126987
 tags:
   - obsidian
   - PKM
 date: 2024-01-24
 URL: https://www.facebook.com/groups/obsidian.secondbrain/posts/722121669788638
-description: 
+description:
 ---
-
 # QUICK CAPTURE BẰNG GOOGLE KEEP
 
 ![](https://i.imgur.com/XfuHZKL.png)
@@ -36,3 +35,5 @@ Khi làm việc với Obsidian trên máy tính, mình sẽ xử lí các ghi ch
 - Ủng hộ tác giả VN: [nguyenvanduocit](https://github.com/nguyenvanduocit)
 - Không còn bị lỗi [không đăng nhập được khi sử dụng Custom Frame](./cach-xu-li-plugin-custom-frame-khong-dang-nhap-vao-tai-khoan.md)
 - Câu lệnh: Open Gate tiện lợi hơn nhiều, cũng như cửa sổ có thể ở tab mới (center), hoặc right pane
+
+*[Thảo luận tại group Obsidian - Second Brain](https://www.facebook.com/groups/obsidian.secondbrain/posts/722121669788638/)*

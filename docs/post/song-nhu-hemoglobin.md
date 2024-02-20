@@ -1,16 +1,16 @@
 ---
 filename: song-nhu-hemoglobin
 description: 
+
 tags:
   - life-style
 date: 2023-07-03
 URL: https://thienqc.substack.com/p/lam-viec-nhu-hemoglobin
 share: true
-ID: 159160
+ID: 126987
 aliases:
   - Sống như hemoglobin
 ---
-
 # Sống như hemoglobin
 
 > [!Quote] Quote

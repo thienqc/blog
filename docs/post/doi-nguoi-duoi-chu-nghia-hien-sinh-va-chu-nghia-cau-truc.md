@@ -3,15 +3,15 @@ filename: doi-nguoi-duoi-chu-nghia-hien-sinh-va-chu-nghia-cau-truc
 aliases:
   - ĐỜI NGƯỜI DƯỚI CHỦ NGHĨA HIỆN SINH VÀ CHỦ NGHĨA CẤU TRÚC
 description: 
+
 tags:
   - MonsterBox
   - Reference
 date: 2021-09-14
 URL: https://www.facebook.com/teammonsterbox/photos/a.1962007060746717/3034115306869215
 share: true
-ID: 159160
+ID: 126987
 ---
-
 # ĐỜI NGƯỜI DƯỚI CHỦ NGHĨA HIỆN SINH VÀ CHỦ NGHĨA CẤU TRÚC
 
 ![](https://i.imgur.com/ONKJC7t.jpg)

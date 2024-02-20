@@ -6,11 +6,10 @@ date: 2023-09-21
 tags:
   - life-style
 share: true
-ID: 159160
+ID: 126987
 aliases:
   - Sự trì hoãn
 ---
-
 # Sự trì hoãn
 
 ## Trì hoãn là gì? Tại sao chúng ta trì hoãn?

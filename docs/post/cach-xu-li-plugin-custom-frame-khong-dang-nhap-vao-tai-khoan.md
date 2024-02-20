@@ -2,15 +2,15 @@
 filename: cach-xu-li-plugin-custom-frame-khong-dang-nhap-vao-tai-khoan
 aliases:
   - Cách xử lí plugin Custom Frame không đăng nhập vào tài khoản
+
 share: true
-ID: 159160
+ID: 126987
 tags:
-  - obsidian_plugin
+  - obsidian/plugin
 date: 2023-10-14
 URL: 
-description: 
+description:
 ---
-
 # Cách xử lí plugin Custom Frame không đăng nhập vào tài khoản
 - Tạo 1 frame tạm thời, với URL để login vào tài khoản, vd: https://myaccount.google.com/
 - sau đó khởi động lại vault

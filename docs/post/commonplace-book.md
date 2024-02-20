@@ -1,15 +1,15 @@
 ---
 filename: commonplace-book
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - PKM
   - ideas
 date: 2023-10-17
 URL: 
-description: 
+description:
 ---
-
 # Commonplace Book
 
 Tiếng Latin là: *locus communis*

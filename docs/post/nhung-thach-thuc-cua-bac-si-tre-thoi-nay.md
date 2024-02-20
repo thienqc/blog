@@ -3,15 +3,15 @@ filename: nhung-thach-thuc-cua-bac-si-tre-thoi-nay
 aliases:
   - Những thách thức của bác sĩ trẻ thời nay?
 description: 
+
 tags:
   - career
   - Reference
 date: 2023-06-10
 URL: https://www.facebook.com/100001140853298/posts/pfbid06Y8osdsJHAXnTjFjEtjPaSW2aMZGcjSuC2c6LL57RYeBYAe8EALm7PzaWcBP1LJ5l/
 share: true
-ID: 159160
+ID: 126987
 ---
-
 # Những thách thức của bác sĩ trẻ thời nay?
 
 Chuẩn bị vài tuần cho tới vài tháng nữa, lứa bác sĩ mới toanh năm nay sẽ tốt nghiệp. Sau khi tốt nghiệp, bao nhiêu thứ phải lo, trong đó cái lo nhất là tương lai như thế nào? Hôm nay, mình xin bàn luận một chút về chủ đề NHỮNG THÁCH THỨC CỦA BÁC SĨ TRẺ THỜI NAY để tìm ra giải pháp “làm sao để ổn hơn”.

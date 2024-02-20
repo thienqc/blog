@@ -1,23 +1,23 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 filename: nguoi-dan-ong-mang-ten-ove
 description: 
 date: 2024-01-03
 URL: 
+
 Cover: Người đàn ông mang tên Ove-1693055045590.jpeg
 Last_Read: 2023-08-26
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 452
 tags:
-  - Reading_challenge_RC_2023
+  - Reading_challenge/RC_2023
   - KhoSach
 Type:
   - Book
 aliases:
   - Người đàn ông mang tên Ove
 ---
-
 # Người đàn ông mang tên Ove
 [Author:: [Fredrik Backman](../../Fredrik%20Backman.md)] - (Publication_Year:: 2012)
 

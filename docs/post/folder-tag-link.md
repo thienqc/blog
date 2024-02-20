@@ -2,20 +2,20 @@
 filename: folder-tag-link
 aliases:
   - Folder - Tag - Link
+
 tags:
   - obsidian
   - PKM
 date: 2023-06-24
 URL: https://www.facebook.com/groups/594306492570157/posts/663193479014791/
 share: true
-ID: 159160
+ID: 126987
 description: Mình nên xây dựng cấu trúc nào? Dùng thư mục hay thẻ tốt hơn? Hay chỉ nên dùng các liên kết?
 extra:
   - "[Folders vs. Links vs. Tags -  reddit](Folders%20vs.%20Links%20vs.%20Tags%20-%20%20reddit.md)"
   - "[Links vs Tags vs Folders in Obsidian -  When Should You Use Each - YouTube](Links%20vs%20Tags%20vs%20Folders%20in%20Obsidian%20-%20%20When%20Should%20You%20Use%20Each%20-%20YouTube.md)"
   - "[How To Organize Your Notes in Obsidian - Folders, Tags and Links - YouTube](How%20To%20Organize%20Your%20Notes%20in%20Obsidian%20-%20Folders,%20Tags%20and%20Links%20-%20YouTube.md)"
 ---
-
 # Folder - Tag - Link
 
 ![](https://i.imgur.com/VjkNBiE.jpg)
@@ -41,6 +41,8 @@ Với liên kết, bạn có thể làm những điều như thư mục (
 Trong quyển "[How to take smart note](./how-to-take-smart-note.md)", Sönke Ahrens có nói: "Trong hệ thống cũ, câu hỏi là: Tôi lưu ghi chú này theo chủ đề nào? Trong hệ thống mới, câu hỏi đặt ra là: Tôi muốn tình cờ gặp lại điều này trong bối cảnh nào?". Dù với cách nào, cuối cùng thì quan trọng nhất vẫn là ghi chú, thế nên hãy sắp xếp sao cho mình có thể dễ truy cập các ghi chú, và hãy thật sự tận hưởng việc viết ghi chú nhé. Hi vọng qua bài viết này, bạn có thể sắp xếp ghi chú của mình hợp lí, phù hợp với bản thân. 😊😊😊
 
 [hình minh hoạ](https://www.reddit.com/r/ObsidianMD/comments/vofakc/folders_vs_links_vs_tags/)
+
+*[Thảo luận tại group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/663193479014791/)*
 ## Reference
 - [Folders vs. Links vs. Tags -  reddit](https://www.reddit.com/r/ObsidianMD/comments/vofakc/folders_vs_links_vs_tags/)
 - [Links vs Tags vs Folders in Obsidian -  When Should You Use Each - YouTube](https://www.youtube.com/watch?v=fwO8LzH9q3I)

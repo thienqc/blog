@@ -2,15 +2,15 @@
 filename: notecard-system
 description: 
 URL: 
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - PKM
 date: 2023-06-30
 aliases:
   - Notecard system
 ---
-
 # Notecard system
 
 [QUẢN LÝ VÀ ÁP DỤNG MỌI KIẾN THỨC BẠN HỌC ĐƯỢC VỚI NOTECARD SYSTEM| Facebook](https://www.facebook.com/groups/lamduocginenhonchua/posts/838330573954322)

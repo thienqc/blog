@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 filename: reading-challenge-2023
 description: 
 tags:
@@ -11,7 +11,6 @@ aliases:
   - Reading challenge 2023
 comments: true
 ---
-
 # Reading challenge 2023
 
 ![](https://i.imgur.com/tMHk1Rl.png)

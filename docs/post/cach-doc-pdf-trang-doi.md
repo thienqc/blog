@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 filename: cach-doc-pdf-trang-doi
 aliases:
   - Cách đọc PDF dạng trang đôi
@@ -8,9 +8,8 @@ description:
 tags:
   - tip
 date: 2024-01-27
-URL: 
+URL:
 ---
-
 # Cách đọc PDF dạng trang đôi
 Đôi khi đọc một số sách PDF mà có trang đôi (nhất là sách của nhà DK), cho dù bật chế độ xem 2 trang cùng lúc thì vẫn bị lệch, như thế này:
 

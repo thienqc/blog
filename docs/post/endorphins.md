@@ -2,15 +2,15 @@
 filename: endorphins
 aliases:
   - Endorphins, Mechanisms of Action, Animation - YouTube
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - medical
 date: 2023-10-13
 URL: 
 description: Chất giảm đau nội sinh
 ---
-
 # Endorphins, Mechanisms of Action, Animation - YouTube
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e-lzXJCmerc?si=YdWCtchwWFsK4VcK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
