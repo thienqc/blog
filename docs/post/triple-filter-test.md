@@ -1,16 +1,16 @@
 ---
 filename: triple-filter-test
 URL: 
+
 tags:
   - speech
 share: true
-ID: 159160
+ID: 126987
 description: Bộ lọc giúp cải thiện giao tiếp
 date: 2023-09-23
 aliases:
   - Triple Filter Test
 ---
-
 # Triple Filter Test
 ## Socrates
 Chuyện kể về một người quen tới muốn kể chuyện của một người bạn khác cho Socrates thì ông đưa ra 3 câu hỏi "bộ lọc": 
