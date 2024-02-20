@@ -4,14 +4,13 @@ aliases:
   - Know thyself (Γνώθι σαυτόν)
   - Biết chính mình
 share: true
-ID: 159160
+ID: 126987
 tags:
   - manga
 date: 2023-10-02
 URL: 
 description: Biết chính mình
 ---
-
 # Know thyself (Γνώθι σαυτόν)
 
 ![](https://i.imgur.com/zaYZAUd.jpg)
