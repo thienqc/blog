@@ -1,7 +1,8 @@
 ---
 filename: doc-sach-de-lam-gi
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - short-story
 date: 2023-10-13
@@ -10,7 +11,6 @@ description:
 aliases:
   - Đọc sách để làm gì
 ---
-
 # Đọc sách để làm gì
 
 Một cậu bé hỏi ông mình: "Đọc sách nhiều để làm gì hả ông?"
