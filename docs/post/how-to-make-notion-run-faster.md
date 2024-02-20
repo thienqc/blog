@@ -4,13 +4,13 @@ aliases:
   - Làm thế nào để NOTION chạy nhanh hơn
 description: 
 URL: 
+
 tags:
   - notion
 share: true
-ID: 159160
+ID: 126987
 date: 2023-06-26
 ---
-
 # Làm thế nào để NOTION chạy nhanh hơn
 ## Những yếu tố ảnh hưởng tới tốc độ của Notion
 - Thiết bị và hệ điều hành
