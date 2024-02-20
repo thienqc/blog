@@ -3,14 +3,14 @@ filename: 29-09-saints-michael-gabriel-and-raphael
 aliases:
   - 29.09 | Saints Michael, Gabriel, and Raphael
 share: true
-ID: 159160
+ID: 126987
 date: 2023-09-29
 tags:
   - SaintOfTheDay
 description: Các Tổng Lãnh Thiên thần
 URL: https://www.franciscanmedia.org/saint-of-the-day/saints-michael-gabriel-and-raphael/
----
 
+---
 # 29.09 | Saints Michael, Gabriel, and Raphael
 
 ![](https://i.imgur.com/CMeDByi.png)
