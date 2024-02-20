@@ -3,14 +3,14 @@ filename: 07-10-our-lady-of-the-rosary
 aliases:
   - 07.10 | Our Lady of the Rosary
 share: true
-ID: 159160
+ID: 126987
 tags:
   - SaintOfTheDay
 date: 2023-10-07
 URL: https://www.franciscanmedia.org/saint-of-the-day/our-lady-of-the-rosary/
 description: Đức Mẹ Mân Côi
----
 
+---
 # 07.10 | Our Lady of the Rosary
 
 ![](https://i.imgur.com/RRWWw28.png)
