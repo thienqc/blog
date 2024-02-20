@@ -1,7 +1,8 @@
 ---
 filename: quy-tac-1%
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - SocialMedia
 date: 2023-10-11
@@ -10,7 +11,6 @@ description:
 aliases:
   - Quy tắc 1% (văn hóa Internet)
 ---
-
 # Quy tắc 1% (văn hóa Internet)
 
 > Trong đa số các cộng đồng trực tuyến, 90% người dùng ẩn nấp không tham gia đóng góp, 9% người dùng đóng góp một phần, 1% người dùng làm hầu hết các hoạt động.
