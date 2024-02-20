@@ -1,14 +1,14 @@
 ---
 filename: obsidian-search
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - obsidian
 date: 2024-01-03
 URL: 
-description: 
+description:
 ---
-
 # Obsidian Search
 
 Chi tiết xem ở [Search - Obsidian Help](https://help.obsidian.md/Plugins/Search)
