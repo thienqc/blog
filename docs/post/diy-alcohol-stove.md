@@ -1,7 +1,8 @@
 ---
 filename: diy-alcohol-stove
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - DIY
   - trek
@@ -9,7 +10,6 @@ date: 2023-10-07
 URL: 
 description: Tự làm bếp cồn
 ---
-
 # DIY Alcohol Stove
 ## Nguyên liệu
 - 3 lon coke cùng kích cỡ
