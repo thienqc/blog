@@ -1,7 +1,8 @@
 ---
 filename: nguyen-so
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - hmm
 date: 2023-11-27
@@ -10,7 +11,6 @@ description:
 aliases:
   - Nguyên sơ
 ---
-
 # Nguyên sơ
 Mọi người hay hỏi mình sao mình thích leo núi, cắm trại thế? Cuối tuần ở nhà nghỉ cho khỏe, đi hành xác làm gì, tối không ngủ chăn ấm nệm êm, mà xách lều nằm co ro trên đó để chi?
 
