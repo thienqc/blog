@@ -3,14 +3,14 @@ filename: nhung-noi-buon-khong-ten
 aliases:
   - Những nỗi buồn không tên
 description: 
+
 tags:
   - hmm
 date: 2023-07-06
 URL: https://thienqc.substack.com/p/nhung-noi-buon-khong-ten
 share: true
-ID: 159160
+ID: 126987
 ---
-
 # Những nỗi buồn không tên
 *Hôm nay là một ngày như thế*
 ### Sáng
