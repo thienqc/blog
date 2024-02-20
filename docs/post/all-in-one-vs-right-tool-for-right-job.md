@@ -10,9 +10,8 @@ tags:
 date: 2023-07-08
 URL: https://thienqc.substack.com/p/all-in-one-or-right-tool-for-the
 share: true
-ID: 159160
+ID: 126987
 ---
-
 # BẠN CHỌN "APP-TẤT-CẢ-TRONG-MỘT" HAY "ĐÚNG-APP-ĐÚNG-VIỆC"?
 
 ![](https://i.imgur.com/qBvb8em.png)
@@ -36,6 +35,7 @@ Sau cùng, các ứng dụng được tạo ra cũng chỉ để phục vu
 
 Cho mình biết ý kiến của bạn về việc lựa chọn ứng dụng phù hợp với bản thân nhé.
 
+*[Bài viết thuộc group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/671916038142535)*
 
 > [!Example] Xem thêm
 > - [Obsidian có thể làm được mọi thứ không?](./obsidian-co-the-lam-duoc-moi-thu-khong.md)
