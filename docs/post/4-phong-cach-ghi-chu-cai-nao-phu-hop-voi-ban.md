@@ -11,9 +11,9 @@ tags:
   - obsidian
   - notion
 share: true
-ID: 159160
----
+ID: 126987
 
+---
 # 4 PHONG CÁCH GHI CHÚ - CÁI NÀO PHÙ HỢP VỚI BẠN
 
 ![](https://i.imgur.com/mVLvWIc.jpg)
