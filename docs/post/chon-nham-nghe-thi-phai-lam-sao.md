@@ -7,9 +7,8 @@ tags:
   - Reference
   - career
 share: true
-ID: 159160
+ID: 126987
 ---
-
 # CHỌN NHẦM NGHỀ THÌ PHẢI LÀM SAO???
 
 [FB: Vũ Khắc Ngọc](https://www.facebook.com/vukhacngoc86/posts/10221296433709326)
