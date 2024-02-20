@@ -2,16 +2,16 @@
 filename: khi-hoi-tho-hoa-thinh-khong
 aliases:
   - Khi hơi thở hoá thinh không
+
 share: true
-ID: 159160
+ID: 126987
 tags:
-  - Reading_challenge_RC_2017
-  - Reading_challenge_RC_2018
-  - Reading_challenge_RC_2019
-  - Reading_challenge_RC_2020
-  - Reading_challenge_RC_2021
+  - Reading_challenge/RC_2017
+  - Reading_challenge/RC_2018
+  - Reading_challenge/RC_2019
+  - Reading_challenge/RC_2020
+  - Reading_challenge/RC_2021
   - KhoSach
-  - quote
 date: 2023-11-12
 URL: 
 description: 
@@ -22,7 +22,6 @@ Type:
   - Book
 Last_Read: 2021-10-18
 ---
-
 # Khi hơi thở hoá thinh không
 [Author:: [Paul Kalanithi](../../Paul%20Kalanithi.md)] - (Publication_Year:: 2016)
 
