@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 filename: 26-07-anre-phu-yen
 aliases:
   - 26.07 Chân Phước Anre Phú Yên
@@ -10,7 +10,6 @@ tags:
 date: 2024-01-18
 URL: https://www.facebook.com/photo?fbid=760130849479148&set=a.461380502687519
 ---
-
 # 26.07 | Chân Phước Anre Phú Yên
 
 ![](https://i.imgur.com/D1RCrnM.png)
