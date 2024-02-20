@@ -1,16 +1,16 @@
 ---
 filename: dice-roller-plugin
 URL: 
+
 share: true
-ID: 159160
+ID: 126987
 date: 2023-09-25
 tags:
-  - obsidian_plugin
+  - obsidian/plugin
 description: Tung xúc sắc và ứng dụng
 aliases:
   - Dice Roller plugin
 ---
-
 # Dice Roller plugin
 - Cài đặt: [Dice roller](obsidian://show-plugin?id=obsidian-dice-roller)
 - Công dụng: tung xúc sắc 🎲 (hiển thị ngẫu nhiên 1 con số/item)
