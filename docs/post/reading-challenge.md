@@ -1,18 +1,6 @@
 ---
 share: true
-ID: 159160
-filename: reading-challenge
-aliases:
-  - KhoSach - RC
-description: 
-tags:
-  - DocSach
-date: 2024-02-01
-URL: 
----
----
-share: true
-ID: 159160
+ID: 126987
 filename: reading-challenge
 aliases:
   - KhoSach - RC
