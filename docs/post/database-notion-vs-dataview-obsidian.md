@@ -1,6 +1,7 @@
 ---
 filename: database-notion-vs-dataview-obsidian
 URL: 
+
 date: 2023-06-09
 link: https://www.facebook.com/groups/594306492570157/posts/654784003189072/
 tags:
@@ -8,11 +9,10 @@ tags:
   - notion
 description: Cái nhìn tổng quan về Notion và Obsidian.
 share: true
-ID: 159160
+ID: 126987
 aliases:
   - DATABASE Notion vs DATAVIEW Obsidian
 ---
-
 # DATABASE Notion vs DATAVIEW Obsidian
 *Bài viết này sẽ giúp bạn có cái nhìn tổng quan về Notion và Obsidian.* 
 
@@ -34,6 +34,8 @@ Chỉ có Notion hỗ trợ API, giúp kết nối với nhiều hệ t
 
 Nói tóm lại, mình thấy Notion được xây dựng thêm hướng app quản lí, còn Obsidian là một app ghi chú tuyệt vời. Cả 2 đều sẽ có những ưu nhược điểm riêng phù hợp với từng đối tượng khác nhau. Hi vọng qua bài viết này, bạn có thể sử dụng công cụ phù hợp với nhu cầu của mình.
 Nếu có bất kì thắc mắc hay thảo luận, hãy để lại bình luận nhé. Chúc bạn một ngày tốt lành.
+
+*[Bài viết thuộc group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/654784003189072/)*
 
 > [!Example] Xem thêm
 > - [DATAVIEW](./dataview.md)
