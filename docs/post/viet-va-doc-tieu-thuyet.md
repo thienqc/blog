@@ -2,19 +2,19 @@
 filename: viet-va-doc-tieu-thuyet
 description: 
 URL: 
+
 Cover: Viết và đọc tiểu thuyết-1688913461920.jpeg
 Last_Read: 2023-11-26
 Rating: ⭐⭐⭐
 Total_Pages: 104
 tags:
-  - Reading_challenge_RC_2023
+  - Reading_challenge/RC_2023
 Type:
   - Book
 share: true
-ID: 159160
+ID: 126987
 date: 2023-11-26
 ---
-
 # Viết và đọc tiểu thuyết
 [Author:: [Nhất Linh](Nh%C3%A2%CC%81t%20Linh.md)] - (Publication_Year:: 1961)
 
