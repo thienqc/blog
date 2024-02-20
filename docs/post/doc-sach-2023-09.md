@@ -3,14 +3,14 @@ filename: doc-sach-2023-09
 aliases:
   - Đọc sách - T09.2023
 URL: 
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - DocSach
 date: 2023-09-30
-description: 
+description:
 ---
-
 # Đọc sách - T09.2023
 Tháng này mình đọc không nhiều, chủ yếu là trinh thám.
 ## [Thánh Giá Rỗng](../../Th%C3%A1nh%20Gi%C3%A1%20R%E1%BB%97ng.md)
