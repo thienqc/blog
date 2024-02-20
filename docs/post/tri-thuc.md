@@ -1,7 +1,8 @@
 ---
 filename: tri-thuc
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - knowledge
 date: 2023-10-14
@@ -10,7 +11,6 @@ description:
 aliases:
   - Tri thức
 ---
-
 # Tri thức
 ## Định nghĩa Tri thức
 Tri thức hay kiến thức (tiếng Anh: knowledge) bao gồm những kiến thức, thông tin, sự hiểu biết, hay kỹ năng có được nhờ trải nghiệm, thông qua giáo dục hay tự học hỏi. 
