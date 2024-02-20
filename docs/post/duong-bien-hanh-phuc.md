@@ -1,7 +1,8 @@
 ---
 filename: duong-bien-hanh-phuc
+
 share: true
-ID: 159160
+ID: 126987
 date: 2023-11-09
 URL: 
 description: 
@@ -9,7 +10,7 @@ Cover: Đường Biên Hạnh Phúc-1699506932720.jpeg
 Rating: ⭐⭐⭐
 Total_Pages: 221
 tags:
-  - Reading_challenge_RC_2023
+  - Reading_challenge/RC_2023
   - Phuot
 type:
   - Book
@@ -17,7 +18,6 @@ Last_Read: 2023-11-09
 aliases:
   - Đường Biên Hạnh Phúc
 ---
-
 # Đường Biên Hạnh Phúc
 [Author::[Nguyễn Thị Kim Ngân](Nguy%E1%BB%85n%20Th%E1%BB%8B%20Kim%20Ng%C3%A2n.md)] - (Publication_Year:: 2018)
 
