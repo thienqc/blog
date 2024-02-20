@@ -2,15 +2,15 @@
 filename: mat-troi-di-chuyen-tu-dong-sang-tay
 aliases:
   - Mặt trời di chuyển từ Đông → Tây
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - Astrology
 date: 2023-10-03
 URL: 
-description: 
+description:
 ---
-
 # Mặt trời di chuyển từ Đông → Tây
 Vì trái đất tự quay quanh trục của nó về hướng Đông (ngược chiều kim đồng hồ nếu nhìn từ cực Bắc)
 
