@@ -1,17 +1,17 @@
 ---
 filename: obsidian-aliases
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - obsidian
-  - obsidian_plugin
+  - obsidian/plugin
 date: 2023-10-16
 URL: https://help.obsidian.md/Linking+notes+and+files/Aliases
 description: 
 aliases:
   - Obsidian Aliases
 ---
-
 # Obsidian Aliases
 ## Bí danh
 [Aliases - Obsidian Help](https://help.obsidian.md/Linking+notes+and+files/Aliases)
