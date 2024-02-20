@@ -2,13 +2,14 @@
 filename: hoang-da-hanh-trinh-tim-lai-minh-tren-duong-mon-pacific-crest
 aliases:
   - "Hoang Dã: Hành trình tìm lại mình trên Đường mòn Pacific Crest"
+
 share: true
-ID: 159160
+ID: 126987
 date: 2023-11-27
 tags:
   - KhoSach
   - Phuot
-  - Reading_challenge_RC_2023
+  - Reading_challenge/RC_2023
 URL: https://www.goodreads.com/book/show/40787020
 description: 
 Cover: Hoang Dã - Hành trình tìm lại mình trên Đường mòn Pacific Crest-1699873665090.jpeg
@@ -18,7 +19,6 @@ type:
   - Book
 Last_Read: 2023-11-20
 ---
-
 # Hoang Dã: Hành trình tìm lại mình trên Đường mòn Pacific Crest
 [Author::[Cheryl Strayed](Cheryl%20Strayed.md)] - (Publication_Year:: 2012)
 
