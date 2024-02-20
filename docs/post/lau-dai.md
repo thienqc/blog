@@ -2,20 +2,20 @@
 filename: lau-dai
 description: 
 URL: 
+
 Cover: Lâu Đài-1685192028074.jpeg
 Rating: ⭐⭐⭐⭐
 Total_Pages: 330
 tags:
-  - Reading_challenge_RC_2020
+  - Reading_challenge/RC_2020
   - KhoSach
 Type:
   - Book
 Last_Read: 2020-08-18
 date: 2023-10-12
 share: true
-ID: 159160
+ID: 126987
 ---
-
 # Lâu Đài
 [Author:: [Franz Kafka](../../Franz%20Kafka.md)] - (Publication_Year:: 1926)
 
