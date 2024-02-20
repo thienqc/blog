@@ -1,7 +1,8 @@
 ---
 filename: ban-ve-hoc-sau
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - PKM
 date: 2023-10-16
@@ -10,7 +11,6 @@ description: Vài điều bàn luận với Long
 aliases:
   - Bàn về học sâu
 ---
-
 # Bàn về học sâu
 
 [Hoàng Long - Some illustrations that I made today for my upcoming... | Facebook](https://www.facebook.com/longhoangbui2/posts/pfbid02pJA9xp3iYq96ArFGa7C9UVN1JfNCD8auoUSPsFusXzKULUuAa6NHF2qjJMa58Sd2l)
