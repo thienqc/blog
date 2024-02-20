@@ -4,13 +4,12 @@ aliases:
   - Recap 2023
 URL: 
 share: true
-ID: 159160
+ID: 126987
 tags:
-  - Reflection_Yearly
+  - Reflection/Yearly
 date: 2023-12-31
-description: 
+description:
 ---
-
 # Recap 2023
 Thông thường vào những ngày này, mình sẽ tìm một chỗ yên tĩnh để mà nhìn lại một năm qua của mình ra sao. Nhưng năm nay lại khác, viết những dòng này mình vẫn đang còn ngồi trên một chuyến xe. Và năm nay của mình cũng là những chuyến đi.
 
