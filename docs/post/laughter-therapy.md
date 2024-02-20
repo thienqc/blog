@@ -1,14 +1,14 @@
 ---
 filename: laughter-therapy
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - happiness
 date: 2023-11-15
 URL: 
 description: Liệu pháp CƯỜI -
 ---
-
 # Laughter therapy - A humor-induced hormonal intervention to reduce stress and anxiety
 
 Liệu pháp CƯỜI - sự hài hước giảm căng thẳng và lo âu
