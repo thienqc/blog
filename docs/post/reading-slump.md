@@ -1,8 +1,9 @@
 ---
 filename: reading-slump
 URL: 
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - habit
   - Book
@@ -12,7 +13,6 @@ aliases:
   - Reading slump
   - Bệnh chán đọc
 ---
-
 # Reading slump
 Cho dù có yêu đọc sách đến đâu thì vẫn sẽ có một thời điểm nào đó, bạn cảm thấy chán. Nguyên nhân và cách thoát khỏi "bệnh chán đọc" (reading slump) này là gì?
 
