@@ -1,7 +1,8 @@
 ---
 filename: readwise
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - PKM
 date: 2023-11-01
@@ -10,7 +11,6 @@ description:
 aliases:
   - Readwise
 ---
-
 # Readwise
 
 ![](https://i.imgur.com/Qy4j5YQ.png)
@@ -124,6 +124,8 @@ Bạn cũng có thể tăng 1 tháng dùng thử bằng cách này qua [đây](h
 ## Kết luận
 
 Readwise thì cũng là một thư viện có đủ sẵn đồ nghề cho bạn sử dụng, việc còn lại là cách bạn dùng nó ra sao, tránh rơi vào [Bẫy người sưu tập](./bay-nguoi-suu-tap.md)
+
+*[Thảo luận tại group Obsidian - Second Brain](https://www.facebook.com/groups/obsidian.secondbrain/posts/731101778890627/)*
 
 > [!Example] Xem thêm
 > - [Ứng dụng read-it-later](./ung-dung-read-it-later.md)
