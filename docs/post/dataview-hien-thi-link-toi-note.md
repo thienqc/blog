@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 filename: dataview-hien-thi-link-toi-note
 aliases:
   - Dataview Hiển thị link tới note
@@ -9,9 +9,8 @@ tags:
   - dataview
   - obsidian
 date: 2024-01-07
-URL: 
+URL:
 ---
-
 # Dataview Hiển thị link tới note
 
 > [!question] Yêu cầu
