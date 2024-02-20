@@ -1,14 +1,14 @@
 ---
 filename: sexy-move-method
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - rubik
 date: 2023-11-03
 URL: Phương pháp giải Rubik chỉ cần nhớ 1 công thức
-description: 
+description:
 ---
-
 # Sexy move method
 
 ## Sexy move
