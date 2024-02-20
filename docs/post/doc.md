@@ -2,15 +2,15 @@
 filename: doc
 aliases:
   - ĐỌC
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - reading
 date: 2023-10-30
 URL: 
-description: 
+description:
 ---
-
 # ĐỌC
 ## Phân loại
 Trước giờ sách được chia làm 2 loại hư cấu và phi hư cấu. Nhưng nếu nhìn sâu xa hơn, ta có chia theo mục đích: đọc để giải trí và đọc để cải thiện.
