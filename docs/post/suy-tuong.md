@@ -2,6 +2,7 @@
 filename: suy-tuong
 description: 
 URL: 
+
 Cover: Suy tưởng-1695384092586.jpeg
 Last_Read: 
 Total_Pages: 
@@ -11,12 +12,11 @@ tags:
 Type:
   - Book
 share: true
-ID: 159160
+ID: 126987
 date: 2023-09-24
 aliases:
   - Suy tưởng
 ---
-
 # Suy tưởng
 [Author:: [Marcus Aurelius](Marcus%20Aurelius.md)] - (Publication_Year:: 180)
 
