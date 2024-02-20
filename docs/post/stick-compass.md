@@ -1,14 +1,14 @@
 ---
 filename: stick-compass
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - trek
 date: 2023-10-03
 URL: 
 description: Xác định phương hướng không cần la bàn
 ---
-
 # Stick Compass
 
 - Cắm 1 cây cọc, xác định vị trí đổ bóng 1 (W)
