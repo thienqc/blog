@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 filename: reading-challenge-2021
 aliases:
   - Reading challenge 2021
@@ -8,9 +8,8 @@ description: Tổng kết những quyển sách đã đọc trong năm 2021
 tags:
   - DocSach
 date: 2024-01-24
-URL: 
+URL:
 ---
-
 # Reading challenge 2021
 
 ![](https://i.imgur.com/NxzihNz.png)
