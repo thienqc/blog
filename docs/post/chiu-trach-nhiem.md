@@ -6,11 +6,10 @@ tags:
 date: 2023-07-05
 URL: https://thienqc.substack.com/p/chiu-trach-nhiem
 share: true
-ID: 159160
+ID: 126987
 aliases:
   - Chịu trách nhiệm
 ---
-
 # Chịu trách nhiệm
 Trong cuộc sống, chúng ta cần nhận thức rõ ràng về trách nhiệm của mình đối với những suy nghĩ, lời nói và hành động của mình. Hành động của chúng ta có thể ảnh hưởng lớn đến những người xung quanh và do đó chúng ta cần phải đảm bảo rằng những hành động của mình đều phù hợp và có ý nghĩa tích cực.
 
