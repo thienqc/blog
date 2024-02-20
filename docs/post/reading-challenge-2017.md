@@ -1,18 +1,6 @@
 ---
 share: true
-ID: 159160
-filename: reading-challenge-2017
-aliases:
-  - Reading challenge 2017
-description: 
-tags:
-  - DocSach
-date: 2024-01-20
-URL: 
----
----
-share: true
-ID: 159160
+ID: 126987
 filename: reading-challenge-2017
 aliases:
   - Reading challenge 2017
