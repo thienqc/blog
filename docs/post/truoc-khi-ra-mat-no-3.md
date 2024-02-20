@@ -1,7 +1,8 @@
 ---
 filename: truoc-khi-ra-mat-no-3
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - LeCatTrongLy
 date: 2023-10-18
@@ -10,7 +11,6 @@ description:
 aliases:
   - Trước khi ra mắt - No 3
 ---
-
 # Trước khi ra mắt - No 3
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RnaFaXzW0wk?si=nF_QtxL0HzsG38Ys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
