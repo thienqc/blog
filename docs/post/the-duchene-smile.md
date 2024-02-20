@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 filename: the-duchene-smile
 aliases:
   - The Duchenne Smile
@@ -8,9 +8,8 @@ description:
 tags:
   - happiness
 date: 2024-01-05
-URL: 
+URL:
 ---
-
 # The Duchenne Smile
 [Happy_V1_M1-01_01_v2.mp4](<file:///Z:\Happiness management\Happy_V1_M1-01_01_v2.mp4>)
 
