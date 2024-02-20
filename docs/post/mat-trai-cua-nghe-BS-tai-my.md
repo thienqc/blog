@@ -1,15 +1,15 @@
 ---
 filename: mat-trai-cua-nghe-BS-tai-my
 URL: 
+
 date: 2023-09-21
 source: https://www.facebook.com/574011182/posts/pfbid02bu18B6wpNQQkPLCAoUe9LKBAi1tf7jFQEPxWS6PAqEPviVkrihyCV2Dxh74yWLWl/?sfnsn=mo&mibextid=6aamW6
 tags:
   - career
 share: true
-ID: 159160
+ID: 126987
 description: Những góc khuất
 ---
-
 # Mặt trái của nghề BS tại Mỹ
 Nhìn từ bên ngoài, nghề BS (tại Mỹ) có thể là nghề mơ uớc của nhiều người. Tuy nhiên, ít ai biết được hết những góc khuất của nghề này. 
 
