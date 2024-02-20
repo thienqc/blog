@@ -1,7 +1,8 @@
 ---
 filename: bay-nguoi-suu-tap
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - self-study
   - PKM
@@ -11,7 +12,6 @@ description:
 aliases:
   - Bẫy người sưu tập
 ---
-
 # Bẫy người sưu tập
 ## Định nghĩa
 
