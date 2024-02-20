@@ -1,7 +1,8 @@
 ---
 filename: cau-chuyen-dong-song
+
 share: true
-ID: 159160
+ID: 126987
 date: 2023-11-11
 URL: 
 description: 
@@ -10,12 +11,11 @@ Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 254
 tags:
   - KhoSach
-  - Reading_challenge_RC_2023
+  - Reading_challenge/RC_2023
 type:
   - Book
 Last_Read: 2023-11-11
 ---
-
 # Câu chuyện dòng sông
 [Author::[Hermann Hesse](Hermann%20Hesse.md)] - (Publication_Year:: 1922)
 
