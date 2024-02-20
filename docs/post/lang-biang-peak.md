@@ -2,15 +2,15 @@
 filename: lang-biang-peak
 description: 
 URL: 
+
 date: 2021-05-03
 tags:
   - trip
 share: true
-ID: 159160
+ID: 126987
 extra:
   - https://photos.app.goo.gl/i2jc3U5Yebhbk7CN6
 ---
-
 # Lang biang peak
 
 Lang biang là ngọn núi cao nhất Đà Lạt, với độ cao 2167m so với mực nước biển, nằm ở huyện Lạc Dương, phía Bắc Đà Lạt, cách thành phố khoảng 12km.
