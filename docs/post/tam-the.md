@@ -2,23 +2,23 @@
 filename: tam-the
 description: 
 URL: 
+
 Cover: Tam thể-1698154101560.jpeg
 Last_Read: 2023-09-26
 Rating: ⭐⭐⭐⭐
 Total_Pages: 364
 tags:
   - sci-fi
-  - Reading_challenge_RC_2023
+  - Reading_challenge/RC_2023
   - KhoSach
 Type:
   - Book
 share: true
-ID: 159160
+ID: 126987
 date: 2023-09-26
 aliases:
   - Tam thể
 ---
-
 # Tam thể
 [Author:: [Liu Cixin](Liu%20Cixin.md)] - (Publication_Year:: 2006)
 
