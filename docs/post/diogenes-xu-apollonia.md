@@ -1,14 +1,14 @@
 ---
 filename: diogenes-xu-apollonia
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - SuKyYHocToanThu
 date: 2023-11-06
 URL: https://pivie.com.vn/425bc-diogenes-xu-apollonia-nguoi-tien-phong-trong-giai-phau-mach-mau.htm
-description: 
+description:
 ---
-
 # Diogenes xứ Apollonia - Người tiên phong trong giải phẫu mạch máu
 
 Diogenes xứ Apollonia là một nhà triết học tiền Socrates sống vào thế kỷ thứ 5 trước Công nguyên. Ông được cho là người tiên phong trong việc mô tả hệ thống mạch máu trong cơ thể con người.
