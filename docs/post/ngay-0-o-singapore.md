@@ -1,14 +1,14 @@
 ---
 filename: ngay-0-o-singapore
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - SG-trip
 date: 2023-11-01
 URL: 
 description: Những ngày chuẩn bị
 ---
-
 # Ngày 0 ở Singapore
 
 *Những ngày chuẩn bị*
