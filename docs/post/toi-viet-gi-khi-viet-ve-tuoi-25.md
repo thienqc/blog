@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 tags:
   - Reflection
 date: 2024-01-02
@@ -9,8 +9,8 @@ description: Lại một năm nữa trôi qua, vào ngày này tôi càng muốn
 aliases:
   - Tôi viết gì khi viết về tuổi 25
 filename: toi-viet-gi-khi-viet-ve-tuoi-25
----
 
+---
 # Tôi viết gì khi viết về tuổi 25
 
 25 tuổi, không quá già nhưng cũng không còn trẻ. 25 tuổi, một phần tư thế kỉ. 25 tuổi.
