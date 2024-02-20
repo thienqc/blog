@@ -1,14 +1,14 @@
 ---
 filename: ho-tri-an-camping-231023
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - camp
 date: 2023-10-24
 URL: 
-description: 
+description:
 ---
-
 # Hồ Trị An camping - 231023
 
 14:45 xuất phát từ Thủ Đức, HCM. Mưa khá to, phải mặc áo mưa từ đầu, đã có ý định quay về nhà, nhưng cuối cùng cũng đi. Dầm mưa hơn 2 tiếng đồng hồ thì cuối cùng cũng tới điểm cắm trại là [Đảo Xanh camping](https://maps.app.goo.gl/BrX3kx6Di6iu5o9X9) - hồ Trị An - Đồng Nai.
