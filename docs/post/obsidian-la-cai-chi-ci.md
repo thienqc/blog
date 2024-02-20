@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 filename: obsidian-la-cai-chi-ci
 aliases:
   - Obsidian là cái chi chi
@@ -8,9 +8,8 @@ description: Vài điều hay ho về obsidian
 tags:
   - obsidian
 date: 2024-01-06
-URL: 
+URL:
 ---
-
 # Obsidian là cái chi chi
 
 ![](https://i.imgur.com/80CmsCr.png)
