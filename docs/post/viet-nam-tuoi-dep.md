@@ -1,14 +1,14 @@
 ---
 filename: viet-nam-tuoi-dep
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - trip
 date: 2023-10-13
 URL: 
 description: Những chuyến đi
 ---
-
 # Việt Nam tươi đẹp
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NSnkb1IAjbE?si=fa9rza2caSnQxO1J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
