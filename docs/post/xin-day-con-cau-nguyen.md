@@ -1,17 +1,16 @@
 ---
 share: true
-ID: 159160
+ID: 126987
 filename: xin-day-con-cau-nguyen
 aliases:
   - Xin dạy con cầu nguyện
 description: 
 tags:
   - LoiChua
-  - KinhThanh_Lc
+  - KinhThanh/Lc
 date: 2024-01-09
-URL: 
+URL:
 ---
-
 # Xin dạy con cầu nguyện
 
 > [!quote] Lc 11,1
