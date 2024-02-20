@@ -4,13 +4,13 @@ aliases:
   - Kỹ năng tự học hiệu quả
 description: 
 URL: 
+
 share: true
-ID: 159160
+ID: 126987
 date: 2023-05-21
 tags:
   - self-study
 ---
-
 # Kỹ năng tự học hiệu quả
 
 [Kỹ Năng Tự Học Hiệu Quả - YouTube](https://www.youtube.com/watch?v=-ilse9rTDto)
