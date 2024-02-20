@@ -2,15 +2,15 @@
 filename: review-dieu-ki-dieu-cua-tiem-tap-hoa-namiya
 description: 
 URL: 
+
 share: true
-ID: 159160
+ID: 126987
 tags:
   - Book
 date: 2018-04-06
 aliases:
   - Review Điều kì diệu của tiệm tạp hoá Namiya
 ---
-
 # Review Điều kì diệu của tiệm tạp hoá Namiya
 
 *Lần đầu viết review. Review có tí spoil. Khuyên chỉ nên đã đọc qua tác phẩm.*
