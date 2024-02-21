@@ -17,11 +17,15 @@ type:
   - Book
 Last_Read: 2024-02-21
 ---
+# Sống đơn giản
+
 [Author::[Charles Wagner](Charles%20Wagner.md)] - (Publication_Year:: 1904)
 
 ![](https://i.imgur.com/TwsAHBE.png)
 
 Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21202&authkey=!AOwWg6aVH_bAY9s)
+
+> Biết cái nào là chính, cái nào là phụ!
 
 ---
 
