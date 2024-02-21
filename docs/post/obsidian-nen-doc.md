@@ -7,7 +7,7 @@ aliases:
 description: 
 tags:
   - obsidian
-date: 2024-01-04
+date: 2024-02-21
 URL: https://www.facebook.com/groups/594306492570157/posts/676397947694344/
 ---
 # TỔNG HỢP BÀI VIẾT NÊN ĐỌC TRONG GROUP
@@ -32,6 +32,7 @@ URL: https://www.facebook.com/groups/594306492570157/posts/676397947694344/
 - [Các mô hình tiếp cận sắp xếp ghi chú](./cac-mo-hinh-tiep-can-sap-xep-ghi-chu.md)
 - [Chọn nền tảng ghi chú phù hợp với nhu cầu của bạn](https://www.facebook.com/groups/obsidian.secondbrain/posts/761890285811776/)
 - [Phương pháp PARA](https://www.facebook.com/groups/obsidian.secondbrain/posts/748714280462710/)
+
 ## TIP
 - [MARKDOWN - NGÔN NGỮ DỄ ĐỌC DỄ VIẾT](./markdown-ngon-ngu-de-doc-de-viet.md)
 - [Cách chia Obsidian thành nhiều zone](https://www.facebook.com/groups/594306492570157/posts/644670517533754/)
@@ -41,10 +42,22 @@ URL: https://www.facebook.com/groups/594306492570157/posts/676397947694344/
 - [Lời khuyên cho người mới bắt đầu sử dụng Obsidian](./loi-khuyen-cho-nguoi-moi-dung-obsidian.md)
 - [Lộ trình học Obsidian](https://www.facebook.com/groups/594306492570157/posts/696868922313913/)
 
-**Capture**
+## Đồng bộ
+- [Đồng bộ Obsidian: Window - Android](./cach-minh-dong-bo-obsidian-giua-cac-thiet-bi.md)
+- [Đồng bộ giữa các máy tính và điện thoại Android như thế nào](https://www.facebook.com/groups/594306492570157/posts/664287408905398/)
+- [Plugin: Remotely Save](https://www.facebook.com/groups/594306492570157/posts/667991241868348/)
+
+## Capture
 - [QUICK CAPTURE BẰNG GOOGLE KEEP](./quick-capture-bang-google-keep.md)
 - [Readwise](./readwise.md)
 - [Omnivore](https://www.facebook.com/groups/obsidian.secondbrain/posts/730109715656500/)
+
+## Publish
+- [Tạo một trang blog đơn giản bằng Obsidian và MkDocs](./tao-mot-trang-blog-don-gian-bang-obsidian-va-mkdocs.md)
+- [Digital garden](https://www.facebook.com/groups/594306492570157/posts/684341183566687/)
+- [3 cách để chia sẻ tài liệu trong Obsidian](https://www.facebook.com/groups/594306492570157/posts/705326651468140/)
+- [Cách tạo trang blog sử dụng markdown và jekyll](https://www.facebook.com/groups/obsidian.secondbrain/posts/750928323574639/)
+
 ## Plugin
 - [Tổng quan về Obsidian plugins](./obsidian-plugins.md)
 - [DATAVIEW](./dataview.md)
@@ -67,17 +80,6 @@ URL: https://www.facebook.com/groups/594306492570157/posts/676397947694344/
 - [Plugin: YT transcript](https://www.facebook.com/groups/594306492570157/posts/670376071629865/)
 - [Spaced Repetition Plugin](https://www.facebook.com/groups/594306492570157/posts/700912888576183/)
 - [Properties](https://www.facebook.com/groups/594306492570157/posts/699293455404793/)
-
-## ĐỒNG BỘ
-- [Đồng bộ Obsidian: Window - Android](./cach-minh-dong-bo-obsidian-giua-cac-thiet-bi.md)
-- [Đồng bộ giữa các máy tính và điện thoại Android như thế nào](https://www.facebook.com/groups/594306492570157/posts/664287408905398/)
-- [Plugin: Remotely Save](https://www.facebook.com/groups/594306492570157/posts/667991241868348/)
-## PUBLISH
-- [Tạo một trang blog đơn giản bằng Obsidian và MkDocs](./tao-mot-trang-blog-don-gian-bang-obsidian-va-mkdocs.md)
-- [Digital garden](https://www.facebook.com/groups/594306492570157/posts/684341183566687/)
-- [3 cách để chia sẻ tài liệu trong Obsidian](https://www.facebook.com/groups/594306492570157/posts/705326651468140/)
-- [Cách tạo trang blog sử dụng markdown và jekyll](https://www.facebook.com/groups/obsidian.secondbrain/posts/750928323574639/)
-
 
 *Cập nhật 04/01/2024*
 
