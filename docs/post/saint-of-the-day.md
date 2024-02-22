@@ -4,12 +4,15 @@ share: true
 ID: 126987
 tags:
   - SaintOfTheDay
-date: 2024-01-18
+date: 2024-02-22
 description: Vị Thánh của ngày
 aliases:
   - Saint of the Day
 ---
 # Saint of the Day
+
+## February
+- [22.02 Tông toà thánh Phêrô](./22-02-tong-toa-thanh-phero.md)
 
 ## July
 - [26.07 Chân Phước Anre Phú Yên](./26-07-anre-phu-yen.md)
