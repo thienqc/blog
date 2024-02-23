@@ -42,7 +42,7 @@ Xem thêm: [The Ultimate Hang – Hammock tips, illustrations, and reviews.](htt
 
 
 > [!note]- **Hammock gear checklist**
-> Hammock
+> - Hammock
 > 	- Tree Webbing Straps
 > 	- Suspension Lines
 > 	- Rigging Hardware*
@@ -52,26 +52,26 @@ Xem thêm: [The Ultimate Hang – Hammock tips, illustrations, and reviews.](htt
 > 	- Ridgeline Gear Organizer*
 > 	- Floor Mat*
 > 	- Tarp
-> Weather Cover*
+> - Weather Cover*
 > 	- Hammock Sock*
 > 	- Guylines
 > 	- Stakes*
 > 	- Tarp Ridgeline
 > 	- Rigging Hardware*
-> Sleeping
+> - Sleeping
 > 	- Under Quilt
 > 	- Top Quilt
 > 	- SleepingBag
 > 	- Sleeping Pad(s)
 > 	- Vapor Barrier Liner*
-> Packing
+> - Packing
 > 	- Backpack
 > 	- Stuff Sacks
 > 	- Pack Liner
-> Hydration
+> - Hydration
 > 	- Water Containers (up to 4L)
 > 	- Purification Method
-> Clothing
+> - Clothing
 > 	- Base Layer
 > 	- Shirt(s)
 > 	- Pants/Shorts
@@ -83,22 +83,22 @@ Xem thêm: [The Ultimate Hang – Hammock tips, illustrations, and reviews.](htt
 > 	- Sun Hat
 > 	- Warm Hat (balaclava)
 > 	- Gloves (liners and shells)
-> Kitchen
+> - Kitchen
 > 	- Stove (matches/firestarter)
 > 	- Fuel
 > 	- Pot
 > 	- Spoon
-> Hygiene
+> - Hygiene
 > 	- Toothbrush, Toothpaste
 > 	- First Aid Kit
 > 	- Duct Tape (multi-use!)
 > 	- Toilet Kit (TP, wipes, wag bags, trowel)
 > 	- Sunscreen
-> Miscellaneous
+> - Miscellaneous
 > 	- Headlamp/Light
 > 	- Map and Compass
 > 	- Whistle
 > 	- Knife
 > 	- Sunglasses
-> Food
+> - Food
 > 	- *Optional
