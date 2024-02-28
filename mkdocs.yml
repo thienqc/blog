@@ -20,7 +20,7 @@ theme:
       #   scheme: default
       #   primary: deep purple
       #   accent: light blue
-      palette:
+    palette:
       - media: "(prefers-color-scheme)"
         toggle:
           icon: material/link
