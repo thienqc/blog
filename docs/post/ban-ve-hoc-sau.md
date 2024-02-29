@@ -1,6 +1,5 @@
 ---
 filename: ban-ve-hoc-sau
-
 share: true
 ID: 126987
 tags:
@@ -31,7 +30,7 @@ aliases:
 
 > Chính cái hình số 2 đã giải thích vì sao ta phải học và hiểu sâu. Nếu một ngày ta đi tới một nơi không có điện thoại, internet, thì những kiến thức ta học được lúc đó sẽ phát huy. Tui luôn nhớ một câu "thứ gì trong đầu ta thì sẽ không bao giờ bị lấy đi". Không kể chuyện này, việc ta học sâu sẽ giúp ta hiểu về thế giới này hơn. Hông biết bạn sao, chứ tui càng đào sâu những chủ đề ban đầu tưởng chừng không liên quan nhau, nhưng tới một thời điểm nào đó, tự nhiên chúng sẽ xuất hiện cùng một lúc. 
 > 
-> Hồi chiều t nảy ra ý tưởng về dòng thời gian của ghi chú. Ví dụ như có commonplace book, zettelkasten là những hình thức của Second Brain thời chưa có máy tính. Vấn đề ở đây là phương pháp, còn lại là công cụ. Trước đây lượng thông tin con người tiếp cận không nhiều như bây giờ (mỗi ngày người ta ước lượng một người đang phải tương tác với khoảng 74GB dữ liệu) nên việc có một công cụ "cao cấp" sẽ giúp chúng ta tiếp cận, xử lí thông tin dễ dàng, nhanh chóng hơn. Tuy nhiên sẽ dễ sa vào cái bẫy sưu tập hơn rất nhiều.
+> Hồi chiều t nảy ra ý tưởng về dòng thời gian của ghi chú. Ví dụ như có [commonplace book](./commonplace-book.md), [zettelkasten](../../Zettelkasten.md) là những hình thức của Second Brain thời chưa có máy tính. Vấn đề ở đây là phương pháp, còn lại là công cụ. Trước đây lượng thông tin con người tiếp cận không nhiều như bây giờ (mỗi ngày người ta ước lượng một người đang phải tương tác với khoảng 74GB dữ liệu) nên việc có một công cụ "cao cấp" sẽ giúp chúng ta tiếp cận, xử lí thông tin dễ dàng, nhanh chóng hơn. Tuy nhiên sẽ dễ sa vào cái bẫy sưu tập hơn rất nhiều.
 > 
 > Việc chúng ta cần là làm sao để luôn minh mẫn trong thế giới đầy sương mù này.
 > 

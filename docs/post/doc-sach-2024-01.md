@@ -3,30 +3,36 @@ share: true
 ID: 126987
 filename: doc-sach-2024-01
 aliases:
-  - Đọc sách -T01.2024
+  - Đọc sách (2024.02)
 description: 
 tags:
   - DocSach
-date: 2024-01-31
-URL:
+date: 2024-02-29
+URL: 
 ---
-# Đọc sách - T01.2024
+# Đọc sách - T02.2024
 
-![](https://i.imgur.com/DcBEP7z.png)
+![](https://i.imgur.com/f7S2RhN.png)
 
-## [Musashi - giang hồ kiếm khách](./musashi-giang-ho-kiem-khach.md)
-Dù được mệnh danh là một kiếm sĩ bậc thầy, nhưng  ông chắc chắn là người thường chứ không phải thiên tài, kì nhân gì cả. Vì là người thường nên cuộc đời ông cũng rất bình thường. Một tuổi trẻ nông nỗi, không chí chắn, chỉ biết dùng kiếm giải quyết một chuyện. Nhưng trên con đường kiếm đạo của mình, ông đã ra sức trau rồi sức mạnh, cả thể chất đặc biệt là tinh thần. Vì biết mình không biết gì cả nên ông học tập, quan sát, đúc kết, ngẫm nghĩ mọi thứ xung quanh, con người. Thế nên đến cuối đời ông được mọi người ca tụng là ronin vĩ đại nhất.
+## [Hình cảnh mất trí](./hinh-canh-mat-tri.md)
 
-Con đường ông chọn là kiếm đạo, nhưng về sau cùng mọi con đường chúng ta đi (kiếm đạo, thiền đạo, thậm chí là trà đạo) rốt cũng chỉ dẫn con người đến quân bình nội tâm, đến hạnh phúc đích thực.
+> Khai thác chủ đề [PTSD](./PTSD.md), tác phẩm trinh thám đầu tay của [Trần Hạo Cơ](../../Chan%20Ho%20kei.md) hơi non so với đỉnh cao [13.67](../../13.67.md) hay [Người trong lưới](../../Ng%C6%B0%E1%BB%9Di%20Trong%20L%C6%B0%E1%BB%9Bi.md). Dù thế, đây vẫn là tác phẩm phảng phất phong cách viết đầy cú plot twist đặc trưng của Trần Hạo Cơ.
 
-## [Tôi tự học](./toi-tu-hoc.md)
-- “Tri chi vi tri chi, bất tri vi bất tri, thị tri dã”: Người học thức là người thà biết ít mà thật biết những gì mình biết, còn những gì mình không biết, thì cũng biết rõ là mình không biết.
-- Càng biết rộng càng hay, càng biết sâu càng quý.
-- Cái lợi của sách là giúp cho mình suy nghĩ, chứ không phải suy nghĩ thế cho mình.
-- Học mà không hóa có hại cho tinh thần, cũng như ăn mà không tiêu, có hại cho sức khỏe.
+## [Vòng đu quay đêm](./vong-du-quay-dem.md)
 
-## [Chiến Binh Cầu Vồng](./chien-binh-cau-vong.md)
-Đọc để biết rằng **được đi học là một điều may mắn**! Do đó, nếu bạn cảm thấy mình đang bất định, không biết làm gì thì hãy dùng thời gian đó mà học, học bất cứ điều gì, không có gì là thừa cả.
+> Mọi chuyện bắt nguồn từ do đâu?
+> 
+> Theo mình, là do mọi người không thể chân thật với những xúc cảm nội tâm của mình, từ đó mà chọn những cách giải quyết khác nhau: chôn kín trong lòng, trốn chạy nhu nhược, bùng nổ dữ dội,... Tất cả những cách giải quyết này đều mang đến đau khổ tới chính bản thân và những người xung quanh, đặc biệt là cho gia đình mình.
+> 
+> Có lẽ việc ta phán xét cuộc sống, suy diễn cảm xúc của người khác cũng chỉ là vì bản thân ta thiếu thốn. Nếu ta chấp nhận được sự đặc biệt của mỗi người và chấp nhận sự bất toàn của bản thân ta, những mâu thuẫn giữa người với người sẽ không xảy ra, cuộc sống này sẽ trở nên đáng sống hơn.
+
+## [Sống đơn giản](./song-don-gian.md)
+
+> Giản dị là "biết cái nào là chính, cái nào là phụ!"
+
+## [The Ultimate Hang - An Illustrated Guide to Hammock Camping](./the-ultimate-hang.md) 
+
+> Dân chơi hệ võng
 
 
 > [!Example] Xem thêm

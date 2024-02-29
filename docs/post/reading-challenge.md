@@ -8,11 +8,12 @@ description:
 tags:
   - DocSach
 date: 2024-02-01
-URL:
+URL: 
 ---
 # Reading challenge
 ## 2024
 - [Đọc sách - T01.2024](./doc-sach-2024-01.md)
+- [Đọc sách - T02.2024](./doc-sach-2024-01.md)
 
 ## [2023](./reading-challenge-2023.md)
 - [Đọc sách - T09.2023](./doc-sach-2023-09.md)
