@@ -1,6 +1,5 @@
 ---
 filename: commonplace-book
-
 share: true
 ID: 126987
 tags:
@@ -8,7 +7,7 @@ tags:
   - ideas
 date: 2023-10-17
 URL: 
-description:
+description: 
 ---
 # Commonplace Book
 
@@ -24,3 +23,4 @@ Mình cho rằng nó rất giống với Second Brain...
 
 [Bản thảo Voynich được viết bằng một thứ ngôn ngữ bí ẩn.](https://www.facebook.com/www.ctump.edu.vn/posts/pfbid03wdS9TK6ocZtUUUVt6m5toHKjz8mZo9Shd9ManFPoitL9y8VZda5sEptQBEgKU1gl)
 
+Tuy nhiên, Commonplace book là nơi tích luỹ các ý tưởng của người khác!

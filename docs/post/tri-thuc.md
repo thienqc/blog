@@ -1,6 +1,5 @@
 ---
 filename: tri-thuc
-
 share: true
 ID: 126987
 tags:
@@ -13,7 +12,7 @@ aliases:
 ---
 # Tri thức
 ## Định nghĩa Tri thức
-Tri thức hay kiến thức (tiếng Anh: knowledge) bao gồm những kiến thức, thông tin, sự hiểu biết, hay kỹ năng có được nhờ trải nghiệm, thông qua giáo dục hay tự học hỏi. 
+Tri thức hay kiến thức (tiếng Anh: knowledge) bao gồm những kiến thức, thông tin, sự hiểu biết, hay kỹ năng có được nhờ trải nghiệm, thông qua giáo dục hay tự học hỏi.
 ## Phân loại
 2 dạng tồn tại của tri thức
 
