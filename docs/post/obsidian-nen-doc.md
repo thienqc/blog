@@ -7,17 +7,17 @@ aliases:
 description: 
 tags:
   - obsidian
-date: 2024-02-29
+date: 2024-03-06
 URL: https://www.facebook.com/groups/594306492570157/posts/676397947694344/
 ---
 # TỔNG HỢP BÀI VIẾT NÊN ĐỌC TRONG GROUP
 
 ❓ [GÓC HỎI - ĐÁP](https://www.facebook.com/groups/obsidian.secondbrain/permalink/601963171804489/)
 
+[🔥 TỔNG HỢP NGUỒN THAM KHẢO TỪ OBSIDIAN HUB](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/%F0%9F%97%82%EF%B8%8F+04+-+Guides%2C+Workflows%2C+%26+Courses)
 
 > [!tip] Có thể bạn chưa biết
 > 90% thắc mắc của bạn về OBSIDIAN có thể được tìm thấy tại [Obsidian Help](https://help.obsidian.md/Home)
-
 
 ## PKM
 - [Obsidian - no.1 về quản lý kiến thức cá nhân](https://www.facebook.com/groups/594306492570157/posts/597414808925992/)
