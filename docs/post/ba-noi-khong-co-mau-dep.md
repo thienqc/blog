@@ -34,13 +34,13 @@ Tới lúc này, nếu ta chỉ dùng con mắt của người lớn thì sẽ k
 Thì ra là thế, chuyện là thằng nhỏ này trước khi đi ngủ luôn được nghe bài hát "Ba ngọn nến lung linh".
 
 > [!done] Ba Ngọn Nến Lung Linh
-> Ba là cây nến vàng
-> Mẹ là cây nến xanh
-> Con là cây nến hồng
-> Ba ngọn nến lung linh
-> Ha hà há ha ha
-> Thắp sáng một gia đình
+> 	Ba là cây nến vàng
+> 	Mẹ là cây nến xanh
+> 	Con là cây nến hồng
+> 	Ba ngọn nến lung linh
+> 	Ha hà há ha ha
+> 	Thắp sáng một gia đình
 
 Lời bài hát mô tả một gia đình có ba, mẹ, con với mỗi màu nến khác nhau. Ông bà nội không được nhắc đến trong bài hát, nên không có màu sắc, nên cũng không phải là "một gia đình".
 
-Bởi vậy, một suy luận tưởng chừng ngô nghê từ đứa nhỏ 3 tuổi, nhưng lại mang một triết lí sâu sắc "hãy đặt mình dưới góc nhìn của đối phương".
+Bởi vậy, một suy luận tưởng chừng ngô nghê từ đứa nhỏ 3 tuổi, nhưng lại phảng phất một triết lí sâu sắc "hãy đặt mình dưới góc nhìn của đối phương".
