@@ -28,8 +28,6 @@ date: 2024-03-27
 
 Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21131&authkey=!AEps34BmYhxeQ9Q)
 
-
-
 ---
 
 > [!important] Post
