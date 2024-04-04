@@ -1,8 +1,7 @@
 ---
 filename: viet-nam-tuoi-dep
-
 share: true
-ID: 126987
+comments: true
 tags:
   - trip
 date: 2023-10-13
