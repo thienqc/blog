@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 126987
+comments: true
 filename: ba-noi-khong-co-mau-dep
 aliases:
   - Bà nội không có màu đẹp
