@@ -1,8 +1,7 @@
 ---
 filename: taut-line-hitch
-
 share: true
-ID: 126987
+comments: true
 tags:
   - trek
   - knots
