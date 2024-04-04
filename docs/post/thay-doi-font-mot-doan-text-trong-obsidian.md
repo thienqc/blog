@@ -2,7 +2,7 @@
 filename: thay-doi-font-mot-doan-text-trong-obsidian
 
 share: true
-ID: 126987
+comments: true
 tags:
   - obsidian
 date: 2023-10-16

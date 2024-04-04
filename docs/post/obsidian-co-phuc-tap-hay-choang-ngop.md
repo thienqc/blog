@@ -9,7 +9,7 @@ tags:
 date: 2023-06-16
 URL: https://www.facebook.com/groups/594306492570157/posts/659231826077623/
 share: true
-ID: 126987
+comments: true
 ---
 # Obsidian có phức tạp hay choáng ngợp?
 

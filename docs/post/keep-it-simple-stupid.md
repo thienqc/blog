@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 126987
+comments: true
 filename: keep-it-simple-stupid
 aliases:
   - KISS (KEEP IT SIMPLE STUPID)

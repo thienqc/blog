@@ -1,7 +1,7 @@
 ---
 filename: quick-capture-bang-google-keep
 share: true
-ID: 126987
+comments: true
 tags:
   - obsidian
   - PKM

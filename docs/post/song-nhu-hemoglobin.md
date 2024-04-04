@@ -7,7 +7,7 @@ tags:
 date: 2023-07-03
 URL: https://thienqc.substack.com/p/lam-viec-nhu-hemoglobin
 share: true
-ID: 126987
+comments: true
 aliases:
   - Sống như hemoglobin
 ---

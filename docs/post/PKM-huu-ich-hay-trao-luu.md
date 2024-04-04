@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 126987
+comments: true
 filename: PKM-huu-ich-hay-trao-luu
 aliases:
   - PKM có thực sự hữu ích hay chỉ là một trào lưu thoáng qua?

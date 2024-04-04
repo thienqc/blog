@@ -2,7 +2,7 @@
 filename: cach-ghep-cac-note-nho-trong-obsidian
 
 share: true
-ID: 126987
+comments: true
 tags:
   - obsidian
 date: 2023-11-01

@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 126987
+comments: true
 filename: loi-khuyen-cho-nguoi-moi-dung-obsidian
 aliases:
   - LỜI KHUYÊN GÌ CHO NGƯỜI MỚI BẮT ĐẦU SỬ DỤNG OBSIDIAN

@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 126987
+comments: true
 filename: chien-binh-cau-vong
 aliases:
   - Chiến Binh Cầu Vồng

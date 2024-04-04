@@ -9,7 +9,7 @@ tags:
 date: 2023-07-02
 URL: https://thienqc.substack.com/p/thanh-tri
 share: true
-ID: 126987
+comments: true
 description: '"Thành trì" là một cuốn sách gối đầu giường của mỗi người hành nghề y'
 ---
 # Review Thành trì

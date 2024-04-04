@@ -4,7 +4,7 @@ aliases:
   - Cách xử lí plugin Custom Frame không đăng nhập vào tài khoản
 
 share: true
-ID: 126987
+comments: true
 tags:
   - obsidian/plugin
 date: 2023-10-14

@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 126987
+comments: true
 filename: khu-vuon-tri-thuc
 aliases:
   - Khu vườn tri thức

@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 126987
+comments: true
 filename: loi-nguyen-cua-thanh-thomas-merton
 aliases:
   - Lời nguyện của thánh Thomas Merton

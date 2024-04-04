@@ -8,7 +8,7 @@ URL:
 tags:
   - notion
 share: true
-ID: 126987
+comments: true
 date: 2023-06-26
 ---
 # Làm thế nào để NOTION chạy nhanh hơn

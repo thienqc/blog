@@ -4,7 +4,7 @@ aliases:
   - Obsidian plugins
 
 share: true
-ID: 126987
+comments: true
 tags:
   - obsidian/plugin
 URL: 

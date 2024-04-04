@@ -7,7 +7,7 @@ source: https://www.facebook.com/574011182/posts/pfbid02bu18B6wpNQQkPLCAoUe9LKBA
 tags:
   - career
 share: true
-ID: 126987
+comments: true
 description: Những góc khuất
 ---
 # Mặt trái của nghề BS tại Mỹ

@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 126987
+comments: true
 filename: 22-02-tong-toa-thanh-phero
 aliases:
   - 22.02 Tông toà thánh Phero

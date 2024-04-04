@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 126987
+comments: true
 filename: cach-doc-pdf-trang-doi
 aliases:
   - Cách đọc PDF dạng trang đôi

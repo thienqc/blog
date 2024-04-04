@@ -9,7 +9,7 @@ tags:
 date: 2023-07-01
 URL: https://www.facebook.com/groups/594306492570157/posts/667179891949483
 share: true
-ID: 126987
+comments: true
 ---
 # Hình ảnh trong Obsidian
 ![](https://i.imgur.com/7WhyuWI.jpg)

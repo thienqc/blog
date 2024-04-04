@@ -16,7 +16,7 @@ Type:
 Last_Read: 2020-03-10
 date: 2023-10-13
 share: true
-ID: 126987
+comments: true
 ---
 # Suối nguồn
 [Author:: [Ayn Rand](Ayn%20Rand.md)] - (Publication_Year:: 1943)

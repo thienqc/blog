@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 126987
+comments: true
 filename: duoc-hoc
 aliases:
   - Được học

@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 126987
+comments: true
 filename: cac-kieu-kien-truc-nha-tho
 aliases:
   - Các kiểu kiến trúc khác nhau của nhà thờ đến từ đâu

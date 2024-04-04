@@ -2,7 +2,7 @@
 filename: stick-compass
 
 share: true
-ID: 126987
+comments: true
 tags:
   - trek
 date: 2023-10-03

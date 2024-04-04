@@ -2,7 +2,7 @@
 filename: ngay-0-o-singapore
 
 share: true
-ID: 126987
+comments: true
 tags:
   - SG-trip
 date: 2023-11-01

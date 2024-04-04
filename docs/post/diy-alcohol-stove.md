@@ -2,7 +2,7 @@
 filename: diy-alcohol-stove
 
 share: true
-ID: 126987
+comments: true
 tags:
   - DIY
   - trek

@@ -3,7 +3,7 @@ filename: dice-roller-plugin
 URL: 
 
 share: true
-ID: 126987
+comments: true
 date: 2023-09-25
 tags:
   - obsidian/plugin

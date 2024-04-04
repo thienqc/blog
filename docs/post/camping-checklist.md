@@ -1,7 +1,7 @@
 ---
 filename: camping-checklist
 share: true
-ID: 126987
+comments: true
 tags:
   - camp
 date: 2023-10-13

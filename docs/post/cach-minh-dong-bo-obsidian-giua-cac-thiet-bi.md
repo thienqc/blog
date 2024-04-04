@@ -10,7 +10,7 @@ Link: https://www.facebook.com/groups/594306492570157/posts/644009084266564
 tags:
   - obsidian
 share: true
-ID: 126987
+comments: true
 ---
 # Cách mình đồng bộ obsidian giữa các thiết bị
 

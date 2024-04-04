@@ -2,7 +2,7 @@
 filename: thu-thach-72h-khong-dung-facebook
 
 share: true
-ID: 126987
+comments: true
 tags:
   - challenge
   - no-tech

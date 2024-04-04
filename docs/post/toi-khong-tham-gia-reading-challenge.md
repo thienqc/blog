@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 126987
+comments: true
 filename: toi-khong-tham-gia-reading-challenge
 aliases:
   - Tôi không tham gia Reading challenge nữa

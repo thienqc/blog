@@ -3,7 +3,7 @@ filename: xv23-ngay-00
 aliases:
   - XV23 - Ngày 00 • Những ngày chuẩn bị
 share: true
-ID: 126987
+comments: true
 tags:
   - XV23
 date: 2023-12-01
