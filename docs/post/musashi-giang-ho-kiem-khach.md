@@ -1,5 +1,6 @@
 ---
 share: true
+comments: true
 filename: musashi-giang-ho-kiem-khach
 aliases:
   - Musashi - giang hồ kiếm khách
@@ -16,7 +17,6 @@ type:
   - Book
 Last_Read: 2024-01-17
 ---
-
 # Musashi - giang hồ kiếm khách
 
 [Author::[Eiji Yoshikawa](Eiji%20Yoshikawa.md)] - (Publication_Year:: 1935)
