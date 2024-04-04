@@ -55,7 +55,8 @@ plugins:
   # - roamlinks
   - autolinks
   - callouts
-  - meta
+  - meta:
+      meta_file: .meta.yml
   - blogging:
       dirs:
         - post
