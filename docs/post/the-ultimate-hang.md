@@ -1,9 +1,9 @@
 ---
-ID: 126987
 filename: the-ultimate-hang
 aliases:
   - "The Ultimate Hang: An Illustrated Guide to Hammock Camping"
 share: true
+comments: true
 date: 2024-02-22
 tags:
   - outdoors
