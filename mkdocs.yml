@@ -58,7 +58,7 @@ plugins:
   - blogging:
       dirs:
         - post
-      template: override/custom-blog.html
+      template: overrides/custom-blog.html
       features:
         tags:
           index_page: tags.md
