@@ -5,7 +5,7 @@ site_author: thienqc
 
 theme:
     name: 'material'
-    # custom_dir: overrides
+    custom_dir: overrides
     icon:
       logo: fontawesome/solid/brain
       # favicon: assets/meta/brain-solid.png
@@ -14,7 +14,7 @@ theme:
         code: JetBrains Mono
     language: en
     
-    palette:
+    # palette:
       # # Light mode
       # - media: "(prefers-color-scheme: light)"
       #   scheme: default
