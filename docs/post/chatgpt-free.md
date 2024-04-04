@@ -1,6 +1,6 @@
 ---
 share: true
-ID: 126987
+comments: true
 filename: chatgpt-free
 aliases:
   - Đăng kí ChatGPT 3.5 miễn phí tại Việt Nam
@@ -8,7 +8,7 @@ description:
 tags:
   - AI
 date: 2024-01-05
-URL:
+URL: 
 ---
 # Đăng kí ChatGPT 3.5 miễn phí tại Việt Nam
 
