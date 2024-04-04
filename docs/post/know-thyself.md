@@ -4,7 +4,7 @@ aliases:
   - Know thyself (Γνώθι σαυτόν)
   - Biết chính mình
 share: true
-ID: 126987
+comments: true
 tags:
   - manga
 date: 2023-10-02

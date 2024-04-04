@@ -2,14 +2,13 @@
 filename: mot-diem-chung-trong-truyen-kim-dung
 aliases:
   - Một điểm chung trong truyện Kim Dung
-
 share: true
-ID: 126987
+comments: true
 tags:
   - Book
 date: 2023-10-09
 URL: 
-description:
+description: 
 ---
 # Một điểm chung trong truyện Kim Dung
 

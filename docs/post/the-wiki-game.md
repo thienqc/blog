@@ -2,9 +2,8 @@
 filename: the-wiki-game
 aliases:
   - Game "kết nối"
-
 share: true
-ID: 126987
+comments: true
 tags:
   - game
 date: 2023-11-17

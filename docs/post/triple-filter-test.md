@@ -1,11 +1,10 @@
 ---
 filename: triple-filter-test
 URL: 
-
 tags:
   - speech
 share: true
-ID: 126987
+comments: true
 description: Bộ lọc giúp cải thiện giao tiếp
 date: 2023-09-23
 aliases:
