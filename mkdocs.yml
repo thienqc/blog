@@ -55,6 +55,7 @@ plugins:
   # - roamlinks
   - autolinks
   - callouts
+  - meta
   - blogging:
       dirs:
         - post
