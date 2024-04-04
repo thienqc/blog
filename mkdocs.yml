@@ -4,7 +4,7 @@ site_url: https://thienqc.github.io/blog/
 site_author: thienqc
 
 theme:
-    name: 'material'
+    name: material
     custom_dir: overrides
     icon:
       logo: fontawesome/solid/brain
