@@ -108,3 +108,4 @@ extra:
     property: G-WQ6QJ2DK27
   comments:
     enabled: true
+    mode: giscus
