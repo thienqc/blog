@@ -41,6 +41,8 @@ Thì ra là thế, chuyện là thằng nhỏ này trước khi đi ngủ luôn 
 > 	Ha hà há ha ha
 > 	Thắp sáng một gia đình
 
+![](https://i.imgur.com/yFXFDk8.png)
+
 Lời bài hát mô tả một gia đình có ba, mẹ, con với mỗi màu nến khác nhau. Ông bà nội không được nhắc đến trong bài hát, nên không có màu sắc, nên cũng không phải là "một gia đình".
 
 Bởi vậy, một suy luận tưởng chừng ngô nghê từ đứa nhỏ 3 tuổi, nhưng lại phảng phất một triết lí sâu sắc "hãy đặt mình dưới góc nhìn của đối phương".
