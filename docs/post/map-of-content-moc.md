@@ -36,14 +36,16 @@ Về ý nghĩa,
 Là một người vẽ bản đồ, bạn có thể quyết định bất cứ thứ gì có trong bản đồ của mình, sau đó phát triển những ý tưởng đó.
 
 ## Khi nào thì tạo MOC?
-1. Tạo MOC từ dưới lên (bot-to-top)
+### 1. Tạo MOC từ dưới lên (bot-to-top)
 
 Là khi bạn đã có rất nhiều ghi chú, và cảm giác những ghi chú có điểm gì đó chung với nhau, bạn cần một ghi chú tổng hợp lại điều đó => MOC.
+
 VD: Bạn thu thập đủ gạch giờ là lúc xây nhà.
 
-2. Tạo MOC từ trên xuống (top-to-bot)
+### 2. Tạo MOC từ trên xuống (top-to-bot)
 
 Là khi bạn chưa có (hoặc ít) ghi chú, bạn tạo 1 ghi chú tổng thể về chủ đề bạn muốn tìm hiểu.
+
 VD: Bạn muốn xây nhà thì cần một bản phác thảo.
 
 
