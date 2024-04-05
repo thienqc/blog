@@ -2,11 +2,10 @@
 filename: map-of-content-moc
 aliases:
   - Map of Content (MOC)
-
 tags:
   - obsidian
   - PKM
-date: 2023-07-11
+date: 2024-04-05
 URL: https://www.facebook.com/groups/594306492570157/posts/673457237988415/
 share: true
 comments: true
@@ -57,37 +56,36 @@ Theo tui, MoC là một note, chứa
 - Liên kết tới các note
 - hoặc Liên kết tới MOC khác
 
-### Những vd về MOC
+### Những gợi ý về MOC
 1. Cấu trúc cho ý tưởng của bạn
-- Trình tự ý tưởng
-- Nhóm các ý tưởng
-
+	- Trình tự ý tưởng
+	- Nhóm các ý tưởng
 2. Nhóm các dự án
-
 3. Nhóm các hành động vào các dự án
-
 4. Định nghĩa một dự án
-- Tình huống, sự phức tạp, Giải pháp thay thế, Kịch bản, Dự báo tài chính, Giải pháp thay thế được đề xuất, kế hoạch thực hiện dự án
-- Thiết kế bậc cao - Quy trình, Kết cấu, Công nghệ, Kế hoạch vốn
-- Thiết kế chi tiết
-
+	- Tình huống, sự phức tạp, Giải pháp thay thế, Kịch bản, Dự báo tài chính, Giải pháp thay thế được đề xuất, kế hoạch thực hiện dự án
+	- Thiết kế bậc cao - Quy trình, Kết cấu, Công nghệ, Kế hoạch vốn
+	- Thiết kế chi tiết
 5. Cấu trúc phong phú Dữ liệu hỗ trợ
-- Hiện trạng
-- tài chính
-- hoạt động
-- Ghi chú phỏng vấn
-- bản đồ quy trình
-- Dữ liệu bán hàng
-- dữ liệu sản xuất
-- dữ liệu khách hàng
-
+	- Hiện trạng
+	- tài chính
+	- hoạt động
+	- Ghi chú phỏng vấn
+	- bản đồ quy trình
+	- Dữ liệu bán hàng
+	- dữ liệu sản xuất
+	- dữ liệu khách hàng
 6. Nhóm nhiều ghi chú về một khách hàng
-
 7. Nhóm các ghi chú về một căn bệnh
-- Triệu chứng
-- chẩn đoán
-- phương pháp điều trị
-- Thuốc
-- Quy trình phẫu thuật 
+	- Triệu chứng
+	- chẩn đoán
+	- phương pháp điều trị
+	- Thuốc
+	- Quy trình phẫu thuật 
+
+### Một số ví dụ cụ thể
+Trong [video này](https://youtu.be/uoD6oURbRsc?si=T3sQG7tiyF6pwiNT&t=391), Nick Milo đã hướng dẫn Tiago Forte nhóm các ghi chú của mình thành các nhóm, từ đó tạo thành một bản đồ giúp định hướng những ghi chú đã có, và sắp có (tạo thêm ghi chú mới).
+
+Trong một buổi gặp gỡ của [nhóm Não hai](https://www.facebook.com/groups/obsidian.secondbrain) (bạn có thể xem [ở đây](https://youtu.be/FPSqnr_v49I?si=FN49a-3lzUj92ffu&t=2723)) mình cũng chia sẻ vài điều về lợi ích của việc [quản lí các ghi chú bằng liên kết](./folder-tag-link.md) và cách tạo MOCs theo 2 chiều.
 
 *[Bài viết thuộc group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/673457237988415/)*
