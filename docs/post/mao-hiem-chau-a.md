@@ -21,4 +21,4 @@ Last_Read: 2024-04-13
 
 ![](https://i.imgur.com/RXtgpE3.png)
 
----
+Kể về cuộc đời của thánh [Phanxicô Xavie](Francis%20Xavier.md), về hành trình của Ngài khi đến vùng đất châu Á truyền giáo, những trăn trở của Ngài khi chết vẫn hướng về Trung Quốc đại lục.
