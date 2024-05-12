@@ -20,4 +20,5 @@ Cho dễ hiểu, để khoẻ mạnh về thể xác thì tập thể dục th�
 
 Tập thể dục là để tống đi bớt mỡ thừa, thải chất độc ... thì linh thao cũng là để thải đi những độc hại cho linh hồn: những lo lắng, những chán nản, những phân hoá nội tâm...
 
+[Linh Thao.pdf](https://linhthao.net/wp-content/uploads/2014/01/Linh-Thao.pdf)
 
