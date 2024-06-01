@@ -34,5 +34,5 @@ date: 2024-05-19
 > Vậy, điều gì sẽ xảy ra nếu bạn, giống như tôi, không hoàn toàn “hiểu” mặc dù đã được thêm sức? Tin tốt là, bạn thật sự đã nhận được Chúa Thánh Thần và những ân sủng của Ngài. Điều này giống như việc bạn nhận được một chiếc thẻ tín dụng mới có nhãn dán ghi là “phải gọi điện để kích hoạt trước khi sử dụng”. Bạn phải kích hoạt các ơn Chúa Thánh Thần mà bạn nhận được. Hãy làm điều đó ngay hôm nay và mọi ngày, nhất là khi tham dự Thánh lễ. Bởi vì ==mỗi khi cử hành bí tích Thánh Thể là một Lễ Hiện Xuống mới được sinh ra, nơi Chúa Thánh Thần và các ân sủng của Ngài lại được tuôn đổ một lần nữa== (Giáo lý Công giáo 739, 1106).
 
 **Đọc thêm**
-- [7 ơn Chúa Thánh Thần - dongten.net](../../7%20%C6%A1n%20Ch%C3%BAa%20Th%C3%A1nh%20Th%E1%BA%A7n%20-%20dongten.net.md)
-- [Lễ Chúa Thánh Thần Hiện Xuống: Sự khác biệt mà Chúa Thánh Thần tạo ra - dongten.net](https://dongten.net/le-chua-thanh-than-hien-xuong-su-khac-biet-ma-chua-thanh-than-tao-ra/)
+	- [7 ơn Chúa Thánh Thần - dongten.net](../../7%20%C6%A1n%20Ch%C3%BAa%20Th%C3%A1nh%20Th%E1%BA%A7n%20-%20dongten.net.md)
+	- [Lễ Chúa Thánh Thần Hiện Xuống: Sự khác biệt mà Chúa Thánh Thần tạo ra - dongten.net](https://dongten.net/le-chua-thanh-than-hien-xuong-su-khac-biet-ma-chua-thanh-than-tao-ra/)
