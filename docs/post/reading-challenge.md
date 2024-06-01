@@ -7,7 +7,7 @@ aliases:
 description: 
 tags:
   - DocSach
-date: 2024-04-01
+date: 2024-06-01
 URL: 
 ---
 # Reading challenge
@@ -15,6 +15,8 @@ URL:
 - [Đọc sách - T01.2024](./doc-sach-2024-01.md)
 - [Đọc sách - T02.2024](./doc-sach-2024-02.md)
 - [Đọc sách - T03.2024](./doc-sach-2024-03.md)
+- [Đọc sách - T04.2024](./doc-sach-2024-04.md)
+- [Đọc sách - T05.2024](./doc-sach-2024-05.md)
 ## [2023](./reading-challenge-2023.md)
 - [Đọc sách - T09.2023](./doc-sach-2023-09.md)
 - [Đọc sách - T10.2023](./doc-sach-2023-10.md)
