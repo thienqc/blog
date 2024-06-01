@@ -16,7 +16,7 @@ type:
   - Book
 Last_Read: 2024-05-13
 ---
-# Đôi nét lịch sử Dòng Tên - Thời kì khai sinh & phát triển
+# Đôi nét lịch sử Dòng Tên - Thời kì khai sinh và phát triển
 [Author::[Hoàng Sóc Sơn, SJ](Ho%C3%A0ng%20S%C3%B3c%20S%C6%A1n,%20SJ.md)] - (Publication_Year:: 2007)
 
 ![](https://i.imgur.com/xFtw4M6.png)
