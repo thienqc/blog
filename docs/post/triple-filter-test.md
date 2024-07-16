@@ -13,7 +13,7 @@ aliases:
 # Triple Filter Test
 ## Socrates
 Chuyện kể về một người quen tới muốn kể chuyện của một người bạn khác cho Socrates thì ông đưa ra 3 câu hỏi "bộ lọc": 
-
+xray
 1. Bạn có chắc chắn những điều bạn sắp nói với tôi là sự thật không?"
 2. Điều bạn sắp nói với tôi về bạn tôi có phải là điều tốt không?”
 3. Những điều bạn muốn nói với tôi về bạn tôi có hữu ích cho tôi không?”
