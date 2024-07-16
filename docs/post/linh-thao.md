@@ -5,11 +5,23 @@ comments: true
 tags:
   - AMDG
   - LinhThao
-date: 2023-11-25
+  - Reading_challenge_RC_2024
+date: 2024-07-16
 URL: 
 description: 
+aliases: 
+Cover: Linh thao-20240716164319493.webp
+Rating: ⭐⭐⭐⭐⭐
+Total_Pages: 
+type:
+  - Book
+Last_Read: 2024-07-16
 ---
 # Linh thao
+[Author::[Ignatius of Loyola](Ignatius%20of%20Loyola.md)] - (Publication_Year:: 1548)
+
+![](https://i.imgur.com/wyxnAFD.jpeg)
+
 *Spiritual Excercises*
 
 Linh = Linh hồn, thao = thao luyện, thể thao
