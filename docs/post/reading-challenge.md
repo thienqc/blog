@@ -7,7 +7,7 @@ aliases:
 description: 
 tags:
   - DocSach
-date: 2024-08-01
+date: 2024-09-01
 URL: 
 ---
 # Reading challenge
