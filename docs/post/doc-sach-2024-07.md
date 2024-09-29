@@ -11,8 +11,7 @@ URL:
 ---
 # Đọc sách - T07.2024
 
-![Uploading file...8ikfn]()
-
+![Đọc sách (2024.07)-20240801061424520.webp](../assets/img/%C4%90%E1%BB%8Dc%20s%C3%A1ch%20(2024.07)-20240801061424520.webp)
 ## [Linh thao](./linh-thao.md)
 Thao luyện linh hồn.
 
