@@ -47,7 +47,7 @@ Cái mũ này chị mình móc cho đấy!
 - Hải Phòng  
 - Vùng Tây Bắc, Đông Bắc  
   
-  
+> **[XV23](./xuyen-viet-2023.md) 👉 [Ngày 01](./xv23-ngay-01.md)**  
   
 > [!Example] Xem thêm  
 > [Xuyên việt 2023](./xuyen-viet-2023.md)
