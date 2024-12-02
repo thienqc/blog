@@ -46,5 +46,4 @@ Ngồi đó với những suy tư trong lòng, nghĩ về những biến cố đ
 - 🛵 | 23.8 km | 2h 15m  
 - 🚶‍♂️ | 0.5 km | 12m  
   
-> [!Example] Xem thêm  
-> [Xuyên việt 2023](./xuyen-viet-2023.md)
+> **[Ngày 00](./xv23-ngay-00.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 02](../../XV23%20-%20ng%C3%A0y%2002.md)**
