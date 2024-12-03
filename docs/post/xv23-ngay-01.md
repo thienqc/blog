@@ -11,7 +11,7 @@ description: Lâm Đồng
 ---
 # XV23 - ngày 01 • Lâm Đồng  
   
-*12/02/2023*  
+*02/12/2023*  
 ## Hoạt động  
 4h sáng đã phải thức dậy để chuẩn bị ra Sala, đi xe lên Bảo Lộc.  
   
@@ -27,12 +27,14 @@ Chúc vợ chồng Ngọc sống vui vẻ và hạnh phúc nha.
   
 17h, sau 3 tiếng đồng hồ trên xe, mình đã tới Đà Lạt. Bọn mình thuê xe máy và chạy tới chỗ nghỉ [Dalat Happy Hostel](https://maps.app.goo.gl/FzVAocGVLS1LzQbH9). Đón tiếp mình là một cô rất nhiệt tình và thân thiện.  
   
-Bỏ lại đồ đạc, 2 thằng xách xe vi vu Đà Lạt. Ngồi ở quảng trường Lâm Viên mà nhìn dòng người đi lại. Trong mình dâng trào hai chữ "hoa lệ".  
+![](https://i.imgur.com/zVzVpsa.png)  
+  
+  
+Bỏ lại đồ đạc, 2 thằng xách xe vi vu Đà Lạt buổi đêm. Ngồi ở quảng trường Lâm Viên mà nhìn dòng người đi lại. Trong mình dâng trào hai chữ "hoa lệ".  
   
 ![](https://i.imgur.com/P317BHc.png)  
   
-Ngồi đó với những suy tư trong lòng, nghĩ về những biến cố đã trong quá khứ,   
-  
+Ngồi đó với những suy tư trong lòng, nghĩ về những biến cố đã trong quá khứ, ...  
   
 ## Một vài fact về Lâm Đồng  
   
@@ -46,4 +48,4 @@ Ngồi đó với những suy tư trong lòng, nghĩ về những biến cố đ
 - 🛵 | 23.8 km | 2h 15m  
 - 🚶‍♂️ | 0.5 km | 12m  
   
-> **[Ngày 00](./xv23-ngay-00.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 02](../../XV23%20-%20ng%C3%A0y%2002.md)**
+> **[Ngày 00](./xv23-ngay-00.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 02](./xv23-ngay-02.md)**
