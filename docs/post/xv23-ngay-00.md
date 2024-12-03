@@ -17,6 +17,8 @@ Trước đó mình đọc [một số sách](./doc-sach-2023-11.md) để lấy
   
 ![](https://i.imgur.com/2myN2lD.png)  
   
+*Cái mũ này chị mình móc cho đấy!*  
+  
 | Danh mục           | Chi tiết                                                                                                                                                                                                                                                                                      |  
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |  
 | Chỗ ngủ            | - Lều, cọc<br>- Túi ngủ<br>- Gối<br>- Chiếu cách nhiệt<br>- Dây<br>- Đèn (2 đèn)<br>- Pin                                                                                                                                                                                                     |  
@@ -27,8 +29,6 @@ Trước đó mình đọc [một số sách](./doc-sach-2023-11.md) để lấy
 | Túi y tế           | - Thuốc<br>	- Paracetamol<br>	- Promethazin<br>	- Vaseline<br>	- Thuốc tễ<br>	- Dầu gió<br>- Miếng dán đuổi muỗi<br>- Gạc<br>- Bông gòn<br>- Cồn 90 độ<br>- Băng thun<br>- Băng keo lụa<br>- Màn sinh tồn<br>- Ống quẹt<br>- Dây<br>- Khăn ướt                                                |  
   
 Khối lượng khoảng **15kg** (người ta khuyên không quá 20% trọng lượng cơ thể, nhưng mà thấy toàn đồ cần thiết, có lẽ sẽ xem xét bỏ bớt lại sau khi đi vài ngày)  
-  
-Cái mũ này chị mình móc cho đấy!  
   
 **Những nơi sẽ ghé qua**  
   
@@ -47,7 +47,4 @@ Cái mũ này chị mình móc cho đấy!
 - Hải Phòng  
 - Vùng Tây Bắc, Đông Bắc  
   
-> **[XV23](./xuyen-viet-2023.md) 👉 [Ngày 01](./xv23-ngay-01.md)**  
-  
-> [!Example] Xem thêm  
-> [Xuyên việt 2023](./xuyen-viet-2023.md)
+> **[XV23](./xuyen-viet-2023.md) 👉 [Ngày 01](./xv23-ngay-01.md)**
