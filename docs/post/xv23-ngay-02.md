@@ -42,4 +42,5 @@ Trời thì mưa, gió thì to, bên ngoài thì lạnh, bên trong thiếu mề
   
 p/s: Nghĩ lại vẫn điên vl @QuocToan  
   
-> **[Ngày 01](./xv23-ngay-01.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 03](../../xv23-ngay-03.md)**
+  
+> **[Ngày 01](./xv23-ngay-01.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 03](./xv23-ngay-03.md)**
