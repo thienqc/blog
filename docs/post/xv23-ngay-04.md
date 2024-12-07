@@ -44,4 +44,5 @@ Kết quả có chinh phục được không thì hồi sau sẽ rõ.
 - Ninh Thuận là tên gọi xuất hiện đầu tiên với tư cách là phủ Ninh Thuận vào năm 1832 thời vua Minh Mạng, kéo dài đến năm 1888. Sau đó lập tỉnh Phan Rang, cũng gọi là tỉnh Ninh Thuận, từ 1945 tách nhập nhiều lần, đến nay được gọi lại tên cũ Ninh Thuận.  
 - “Gió như phan, nắng như rang” xuất phát từ tên thành phố Phan Rang, thể hiện rõ nét đặc trưng khí hậu khô nóng của vùng đất này.  
   
-> **[Ngày 03](./xv23-ngay-03.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 05](../../XV23%20-%20ng%C3%A0y%2005.md)**
+  
+> **[Ngày 03](./xv23-ngay-03.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 05](./xv23-ngay-05.md)**
