@@ -4,7 +4,7 @@ share: true
 comments: true
 tags:
   - XV23
-date: 2024-12-04
+date: 2024-12-06
 URL: 
 description: Hành trình tuổi trẻ
 aliases:
@@ -22,3 +22,4 @@ Một chuyến đi để đánh dấu một chặng đường đã qua và mở 
 - [XV23 - ngày 02 • LangBiang](./xv23-ngay-02.md)  
 - [XV23 - ngày 03 • Bye Đà Lạt](./xv23-ngay-03.md)  
 - [XV23 - ngày 04 • Ninh Thuận](./xv23-ngay-04.md)  
+- [XV23 - ngày 05 • Một thoáng Champa](./xv23-ngay-05.md)  
