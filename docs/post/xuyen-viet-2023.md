@@ -25,3 +25,4 @@ Một chuyến đi để đánh dấu một chặng đường đã qua và mở 
 - [XV23 - ngày 05 • Một thoáng Champa](./xv23-ngay-05.md)  
 - [XV23 - ngày 06 • Hello Nha Trang](./xv23-ngay-06.md)  
 - [XV23 - ngày 07 • OK, I'm fine!](./xv23-ngay-07.md)  
+- [XV23 - ngày 08 • Nhà là nơi để trở về](./xv23-ngay-08.md)  
