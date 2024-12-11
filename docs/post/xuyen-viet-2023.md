@@ -4,7 +4,7 @@ share: true
 comments: true
 tags:
   - XV23
-date: 2024-12-08
+date: 2024-12-11
 URL: 
 description: Hành trình tuổi trẻ
 aliases:
@@ -26,3 +26,5 @@ Một chuyến đi để đánh dấu một chặng đường đã qua và mở 
 - [XV23 - ngày 06 • Hello Nha Trang](./xv23-ngay-06.md)  
 - [XV23 - ngày 07 • OK, I'm fine!](./xv23-ngay-07.md)  
 - [XV23 - ngày 08 • Nhà là nơi để trở về](./xv23-ngay-08.md)  
+- [XV23 - ngày 09 • Bình yên nơi đâu?](./xv23-ngay-09.md)  
+- [XV23 - ngày 10 • Tiếp tục lên đường](./xv23-ngay-10.md)  
