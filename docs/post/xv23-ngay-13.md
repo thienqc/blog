@@ -11,6 +11,8 @@ description:
 ---
 # XV23 - ngày 13 • Phở & cà phê  
   
+*14/12/2023*  
+  
 Sáng ngủ dậy thấy sốt nhẹ nên chủ yếu nằm ở nhà hồi sức.  
   
 Tối được người bạn HN gốc dẫn đi ăn phở Bát Đàn và uống cà phê trứng ở Café Giảng.  
