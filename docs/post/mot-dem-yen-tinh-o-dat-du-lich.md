@@ -13,7 +13,7 @@ URL:
 # Một đêm yên tĩnh ở đất du lịch  
 Bữa giờ cứ nghe đi nghe lại bài [Đánh cắp mặt trời](https://youtu.be/yz7dyDJdmJk) nên cũng nhớ lại cái đêm mình ở trên vùng cao.  
   
-Đó là [ngày thứ 17](../../XV23%20-%20ng%C3%A0y%2017.md) trong hành trình Xuyên việt, địa điểm mình dừng chân là Mèo Vạc, Hà Giang. Vào mỗi cuối tuần, ở thị trấn vùng cao này sẽ tổ chức chợ đêm, và sẽ là nơi rất nhộn nhịp khi mà khách du lịch cũng như người dân địa phương sẽ tập hợp về đây.  
+Đó là [ngày thứ 17](./xv23-ngay-17.md) trong hành trình Xuyên việt, địa điểm mình dừng chân là Mèo Vạc, Hà Giang. Vào mỗi cuối tuần, ở thị trấn vùng cao này sẽ tổ chức chợ đêm, và sẽ là nơi rất nhộn nhịp khi mà khách du lịch cũng như người dân địa phương sẽ tập hợp về đây.  
   
 Đấy là những thông tin mình biết sau khi tới được đây, còn lúc mà book nhà nghỉ thì chỉ biết là tối sẽ có chợ đêm nên cũng book thôi, hề cái là mình book vào thứ 2 🤡 nên sẽ không có chợ đêm ở đây cả.  
   
@@ -37,4 +37,4 @@ Ngồi ở đây mình đếm được đúng 12 khách du lịch đi ngang qua 
   
 Cần gì hơn ở một thị trấn thuộc một tỉnh miền núi.  
   
-Đủ cái sự hề rồi, mình về ngủ đây. 
+Đủ cái sự hề rồi, mình về ngủ đây.   
