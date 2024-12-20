@@ -4,7 +4,7 @@ share: true
 comments: true
 tags:
   - XV23
-date: 2024-12-19
+date: 2024-12-20
 URL: 
 description: Hành trình tuổi trẻ
 aliases:
@@ -36,5 +36,6 @@ Một chuyến đi để đánh dấu một chặng đường đã qua và mở 
 - [XV23 - ngày 16 • Lặng lẽ Sapa](./xv23-ngay-16.md)  
 - [XV23 - ngày 17 • Hà Giang](./xv23-ngay-17.md)  
 - [XV23 - ngày 18 • Tạm biệt Hà Giang](./xv23-ngay-18.md)  
+- [XV23 - ngày 19 • Ngủ ở sân bay](./xv23-ngay-19.md)  
   
   
