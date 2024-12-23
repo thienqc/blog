@@ -4,7 +4,7 @@ share: true
 comments: true
 tags:
   - XV23
-date: 2024-12-22
+date: 2024-12-23
 URL: 
 description: Hành trình tuổi trẻ
 aliases:
@@ -39,5 +39,6 @@ Một chuyến đi để đánh dấu một chặng đường đã qua và mở 
 - [XV23 - ngày 19 • Ngủ ở sân bay](./xv23-ngay-19.md)  
 - [XV23 - ngày 20 • Kon Tum](./xv23-ngay-20.md)  
 - [XV23 - ngày 21 • Đêm ca nguyện](./xv23-ngay-21.md)  
+- [XV23 - ngày 22 • Kleng](./xv23-ngay-22.md)  
   
   
