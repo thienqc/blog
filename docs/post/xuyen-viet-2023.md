@@ -41,5 +41,6 @@ Một chuyến đi để đánh dấu một chặng đường đã qua và mở 
 - [XV23 - ngày 21 • Đêm ca nguyện](./xv23-ngay-21.md)  
 - [XV23 - ngày 22 • Kleng](./xv23-ngay-22.md)  
 - [XV23 - ngày 23 • Xộ hâk kơ dră ye xu rơ neh](./xv23-ngay-23.md)  
+- [XV23 - ngày 24 • Vài suy tư về anh em](../../XV23%20-%20ng%C3%A0y%2024.md)  
   
   
