@@ -13,7 +13,8 @@ description:
   
 *26/12/2023*  
   
-![](https://i.imgur.com/rjFOYtm.jpeg)  
+![](https://i.imgur.com/9EEVQ8Y.jpeg)  
+  
   
 Đây là cột mốc ba nước Đông Dương: Việt Nam - ລາວ - កម្ពុជា  
   
