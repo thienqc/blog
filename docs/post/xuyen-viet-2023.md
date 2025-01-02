@@ -43,5 +43,7 @@ Một chuyến đi để đánh dấu một chặng đường đã qua và mở 
 - [XV23 - ngày 23 • Xộ hâk kơ dră ye xu rơ neh](./xv23-ngay-23.md)  
 - [XV23 - ngày 24 • Vài suy tư về anh em](./xv23-ngay-24.md)  
 - [XV23 - ngày 25 • Cột mốc](./xv23-ngay-25.md)  
+- [XV23 - ngày 26 • La Vang](./xv23-ngay-26.md)  
+- [XV23 - ngày 27 • Ngày mưa](./xv23-ngay-27.md)  
   
   
