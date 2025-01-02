@@ -9,7 +9,7 @@ tags:
 date: 2023-12-28
 description: 
 ---
-# XV23 - ngày 27 •   
+# XV23 - ngày 27 • Ngày mưa  
 - Mưa  
 - Các Thánh anh hài  
 - Ra đi không có tiền trong tay  
