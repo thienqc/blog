@@ -6,6 +6,7 @@ share: true
 date: 2024-12-20
 tags:
   - Reading_challenge_RC_2024
+  - Detective
 URL: 
 description: 
 Cover: Kẻ lãng quên (8)-20241220204458190.webp
