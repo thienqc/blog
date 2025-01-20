@@ -4,7 +4,7 @@ share: true
 comments: true
 tags:
   - XV23
-date: 2024-12-26
+date: 2024-12-31
 URL: 
 description: Hành trình tuổi trẻ
 aliases:
@@ -45,5 +45,8 @@ Một chuyến đi để đánh dấu một chặng đường đã qua và mở 
 - [XV23 - ngày 25 • Cột mốc](./xv23-ngay-25.md)  
 - [XV23 - ngày 26 • La Vang](./xv23-ngay-26.md)  
 - [XV23 - ngày 27 • Ngày mưa](./xv23-ngay-27.md)  
+- [XV23 - ngày 28 • SG](./xv23-ngay-28.md)  
+- [XV23 - ngày 29 • LOVE team](./xv23-ngay-29.md)  
+- [XV23 - ngày 30 • VIET NAM](./xv23-ngay-30.md)  
   
   
