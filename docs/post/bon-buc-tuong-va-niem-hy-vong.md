@@ -33,6 +33,6 @@ Mấy ngày qua, mình bị áp lực, stress vì công việc: gặp phải m�
   
   
 > [!Example] Xem thêm  
-> - [Năm Thánh 2025](N%C4%83m%20Th%C3%A1nh%202025.md)  
+> - [Năm Thánh 2025 - Những người hành hương của hy vọng](N%C4%83m%20Th%C3%A1nh%202025.md)  
 > - [Bài tập Mùa Chay - Bài tập 1: Hy Vọng - dongten.net](https://dongten.net/bai-tap-mua-chay-bai-tap-1-hy-vong/)  
 > - [The Shawshank Redemption (1994) - IMDb](https://www.imdb.com/title/tt0111161/)  
