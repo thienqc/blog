@@ -13,7 +13,9 @@ theme:
         text: JetBrains Mono
         code: JetBrains Mono
     language: en
-    
+    static_templates:
+      - 404.html
+
     # palette:
       # # Light mode
       # - media: "(prefers-color-scheme: light)"
@@ -100,7 +102,6 @@ markdown_extensions:
 
 
 extra:
-  generator: false
   social:
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/yds.thienqc/
