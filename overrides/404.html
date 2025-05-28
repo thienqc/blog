@@ -1,7 +1,33 @@
-{% raw %}{% extends "blog.html" %}
+{# Import the original template, required. #}
+{% extends "blog.html" %}
 
 {% block content %}
-  <div style="text-align: center; padding: 2rem;">
-    <img src="/docs/assets/img/Nothing-found.webp" alt="Không tìm thấy" style="max-width: 600px; width: 100%;" />
+  <style>
+    .not-found-container {
+      height: 70vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 1rem;
+    }
+    .not-found-container img {
+      max-width: 100%;
+      max-height: 60vh;
+    }
+    .not-found-container h1 {
+      margin-top: 1.5rem;
+      font-size: 1.8rem;
+    }
+    .not-found-container a {
+      margin-top: 1rem;
+    }
+  </style>
+
+  <div class="not-found-container">
+    <img src="{{ base_url }}/assets/img/Nothing-found.webp" alt="404 Not Found">
+    <h1>Trang không tồn tại</h1>
+    <a class="md-button" href="{{ base_url }}/">Quay về trang chủ</a>
   </div>
-{% endblock %}{% endraw %}
+{% endblock %}
