@@ -1,54 +1,26 @@
-{# Import the original template, required. #}
-{% extends "blog.html" %}
+<style>
+  .not-found-container {
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 1rem;
+  }
+  .not-found-container img {
+    max-width: 100%;
+    max-height: 60vh;
+  }
+  .not-found-container h1 {
+    margin-top: 1.5rem;
+    font-size: 1.8rem;
+  }
+  .not-found-container a {
+    margin-top: 1rem;
+  }
+</style>
 
-{% macro render_blog(title, description, time, url, page) -%}
-<div class="blog-post">
-    <h3 class="blog-post-title">
-        <a class="link" href="{{ url }}">{{ title }}</a>
-    </h3>
-
-    {% if show_tags and "tags" in page.meta %}
-        {% call render_tags(page.meta["tags"], index_url) %}
-        {% endcall %}
-    {% endif %}
-
-    <p class="blog-post-description">
-        {{ description }}
-    </p>
-    <div class="blog-post-extra">
-        Updated on  
-        <span>{{ time }}</span>
-    </div>
-    <hr />
+<div class="not-found-container">
+  <img src="{{ base_url }}/assets/img/Nothing-found.webp" alt="404 Not Found">
 </div>
-{{ caller() }}
-{%- endmacro %}
-
-{% block content %}
-  <style>
-    .not-found-container {
-      height: 70vh;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-      padding: 1rem;
-    }
-    .not-found-container img {
-      max-width: 100%;
-      max-height: 60vh;
-    }
-    .not-found-container h1 {
-      margin-top: 1.5rem;
-      font-size: 1.8rem;
-    }
-    .not-found-container a {
-      margin-top: 1rem;
-    }
-  </style>
-
-  <div class="not-found-container">
-    <img src="{{ base_url }}/assets/img/Nothing-found.webp" alt="404 Not Found">
-  </div>
-{% endblock %}
