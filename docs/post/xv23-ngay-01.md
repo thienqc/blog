@@ -32,7 +32,7 @@ Chúc vợ chồng Ngọc sống vui vẻ và hạnh phúc nha.
   
 Bỏ lại đồ đạc, 2 thằng xách xe vi vu Đà Lạt buổi đêm. Ngồi ở quảng trường Lâm Viên mà nhìn dòng người đi lại. Trong mình dâng trào hai chữ "hoa lệ".  
   
-![](https://i.imgur.com/P317BHc.png)  
+![|654x653](https://i.imgur.com/P317BHc.png)  
   
 Ngồi đó với những suy tư trong lòng, nghĩ về những biến cố đã trong quá khứ, ...  
   

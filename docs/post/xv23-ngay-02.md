@@ -34,7 +34,7 @@ Trời thì mưa, gió thì to, bên ngoài thì lạnh, bên trong thiếu mề
   
 *Nhìn trời quang vậy chứ gió to vl*  
   
-![](https://i.imgur.com/ufEQ9uO.png)  
+![|654x490](https://i.imgur.com/ufEQ9uO.png)  
   
 *Bữa ăn cuối cùng?*  
   
