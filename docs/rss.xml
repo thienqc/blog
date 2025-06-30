@@ -1,0 +1,19 @@
+{% raw %}
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>{{ config.site_name }}</title>
+    <link>{{ config.site_url }}</link>
+    <description>{{ config.site_description }}</description>
+    <lastBuildDate>{{ build_date.strftime('%a, %d %b %Y %H:%M:%S GMT') }}</lastBuildDate>
+    {% for post in blog.posts %}
+    <item>
+      <title>{{ post.title }}</title>
+      <link>{{ config.site_url }}/{{ post.url }}</link>
+      <pubDate>{{ post.meta.date.strftime('%a, %d %b %Y %H:%M:%S GMT') }}</pubDate>
+      <description><![CDATA[{{ post.meta.description }}]]></description>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
+{% endraw %}
