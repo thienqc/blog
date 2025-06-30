@@ -11,9 +11,10 @@
           {% if valid_pages.append(p) %}{% endif %}
         {% endif %}
       {% endfor %}
-      {{ (valid_pages | map(attribute="meta.date") | max()).strftime('%a, %d %b %Y %H:%M:%S GMT') if valid_pages }}
+      {% set sorted_pages = valid_pages|sort(attribute="meta.date", reverse=True) %}
+      {{ (sorted_pages[0].meta.date if sorted_pages else now()).strftime('%a, %d %b %Y %H:%M:%S GMT') }}
     </lastBuildDate>
-    {% for post in valid_pages %}
+    {% for post in valid_pages|sort(attribute="meta.date", reverse=True) %}
     <item>
       <title>{{ post.title }}</title>
       <link>{{ config.site_url }}/{{ post.url }}</link>
