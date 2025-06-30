@@ -69,6 +69,9 @@ plugins:
           insert: bottom
       time_format: ' %d-%m-%Y '
   - rss
+      match_path: "post/.*"
+      date_from_meta:
+        as_creation: date
 
 markdown_extensions:
   - admonition
