@@ -68,10 +68,11 @@ plugins:
           index_page: tags.md
           insert: bottom
       time_format: ' %d-%m-%Y '
-  - rss
-      match_path: "post/.*"
+  - rss:
+      match_path: blog/posts/.* 
       date_from_meta:
         as_creation: date
+
 
 markdown_extensions:
   - admonition
