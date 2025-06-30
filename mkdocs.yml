@@ -2,6 +2,7 @@ site_name: thienqc
 site_description: thienqc's blog | Chia sẻ trải nghiệm sống, suy tư, và nhiều điều khác...
 site_url: https://thienqc.github.io/blog/
 site_author: thienqc
+copyright: Copyright &copy; 2025 thienqc
 
 theme:
     name: material
@@ -16,7 +17,6 @@ theme:
     static_templates:
       - 404.html
       - rss.xml
-
     palette:
       - media: "(prefers-color-scheme)"
         toggle:
@@ -36,17 +36,10 @@ theme:
         toggle:
           icon: material/toggle-switch-off
           name: Switch to system preference
-
-        
     features:
       - search.suggest
       - search.highlight
       - navigation.footer
-      - navigation.tabs
-
-copyright: Copyright &copy; 2025 thienqc
-
-
 
 plugins:
   - search
@@ -61,7 +54,6 @@ plugins:
           index_page: tags.md
           insert: bottom
       time_format: ' %d-%m-%Y '
-
 
 markdown_extensions:
   - admonition
@@ -95,7 +87,6 @@ markdown_extensions:
 
 extra_css:
   - assets/styles/justify.css
-  - assets/styles/extra.css
 
 extra_javascript:
   - assets/js/random-post.js
