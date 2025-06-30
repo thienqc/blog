@@ -7,7 +7,7 @@ window.getRandomPost = async function () {
     const xml = parser.parseFromString(text, "application/xml");
     const urls = Array.from(xml.querySelectorAll("url loc"))
       .map(loc => loc.textContent)
-      .filter(url => url.includes("/post/")); // Lọc bài viết
+      .filter(url => url.includes("/post/"));
 
     if (urls.length === 0) {
       alert("Không tìm thấy bài viết nào trong sitemap!");
@@ -22,8 +22,10 @@ window.getRandomPost = async function () {
   }
 };
 
-// Gán sự kiện khi DOM sẵn sàng
-document.addEventListener('DOMContentLoaded', () => {
-  const btn = document.getElementById('random-post-btn');
-  if (btn) btn.onclick = window.getRandomPost;
+document.addEventListener("DOMContentLoaded", function () {
+  const btn = document.getElementById("random-post-btn");
+  if (btn) btn.addEventListener("click", function (e) {
+    e.preventDefault();
+    window.getRandomPost();
+  });
 });
