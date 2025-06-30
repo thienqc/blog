@@ -68,9 +68,7 @@ plugins:
           index_page: tags.md
           insert: bottom
       time_format: ' %d-%m-%Y '
-  - simple-hooks:
-      on_post_build: "scripts.generate_sitemap:run"
-
+  - rss
 
 markdown_extensions:
   - admonition

@@ -2,3 +2,4 @@ mkdocs-material
 mkdocs-blogging-plugin
 mkdocs-callouts
 mkdocs-autolinks-plugin
+mkdocs-rss-plugin
