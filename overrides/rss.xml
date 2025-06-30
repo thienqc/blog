@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>{{ config.site_name }}</title>
     <link>{{ config.site_url }}</link>
     <description>{{ config.site_description }}</description>
-    <lastBuildDate>{{ build_date.strftime('%a, %d %b %Y %H:%M:%S GMT') }}</lastBuildDate>
+    <lastBuildDate>
+      {{ blog.posts | map(attribute='meta.date') | max | strftime('%a, %d %b %Y %H:%M:%S GMT') }}
+    </lastBuildDate>
     {% for post in blog.posts %}
     <item>
       <title>{{ post.title }}</title>
       <link>{{ config.site_url }}/{{ post.url }}</link>
+      <guid isPermaLink="true">{{ config.site_url }}/{{ post.url }}</guid>
       <pubDate>{{ post.meta.date.strftime('%a, %d %b %Y %H:%M:%S GMT') }}</pubDate>
+      {% if post.meta.description %}
       <description><![CDATA[{{ post.meta.description }}]]></description>
+      {% endif %}
+      {% if post.content %}
+      <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
+      {% endif %}
     </item>
     {% endfor %}
   </channel>
