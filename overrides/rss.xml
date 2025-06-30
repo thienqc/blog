@@ -5,31 +5,22 @@
     <link>{{ config.site_url }}</link>
     <description>{{ config.site_description }}</description>
     <lastBuildDate>
-      {% set latest = None %}
-      {% for post in pages %}
-        {% if "date" in post.meta %}
-          {% if latest is none or post.meta.date > latest %}
-            {% set latest = post.meta.date %}
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-      {{ latest.strftime('%a, %d %b %Y %H:%M:%S GMT') if latest }}
+      {% set dated_pages = pages | selectattr("meta.date", "defined") | list %}
+      {{ (dated_pages | map(attribute="meta.date") | max()).strftime('%a, %d %b %Y %H:%M:%S GMT') if dated_pages }}
     </lastBuildDate>
-    {% for post in pages %}
-      {% if "date" in post.meta %}
-      <item>
-        <title>{{ post.title }}</title>
-        <link>{{ config.site_url }}/{{ post.url }}</link>
-        <guid isPermaLink="true">{{ config.site_url }}/{{ post.url }}</guid>
-        <pubDate>{{ post.meta.date.strftime('%a, %d %b %Y %H:%M:%S GMT') }}</pubDate>
-        {% if post.meta.description %}
-        <description><![CDATA[{{ post.meta.description }}]]></description>
-        {% endif %}
-        {% if post.content %}
-        <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
-        {% endif %}
-      </item>
+    {% for post in dated_pages %}
+    <item>
+      <title>{{ post.title }}</title>
+      <link>{{ config.site_url }}/{{ post.url }}</link>
+      <guid isPermaLink="true">{{ config.site_url }}/{{ post.url }}</guid>
+      <pubDate>{{ post.meta.date.strftime('%a, %d %b %Y %H:%M:%S GMT') }}</pubDate>
+      {% if post.meta.description %}
+      <description><![CDATA[{{ post.meta.description }}]]></description>
       {% endif %}
+      {% if post.content %}
+      <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
+      {% endif %}
+    </item>
     {% endfor %}
   </channel>
 </rss>
