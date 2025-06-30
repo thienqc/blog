@@ -1,0 +1,13 @@
+{% extends "partials/header.html" %}
+
+{% block site_nav_actions %}
+  <!-- Nút bài ngẫu nhiên -->
+  <a id="random-post-btn"
+     href="#"
+     class="md-header__button"
+     title="Đi tới bài viết ngẫu nhiên"
+     aria-label="Random post">
+    {% include ".icons/fontawesome/solid/dice.svg" %}
+  </a>
+  {{ super() }}
+{% endblock %}

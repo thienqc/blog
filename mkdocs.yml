@@ -17,12 +17,6 @@ theme:
       - 404.html
       - rss.xml
 
-    # palette:
-      # # Light mode
-      # - media: "(prefers-color-scheme: light)"
-      #   scheme: default
-      #   primary: deep purple
-      #   accent: light blue
     palette:
       - media: "(prefers-color-scheme)"
         toggle:
@@ -55,11 +49,8 @@ copyright: Copyright &copy; 2025 thienqc
 
 plugins:
   - search
-  # - roamlinks
   - autolinks
   - callouts
-  # - meta:
-  #     meta_file: .meta.yml
   - blogging:
       dirs:
         - post
