@@ -5,10 +5,15 @@
     <link>{{ config.site_url }}</link>
     <description>{{ config.site_description }}</description>
     <lastBuildDate>
-      {% set dated_pages = pages | selectattr("meta.date", "defined") | list %}
-      {{ (dated_pages | map(attribute="meta.date") | max()).strftime('%a, %d %b %Y %H:%M:%S GMT') if dated_pages }}
+      {% set valid_pages = [] %}
+      {% for p in nav.pages %}
+        {% if "date" in p.meta %}
+          {% do valid_pages.append(p) %}
+        {% endif %}
+      {% endfor %}
+      {{ (valid_pages | map(attribute="meta.date") | max()).strftime('%a, %d %b %Y %H:%M:%S GMT') if valid_pages }}
     </lastBuildDate>
-    {% for post in dated_pages %}
+    {% for post in valid_pages %}
     <item>
       <title>{{ post.title }}</title>
       <link>{{ config.site_url }}/{{ post.url }}</link>
