@@ -8,7 +8,7 @@
       {% set valid_pages = [] %}
       {% for p in nav.pages %}
         {% if "date" in p.meta %}
-          {% do valid_pages.append(p) %}
+          {% if valid_pages.append(p) %}{% endif %}
         {% endif %}
       {% endfor %}
       {{ (valid_pages | map(attribute="meta.date") | max()).strftime('%a, %d %b %Y %H:%M:%S GMT') if valid_pages }}
