@@ -42,6 +42,7 @@ theme:
       - search.suggest
       - search.highlight
       - navigation.footer
+      - navigation.tabs
 
 copyright: Copyright &copy; 2025 thienqc
 
@@ -94,6 +95,7 @@ markdown_extensions:
 
 extra_css:
   - assets/styles/justify.css
+  - assets/styles/extra.css
 
 extra_javascript:
   - assets/js/random-post.js

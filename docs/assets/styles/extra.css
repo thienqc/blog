@@ -1,0 +1,52 @@
+/* Header layout */
+.md-header__inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+/* Random button */
+.md-header__random {
+  order: 1; /* Title (0) | Random (1) | Palette (2) | Search (3) */
+}
+
+.md-header__random button {
+  width: 1.6rem;
+  height: 1.6rem;
+  color: var(--md-header-icon-color);
+  transition: transform 0.2s, color 0.2s;
+}
+
+.md-header__random button:hover {
+  color: var(--md-accent-fg-color);
+  transform: rotate(90deg);
+}
+
+.md-header__random svg {
+  width: 100%;
+  height: 100%;
+  vertical-align: -0.125em;
+}
+
+/* Tooltip */
+.md-header__random button::after {
+  content: "Bài ngẫu nhiên";
+  position: absolute;
+  bottom: -2.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--md-default-fg-color--light);
+  color: var(--md-default-bg-color);
+  padding: 0.3rem 0.6rem;
+  border-radius: 0.2rem;
+  font-size: 0.7rem;
+  white-space: nowrap;
+  opacity: 0;
+  transition: opacity 0.2s;
+  pointer-events: none;
+}
+
+.md-header__random button:hover::after {
+  opacity: 1;
+}
