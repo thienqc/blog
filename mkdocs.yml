@@ -9,7 +9,7 @@ theme:
     custom_dir: overrides
     icon:
       logo: fontawesome/solid/brain
-      favicon: assets/meta/favicon.svg
+    favicon: assets/meta/favicon.svg
     font:
         text: JetBrains Mono
         code: JetBrains Mono
