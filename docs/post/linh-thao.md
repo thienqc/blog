@@ -6,13 +6,14 @@ tags:
   - AMDG
   - LinhThao
   - Reading_challenge_RC_2024
+  - SachThiengLieng
 date: 2024-07-16
-URL: 
-description: 
-aliases: 
+URL:
+description:
+aliases:
 Cover: Linh thao-20240716164319493.webp
 Rating: ⭐⭐⭐⭐⭐
-Total_Pages: 
+Total_Pages:
 type:
   - Book
 Last_Read: 2024-07-16
