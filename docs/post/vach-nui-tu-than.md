@@ -1,16 +1,17 @@
 ---
 comments: true
 filename: vach-nui-tu-than
-aliases: 
+aliases:
 share: true
 date: 2024-12-13
 tags:
   - Reading_challenge_RC_2024
-URL: 
-description: 
+  - Detective
+URL:
+description:
 Cover: Vách núi tử thần (7)-20241213085142461.webp
 Rating: ⭐⭐⭐⭐
-Total_Pages: 
+Total_Pages:
 type:
   - Book
 Last_Read: 2024-12-13
