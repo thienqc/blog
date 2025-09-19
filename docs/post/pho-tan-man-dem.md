@@ -7,11 +7,12 @@ share: true
 date: 2025-02-05
 tags:
   - Reading_challenge_RC_2025
+  - Detective
 URL: https://www.goodreads.com/book/show/128418243
-description: 
+description:
 Cover: Phố tan màn đêm-20241207150115656.webp
 Rating: ⭐⭐⭐
-Total_Pages: 
+Total_Pages:
 type:
   - Book
 Last_Read: 2025-02-05

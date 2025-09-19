@@ -9,7 +9,7 @@ tags:
   - SachThiengLieng
 URL:
 description:
-Cover: Bí mật kinh Mân Côi-20241104213315783.webp
+Cover: Bí mật kinh Mân Côi-1757087370065.webp
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages:
 type:
@@ -19,9 +19,7 @@ Last_Read: 2024-11-04
 # Bí mật kinh Mân Côi  
 [Author::[Thánh Louis Marie De Montfort](Th%C3%A1nh%20Louis%20Marie%20De%20Montfort.md)] - (Publication_Year:: )  
   
-![](https://i.imgur.com/eBa2EqO.png)  
-  
-  
+![Bí mật kinh Mân Côi-1757087370065.webp](../assets/img/B%C3%AD%20m%E1%BA%ADt%20kinh%20M%C3%A2n%20C%C3%B4i-1757087370065.webp)  
   
 - Việc lần hạt Mân Côi sốt sắng mang lại nhiều lợi ích hơn Phụng Vụ vì dễ thực hiện, dễ lãnh nhận ơn Chúa.  
 - Kinh Mân Côi như một "chìa khóa" để mở lòng Mẹ Maria, nơi Thiên Chúa cất giấu mọi sự cao quý, để tiến vào kho tàng thần linh là Chúa Kitô.  

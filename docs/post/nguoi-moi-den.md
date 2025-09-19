@@ -1,16 +1,17 @@
 ---
 comments: true
 filename: nguoi-moi-den
-aliases: 
+aliases:
 share: true
 date: 2025-01-18
 tags:
   - Reading_challenge_RC_2025
-URL: 
-description: 
+  - Detective
+URL:
+description:
 Cover: Người mới đến-1685161412395.jpeg
 Rating: ⭐⭐⭐⭐
-Total_Pages: 
+Total_Pages:
 type:
   - Book
 Last_Read: 2025-01-18

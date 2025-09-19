@@ -9,7 +9,7 @@ tags:
   - SachThiengLieng
 URL:
 description:
-Cover: Lạy Chúa - Tại sao Ngài im lặng-20241010194751933.webp
+Cover: Lạy Chúa - Tại sao Ngài im lặng-1757087431783.webp
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages:
 type:
@@ -19,8 +19,7 @@ Last_Read: 2024-10-10
 # Lạy Chúa - Tại sao Ngài im lặng  
 [Author::[Giuse Phan Thanh Bình, SDB](Giuse%20Phan%20Thanh%20B%C3%ACnh,%20SDB.md)] - (Publication_Year:: )  
   
-![](https://i.imgur.com/yCZ6QXc.png)  
-  
+![Lạy Chúa - Tại sao Ngài im lặng-1757087431783.webp](../assets/img/L%E1%BA%A1y%20Ch%C3%BAa%20-%20T%E1%BA%A1i%20sao%20Ng%C3%A0i%20im%20l%E1%BA%B7ng-1757087431783.webp)  
   
 > [!important]- MỤC LỤC  
 > - CHƯƠNG MỘT: Những lập luận thường dùng để giải thích và cắt nghĩa đau khổ   

@@ -1,17 +1,18 @@
 ---
 comments: true
 filename: nang-tien-ca
-aliases: 
+aliases:
 share: true
 date: 2025-01-08
 tags:
   - Reading_challenge_RC_2025
-URL: 
-description: 
+  - Detective
+URL:
+description:
 Cover: Nàng tiên cá-20250108142427500.webp
 Rating: ⭐⭐⭐
 Total_Pages: 419
-type: 
+type:
 Last_Read: 2025-01-08
 ---
 # Nàng tiên cá  

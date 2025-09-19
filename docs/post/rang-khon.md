@@ -7,8 +7,9 @@ share: true
 date: 2025-01-14
 tags:
   - Reading_challenge_RC_2025
+  - Detective
 URL: https://www.goodreads.com/book/show/176302262
-description: 
+description:
 Cover: Răng khôn-20250114212715954.webp
 Rating: ⭐⭐⭐
 Total_Pages: 424

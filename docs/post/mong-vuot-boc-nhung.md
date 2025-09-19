@@ -7,11 +7,12 @@ share: true
 date: 2025-03-31
 tags:
   - Reading_challenge_RC_2025
-URL: 
-description: 
+  - Detective
+URL:
+description:
 Cover: Móng vuột bọc nhung-20250331125826789.webp
 Rating: ⭐⭐⭐⭐
-Total_Pages: 
+Total_Pages:
 type:
   - Book
 Last_Read: 2025-03-31
