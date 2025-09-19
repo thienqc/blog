@@ -1,16 +1,17 @@
 ---
 comments: true
 filename: noi-niem-cua-tham-tu-galileo
-aliases: 
+aliases:
 share: true
 date: 2025-01-28
 tags:
   - Reading_challenge_RC_2025
+  - Detective
 URL: https://www.goodreads.com/book/show/206095001
-description: 
+description:
 Cover: Nỗi niềm của thám tử Galileo-20241207145338488.webp
 Rating: ⭐⭐⭐⭐
-Total_Pages: 
+Total_Pages:
 type:
   - Book
 Last_Read: 2025-01-28
