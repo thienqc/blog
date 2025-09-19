@@ -4,15 +4,15 @@ comments: true
 filename: sau-gio-hoc
 aliases:
   - Sau giờ học
-description: 
+description:
 date: 2024-07-27
-URL: 
+URL:
 Cover: Sau giờ học-1685161801646.jpeg
 Rating: ⭐⭐⭐
 Total_Pages: 320
 tags:
-  - Detective
   - Reading_challenge_RC_2024
+  - Detective
 Type:
   - Book
 Last_Read: 2024-07-27
