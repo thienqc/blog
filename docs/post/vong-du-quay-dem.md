@@ -20,7 +20,7 @@ Last_Read: 2024-02-17
 # Vòng đu quay đêm  
 [Author::[Kanae Minato](../../Kanae%20Minato.md)] - (Publication_Year:: 2010)  
   
-![](https://i.imgur.com/zuGUWBv.png)  
+![|256x384](https://i.imgur.com/zuGUWBv.png)  
   
   
 ---  
