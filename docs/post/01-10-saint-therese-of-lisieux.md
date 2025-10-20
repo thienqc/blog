@@ -2,6 +2,7 @@
 filename: 01-10-saint-therese-of-lisieux
 aliases:
   - 01.10 | Saint Thérèse of Lisieux
+  - Thérèse of Lisieux
 share: true
 comments: true
 tags:

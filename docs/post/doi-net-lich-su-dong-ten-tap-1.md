@@ -20,7 +20,7 @@ Last_Read: 2024-05-13
 # Đôi nét lịch sử Dòng Tên - Thời kì khai sinh và phát triển  
 [Author::[Hoàng Sóc Sơn, S.J.](Ho%C3%A0ng%20S%C3%B3c%20S%C6%A1n,%20S.J..md)] - (Publication_Year:: 2007)  
   
-![](https://i.imgur.com/xFtw4M6.png)  
+![|235x352](https://i.imgur.com/xFtw4M6.png)  
   
   
 **Lời mở**  
@@ -45,7 +45,7 @@ Lịch sử luôn luôn là một bài học sống động và quý giá. Tìm 
 - Thánh Phêrô Kanijs  
 	- Thánh Stanislaô Kostka  
 - Cha Clauđiô Acquaviva  
-	- Thánh Lu-y Gonzaga  
+	- Thánh [Aloysius Gonzaga](../../Aloysius%20Gonzaga.md)  
 	- Hai chân phước Salès và Saultemouche tử đạo tại Aubena  
 - Trên đất nước Tư Tế Gioan  
 	- Huấn thị của thánh I-nhã gởi các anh em đi sứ vụ  

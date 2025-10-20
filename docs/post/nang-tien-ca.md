@@ -13,6 +13,7 @@ Cover: Nàng tiên cá-20250108142427500.webp
 Rating: ⭐⭐⭐
 Total_Pages: 419
 type:
+  - Book
 Last_Read: 2025-01-08
 ---
 # Nàng tiên cá  

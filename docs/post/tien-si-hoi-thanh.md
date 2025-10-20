@@ -53,7 +53,7 @@ Hai vị thánh ở thành Ávila, Tây Ban Nha, đều là những nhà thần 
 13. Thánh Nữ Caterina thành Siêna (1347-1380). Ngày mừng kính: 29.4  
 14. Thánh Cyrillô thành Alexandria (376-444). Ngày mừng kính: 27.6  
 15. Thánh Cyrillo thành Giêrusalem (315-386). Ngày mừng kính: 18.3  
-16. Thánh Ephrem của Sirye (306-37). Ngày mừng kính: 09.6  
+16. Thánh Ephrem của Sirye (306-373). Ngày mừng kính: 09.6  
 17. Thánh Giêrônimô thành Stridône (335-420). Ngày mừng kính: 30.9  
 18. Thánh Gioan thành Avila (1502-1569). Ngày mừng kính: 10.5.  
 19. Thánh Gioan Ðamasceno (676-749). Ngày mừng kính: 04.12  
