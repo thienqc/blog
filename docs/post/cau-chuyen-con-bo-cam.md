@@ -11,7 +11,7 @@ tags:
   - SachThiengLieng
 URL:
 description:
-Cover: Chuyện Con Bò Câm-1714699130300.jpeg
+Cover: Câu Chuyện Con Bò Câm-1760877761786.webp
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 90
 type:
