@@ -1,6 +1,5 @@
 ---
 filename: song-don-gian
-aliases:
 share: true
 comments: true
 date: 2024-02-21
@@ -9,10 +8,8 @@ tags:
   - minimalism
   - KhoSach
 URL: https://www.goodreads.com/book/show/41438250
-description:
-Cover: Sống đơn giản-1708247054531.jpeg
+Cover: Sống đơn giản-1760539923128.webp
 Rating: ⭐⭐⭐⭐
-Total_Pages:
 type:
   - Book
 Last_Read: 2024-02-21
