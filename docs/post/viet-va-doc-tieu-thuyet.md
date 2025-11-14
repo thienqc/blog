@@ -1,8 +1,8 @@
 ---
 filename: viet-va-doc-tieu-thuyet
-description: 
-URL: 
-Cover: Viết và đọc tiểu thuyết-1688913461920.jpeg
+description:
+URL:
+Cover: Viết và đọc tiểu thuyết-1761044570720.webp
 Last_Read: 2023-11-26
 Rating: ⭐⭐⭐
 Total_Pages: 104

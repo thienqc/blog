@@ -36,4 +36,6 @@ Năm nay cũng đọc được kha khá tác phẩm của bác (~13 quyển) c�
 Bối rối với [Kafka bên bờ biển](../../Kafka%20b%C3%AAn%20b%E1%BB%9D%20bi%E1%BB%83n.md), bàng hoàng trước Hoá thân    
   
 ## DNF  
-Thử sức với Nobel nhưng khó thật sự, đang DNF với [Dịch hạch](../../D%E1%BB%8Bch%20H%E1%BA%A1ch.md) (1957). Năm sau cố gắng mở rộng nhiều thể loại hơn, chứ không đọc tập trung mỗi trinh thám nữa.
+Thử sức với Nobel nhưng khó thật sự, đang DNF với [Dịch hạch](../../D%E1%BB%8Bch%20H%E1%BA%A1ch.md) (1957). Năm sau cố gắng mở rộng nhiều thể loại hơn, chứ không đọc tập trung mỗi trinh thám nữa.  
+  
+## LIST BOOK  
