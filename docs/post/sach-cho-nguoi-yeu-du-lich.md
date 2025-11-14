@@ -52,7 +52,7 @@ Có câu nói là, không phải ai đọc sách cũng thích đi du lịch, nh�
 - Sáu người đi khắp thế gian  
 - [Vào trong hoang dã](../../V%C3%A0o%20trong%20hoang%20d%C3%A3.md)  
 - Trên đường - Jack Kebouac  
-- Tôi, Charley và hành trình nước Mỹ  
+- [Tôi, Charley và hành trình nước Mỹ](../../T%C3%B4i,%20Charley%20v%C3%A0%20h%C3%A0nh%20tr%C3%ACnh%20n%C6%B0%E1%BB%9Bc%20M%E1%BB%B9.md)  
 - Hội hè miên man  
 - [Nhà giả kim](../../Nh%C3%A0%20Gi%E1%BA%A3%20Kim.md)  
 - [Hoàng tử bé](../../Ho%C3%A0ng%20T%E1%BB%AD%20B%C3%A9.md)  
@@ -79,7 +79,7 @@ Có câu nói là, không phải ai đọc sách cũng thích đi du lịch, nh�
 - [Việt Nam phong tục](../../Vi%E1%BB%87t%20Nam%20phong%20t%E1%BB%A5c.md) - Phan Kế Bính  
 - Văn minh Việt Nam - Phan Kế Bính  
 - Du lịch Việt Nam  
-- 100 kỹ năng sinh tồn  
+- [100 kỹ năng sinh tồn](../../100%20k%E1%BB%B9%20n%C4%83ng%20sinh%20t%E1%BB%93n.md)  
 - Siêu cẩm nang thám hiểm  
 - Cũ - Nick M  
 - Những cuộc phiêu lưu của Xê-muy-en Pinh  
