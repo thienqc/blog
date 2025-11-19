@@ -7,7 +7,7 @@ comments: true
 tags:
   - XV23
 date: 2023-12-25
-description: 
+description:
 ---
 # XV23 - ngày 24 • Vài suy tư về anh em  
   
