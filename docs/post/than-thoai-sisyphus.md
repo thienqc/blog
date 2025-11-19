@@ -7,6 +7,7 @@ tags:
   - Reading_challenge_RC_2021
   - philosophy
   - KhoSach
+  - XV23
 Type:
   - Book
 Last_Read: 2021-02-21
