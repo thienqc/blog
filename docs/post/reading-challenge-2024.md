@@ -4,11 +4,12 @@ share: true
 filename: reading-challenge-2024
 aliases:
   - Reading challenge 2024
-description: 
+description:
 tags:
   - DocSach
+  - XV23
 date: 2024-12-31
-URL: 
+URL:
 ---
 # Reading challenge 2024  
   
