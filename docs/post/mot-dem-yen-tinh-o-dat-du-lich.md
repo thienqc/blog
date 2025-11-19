@@ -4,11 +4,12 @@ comments: true
 filename: mot-dem-yen-tinh-o-dat-du-lich
 aliases:
   - Một đêm yên tĩnh ở đất du lịch
-description: 
+description:
 tags:
   - chill
+  - XV23
 date: 2024-04-06
-URL: 
+URL:
 ---
 # Một đêm yên tĩnh ở đất du lịch  
 Bữa giờ cứ nghe đi nghe lại bài [Đánh cắp mặt trời](https://youtu.be/yz7dyDJdmJk) nên cũng nhớ lại cái đêm mình ở trên vùng cao.  
