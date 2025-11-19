@@ -12,6 +12,7 @@ Total_Pages: 452
 tags:
   - Reading_challenge_RC_2023
   - KhoSach
+  - XV23
 Type:
   - Book
 aliases:
