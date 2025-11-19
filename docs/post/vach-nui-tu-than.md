@@ -7,6 +7,7 @@ date: 2024-12-13
 tags:
   - Reading_challenge_RC_2024
   - Detective
+  - XV23
 URL:
 description:
 Cover: Vách núi tử thần (7)-20241213085142461.webp
