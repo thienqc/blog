@@ -13,6 +13,7 @@ tags:
   - KhoSach
   - self-study
   - Reading_challenge_RC_2024
+  - XV23
 Type:
   - Book
 Last_Read: 2024-01-23
