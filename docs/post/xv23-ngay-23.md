@@ -7,7 +7,7 @@ comments: true
 tags:
   - XV23
 date: 2023-12-24
-description: 
+description:
 ---
 # XV23 - ngày 23 • Xộ hâk kơ dră ye xu rơ neh  
   
