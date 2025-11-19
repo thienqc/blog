@@ -12,9 +12,10 @@ tags:
   - Reading_challenge_RC_2021
   - KhoSach
   - quote
+  - XV23
 date: 2023-11-12
-URL: 
-description: 
+URL:
+description:
 Cover: Khi Hơi Thở Hóa Thinh Không-1685030608967.jpeg
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 236
