@@ -7,7 +7,7 @@ comments: true
 tags:
   - XV23
 date: 2023-12-30
-description: 
+description:
 ---
 # XV23 - ngày 29 • LOVE team  
 *30/12/2023*  
