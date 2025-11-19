@@ -7,7 +7,7 @@ comments: true
 tags:
   - XV23
 date: 2023-12-14
-description: 
+description:
 ---
 # XV23 - ngày 13 • Phở & cà phê  
   

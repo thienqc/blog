@@ -4,9 +4,10 @@ comments: true
 filename: phuc-loc-tho
 aliases:
   - Phúc - Lộc - Thọ
-description: 
+description:
 tags:
   - hmm
+  - XV23
 date: 2024-12-16
 URL: https://vi.wikipedia.org/wiki/Ph%C3%BAc_L%E1%BB%99c_Th%E1%BB%8D
 ---

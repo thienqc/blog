@@ -7,7 +7,7 @@ comments: true
 tags:
   - XV23
 date: 2023-12-16
-description: 
+description:
 ---
 # XV23 - ngày 15 • Vài suy tư để lại Hà Nội  
   

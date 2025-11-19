@@ -1,17 +1,18 @@
 ---
 comments: true
 filename: ke-lang-quen
-aliases: 
+aliases:
 share: true
 date: 2024-12-20
 tags:
   - Reading_challenge_RC_2024
   - Detective
-URL: 
-description: 
+  - XV23
+URL:
+description:
 Cover: Kẻ lãng quên (8)-20241220204458190.webp
 Rating: ⭐⭐⭐⭐
-Total_Pages: 
+Total_Pages:
 type:
   - Book
 Last_Read: 2024-12-20

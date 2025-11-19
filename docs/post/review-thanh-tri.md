@@ -5,6 +5,7 @@ aliases:
 tags:
   - Book
   - Reflection
+  - XV23
 date: 2023-07-02
 URL: https://thienqc.substack.com/p/thanh-tri
 share: true

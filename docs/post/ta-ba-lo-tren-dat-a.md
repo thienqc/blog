@@ -9,6 +9,7 @@ tags:
   - KhoSach
   - Phuot
   - Reading_challenge_RC_2023
+  - XV23
 type:
   - Book
 Last_Read: 2023-11-09

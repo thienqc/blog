@@ -2,12 +2,13 @@
 share: true
 comments: true
 filename: doc-sach-2024-12
-aliases: 
-description: 
+aliases:
+description:
 tags:
   - DocSach
+  - XV23
 date: 2024-12-31
-URL: 
+URL:
 ---
 # Đọc sách - T12.2024  
   

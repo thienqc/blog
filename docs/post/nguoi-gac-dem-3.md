@@ -8,6 +8,7 @@ date: 2024-12-05
 tags:
   - Reading_challenge_RC_2024
   - Detective
+  - XV23
 URL:
 description:
 Cover: Người gác đêm 3-20241205213242983.webp

@@ -7,7 +7,7 @@ comments: true
 tags:
   - XV23
 date: 2023-12-27
-description: 
+description:
 ---
 # XV23 - ngày 26 • Đức Mẹ La Vang  
   

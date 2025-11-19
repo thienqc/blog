@@ -7,7 +7,7 @@ comments: true
 tags:
   - XV23
 date: 2023-12-23
-description: 
+description:
 ---
 # XV23 - ngày 22 • Kleng  
   

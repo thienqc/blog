@@ -7,7 +7,7 @@ comments: true
 tags:
   - XV23
 date: 2023-12-26
-description: 
+description:
 ---
 # XV23 - ngày 25 • Cột mốc  
   

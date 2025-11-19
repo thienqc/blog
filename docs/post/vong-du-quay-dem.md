@@ -8,6 +8,7 @@ date: 2024-02-17
 tags:
   - Reading_challenge_RC_2024
   - Detective
+  - XV23
 URL: https://www.goodreads.com/book/show/53298537
 description:
 Cover: Vòng đu quay đêm-1708151692721.jpeg

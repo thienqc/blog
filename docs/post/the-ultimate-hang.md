@@ -9,6 +9,7 @@ tags:
   - outdoors
   - Reading_challenge_RC_2024
   - Survival
+  - XV23
 URL: https://www.goodreads.com/book/show/12989048
 description:
 Cover: The Ultimate Hang - An Illustrated Guide to Hammock Camping-1760709405355.webp

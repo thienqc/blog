@@ -7,7 +7,7 @@ comments: true
 tags:
   - XV23
 date: 2023-12-20
-description: 
+description:
 ---
 # XV23 - ngày 19 • Ngủ ở sân bay  
   

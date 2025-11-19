@@ -7,7 +7,7 @@ comments: true
 tags:
   - XV23
 date: 2023-12-22
-description: 
+description:
 ---
 # XV23 - ngày 21 • Đêm ca nguyện  
   
