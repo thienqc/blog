@@ -7,7 +7,7 @@ comments: true
 tags:
   - XV23
 date: 2023-12-15
-description: 
+description:
 ---
 # XV23 - ngày 14 • Plan, no plan  
   
