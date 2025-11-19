@@ -43,15 +43,15 @@ Có câu nói là, không phải ai đọc sách cũng thích đi du lịch, nh�
 ## Những cuốn sách cổ điển nổi tiếng thế giới  
 - Hai năm trên hoang đảo  
 - Robinson  
-- Hai vạn dặm dưới biển  
-- 80 ngày vòng quanh thế giưới  
+- [Hai vạn dặm dưới đáy biển](../../Hai%20V%E1%BA%A1n%20D%E1%BA%B7m%20D%C6%B0%E1%BB%9Bi%20%C4%90%C3%A1y%20Bi%E1%BB%83n.md)  
+- [80 ngày vòng quanh thế giới](80%20ng%C3%A0y%20v%C3%B2ng%20quanh%20th%E1%BA%BF%20gi%E1%BB%9Bi.md)  
 - Gulliver du kí  
 - Những cuộc phiêu lưu của Tom Sawyer  
-- Trên sa mạc và trong rừng thẳm  
+- [Trên sa mạc và trong rừng thẳm](Tr%C3%AAn%20sa%20m%E1%BA%A1c%20v%C3%A0%20trong%20r%E1%BB%ABng%20th%E1%BA%B3m.md)  
 - Cô bé Heidi (Thuỵ Sĩ)  
 - Sáu người đi khắp thế gian  
 - [Vào trong hoang dã](../../V%C3%A0o%20trong%20hoang%20d%C3%A3.md)  
-- Trên đường - Jack Kebouac  
+- [Trên đường](Tr%C3%AAn%20%C4%91%C6%B0%E1%BB%9Dng.md) - Jack Kebouac  
 - [Tôi, Charley và hành trình nước Mỹ](../../T%C3%B4i,%20Charley%20v%C3%A0%20h%C3%A0nh%20tr%C3%ACnh%20n%C6%B0%E1%BB%9Bc%20M%E1%BB%B9.md)  
 - Hội hè miên man  
 - [Nhà giả kim](../../Nh%C3%A0%20Gi%E1%BA%A3%20Kim.md)  
