@@ -7,7 +7,7 @@ comments: true
 tags:
   - XV23
 date: 2023-12-19
-description: 
+description:
 ---
 # XV23 - ngày 18 • Tạm biệt Hà Giang  
   
