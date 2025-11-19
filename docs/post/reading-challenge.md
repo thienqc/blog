@@ -4,11 +4,12 @@ comments: true
 filename: reading-challenge
 aliases:
   - KhoSach - RC
-description: 
+description:
 tags:
   - DocSach
+  - XV23
 date: 2024-12-31
-URL: 
+URL:
 ---
 # Reading challenge  
 ## [2024](./reading-challenge-2024.md)  
