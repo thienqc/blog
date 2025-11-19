@@ -1,17 +1,18 @@
 ---
 comments: true
 filename: bup-be
-aliases: 
+aliases:
 share: true
 date: 2024-12-31
 tags:
   - Reading_challenge_RC_2024
   - Detective
-URL: 
-description: 
+  - XV23
+URL:
+description:
 Cover: Búp bê (9)-20250102225555098.webp
 Rating: ⭐⭐⭐⭐
-Total_Pages: 
+Total_Pages:
 type:
   - Book
 Last_Read: 2024-12-31
