@@ -8,6 +8,7 @@ description:
 tags:
   - Reading_challenge_RC_2022
   - Reading_challenge_RC_2024
+  - XV23
 date: 2024-06-09
 URL:
 Cover: Thư viện nửa đêm-1760801949551.webp
