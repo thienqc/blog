@@ -12,11 +12,10 @@ tags:
   - Reading_challenge_RC_2021
   - KhoSach
   - quote
-  - XV23
 date: 2023-11-12
 URL:
 description:
-Cover: Khi Hơi Thở Hóa Thinh Không-1685030608967.jpeg
+Cover: Khi Hơi Thở Hóa Thinh Không-1764255990981.webp
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 236
 Type:
@@ -26,8 +25,7 @@ Last_Read: 2021-10-18
 # Khi hơi thở hoá thinh không  
 [Author:: [Paul Kalanithi](../../Paul%20Kalanithi.md)] - (Publication_Year:: 2016)  
   
-![|300x447](https://i.imgur.com/HHwdD7E.jpg)  
-  
+![Khi Hơi Thở Hóa Thinh Không-1764255990981.webp](../assets/img/Khi%20H%C6%A1i%20Th%E1%BB%9F%20H%C3%B3a%20Thinh%20Kh%C3%B4ng-1764255990981.webp)  
   
 Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21171&authkey=!ACRGB9N6rol-1bQ)  
   
@@ -58,6 +56,5 @@ Ngẫm ra, ý nghĩa cuộc đời có lẽ nằm ở chỗ chăm chỉ làm vi�
 > Bước chân nhẹ về cùng với cõi vô ưu.  
 > Điểm cuối của con đường sự sống là gì?   
 > Là cái chết.  
->   
   
 Chết là việc tất yếu mà con người đều sẽ gặp phải. Vậy sao ta phải lo lắng về cái chết. Sống cho thật đáng sống, chết sẽ không còn điều hối tiếc.
