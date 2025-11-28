@@ -8,10 +8,9 @@ date: 2024-02-17
 tags:
   - Reading_challenge_RC_2024
   - Detective
-  - XV23
 URL: https://www.goodreads.com/book/show/53298537
 description:
-Cover: Vòng đu quay đêm-1708151692721.jpeg
+Cover: Vòng đu quay đêm-1764255282117.webp
 Rating: ⭐⭐⭐
 Total_Pages: 348
 type:
@@ -22,7 +21,6 @@ Last_Read: 2024-02-17
 [Author::[Kanae Minato](../../Kanae%20Minato.md)] - (Publication_Year:: 2010)  
   
 ![|256x384](https://i.imgur.com/zuGUWBv.png)  
-  
   
 ---  
 Mọi chuyện bắt nguồn từ do đâu?  
