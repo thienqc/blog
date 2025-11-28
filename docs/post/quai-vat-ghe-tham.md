@@ -2,9 +2,9 @@
 filename: quai-vat-ghe-tham
 aliases:
   - Quái vật ghé thăm
-description: 
-URL: 
-Cover: Quái vật ghé thăm-1685059227477.jpeg
+description:
+URL:
+Cover: Quái vật ghé thăm-1764256173607.webp
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 214
 tags:
@@ -20,8 +20,7 @@ comments: true
 # Quái vật ghé thăm  
 [Author:: [Patrick Ness](../../Patrick%20Ness.md)] - (Publication_Year:: 2011)  
   
-![|318x421](https://i.imgur.com/necNZXu.jpg)  
-  
+![Quái vật ghé thăm-1764256173607.webp](../assets/img/Qu%C3%A1i%20v%E1%BA%ADt%20gh%C3%A9%20th%C4%83m-1764256173607.webp)  
   
 Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21146&authkey=!AM7V3XsMlF1slZE)  
   
