@@ -9,7 +9,7 @@ tags:
   - Detective
 URL:
 description:
-Cover: Người mới đến-1685161412395.jpeg
+Cover: Người mới đến-1764468198657.webp
 Rating: ⭐⭐⭐⭐
 Total_Pages:
 type:
@@ -20,7 +20,7 @@ Seri: Kaga#8
 # Người mới đến  
 [Author:: [Keigo Higashino](../../Keigo%20Higashino.md)] - (Publication_Year:: 2009)  
   
-![150](../assets/img/Ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20%C4%91%E1%BA%BFn-1685161412395.jpeg)  
+![Người mới đến-1764468198657.webp](../assets/img/Ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20%C4%91%E1%BA%BFn-1764468198657.webp)  
   
 Tối đó, một phụ nữ đến nhà riêng thăm bạn thì phát hiện ra bạn đã chết, cổ còn hằn vết siết. Người bạn này hiền hòa, làm việc tại nhà, trông qua không có mắc mứu với ai. Tình trạng hiện trường hoàn toàn có lợi cho hung thủ, nói cách khác là không có dấu vết gì để tóm được hắn ta.    
     
