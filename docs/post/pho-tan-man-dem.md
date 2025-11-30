@@ -10,7 +10,7 @@ tags:
   - Detective
 URL: https://www.goodreads.com/book/show/128418243
 description:
-Cover: Phố tan màn đêm-20241207150115656.webp
+Cover: Phố tan màn đêm-1764468326495.webp
 Rating: ⭐⭐⭐
 Total_Pages:
 type:
@@ -20,8 +20,7 @@ Last_Read: 2025-02-05
 # Phố tan màn đêm  
 [Author:: [Keigo Higashino](../../Keigo%20Higashino.md)] - (Publication_Year:: 2007)  
   
-  
-![](https://i.imgur.com/wXImc0I.png)  
+![Phố tan màn đêm-1764468326495.webp](../assets/img/Ph%E1%BB%91%20tan%20m%C3%A0n%20%C4%91%C3%AAm-1764468326495.webp)  
   
   
 *Tôi từng xem những kẻ ngoại tình là không ra gì. Oái oăm thay, tôi phải nói lời đó với chính mình...*  

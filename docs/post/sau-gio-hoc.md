@@ -7,13 +7,12 @@ aliases:
 description:
 date: 2024-07-27
 URL:
-Cover: Sau giờ học-1685161801646.jpeg
+Cover: Sau giờ học-1764468411999.webp
 Rating: ⭐⭐⭐
 Total_Pages: 320
 tags:
   - Reading_challenge_RC_2024
   - Detective
-  - XV23
 Type:
   - Book
 Last_Read: 2024-07-27
@@ -21,7 +20,7 @@ Last_Read: 2024-07-27
 # Sau giờ học  
 [Author:: [Keigo Higashino](../../Keigo%20Higashino.md)] - (Publication_Year:: 1985)  
   
-![Sau giờ học-1685161801646.jpeg](../assets/img/Sau%20gi%E1%BB%9D%20h%E1%BB%8Dc-1685161801646.jpeg)  
+![Sau giờ học-1764468411999.webp](../assets/img/Sau%20gi%E1%BB%9D%20h%E1%BB%8Dc-1764468411999.webp)  
   
 ---  
 Mỗi lần lật cái bìa phụ của các tác phẩm của [Keigo](../../Keigo%20Higashino.md) thời kì đầu (Namiya, Bạch dạ hành, Phía Sau Nghi Can X,...) luôn được giới thiệu tác phẩm "After School" nhưng tới bây giờ mới được đọc nó!  

@@ -6,7 +6,6 @@ share: true
 comments: true
 tags:
   - Book
-  - XV23
 date: 2018-04-06
 aliases:
   - Review Điều kì diệu của tiệm tạp hoá Namiya
@@ -17,7 +16,7 @@ aliases:
   
 ĐIỀU KỲ DIỆU CỦA TIỆM TẠP HOÁ NAMIYA - HIGASHINO KEIGO  
   
-![](https://i.imgur.com/xpbTkNF.jpg)  
+![|654x654](https://i.imgur.com/xpbTkNF.jpg)  
   
   
 Gửi m,  

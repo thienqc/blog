@@ -4,7 +4,7 @@ aliases:
   - Tôi nói gì khi nói về chạy bộ
 description:
 URL:
-Cover: Tôi Nói Gì Khi Nói Về Chạy Bộ-1685029872324.jpeg
+Cover: Tôi Nói Gì Khi Nói Về Chạy Bộ-1764468816018.webp
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 236
 tags:
@@ -14,7 +14,6 @@ tags:
   - Reading_challenge_RC_2022
   - favorite
   - KhoSach
-  - XV23
 Type:
   - Book
 Last_Read: 2022-10-17
@@ -25,8 +24,7 @@ date: 2022-10-17
 # Tôi nói gì khi nói về chạy bộ  
 [Author:: [Haruki Murakami](../../Haruki%20Murakami.md)] - (Publication_Year:: 2007)  
   
-![](https://i.imgur.com/Cm0TQXv.jpg)  
-  
+![Tôi Nói Gì Khi Nói Về Chạy Bộ-1764468816018.webp](../assets/img/T%C3%B4i%20N%C3%B3i%20G%C3%AC%20Khi%20N%C3%B3i%20V%E1%BB%81%20Ch%E1%BA%A1y%20B%E1%BB%99-1764468816018.webp)  
   
 Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21132&authkey=!AAPSuEtaePaU-sM)  
   

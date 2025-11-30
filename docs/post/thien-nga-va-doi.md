@@ -21,7 +21,7 @@ Last_Read: 2025-02-07
 [Author:: [Keigo Higashino](../../Keigo%20Higashino.md)] - (Publication_Year:: 2021)  
   
   
-![](https://i.imgur.com/ZsJpRzT.png)  
+![|343x500](https://i.imgur.com/ZsJpRzT.png)  
   
   
 > [!NOTE]- Show  
