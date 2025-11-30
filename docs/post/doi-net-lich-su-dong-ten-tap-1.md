@@ -8,10 +8,9 @@ tags:
   - IHS
   - Reading_challenge_RC_2024
   - SachThiengLieng
-  - XV23
 URL:
 description:
-Cover: Đôi nét lịch sử Dòng Tên - Thời kì khai sinh & phát triển-1714920646865.jpeg
+Cover: Đôi nét lịch sử Dòng Tên - Thời kì khai sinh và phát triển-1764380365497.webp
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 300
 type:
@@ -21,8 +20,7 @@ Last_Read: 2024-05-13
 # Đôi nét lịch sử Dòng Tên - Thời kì khai sinh và phát triển  
 [Author::[Hoàng Sóc Sơn, S.J.](Ho%C3%A0ng%20S%C3%B3c%20S%C6%A1n,%20S.J..md)] - (Publication_Year:: 2007)  
   
-![|235x352](https://i.imgur.com/xFtw4M6.png)  
-  
+![Đôi nét lịch sử Dòng Tên - Thời kì khai sinh và phát triển-1764380365497.webp](../assets/img/%C4%90%C3%B4i%20n%C3%A9t%20l%E1%BB%8Bch%20s%E1%BB%AD%20D%C3%B2ng%20T%C3%AAn%20-%20Th%E1%BB%9Di%20k%C3%AC%20khai%20sinh%20v%C3%A0%20ph%C3%A1t%20tri%E1%BB%83n-1764380365497.webp)  
   
 **Lời mở**  
   
