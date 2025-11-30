@@ -20,6 +20,6 @@ Last_Read: 2025-01-08
 [Author::[Lôi Mễ](../../L%C3%B4i%20M%E1%BB%85.md)] - (Publication_Year:: 2021)  
   
   
-![](https://i.imgur.com/4WNZ3qx.jpeg)  
+![|323x500](https://i.imgur.com/4WNZ3qx.jpeg)  
   
   
