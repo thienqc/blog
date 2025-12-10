@@ -14,7 +14,7 @@ tags:
   - favorite
   - KhoSach
   - Reading_challenge_RC_2024
-  - XV23
+  - WritingChallenge
 Type:
   - Book
 Last_Read: 2024-03-27
