@@ -12,6 +12,7 @@ tags:
   - Detective
   - favorite
   - KhoSach
+  - WritingChallenge
 Type:
   - Book
 Last_Read: 2021-03-04
