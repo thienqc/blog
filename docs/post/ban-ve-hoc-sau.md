@@ -4,7 +4,7 @@ share: true
 comments: true
 tags:
   - PKM
-  - XV23
+  - WritingChallenge
 date: 2023-10-16
 URL:
 description: Vài điều bàn luận với Long
