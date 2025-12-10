@@ -11,7 +11,7 @@ Total_Pages: 221
 tags:
   - Reading_challenge_RC_2023
   - Phuot
-  - XV23
+  - WritingChallenge
 type:
   - Book
 Last_Read: 2023-11-09

@@ -5,7 +5,7 @@ comments: true
 tags:
   - PKM
   - ideas
-  - XV23
+  - WritingChallenge
 date: 2023-10-17
 URL:
 description:

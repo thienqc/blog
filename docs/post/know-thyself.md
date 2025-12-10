@@ -7,7 +7,7 @@ share: true
 comments: true
 tags:
   - manga
-  - XV23
+  - WritingChallenge
 date: 2023-10-02
 URL:
 description: Biết chính mình

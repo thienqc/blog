@@ -13,6 +13,7 @@ Total_Pages: 320
 tags:
   - Reading_challenge_RC_2024
   - Detective
+  - WritingChallenge
 Type:
   - Book
 Last_Read: 2024-07-27

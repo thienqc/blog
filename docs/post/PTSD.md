@@ -7,7 +7,7 @@ aliases:
 description:
 tags:
   - mental
-  - XV23
+  - WritingChallenge
 date: 2024-02-17
 URL:
 ---

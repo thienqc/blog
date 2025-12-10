@@ -8,7 +8,7 @@ Total_Pages: 1210
 tags:
   - Reading_challenge_RC_2020
   - KhoSach
-  - XV23
+  - WritingChallenge
 Type:
   - Book
 Last_Read: 2020-03-10

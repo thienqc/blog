@@ -7,7 +7,7 @@ aliases:
 description:
 tags:
   - hmm
-  - XV23
+  - WritingChallenge
 date: 2024-03-06
 URL:
 ---

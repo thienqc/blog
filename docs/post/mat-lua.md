@@ -5,7 +5,7 @@ aliases:
 description:
 tags:
   - hmm
-  - XV23
+  - WritingChallenge
 URL:
 share: true
 comments: true

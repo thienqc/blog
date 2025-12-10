@@ -7,6 +7,7 @@ date: 2024-12-20
 tags:
   - Reading_challenge_RC_2024
   - Detective
+  - WritingChallenge
 URL:
 description:
 Cover: Kẻ lãng quên (8)-1764469086577.webp

@@ -7,7 +7,7 @@ aliases:
 description:
 tags:
   - DocSach
-  - XV23
+  - WritingChallenge
 date: 2024-12-31
 URL:
 ---

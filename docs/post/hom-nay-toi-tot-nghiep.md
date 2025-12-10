@@ -4,7 +4,7 @@ share: true
 comments: true
 tags:
   - Sisyphus
-  - XV23
+  - WritingChallenge
 date: 2023-10-21
 URL:
 description:

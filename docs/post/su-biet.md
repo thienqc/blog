@@ -4,7 +4,7 @@ description:
 URL:
 tags:
   - quote
-  - XV23
+  - WritingChallenge
 share: true
 comments: true
 date: 2023-09-21

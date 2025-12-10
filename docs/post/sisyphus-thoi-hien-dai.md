@@ -2,7 +2,7 @@
 filename: sisyphus-thoi-hien-dai
 tags:
   - Reflection
-  - XV23
+  - WritingChallenge
 date: 2023-07-07
 URL: https://thienqc.substack.com/p/sisyphus-thoi-hien-ai
 share: true
