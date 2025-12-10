@@ -9,7 +9,7 @@ tags:
   - pray
   - AMDG
   - SachThiengLieng
-  - XV23
+  - WritingChallenge
 URL:
 description:
 Cover: Suy niệm và chiêm niệm - Cầu nguyện I Nhã với lời Chúa-20240617214625096.webp
