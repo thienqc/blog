@@ -10,7 +10,7 @@ date: 2023-12-09
 description: Nhà là nơi để trở về
 ---
 # XV23 - ngày 08 • Nhà là nơi để trở về  
-*09/12/2024*  
+*09/12/2023*  
   
 ![](https://i.imgur.com/A3BpcwQ.jpeg)  
   
