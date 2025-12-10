@@ -8,6 +8,7 @@ date: 2023-05-21
 Link: https://www.facebook.com/groups/594306492570157/posts/644009084266564
 tags:
   - obsidian
+  - WritingChallenge
 share: true
 comments: true
 ---
