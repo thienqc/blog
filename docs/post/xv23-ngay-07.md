@@ -10,7 +10,7 @@ date: 2023-12-08
 description: Một cú lừa đau đớn và bài học nhớ đời
 ---
 # XV23 - ngày 07 • Một cú lừa đau đớn và bài học nhớ đời  
-*08/12/2024*  
+*08/12/2023*  
   
 Đi một mình và bị gạt giò. Tinh vi hơn cả tinh vi. Haizzz  
   
