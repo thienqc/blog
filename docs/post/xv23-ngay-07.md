@@ -6,6 +6,7 @@ share: true
 comments: true
 tags:
   - XV23
+  - WritingChallenge
 date: 2023-12-08
 description: Một cú lừa đau đớn và bài học nhớ đời
 ---
