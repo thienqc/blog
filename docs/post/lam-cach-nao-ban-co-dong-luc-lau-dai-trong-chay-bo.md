@@ -10,7 +10,7 @@ date: 2023-09-25
 tags:
   - Run
   - motivation
-  - XV23
+  - WritingChallenge
 ---
 # Làm cách nào bạn có động lực lâu dài trong chạy bộ?  
   
