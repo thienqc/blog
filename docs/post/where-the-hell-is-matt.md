@@ -4,7 +4,7 @@ share: true
 comments: true
 tags:
   - fun
-  - XV23
+  - WritingChallenge
 date: 2023-10-18
 URL:
 description:
