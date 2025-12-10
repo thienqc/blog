@@ -5,7 +5,7 @@ aliases:
 description:
 tags:
   - hmm
-  - XV23
+  - WritingChallenge
 date: 2023-07-01
 URL: https://thienqc.substack.com/p/why-do-we-need-a-reason-to-do-things
 share: true
