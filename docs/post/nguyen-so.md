@@ -4,7 +4,7 @@ share: true
 comments: true
 tags:
   - hmm
-  - XV23
+  - WritingChallenge
 date: 2023-11-27
 URL:
 description:
