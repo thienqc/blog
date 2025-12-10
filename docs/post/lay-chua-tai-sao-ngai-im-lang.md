@@ -7,7 +7,7 @@ date: 2024-10-10
 tags:
   - Reading_challenge_RC_2024
   - SachThiengLieng
-  - XV23
+  - WritingChallenge
 URL:
 description:
 Cover: Lạy Chúa - Tại sao Ngài im lặng-1757087431783.webp
