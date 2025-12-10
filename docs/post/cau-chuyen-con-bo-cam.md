@@ -9,7 +9,7 @@ tags:
   - Reading_challenge_RC_2024
   - KhoSach
   - SachThiengLieng
-  - XV23
+  - WritingChallenge
 URL:
 description:
 Cover: Câu Chuyện Con Bò Câm-1760877761786.webp
