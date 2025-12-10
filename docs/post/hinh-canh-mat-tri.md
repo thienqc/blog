@@ -8,7 +8,7 @@ description:
 tags:
   - Reading_challenge_RC_2024
   - Detective
-  - XV23
+  - WritingChallenge
 date: 2024-02-16
 URL: https://www.goodreads.com/book/show/61316254
 Cover: Hình cảnh mất trí-1760539735038.webp
