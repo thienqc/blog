@@ -4,7 +4,7 @@ share: true
 comments: true
 tags:
   - trek
-  - XV23
+  - WritingChallenge
 date: 2023-11-29
 URL:
 description:
