@@ -7,7 +7,7 @@ aliases:
 description:
 tags:
   - chill
-  - XV23
+  - WritingChallenge
 date: 2024-04-06
 URL:
 ---
