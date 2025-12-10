@@ -5,7 +5,7 @@ aliases:
 description:
 tags:
   - life-style
-  - XV23
+  - WritingChallenge
 date: 2023-07-04
 URL: https://thienqc.substack.com/p/the-nao-la-mot-ngay-tuyet-voi
 share: true
