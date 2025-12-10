@@ -6,6 +6,7 @@ share: true
 comments: true
 tags:
   - XV23
+  - WritingChallenge
 date: 2023-12-21
 description:
 ---
