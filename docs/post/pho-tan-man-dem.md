@@ -9,10 +9,8 @@ tags:
   - Reading_challenge_RC_2025
   - Detective
 URL: https://www.goodreads.com/book/show/128418243
-description:
 Cover: Phố tan màn đêm-1764468326495.webp
 Rating: ⭐⭐⭐
-Total_Pages:
 type:
   - Book
 Last_Read: 2025-02-05
@@ -23,11 +21,9 @@ Last_Read: 2025-02-05
 ![Phố tan màn đêm-1764468326495.webp](../assets/img/Ph%E1%BB%91%20tan%20m%C3%A0n%20%C4%91%C3%AAm-1764468326495.webp)  
   
   
-*Tôi từng xem những kẻ ngoại tình là không ra gì. Oái oăm thay, tôi phải nói lời đó với chính mình...*  
-  
-Watanabe làm việc cho một công ty xây dựng, đang bước vào tuổi trung niên và cảm thấy cuộc sống gia đình nhàm chán tẻ nhạt, thì bỗng phải lòng Nakanishi Akiha, một nhân viên thời vụ mới đến làm cùng phòng. Mối quan hệ giữa hai người nhanh chóng trở nên sâu sắc và Watanabe biết được hoàn cảnh phức tạp mà Akiha đang phải đối mặt. Mười lăm năm trước đã xảy ra một vụ án mạng, Akiha là nghi phạm. Liệu người tình dấu yêu của mình có phải thủ phạm thực sự không? Trái tim của Watanabe dao động. Thời hiệu truy cứu của vụ án sắp hết rồi...  
-  
-Phố tan màn đêm được xuất bản lần đầu vào năm 2007, được dựng thành phim điện ảnh năm 2011.  
+> *Tôi từng xem những kẻ ngoại tình là không ra gì. Oái oăm thay, tôi phải nói lời đó với chính mình...*  
+> Watanabe làm việc cho một công ty xây dựng, đang bước vào tuổi trung niên và cảm thấy cuộc sống gia đình nhàm chán tẻ nhạt, thì bỗng phải lòng Nakanishi Akiha, một nhân viên thời vụ mới đến làm cùng phòng. Mối quan hệ giữa hai người nhanh chóng trở nên sâu sắc và Watanabe biết được hoàn cảnh phức tạp mà Akiha đang phải đối mặt. Mười lăm năm trước đã xảy ra một vụ án mạng, Akiha là nghi phạm. Liệu người tình dấu yêu của mình có phải thủ phạm thực sự không? Trái tim của Watanabe dao động. Thời hiệu truy cứu của vụ án sắp hết rồi...  
+> Phố tan màn đêm được xuất bản lần đầu vào năm 2007, được dựng thành phim điện ảnh năm 2011.  
   
 ---  
   

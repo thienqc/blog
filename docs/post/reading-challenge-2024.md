@@ -7,7 +7,6 @@ aliases:
 description:
 tags:
   - DocSach
-  - WritingChallenge
 date: 2024-12-31
 URL:
 ---
@@ -41,7 +40,7 @@ URL:
 | 11-2024 | - [bi-mat-kinh-man-coi](./bi-mat-kinh-man-coi.md)                                                                                                                     |  
 | 12-2024 | - [bup-be](./bup-be.md)<br>- [ke-lang-quen](./ke-lang-quen.md)<br>- [nguoi-gac-dem-3](./nguoi-gac-dem-3.md)<br>- [nguoi-gac-dem-4](./nguoi-gac-dem-4.md)<br>- [vach-nui-tu-than](./vach-nui-tu-than.md)                    |  
   
-3 tháng đầu 2024, sau chuyến lãng du [XV23](./xuyen-viet-2023.md) mình đọc những quyển   
+3 tháng đầu 2024, sau chuyến lãng du [XV23](./xuyen-viet-2023.md) mình đọc những quyển về sinh tồn, về cách sống.  
   
 Những tháng kế tiếp, mình bắt đầu rèn luyện theo chương trình nhà ứng sinh, tập luyện đọc những [sách thiêng liêng](../../S%C3%A1ch%20thi%C3%AAng%20li%C3%AAng.md).  
   

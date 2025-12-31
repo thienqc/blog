@@ -8,11 +8,8 @@ date: 2025-02-07
 tags:
   - Reading_challenge_RC_2025
   - Detective
-URL:
-description:
 Cover: Thiên nga và dơi-20241207145902993.webp
 Rating: ⭐⭐⭐⭐⭐
-Total_Pages:
 type:
   - Book
 Last_Read: 2025-02-07
