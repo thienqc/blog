@@ -162,7 +162,7 @@ Nhân vật chính đã dùng “trăm phương ngàn kế” để tự biện 
   
 ![Reading challenge 2025-1767171291080.webp](../assets/img/Reading%20challenge%202025-1767171291080.webp)  
   
-Tính ra được 3 bingo đấy chứ, cũng cũng.  
+Tính ra được 4 bingo đấy chứ, cũng cũng.  
   
 ---  
   
