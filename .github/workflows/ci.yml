@@ -18,28 +18,15 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - name: Cache dependencies
-        run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
       - uses: actions/cache@v4
+        # with:
+        #   key: ${{ github.ref }}
+        #   path: .cache
         with:
           key: mkdocs-material-${{ env.cache_id }}
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
-          # Install CSS minifier
-          npm install -g css-minify
-      - name: Minify CSS
-        run: |
-          if [ -f "assets/styles/justify.css" ]; then
-            css-minify -f assets/styles/justify.css -o assets/styles/
-          fi
-      - name: Build and deploy
-        run: mkdocs gh-deploy --force --clean
-        
-      - name: Run Lighthouse CI (optional)
-        run: |
-          npm install -g @lhci/cli
-          lhci autorun --collect.url=https://thienqc.github.io/blog/ || echo "Lighthouse check completed"
+      - run: pip install -r requirements.txt
+      - run: mkdocs gh-deploy --force

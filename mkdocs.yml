@@ -10,10 +10,9 @@ theme:
     icon:
       logo: fontawesome/solid/brain
     favicon: assets/meta/favicon.svg
-    # Sử dụng font system fallback để tránh chặn render
     font:
-        text: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', monospace
-        code: 'JetBrains Mono', Monaco, 'Courier New', monospace
+        text: JetBrains Mono
+        code: JetBrains Mono
     language: en
     static_templates:
       - 404.html
@@ -37,25 +36,15 @@ theme:
         toggle:
           icon: material/toggle-switch-off
           name: Switch to system preference
-    # Giảm features để tối ưu performance
     features:
-      - navigation.tracking
-      - navigation.sections
-      - content.code.copy
-      # Tắt search suggestions nếu không cần
-      # - search.suggest
+      - search.suggest
       - search.highlight
-      # Tắt footer navigation để giảm JS
-      # - navigation.footer
+      - navigation.footer
 
 plugins:
   - search
   - autolinks
   - callouts
-  - minify:
-      minify_html: true
-      minify_js: true
-      minify_css: true
   - blogging:
       dirs:
         - post
@@ -72,12 +61,11 @@ markdown_extensions:
   - pymdownx.superfences
   - footnotes
   - tables
-  # Tắt các extensions ít dùng để giảm JS
-  # - pymdownx.critic
-  # - pymdownx.caret
-  # - pymdownx.keys
-  # - pymdownx.mark
-  # - pymdownx.tilde
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -86,48 +74,24 @@ markdown_extensions:
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.inlinehilite
-  # - pymdownx.snippets
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   - toc:
       permalink: true
 
-# Tối ưu CSS - giảm blocking
 extra_css:
-  - assets/styles/justify.min.css  # Đảm bảo đã minified
+  - assets/styles/justify.css
 
-# Tối ưu JS - defer tất cả
 extra_javascript:
-  - assets/js/random-post.js?defer  # Thêm defer qua parameter
+  - assets/js/random-post.js
 
 extra:
-  head:
-    # Preconnect và preload critical resources
-    - '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
-    - '<link rel="preconnect" href="https://giscus.app">'
-    - '<link rel="dns-prefetch" href="https://github.com">'
-    - '<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" as="style" onload="this.onload=null;this.rel=\'stylesheet\'">'
-    - '<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"></noscript>'
-    
-    # Inline critical CSS (tạo file critical.css)
-    - |
-      <style>
-        /* Critical CSS - tối thiểu cho LCP */
-        article { max-width: 800px; margin: 0 auto; }
-        .md-content__inner { padding-top: 1rem; }
-        h1 { font-size: 2.5em; margin-bottom: 1rem; }
-        .md-typeset h2 { font-size: 1.8em; margin-top: 2rem; }
-        /* Thêm style cho nút random post nếu cần */
-        #random-post-btn { display: none; } /* Ẩn mặc định, hiện sau khi JS load */
-      </style>
-    
-    # Load Google Fonts async với font-display: swap
-    - |
-      <link rel="preconnect" href="https://fonts.googleapis.com">
-      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap">
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" media="print" onload="this.media='all'">
-      <noscript>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap">
-      </noscript>
-  
   social:
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/yds.thienqc/
@@ -136,7 +100,3 @@ extra:
   analytics:
     provider: google
     property: G-WQ6QJ2DK27
-    # Thêm async cho GA4
-    gtag_config: 
-      anonymize_ip: true
-    enable_async: true

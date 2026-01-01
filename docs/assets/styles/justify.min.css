@@ -1,3 +1,0 @@
-# Tạo minified version
-npm install -g css-minify
-css-minify -f assets/styles/justify.css -o assets/styles/

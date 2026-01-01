@@ -1,32 +1,29 @@
-// assets/js/random-post.js
-// Defer execution
-(function() {
-  // Chỉ chạy sau khi page fully loaded
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initRandomPost);
-  } else {
-    setTimeout(initRandomPost, 1000); // Delay 1s để ưu tiên LCP
+window.getRandomPost = async function () {
+  try {
+    const res = await fetch('/blog/sitemap.xml');
+    const text = await res.text();
+
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(text, "application/xml");
+    const urls = Array.from(xml.querySelectorAll("url loc"))
+      .map(loc => loc.textContent)
+      .filter(url => url.includes("/post/")); // Lọc bài viết
+
+    if (urls.length === 0) {
+      alert("Không tìm thấy bài viết nào trong sitemap!");
+      return;
+    }
+
+    const randomUrl = urls[Math.floor(Math.random() * urls.length)];
+    window.location.href = randomUrl;
+  } catch (error) {
+    console.error("Lỗi khi tải sitemap:", error);
+    alert("Không thể lấy bài viết ngẫu nhiên!");
   }
-  
-  function initRandomPost() {
-    var btn = document.getElementById('random-post-btn');
-    if (!btn) return;
-    
-    // Hiển thị nút
-    btn.style.display = 'inline-block';
-    
-    // Load posts list async
-    fetch('/blog/post/list.json')
-      .then(response => response.json())
-      .then(posts => {
-        btn.addEventListener('click', function() {
-          var randomIndex = Math.floor(Math.random() * posts.length);
-          window.location.href = posts[randomIndex].url;
-        });
-      })
-      .catch(error => {
-        console.warn('Could not load posts list:', error);
-        btn.style.display = 'none';
-      });
-  }
-})();
+};
+
+// Gán sự kiện khi DOM sẵn sàng
+document.addEventListener('DOMContentLoaded', () => {
+  const btn = document.getElementById('random-post-btn');
+  if (btn) btn.onclick = window.getRandomPost;
+});

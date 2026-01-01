@@ -1,74 +1,59 @@
 {% if page.meta.comments %}
-  <!-- Nút random post - defer loading -->
   <button id="random-post-btn"
-        style="display: none; padding: 10px 15px; background: #3f51b5; color: white; 
+        style="padding: 10px 15px; background: #3f51b5; color: white; 
                border: none; border-radius: 5px; cursor: pointer; margin-top: 20px;">
     🎲 Bài ngẫu nhiên
   </button>
 
   <h2 id="__comments">{{ lang.t("meta.comments") }}</h2>
+  <script src="https://giscus.app/client.js"
+        data-repo="thienqc/blog"
+        data-repo-id="R_kgDOKV2AcQ"
+        data-category-id="DIC_kwDOKV2Acc4CcVym"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="noborder_light"
+        data-lang="vi"
+        crossorigin="anonymous"
+        async>
+  </script>
   
-  <!-- Giscus async với preconnect -->
+  <!-- Synchronize Giscus theme with palette -->
   <script>
-    // Load giscus async sau khi page loaded
-    window.addEventListener('load', function() {
-      var giscusScript = document.createElement('script');
-      giscusScript.src = 'https://giscus.app/client.js';
-      giscusScript.setAttribute('data-repo', 'thienqc/blog');
-      giscusScript.setAttribute('data-repo-id', 'R_kgDOKV2AcQ');
-      giscusScript.setAttribute('data-category-id', 'DIC_kwDOKV2Acc4CcVym');
-      giscusScript.setAttribute('data-mapping', 'title');
-      giscusScript.setAttribute('data-strict', '0');
-      giscusScript.setAttribute('data-reactions-enabled', '1');
-      giscusScript.setAttribute('data-emit-metadata', '0');
-      giscusScript.setAttribute('data-input-position', 'top');
-      giscusScript.setAttribute('data-theme', 'noborder_light');
-      giscusScript.setAttribute('data-lang', 'vi');
-      giscusScript.crossOrigin = 'anonymous';
-      giscusScript.async = true;
-      
-      document.body.appendChild(giscusScript);
-      
-      // Giscus theme sync
-      var giscusFrame = null;
-      var setGiscusTheme = function(theme) {
-        if (giscusFrame) {
-          giscusFrame.contentWindow.postMessage(
+    var giscus = document.querySelector("script[src*=giscus]")
+
+    // Set palette on initial load
+    var palette = __md_get("__palette")
+    if (palette && typeof palette.color === "object") {
+      var theme = palette.color.scheme === "slate"
+        ? "transparent_dark"
+        : "light"
+
+      // Instruct Giscus to set theme
+      giscus.setAttribute("data-theme", theme) 
+    }
+
+    // Register event handlers after documented loaded
+    document.addEventListener("DOMContentLoaded", function() {
+      var ref = document.querySelector("[data-md-component=palette]")
+      ref.addEventListener("change", function() {
+        var palette = __md_get("__palette")
+        if (palette && typeof palette.color === "object") {
+          var theme = palette.color.scheme === "slate"
+            ? "transparent_dark"
+            : "light"
+
+          // Instruct Giscus to change theme
+          var frame = document.querySelector(".giscus-frame")
+          frame.contentWindow.postMessage(
             { giscus: { setConfig: { theme } } },
-            'https://giscus.app'
-          );
+            "https://giscus.app"
+          )
         }
-      };
-      
-      // Listen for palette changes
-      document.addEventListener('DOMContentLoaded', function() {
-        var paletteToggle = document.querySelector('[data-md-component=palette]');
-        if (paletteToggle) {
-          paletteToggle.addEventListener('change', function() {
-            var palette = __md_get('__palette');
-            if (palette && palette.color) {
-              var theme = palette.color.scheme === 'slate' 
-                ? 'transparent_dark' 
-                : 'light';
-              setGiscusTheme(theme);
-            }
-          });
-        }
-        
-        // Detect giscus frame
-        var observer = new MutationObserver(function(mutations) {
-          mutations.forEach(function(mutation) {
-            if (mutation.addedNodes) {
-              mutation.addedNodes.forEach(function(node) {
-                if (node.classList && node.classList.contains('giscus-frame')) {
-                  giscusFrame = node;
-                }
-              });
-            }
-          });
-        });
-        observer.observe(document.body, { childList: true, subtree: true });
-      });
-    });
+      })
+    })
   </script>
 {% endif %}
