@@ -1,0 +1,5 @@
+/* overrides/critical.css - CSS cho phần hiển thị đầu tiên */
+.md-header { position: sticky; top: 0; z-index: 10; }
+.md-main { padding-top: 0.5rem; }
+.md-content { animation: fadeIn 0.3s ease; }
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
