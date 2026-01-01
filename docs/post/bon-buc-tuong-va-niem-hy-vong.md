@@ -6,7 +6,6 @@ aliases:
 share: true
 tags:
   - film
-  - WritingChallenge
 date: 2025-03-05
 URL:
 description:

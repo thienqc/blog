@@ -8,7 +8,6 @@ date: 2024-09-29
 tags:
   - Reading_challenge_RC_2024
   - Detective
-  - WritingChallenge
 URL:
 description:
 Cover: Di sản kinh hoàng-20240929135724688.webp

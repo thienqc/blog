@@ -8,7 +8,6 @@ date: 2024-12-07
 tags:
   - Reading_challenge_RC_2024
   - Detective
-  - WritingChallenge
 URL:
 description:
 Cover: Người gác đêm 4-1764469228868.webp

@@ -7,7 +7,6 @@ date: 2024-11-04
 tags:
   - Reading_challenge_RC_2024
   - SachThiengLieng
-  - WritingChallenge
 URL:
 description:
 Cover: Bí mật kinh Mân Côi-1757087370065.webp

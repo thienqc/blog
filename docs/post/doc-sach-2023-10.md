@@ -6,7 +6,6 @@ share: true
 comments: true
 tags:
   - DocSach
-  - WritingChallenge
 date: 2023-10-31
 URL:
 description:

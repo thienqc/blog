@@ -6,7 +6,6 @@ share: true
 comments: true
 tags:
   - XV23
-  - WritingChallenge
 date: 2023-12-09
 description: Nhà là nơi để trở về
 ---

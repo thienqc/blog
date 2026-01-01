@@ -6,7 +6,6 @@ comments: true
 tags:
   - habit
   - Book
-  - WritingChallenge
 description: Căn bệnh chán đọc không đáng sợ như bạn nghĩ
 date: 2023-09-19
 aliases:

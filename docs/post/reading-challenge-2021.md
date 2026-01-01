@@ -7,7 +7,6 @@ aliases:
 description: Tổng kết những quyển sách đã đọc trong năm 2021
 tags:
   - DocSach
-  - WritingChallenge
 date: 2024-01-24
 URL:
 ---

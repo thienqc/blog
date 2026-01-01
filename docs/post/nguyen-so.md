@@ -4,7 +4,6 @@ share: true
 comments: true
 tags:
   - hmm
-  - WritingChallenge
 date: 2023-11-27
 URL:
 description:

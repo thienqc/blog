@@ -6,7 +6,6 @@ description:
 URL:
 tags:
   - notion
-  - WritingChallenge
 share: true
 comments: true
 date: 2023-06-26

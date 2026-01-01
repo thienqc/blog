@@ -8,7 +8,6 @@ description:
 tags:
   - Reading_challenge_RC_2024
   - KhoSach
-  - WritingChallenge
 date: 2024-01-21
 URL:
 Cover: Musashi - giang hồ kiếm khách-1756563609903.webp

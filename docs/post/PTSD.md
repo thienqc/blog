@@ -7,7 +7,6 @@ aliases:
 description:
 tags:
   - mental
-  - WritingChallenge
 date: 2024-02-17
 URL:
 ---

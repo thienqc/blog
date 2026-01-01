@@ -6,7 +6,6 @@ share: true
 comments: true
 tags:
   - XV23
-  - WritingChallenge
 date: 2023-12-05
 description: Ninh Thuận - vùng đất của nắng và gió
 ---

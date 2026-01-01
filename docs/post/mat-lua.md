@@ -5,7 +5,6 @@ aliases:
 description:
 tags:
   - hmm
-  - WritingChallenge
 URL:
 share: true
 comments: true

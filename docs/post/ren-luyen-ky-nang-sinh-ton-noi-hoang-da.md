@@ -10,7 +10,6 @@ tags:
   - KhoSach
   - Reading_challenge_RC_2023
   - Survival
-  - WritingChallenge
 Type:
   - Book
 share: true

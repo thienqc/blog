@@ -6,7 +6,6 @@ share: true
 comments: true
 tags:
   - Astrology
-  - WritingChallenge
 date: 2023-10-03
 URL:
 description:

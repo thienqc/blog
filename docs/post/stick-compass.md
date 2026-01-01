@@ -4,7 +4,6 @@ share: true
 comments: true
 tags:
   - trek
-  - WritingChallenge
 date: 2023-10-03
 URL:
 description: Xác định phương hướng không cần la bàn

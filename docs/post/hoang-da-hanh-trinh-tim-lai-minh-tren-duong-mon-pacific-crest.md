@@ -10,7 +10,6 @@ tags:
   - Phuot
   - Reading_challenge_RC_2023
   - Survival
-  - WritingChallenge
 URL: https://www.goodreads.com/book/show/40787020
 description:
 Cover: Hoang Dã-1756729692233.webp

@@ -5,7 +5,6 @@ aliases:
 description:
 tags:
   - health
-  - WritingChallenge
 date: 2023-03-20
 URL:
 share: true

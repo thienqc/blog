@@ -14,7 +14,6 @@ tags:
   - Reading_challenge_RC_2022
   - favorite
   - KhoSach
-  - WritingChallenge
 Type:
   - Book
 Last_Read: 2022-10-17

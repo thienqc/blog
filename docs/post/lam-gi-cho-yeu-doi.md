@@ -7,7 +7,6 @@ comments: true
 description: yêu đời từ A đến Z
 tags:
   - love
-  - WritingChallenge
 aliases:
   - Làm gì cho yêu đời
 ---

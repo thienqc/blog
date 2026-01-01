@@ -6,7 +6,6 @@ description:
 tags:
   - MonsterBox
   - Reference
-  - WritingChallenge
 date: 2021-09-14
 URL: https://www.facebook.com/teammonsterbox/photos/a.1962007060746717/3034115306869215
 share: true

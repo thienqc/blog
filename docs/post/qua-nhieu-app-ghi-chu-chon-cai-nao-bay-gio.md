@@ -4,7 +4,6 @@ share: true
 comments: true
 tags:
   - PKM
-  - WritingChallenge
 date: 2023-10-10
 URL:
 description:

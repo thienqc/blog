@@ -4,7 +4,6 @@ filename: reading-challenge-2023
 description:
 tags:
   - DocSach
-  - WritingChallenge
 date: 2023-12-31
 URL:
 aliases:

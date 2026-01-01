@@ -4,7 +4,6 @@ share: true
 comments: true
 tags:
   - Sisyphus
-  - WritingChallenge
 date: 2023-10-21
 URL:
 description:

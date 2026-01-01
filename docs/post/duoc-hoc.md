@@ -13,7 +13,6 @@ Total_Pages: 445
 tags:
   - Reading_challenge_RC_2023
   - KhoSach
-  - WritingChallenge
 Type:
   - Book
 Last_Read: 2023-12-16

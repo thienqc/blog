@@ -7,7 +7,6 @@ tags:
   - Reading_challenge_RC_2024
   - minimalism
   - KhoSach
-  - WritingChallenge
 URL: https://www.goodreads.com/book/show/41438250
 Cover: Sống đơn giản-1760539923128.webp
 Rating: ⭐⭐⭐⭐

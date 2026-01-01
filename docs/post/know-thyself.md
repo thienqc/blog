@@ -7,7 +7,6 @@ share: true
 comments: true
 tags:
   - manga
-  - WritingChallenge
 date: 2023-10-02
 URL:
 description: Biết chính mình

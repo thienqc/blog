@@ -6,7 +6,6 @@ aliases:
 description:
 tags:
   - DocSach
-  - WritingChallenge
 date: 2024-08-31
 URL:
 ---

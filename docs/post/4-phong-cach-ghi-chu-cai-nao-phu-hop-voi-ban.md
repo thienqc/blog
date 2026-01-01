@@ -10,7 +10,6 @@ tags:
   - PKM
   - obsidian
   - notion
-  - WritingChallenge
 share: true
 comments: true
 ---

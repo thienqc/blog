@@ -7,7 +7,6 @@ aliases:
 description: Nhìn lại năm 2019 qua những trang sách
 tags:
   - DocSach
-  - WritingChallenge
 date: 2024-01-22
 URL:
 ---

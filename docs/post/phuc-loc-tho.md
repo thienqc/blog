@@ -7,7 +7,6 @@ aliases:
 description:
 tags:
   - hmm
-  - WritingChallenge
 date: 2024-12-16
 URL: https://vi.wikipedia.org/wiki/Ph%C3%BAc_L%E1%BB%99c_Th%E1%BB%8D
 ---

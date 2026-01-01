@@ -4,7 +4,6 @@ description:
 URL:
 tags:
   - quote
-  - WritingChallenge
 share: true
 comments: true
 date: 2023-09-21

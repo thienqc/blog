@@ -10,7 +10,6 @@ tags:
   - sci-fi
   - Reading_challenge_RC_2023
   - KhoSach
-  - WritingChallenge
 Type:
   - Book
 share: true

@@ -5,7 +5,6 @@ comments: true
 tags:
   - notion
   - PKM
-  - WritingChallenge
 date: 2023-10-01
 URL:
 description:

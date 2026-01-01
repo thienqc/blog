@@ -4,7 +4,6 @@ share: true
 comments: true
 tags:
   - trek
-  - WritingChallenge
 date: 2023-11-29
 URL:
 description:

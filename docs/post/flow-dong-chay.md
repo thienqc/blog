@@ -9,7 +9,6 @@ Total_Pages: 552
 tags:
   - happiness
   - KhoSach
-  - WritingChallenge
 Type:
   - Book
 Status:

@@ -8,7 +8,6 @@ Rating: ⭐⭐⭐
 Total_Pages: 104
 tags:
   - Reading_challenge_RC_2023
-  - WritingChallenge
 Type:
   - Book
 share: true
