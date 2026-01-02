@@ -7,8 +7,8 @@ aliases:
 description: Tròn 26 tuổi
 tags:
   - Reflection
+  - SinhNhat
 date: 2025-01-02
-URL: 
 ---
 # Tôi viết gì ở tuổi 26  
   
