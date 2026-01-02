@@ -30,8 +30,6 @@ Một thập kỷ - không quá dài, nhưng cũng không hề ngắn. Tôi từ
   
 Vậy đến năm 37 tuổi, tôi sẽ thế nào? Tôi có viết được một quyển sách không? Tôi còn ở Việt Nam hay đã ra nước ngoài? Tôi vẫn hành nghề y, hay đang bước đi trên một con đường hoàn toàn khác? Tôi không biết. Và có lẽ, tôi cũng không cần phải biết hết. Bởi càng lớn lên, tôi càng học được cách chấp nhận sự không chắc chắn như một phần tất yếu của đời sống.  
   
-Có một điều tôi tin chắc hơn trước đây: cuộc đời tôi không chỉ là tổng hợp của những lựa chọn ngẫu nhiên. Nhìn lại những khúc quanh, những lần đổi hướng, những mất mát và cả những bất ngờ, tôi dần nhận ra một bàn tay âm thầm dẫn dắt. Tôi tin rằng Chúa có một kế hoạch đặc biệt cho cuộc sống của tôi - một kế hoạch không phải lúc nào cũng dễ hiểu, nhưng là một kế hoạch tốt đẹp.  
+Có một điều tôi tin chắc hơn trước đây: cuộc đời tôi không chỉ là chuỗi những lựa chọn ngẫu nhiên. Nhìn lại những khúc quanh, những lần đổi hướng, những mất mát và cả những bất ngờ, tôi dần nhận ra có một bàn tay âm thầm dẫn dắt tôi. Tôi tin rằng Chúa có một kế hoạch đặc biệt cho cuộc sống của tôi - một kế hoạch không phải lúc nào cũng dễ hiểu, nhưng là một kế hoạch tốt đẹp.  
   
-> “Vì chính Ta biết các kế hoạch Ta định làm cho các ngươi – sấm ngôn của ĐỨC CHÚA - kế hoạch thịnh vượng, chứ không phải tai ương, để các ngươi có một tương lai và một niềm hy vọng.” **(Gr 29,11)**  
-  
-Có lẽ, hành trình từ cậu học sinh 17 tuổi ghét viết văn đến người ngồi đây gõ từng dòng chữ này không phải là một nghịch lý. Đó chỉ là một minh chứng rằng con người có thể thay đổi, khi họ dám bước ra khỏi chiếc hộp của mình và tin rằng cuộc đời, dù chưa rõ ràng, vẫn đang được dẫn đi theo một hướng đầy hy vọng.
+> “Vì chính Ta biết các kế hoạch Ta định làm cho các ngươi – sấm ngôn của ĐỨC CHÚA - kế hoạch thịnh vượng, chứ không phải tai ương, để các ngươi có một tương lai và một niềm hy vọng.” **(Gr 29,11)**
