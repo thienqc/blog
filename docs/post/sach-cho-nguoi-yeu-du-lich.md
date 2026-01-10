@@ -20,7 +20,7 @@ Có câu nói là, không phải ai đọc sách cũng thích đi du lịch, nh�
 - Những miền xa - Nguyễn Thị Dung  
 ## Những cuốn sách về lịch sử thế giới  
 - Lược sử thế giưới - EH Gomirch  
-- The story or art - EM Gomirch  
+- [The story or art](The%20story%20or%20art.md) - EM Gomirch  
 - The story of food - DK  
 ## Một số cuốn du ký, du lịch hay và dễ đọc  
 - Vespa du ký  
