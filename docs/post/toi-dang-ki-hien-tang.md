@@ -4,18 +4,18 @@ comments: true
 filename: toi-dang-ki-hien-tang
 aliases:
   - Tôi đăng kí hiến tạng
-description: 
+description:
 tags:
   - life
   - love
 date: 2025-01-03
-URL: 
+URL:
 ---
 # Tôi đăng kí hiến tạng  
   
-Khởi đi từ câu nói ***“Ta là thân cát bụi, sẽ trở về với cát bụi”*** trong nghi thức xức tro của thứ 4 lễ Tro. Thân xác ta sau khi chết thì cũng sẽ về với cát bụi, nhưng nếu thân xác đó giúp thêm được dù chỉ một người nữa thôi thì đó là điều đáng làm. Vậy nên, mình đã quyết định đăng kí HIẾN VÀ GHÉP MÔ TẠNG vào [sinh nhật thứ 26](./toi-viet-gi-o-tuoi-26.md) của bản thân.  
+Khởi đi từ câu nói ***“Ta là thân cát bụi, sẽ trở về với cát bụi”*** trong nghi thức xức tro của thứ 4 lễ Tro. Thân xác ta sau khi chết thì cũng sẽ về với cát bụi, nhưng nếu thân xác đó giúp thêm được dù chỉ một người nữa thôi thì đó là điều đáng làm. Vậy nên, mình đã quyết định đăng kí HIẾN VÀ GHÉP MÔ TẠNG vào [sinh nhật thứ 26](./toi-viet-gi-o-tuoi-26.md.md) của bản thân.  
   
-![](https://i.imgur.com/2SWDsGK.jpeg)  
+![|654x654](https://i.imgur.com/2SWDsGK.jpeg)  
   
 Thông tin về đăng kí và hiến mô tạng có thể xem ở [Cổng đăng ký hiến và ghép mô tạng - TP Hồ Chí Minh](http://dieuphoigheptangtphochiminh.vn/)  
   
