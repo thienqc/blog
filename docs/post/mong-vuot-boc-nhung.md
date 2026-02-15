@@ -18,9 +18,9 @@ type:
 Last_Read: 2025-03-31
 ---
 # Móng vuốt bọc nhung  
-[Author::[Erle Stanley Gardner](Erle%20Stanley%20Gardner.md)] - (Publication_Year:: 1933)  
+[Author::[Erle Stanley Gardner](Erle%20Stanley%20Gardner.md.md)] - (Publication_Year:: 1933)  
   
-![](https://i.imgur.com/jP8rr5v.jpeg)  
+![|338x500](https://i.imgur.com/jP8rr5v.jpeg)  
   
   
 Một cô gái trẻ xin đẹp đến tìm luật sư Meison, yêu cầu ông can thiệp che giấu một thông tin riêng sắp bị đưa lên báo chí: đó là sự có mặt vô tình của cô và một quan chức chính phủ ở một nhà hàng, nơi đã xảy ra một vụ án mạng.    
