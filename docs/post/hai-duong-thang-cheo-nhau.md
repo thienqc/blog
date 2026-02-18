@@ -9,7 +9,7 @@ tags:
   - love
 date: 2026-02-18
 ---
-# hai đường thẳng chéo nhau  
+# Hai đường thẳng chéo nhau  
   
 Ở thời điểm đầu tiên, ta thấy đó là một dấu chấm. Một dấu chấm – nhỏ bé, đơn giản, nhưng lại đủ để khiến hai tâm hồn tin rằng mình đã va chạm, đã tìm thấy nhau giữa vô vàn điểm rời rạc của cuộc đời.  
   
