@@ -35,7 +35,7 @@ Ebook:: 📙 [PDF](https://onedrive.live.com/download?resid=E92BC60129512289%212
 Audio:: 🔉 [Audio](https://youtu.be/NvcAV6I6uwg)  
   
 ---  
-![200](https://i.imgur.com/C4LWnyH.png)  
+![200|200x257](https://i.imgur.com/C4LWnyH.png)  
   
 > Ôi, con trai, chúng ta thật tự hào về con! Học đại học ở tuổi 11! Khi lấy được bằng cấp con sẽ là viện phụ thông thái nhất mà Monte Cassino có được!”  
   
