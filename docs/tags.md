@@ -1,5 +1,5 @@
 # Tags
 
-<div class="custom-word-cloud">
+<div class="blog-word-cloud">
 {{ tag_content }}
 </div>

@@ -1,0 +1,81 @@
+/* ==========================================================================
+   SỬA LỖI WORD CLOUD CHO MKDOCS-BLOGGING-PLUGIN (FONT: JETBRAINS MONO)
+   ========================================================================== */
+
+/* Khung lớn chứa toàn bộ đám mây chữ */
+.blog-word-cloud {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 20px !important;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 8px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+
+/* 1. ĐỔI MÀU NỀN KHUNG THEO CHẾ ĐỘ SÁNG / TỐI */
+.blog-word-cloud {
+    background-color: rgba(0, 0, 0, 0.03); /* Bản sáng: xám dịu */
+}
+
+[data-md-color-scheme="slate"] .blog-word-cloud {
+    background-color: rgba(255, 255, 255, 0.04); /* Bản tối (#1f2129): xám sáng nhẹ */
+}
+
+/* 2. ÉP TẤT CẢ THẺ TAG CỦA PLUGIN BIẾN THÀNH CHỮ THUẦN (XÓA Ô VUÔNG MẶC ĐỊNH) */
+.blog-word-cloud a.tag {
+    display: inline-block !important;
+    text-decoration: none !important;
+    border: none !important;               /* Xóa viền cũ */
+    background: transparent !important;     /* Xóa màu nền cũ */
+    padding: 0 !important;
+    margin: 10px 15px !important;
+    line-height: 1.2 !important;
+    transition: transform 0.2s ease, color 0.2s ease, opacity 0.2s ease !important;
+}
+
+/* 3. TỰ ĐỘNG PHÂN CHIA KÍCH THƯỚC CHỮ TỰ ĐỘNG (THEME-ADAPTIVE) */
+
+/* Nhóm 1: Từ khóa siêu lớn - Từ nổi bật */
+.blog-word-cloud a.tag:nth-child(4n) {
+    font-size: 2.4rem !important;
+    font-weight: 700 !important;
+    color: var(--md-accent-fg-color) !important; /* Lấy màu nhấn của theme */
+    opacity: 1 !important;
+}
+
+/* Nhóm 2: Từ khóa lớn vừa */
+.blog-word-cloud a.tag:nth-child(4n+1) {
+    font-size: 1.7rem !important;
+    font-weight: 600 !important;
+    color: var(--md-typeset-color) !important;  /* Bản sáng: Đen / Bản tối: Trắng */
+    opacity: 0.9 !important;
+}
+
+/* Nhóm 3: Từ khóa trung bình */
+.blog-word-cloud a.tag:nth-child(4n+2) {
+    font-size: 1.25rem !important;
+    font-weight: 500 !important;
+    color: var(--md-typeset-color) !important;
+    opacity: 0.7 !important;
+}
+
+/* Nhóm 4: Từ khóa nhỏ */
+.blog-word-cloud a.tag:nth-child(4n+3) {
+    font-size: 0.95rem !important;
+    font-weight: 400 !important;
+    color: var(--md-default-fg-color--lighter) !important; /* Lấy màu chữ mờ hệ thống */
+    opacity: 0.55 !important;
+}
+
+/* 4. HIỆU ỨNG TƯƠNG TÁC HOVER KHI RÊ CHUỘT VÀO */
+.blog-word-cloud a.tag:hover {
+    transform: scale(1.15) rotate(1deg) !important; /* Phóng to và hơi nghiêng nhẹ */
+    opacity: 1 !important;
+    color: var(--md-accent-fg-color) !important;   /* Chuyển sang màu sáng nhất khi trỏ chuột */
+    text-shadow: 0 0 10px rgba(88, 166, 255, 0.2);
+}

@@ -88,6 +88,7 @@ markdown_extensions:
 extra_css:
   - assets/styles/justify.css
   - assets/styles/extra.css
+  - assets/styles/custom.css
 
 extra_javascript:
   - assets/js/random-post.js
