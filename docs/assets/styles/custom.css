@@ -1,73 +1,90 @@
 /* ==========================================================================
-   WORD CLOUD CHUẨN: CHỈ MỤC TIÊU TAG, BẢO TOÀN LIST BÀI VIẾT & TỐI ƯU MOBILE
+   CLASSIC WORD CLOUD: LỘN XỘN, CHEN CHÚC, NHIỀU MÀU, TỐI ƯU MOBILE & EDGE
    ========================================================================== */
 
-/* 1. TẠO KHUNG NỀN MÂY CHỮ 
-   (Chỉ ép Flexbox cho đoạn văn bản đầu tiên chứa các tag) */
-.blog-word-cloud > p:first-of-type {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 12px 18px;
-    padding: 24px;
-    border-radius: 12px;
-    background-color: rgba(0, 0, 0, 0.03); /* Nền bản sáng */
-    margin-bottom: 40px;
+/* 1. KHUNG CHỨA MÂY CHỮ */
+.blog-word-cloud {
+    text-align: center;
+    padding: 20px 10px;
+    /* Ép khoảng cách dòng khít lại để các chữ chen vào nhau giống ảnh mẫu */
+    line-height: 0.95; 
+    margin-bottom: 50px;
 }
 
-/* Đổi nền khung sang bản Tối */
-[data-md-color-scheme="slate"] .blog-word-cloud > p:first-of-type {
-    background-color: rgba(255, 255, 255, 0.03); 
-}
-
-/* 2. BẮT ĐÚNG THẺ TAG (Dựa vào đường dẫn bắt đầu bằng dấu #) 
-   Loại bỏ hoàn toàn tác động lên các link bài viết bên dưới */
-.blog-word-cloud a[href^="#"]:not(.headerlink) {
+/* 2. CHỈ NHẮM VÀO CÁC TAG Ở TRÊN CÙNG (Bỏ qua danh sách bên dưới) */
+.blog-word-cloud > a,
+.blog-word-cloud > p > a {
     display: inline-block;
-    text-decoration: none;
-    border: none;
-    background: transparent;
-    line-height: 1.2;
-    color: var(--md-typeset-color);
-    transition: transform 0.2s ease, color 0.2s ease;
+    margin: 2px 4px; /* Khoảng cách ngang siêu hẹp */
+    text-decoration: none !important;
+    background: transparent !important;
+    border: none !important;
+    vertical-align: middle;
+    transition: transform 0.2s ease;
 }
 
-/* 3. TỰ ĐỘNG CO GIÃN SIZE CHỮ TRÊN MOBILE (DÙNG CLAMP) */
-
-/* Nhóm 1: Tag siêu lớn (Max 1.7rem trên PC, Min 1.2rem cho Mobile) */
-.blog-word-cloud a[href^="#"]:not(.headerlink):nth-of-type(4n) {
-    font-size: clamp(1.2rem, 4vw, 1.7rem);
-    font-weight: 700;
-    color: var(--md-accent-fg-color);
-    opacity: 1;
+/* 3. BẢO TOÀN NGUYÊN VẸN DANH SÁCH BÀI VIẾT BÊN DƯỚI */
+.blog-word-cloud ul a,
+.blog-word-cloud li a,
+.blog-word-cloud h2 a,
+.blog-word-cloud h3 a,
+.blog-word-cloud .headerlink {
+    font-size: inherit !important;
+    font-weight: inherit !important;
+    color: var(--md-typeset-a-color) !important;
+    margin: 0 !important;
+    display: inline !important;
+    line-height: 1.6 !important; /* Trả lại line-height chuẩn cho list */
 }
 
-/* Nhóm 2: Tag lớn vừa (Max 1.4rem trên PC, Min 1rem cho Mobile) */
-.blog-word-cloud a[href^="#"]:not(.headerlink):nth-of-type(4n+1) {
-    font-size: clamp(1rem, 3vw, 1.4rem);
-    font-weight: 600;
-    opacity: 0.85;
+/* 4. TẠO MÀU SẮC RỰC RỠ & KÍCH THƯỚC ĐA DẠNG (CO GIÃN THEO MOBILE) */
+
+/* Nhóm 1: Tím đậm, khổng lồ */
+.blog-word-cloud > a:nth-of-type(7n+1), .blog-word-cloud > p > a:nth-of-type(7n+1) { 
+    color: #8e44ad; font-size: clamp(1.8rem, 5vw, 3.5rem); font-weight: 800; 
 }
 
-/* Nhóm 3: Tag trung bình */
-.blog-word-cloud a[href^="#"]:not(.headerlink):nth-of-type(4n+2) {
-    font-size: clamp(0.9rem, 2.5vw, 1.15rem);
-    font-weight: 500;
-    opacity: 0.7;
+/* Nhóm 2: Xanh lá, vừa */
+.blog-word-cloud > a:nth-of-type(7n+2), .blog-word-cloud > p > a:nth-of-type(7n+2) { 
+    color: #27ae60; font-size: clamp(1.1rem, 3vw, 1.8rem); font-weight: 600; 
 }
 
-/* Nhóm 4: Tag nhỏ gọn */
-.blog-word-cloud a[href^="#"]:not(.headerlink):nth-of-type(4n+3) {
-    font-size: clamp(0.85rem, 2vw, 0.95rem);
-    font-weight: 400;
-    opacity: 0.55;
+/* Nhóm 3: Cam, lớn */
+.blog-word-cloud > a:nth-of-type(7n+3), .blog-word-cloud > p > a:nth-of-type(7n+3) { 
+    color: #d35400; font-size: clamp(1.5rem, 4vw, 2.8rem); font-weight: 700; 
 }
 
-/* 4. HIỆU ỨNG RÊ CHUỘT */
-.blog-word-cloud a[href^="#"]:not(.headerlink):hover {
-    transform: scale(1.15) rotate(-1deg);
-    color: var(--md-accent-fg-color) !important;
-    opacity: 1;
-    text-shadow: 0 0 10px rgba(88, 166, 255, 0.3);
+/* Nhóm 4: Xanh dương, nhỏ */
+.blog-word-cloud > a:nth-of-type(7n+4), .blog-word-cloud > p > a:nth-of-type(7n+4) { 
+    color: #2980b9; font-size: clamp(0.9rem, 2vw, 1.3rem); font-weight: 400; 
+}
+
+/* Nhóm 5: Đỏ, trung bình */
+.blog-word-cloud > a:nth-of-type(7n+5), .blog-word-cloud > p > a:nth-of-type(7n+5) { 
+    color: #e74c3c; font-size: clamp(1.2rem, 3.5vw, 2.2rem); font-weight: 700; 
+}
+
+/* Nhóm 6: Xanh cổ vịt, rất nhỏ */
+.blog-word-cloud > a:nth-of-type(7n+6), .blog-word-cloud > p > a:nth-of-type(7n+6) { 
+    color: #16a085; font-size: clamp(0.8rem, 1.5vw, 1.1rem); font-weight: 400; 
+}
+
+/* Nhóm 7: Hồng/Tím nhạt, lớn vừa */
+.blog-word-cloud > a:nth-of-type(7n+7), .blog-word-cloud > p > a:nth-of-type(7n+7) { 
+    color: #9b59b6; font-size: clamp(1.4rem, 3.5vw, 2.5rem); font-weight: 600; 
+}
+
+/* Tự động làm sáng màu khi bật Dark Mode (Nền #1f2129) */
+[data-md-color-scheme="slate"] .blog-word-cloud > a,
+[data-md-color-scheme="slate"] .blog-word-cloud > p > a {
+    filter: brightness(1.3);
+}
+
+/* 5. HIỆU ỨNG NỔI LÊN KHI RÊ CHUỘT */
+.blog-word-cloud > a:hover,
+.blog-word-cloud > p > a:hover {
+    transform: scale(1.15);
+    z-index: 10;
+    position: relative;
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
 }
