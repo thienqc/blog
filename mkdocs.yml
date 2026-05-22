@@ -11,7 +11,7 @@ theme:
       logo: fontawesome/solid/brain
     favicon: assets/meta/favicon.svg
     font:
-        text: Garamond
+        text: Bookerly
         code: JetBrains Mono
     language: en
     static_templates:
