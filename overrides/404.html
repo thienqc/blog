@@ -1,29 +1,131 @@
-  <style>
-    .not-found-container {
-      background-color: #eee8e3;
-      height: 100vh;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      text-align: center;
-      padding: 2rem;
-    }
-    .not-found-container img {
-      max-width: 90%;
-      max-height: 60vh;
-      margin-bottom: 2rem;
-    }
-    .not-found-container h1 {
-      font-size: 2rem;
-      margin-bottom: 1rem;
-      color: #333;
-    }
-    .not-found-container a.md-button {
-      margin-top: 1rem;
-    }
-  </style>
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404</title>
+    <style>
+        /* 1. MẶC ĐỊNH LÀ GIAO DIỆN SÁNG */
+        :root {
+            --bg-color: #f8f9fa;
+            --text-color: #333;
+            --btn-bg: #007bff;
+            --btn-text: #fff;
+            --card-bg: #fff;
+        }
 
-<div class="not-found-container">
-  <img src="{{ base_url }}/assets/img/Nothing-found.webp" alt="404 Not Found">
-</div>
+        /* 2. TỰ ĐỘNG NHẬN DIỆN CHẾ ĐỘ TỐI CỦA THIẾT BỊ */
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-color: #1f2129;
+                --text-color: #e0e0e0;
+                --btn-bg: #4152b1;
+                --btn-text: #000;
+                --card-bg: #1e1e1e;
+            }
+        }
+
+        /* 3. LỚP GHI ĐÈ KHI NGƯỜI DÙNG BẤM NÚT (THỦ CÔNG) */
+        [data-theme='light'] {
+            --bg-color: #f8f9fa !important;
+            --text-color: #333 !important;
+            --btn-bg: #4252b1 !important;
+            --btn-text: #fff !important;
+            --card-bg: #fff !important;
+        }
+
+        [data-theme='dark'] {
+            --bg-color: #1f2129 !important;
+            --text-color: #e0e0e0 !important;
+            --btn-bg: #4152b1 !important;
+            --btn-text: #000 !important;
+            --card-bg: #1e1e1e !important;
+        }
+
+        /* ĐỊNH DẠNG CHUNG */
+        body {
+            font-family: Inter, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        .container {
+            text-align: center;
+            padding: 2rem;
+            background: var(--card-bg);
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+
+        h1 { font-size: 6rem; margin: 0; }
+        p { font-size: 1.2rem; margin-bottom: 2rem; }
+
+        .btn {
+            background-color: var(--btn-bg);
+            color: var(--btn-text);
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            font-weight: bold;
+            transition: opacity 0.2s;
+        }
+
+        .toggle-btn {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: #555;
+            color: white;
+            padding: 8px 15px;
+            border-radius: 20px;
+            cursor: pointer;
+            border: none;
+            transition: 0.3s;
+        }
+        
+        .toggle-btn:hover {
+            background: #777;
+        }
+    </style>
+</head>
+<body>
+
+    <button class="toggle-btn" onclick="toggleTheme()">Chuyển chế độ</button>
+
+    <div class="container">
+        <h1>404</h1>
+        <p>Rất tiếc, trang bạn đang tìm kiếm không tồn tại.</p>
+        <a href="https://thienqc.github.io/blog" class="btn">Về trang chủ</a>
+    </div>
+
+    <script>
+        // Biến lưu trạng thái hiện tại (mặc định để hệ thống tự quyết định)
+        let manualTheme = null; 
+
+        function toggleTheme() {
+            const body = document.body;
+            // Kiểm tra xem thiết bị của người dùng đang là Dark hay Light
+            const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+            if (manualTheme === null) {
+                // Lần đầu tiên bấm nút: Chuyển sang chế độ ngược lại với hệ thống
+                manualTheme = prefersDark ? 'light' : 'dark';
+            } else {
+                // Các lần bấm sau: Đổi qua lại giữa Sáng - Tối
+                manualTheme = manualTheme === 'dark' ? 'light' : 'dark';
+            }
+
+            // Gán thuộc tính data-theme để kích hoạt CSS ghi đè
+            body.setAttribute('data-theme', manualTheme);
+        }
+    </script>
+</body>
+</html>

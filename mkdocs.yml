@@ -11,7 +11,7 @@ theme:
       logo: fontawesome/solid/brain
     favicon: assets/meta/favicon.svg
     font:
-        text: Cambria
+        text: Inter
         code: JetBrains Mono
     language: en
     static_templates:
@@ -87,6 +87,7 @@ markdown_extensions:
 
 extra_css:
   - assets/styles/justify.css
+  - assets/styles/extra.css
 
 extra_javascript:
   - assets/js/random-post.js
