@@ -1,5 +1,5 @@
 ---
-comments: true
+comments: false
 filename: ke-lang-quen
 aliases:
 share: true
