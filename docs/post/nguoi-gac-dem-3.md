@@ -1,5 +1,5 @@
 ---
-comments: true
+comments: false
 filename: nguoi-gac-dem-3
 aliases:
   - Người gác đêm 3

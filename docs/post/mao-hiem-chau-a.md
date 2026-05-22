@@ -1,5 +1,5 @@
 ---
-comments: true
+comments: false
 filename: mao-hiem-chau-a
 aliases:
   - Mạo hiểm châu Á
