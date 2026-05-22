@@ -1,19 +1,7 @@
 :root {
-  /* Giãn dòng lý tưởng cho việc đọc tài liệu dài (mặc định là 1.6) */
-  --md-typeset-line-height: 1.65; 
+  --md-typeset-line-height: 1.8; /* Tăng hẳn lên 1.8 cho chữ có chân dễ thở */
 }
-
 .md-typeset {
-  /* Thu hẹp khoảng cách chữ một chút (-0.01em) giúp chữ gọn và dễ tracking mắt hơn, cực hợp với font Inter */
-  letter-spacing: -0.01em; 
-  
-  /* Làm mượt font chữ trên màn hình máy tính */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-/* Tăng nhẹ độ đậm của các thẻ tiêu đề để phân cấp nội dung rõ rệt */
-.md-typeset h1, .md-typeset h2, .md-typeset h3 {
-  font-weight: 700;
-  letter-spacing: -0.02em;
+  font-size: 0.84rem; /* Tăng nhẹ size chữ tổng thể */
+  letter-spacing: 0.01em; /* Giãn nhẹ chữ ra một chút */
 }

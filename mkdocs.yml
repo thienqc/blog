@@ -11,7 +11,7 @@ theme:
       logo: fontawesome/solid/brain
     favicon: assets/meta/favicon.svg
     font:
-        text: Inter
+        text: Merriweather
         code: JetBrains Mono
     language: en
     static_templates:
