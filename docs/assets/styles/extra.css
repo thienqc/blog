@@ -1,7 +1,21 @@
-:root {
-  --md-typeset-line-height: 1.8; /* Tăng hẳn lên 1.8 cho chữ có chân dễ thở */
-}
+/* TỐI ƯU TRẢI NGHIỆM ĐỌC CHO FONT JETBRAINS MONO */
 .md-typeset {
-  font-size: 0.84rem; /* Tăng nhẹ size chữ tổng thể */
-  letter-spacing: 0.01em; /* Giãn nhẹ chữ ra một chút */
+  /* Thu hẹp khoảng cách chữ một chút để font dạng code nhìn liền mạch, dễ đọc hơn khi viết bài dài */
+  letter-spacing: -0.02em; 
+  /* Tăng nhẹ khoảng cách dòng giúp text "dễ thở" */
+  --md-typeset-line-height: 1.7; 
+}
+
+/* Làm các thẻ tiêu đề đậm nét và nổi bật hơn */
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+  font-weight: 700;
+  letter-spacing: -0.04em;
+}
+
+/* Tùy chỉnh nhẹ khung trích dẫn blockquote cho giống giao diện lập trình */
+.md-typeset blockquote {
+  border-left: 0.2rem solid var(--md-accent-fg-color);
+  background-color: var(--md-code-bg-color);
+  padding: 12px 20px;
+  border-radius: 0 4px 4px 0;
 }

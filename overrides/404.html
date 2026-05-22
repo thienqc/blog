@@ -3,19 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>404 - Không tìm thấy trang</title>
+    <title>404 - Terminal Error</title>
+    
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
     
     <style>
         /* GIAO DIỆN SÁNG (MẶC ĐỊNH) */
         :root {
-            --bg: #ffffff;
-            --text-main: #1a1a1a;
-            --text-sub: #555555;
-            --border: #dddddd;
-            --accent: #1a1a1a;
+            --bg: #f5f5f5;
+            --text-main: #1f2129;
+            --text-sub: #6e7681;
+            --border: #d0d7de;
+            --accent: #1f2129;
             --accent-text: #ffffff;
         }
 
@@ -23,29 +24,29 @@
         @media (prefers-color-scheme: dark) {
             :root {
                 --bg: #1f2129;
-                --text-main: #f0f2f5;
-                --text-sub: #9aa0a6;
-                --border: #3c4043;
-                --accent: #f0f2f5;
+                --text-main: #f0f3f6;
+                --text-sub: #8b949e;
+                --border: #30363d;
+                --accent: #f0f3f6;
                 --accent-text: #1f2129;
             }
         }
 
         /* LỚP GHI ĐÈ KHI BẤM NÚT THỦ CÔNG */
         [data-theme='light'] {
-            --bg: #ffffff !important;
-            --text-main: #1a1a1a !important;
-            --text-sub: #555555 !important;
-            --border: #dddddd !important;
-            --accent: #1a1a1a !important;
+            --bg: #f5f5f5 !important;
+            --text-main: #1f2129 !important;
+            --text-sub: #6e7681 !important;
+            --border: #d0d7de !important;
+            --accent: #1f2129 !important;
             --accent-text: #ffffff !important;
         }
         [data-theme='dark'] {
             --bg: #1f2129 !important;
-            --text-main: #f0f2f5 !important;
-            --text-sub: #9aa0a6 !important;
-            --border: #3c4043 !important;
-            --accent: #f0f2f5 !important;
+            --text-main: #f0f3f6 !important;
+            --text-sub: #8b949e !important;
+            --border: #30363d !important;
+            --accent: #f0f3f6 !important;
             --accent-text: #1f2129 !important;
         }
 
@@ -56,7 +57,8 @@
         }
 
         body {
-            font-family: 'Merriweather', Georgia, serif;
+            /* Đặt JetBrains Mono làm font chủ đạo */
+            font-family: 'JetBrains Mono', monospace;
             background-color: var(--bg);
             color: var(--text-main);
             height: 100vh;
@@ -65,12 +67,13 @@
             justify-content: center;
             align-items: center;
             padding: 24px;
-            transition: background-color 0.4s ease, color 0.4s ease;
+            transition: background-color 0.3s ease, color 0.3s ease;
             overflow: hidden;
             -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
         }
 
-        /* NÚT CHUYỂN ĐỔI GIAO DIỆN TRÒN TINH TẾ */
+        /* NÚT CHUYỂN ĐỔI GIAO DIỆN KIỂU CƠ SỞ DỮ LIỆU */
         .theme-toggle {
             position: absolute;
             top: 30px;
@@ -78,70 +81,85 @@
             background: none;
             border: 1px solid var(--border);
             color: var(--text-sub);
-            padding: 10px 20px;
+            padding: 8px 16px;
             border-radius: 4px;
             cursor: pointer;
             font-family: inherit;
-            font-size: 0.85rem;
-            transition: all 0.3s ease;
+            font-size: 0.8rem;
+            font-weight: 500;
+            transition: all 0.2s ease;
         }
         .theme-toggle:hover {
             border-color: var(--text-main);
             color: var(--text-main);
+            background-color: rgba(255, 255, 255, 0.05);
         }
 
-        /* NỘI DUNG CHÍNH */
+        /* KHU VỰC NỘI DUNG CHÍNH */
         .content {
-            max-width: 550px;
+            max-width: 600px;
             text-align: center;
         }
 
         .error-code {
-            font-size: 9rem;
+            font-size: 8rem;
             font-weight: 700;
             line-height: 1;
-            margin-bottom: 20px;
-            letter-spacing: -0.02em;
-            opacity: 0.95;
+            margin-bottom: 15px;
+            /* Thu hẹp khoảng cách số để trông gọn gàng hơn */
+            letter-spacing: -0.04em; 
+        }
+
+        /* Tag trạng thái kiểu lập trình [ERROR_NOT_FOUND] */
+        .status-tag {
+            display: inline-block;
+            font-size: 0.9rem;
+            color: #ff7b72; /* Màu đỏ code đặc trưng */
+            font-weight: 500;
+            margin-bottom: 25px;
+        }
+
+        [data-theme='light'] .status-tag {
+            color: #cf222e; /* Đỏ sẫm hơn ở bản sáng để dễ nhìn */
         }
 
         .error-message {
-            font-size: 1.1rem;
+            font-size: 1rem;
             color: var(--text-sub);
-            line-height: 1.8; /* Tăng line-height cho font có chân dễ thở */
+            line-height: 1.6;
             margin-bottom: 40px;
-            font-style: italic; /* Tạo nét hoài cổ, nhẹ nhàng cho thông báo lỗi */
+            letter-spacing: -0.02em; /* Tối ưu tracking chữ cho font Monospace */
         }
 
-        /* NÚT VỀ TRANG CHỦ HOÀN HẢO CHO FONT CÓ CHÂN */
+        /* NÚT VỀ TRANG CHỦ VUÔNG VẮN MẠNH MẼ */
         .home-btn {
             display: inline-block;
             background-color: var(--accent);
             color: var(--accent-text);
             text-decoration: none;
-            padding: 14px 36px;
+            padding: 14px 32px;
             border-radius: 4px;
-            font-size: 0.95rem;
+            font-size: 0.9rem;
             font-weight: 700;
-            transition: opacity 0.2s ease, transform 0.2s ease;
+            border: 1px solid var(--accent);
+            transition: all 0.2s ease;
         }
         .home-btn:hover {
-            opacity: 0.9;
-            transform: translateY(-1px);
-        }
-        .home-btn:active {
-            transform: translateY(0);
+            background-color: transparent;
+            color: var(--text-main);
+            border-color: var(--text-main);
         }
     </style>
 </head>
 <body>
 
-    <button class="theme-toggle" onclick="toggleTheme()" id="themeBtn">Chế độ tối</button>
+    <button class="theme-toggle" onclick="toggleTheme()" id="themeBtn">MODE: DARK</button>
 
     <div class="content">
         <div class="error-code">404</div>
-        <p class="error-message">Trang bạn đang cố gắng truy cập không tồn tại hoặc đã được chuyển sang một đường dẫn khác.</p>
-        <a href="https://thienqc.github.io/blog/" class="home-btn">Trở về trang chủ</a>
+        <div class="status-tag">[PAGE_NOT_FOUND]</div>
+        <p class="error-message">Hệ thống không tìm thấy đường dẫn bạn yêu cầu. Vui lòng kiểm tra lại URL hoặc quay về trang chủ.</p>
+        <a href="https://thienqc.github.io/blog/" class="home-btn">./return_home</a>
     </div>
 
     <script>
@@ -149,21 +167,18 @@
 
         function updateButtonText(isDark) {
             const btn = document.getElementById('themeBtn');
-            btn.innerText = isDark ? "Chế độ sáng" : "Chế độ tối";
+            btn.innerText = isDark ? "MODE: LIGHT" : "MODE: DARK";
         }
 
-        // Tự động kiểm tra chế độ hệ thống khi load trang
         const prefersDark = window.matchMedia('(prefers-color-scheme: dark)');
         updateButtonText(prefersDark.matches);
 
-        // Theo dõi nếu hệ thống đổi chế độ thời gian thực
         prefersDark.addEventListener('change', (e) => {
             if (manualTheme === null) {
                 updateButtonText(e.matches);
             }
         });
 
-        // Hàm xử lý khi click nút
         function toggleTheme() {
             const body = document.body;
             const isSystemDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
