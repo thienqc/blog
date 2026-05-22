@@ -91,6 +91,7 @@ extra_css:
 
 extra_javascript:
   - assets/js/random-post.js
+  - assets/js/wordcloud.js
 
 extra:
   social:
