@@ -19,3 +19,17 @@
   padding: 12px 20px;
   border-radius: 0 4px 4px 0;
 }
+
+/* ======================================== */
+
+/* Căn đều lề trái và phải cho văn bản trong nội dung */
+.md-typeset p {
+  text-align: justify;
+  text-justify: inter-word; /* làm đều khoảng trắng giữa từ */
+}
+
+/* Căn đều cả danh sách nếu muốn */
+.md-typeset li {
+  text-align: justify;
+  text-justify: inter-word;
+}
