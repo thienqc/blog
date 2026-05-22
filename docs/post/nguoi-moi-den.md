@@ -1,5 +1,5 @@
 ---
-comments: true
+comments: false
 filename: nguoi-moi-den
 share: true
 date: 2025-01-18
