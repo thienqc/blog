@@ -21,7 +21,7 @@ Last_Read: 2024-07-16
 # Linh thao  
 [Author::[Ignatius of Loyola](../../Ignatius%20of%20Loyola.md.md)] - (Publication_Year:: 1548)  
   
-![Linh thao-1769243252953.webp](../assets/img/Linh%20thao-1769243252953.webp.webp)  
+![Linh thao-1769243252953.webp](../assets/img/Linh%20thao-1769243252953.webp)  
   
 *Spiritual Excercises*  
   
