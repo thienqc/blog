@@ -11,7 +11,7 @@ theme:
       logo: fontawesome/solid/brain
     favicon: assets/meta/favicon.svg
     font:
-        text: JetBrains Mono
+        text: Georgia
         code: JetBrains Mono
     language: en
     static_templates:
