@@ -1,25 +1,9 @@
+---
+template: tag.html
+---
+
 # Tags
 
-{% extends "blog.html" %}
+Hiển thị các thẻ trong blog
 
-{% block site_nav %}
-{% endblock %}
-
-{% block content %}
-    <style>
-        .md-typeset .tags {
-            max-width: 35rem; 
-            margin: 0 auto;
-        }
-        .md-typeset .tags details {
-            background-color: aliceblue !important;
-            padding: 0.5em 1em;
-        }
-    
-    </style>
-    <div class="tags">
-        {% include "partials/tag-cloud.html" %}
-        <hr>
-        {% include "partials/tag-page-list.html" %}
-    </div>
-{% endblock %}
+{{ tag_content }}
