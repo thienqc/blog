@@ -1,5 +1,5 @@
 ---
-template: tag.html
+template: tags.html
 ---
 
 # Tags
