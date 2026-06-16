@@ -9,7 +9,9 @@ date: 2023-11-10
 URL: https://www.youtube.com/watch?v=8fpwY_-HgDE
 description:
 ---
-# PHIM cho người Yêu Du Lịch @trandangdangkhoa  
+# PHIM cho người Yêu Du Lịch   
+@trandangdangkhoa  
+  
 - [Into the Wild](../../Into%20the%20wild.md)  
 - The Motorcycle Diaries - Nhật Ký Che Guevara  
 - 3 Idiots  
