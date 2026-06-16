@@ -17,7 +17,6 @@ Last_Read: 2023-11-09
 aliases:
   - Đường Biên Hạnh Phúc
 ---
-# Đường Biên Hạnh Phúc  
 [Author::[Nguyễn Thị Kim Ngân](Nguy%E1%BB%85n%20Th%E1%BB%8B%20Kim%20Ng%C3%A2n.md)] - (Publication_Year:: 2018)  
   
 ![Đường Biên Hạnh Phúc-1756729611625.webp](../assets/img/%C4%90%C6%B0%E1%BB%9Dng%20Bi%C3%AAn%20H%E1%BA%A1nh%20Ph%C3%BAc-1756729611625.webp)  
@@ -48,5 +47,5 @@ Tự hỏi rồi 2 chiếc xe đạp vứt lại Indo phải không ta?
   
 > [!Example] Xem thêm  
 > - [Ta ba lô trên đất Á](./ta-ba-lo-tren-dat-a.md)  
-> - [John đi tìm Hùng](./john-di-tim-hung.md)  
+> - [John đi tìm Hùng](../../john-di-tim-hung.md)  
   
