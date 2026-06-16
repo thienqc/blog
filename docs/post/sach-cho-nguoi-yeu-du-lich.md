@@ -9,7 +9,8 @@ date: 2023-11-10
 URL: https://www.youtube.com/watch?v=bKrHIjLqNUg
 description:
 ---
-# SÁCH cho người Yêu Du Lịch @trandangdangkhoa  
+# SÁCH cho người Yêu Du Lịch   
+@trandangdangkhoa  
   
 Có câu nói là, không phải ai đọc sách cũng thích đi du lịch, nhưng đa số những người yêu du lịch đều thích đọc sách (không nhớ ai nói, mà chắc là tui nói đó, hehe). Mà giờ nếu thích du lịch, thích phượt, thích đi đây đi đó thì nên đọc sách gì đây, hiện thị trường đang bán những cuốn nào hay ho để tham khảo, để nuôi dưỡng tình yêu du lịch, cũng như để giết thời gian khi đang giãn cách xã hội, hoặc để tra cứu cho những chuyến đi mới trong tương lai?  
   

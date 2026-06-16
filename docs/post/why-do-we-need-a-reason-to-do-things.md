@@ -2,7 +2,7 @@
 filename: why-do-we-need-a-reason-to-do-things
 aliases:
   - Why do we "need a reason" to do things?
-description:
+description: Lí do có bài viết này
 tags:
   - hmm
 date: 2023-07-01
@@ -11,7 +11,6 @@ share: true
 comments: true
 ---
 # Why do we "need a reason" to do things?  
-*Lí do có bài viết này*  
   
 Chuyện là trưa nay (1/7/2023) lướt FB thấy [bạn mình](https://minequin257.substack.com/) đăng post về blog của bạn, mình vào nghía thử, thấy cũng hay hay. Cái substask này thấy cũng nhiều người dùng. Cộng với việc bữa giờ đang tìm cách publish obsidian vault mà chưa làm được. Hơn nữa hôm nay là ngày đầu tiên của nửa sau 2023 thấy cũng hay hay nên thôi đăng kí đại cái tài khoản, viết bài thử xem sao.  
   
