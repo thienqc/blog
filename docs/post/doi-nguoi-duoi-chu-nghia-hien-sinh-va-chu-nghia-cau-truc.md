@@ -13,7 +13,9 @@ comments: true
 ---
 # ĐỜI NGƯỜI DƯỚI CHỦ NGHĨA HIỆN SINH VÀ CHỦ NGHĨA CẤU TRÚC  
   
-![](https://i.imgur.com/ONKJC7t.jpg)  
+@MonsterBox  
+  
+![|651x651](https://i.imgur.com/ONKJC7t.jpg)  
   
   
 Bài viết sau đây có thể sẽ khiến người đọc cảm thấy giống như một thiên tình sử lãng mạn giữa các nhà triết học và các trào lưu học thuật. Tôi muốn nhấn mạnh rằng cuộc đấu tranh giữa các tư tưởng thì chưa bao giờ lãng mạn, và những nhân vật tôi nhắc đến trong bài viết cũng chỉ là những gợn sóng li ti trên đỉnh toà kim tự tháp lịch sử. Lịch sử nhào nặn nên những con người được coi là vĩ đại, nhưng thực tế họ cũng chỉ như chúng ta: sinh ra và chết đi trong thời gian. Là một cá nhân nhỏ bé, sống trong một thời đại khác và không gian khác, tôi sẽ không thể tránh khỏi sự giản lược khi nỗ lực kể một câu chuyện lớn. Tôi hi vọng độc giả hiểu được điều này, và nếu có nhu cầu đi sâu hơn vào tiểu tiết, hãy lần mò theo những tên riêng và những khái niệm đã được đề cập.  
