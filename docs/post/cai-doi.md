@@ -1,7 +1,7 @@
 ---
 share: true
 comments: true
-filename:
+filename: cai-doi
 aliases:
   - Cái đói
 description: Y bác sĩ MAGIS ngày 13/6/2026
