@@ -1,0 +1,35 @@
+/* TỐI ƯU TRẢI NGHIỆM ĐỌC CHO FONT JETBRAINS MONO */
+.md-typeset {
+  /* Thu hẹp khoảng cách chữ một chút để font dạng code nhìn liền mạch, dễ đọc hơn khi viết bài dài */
+  letter-spacing: -0.02em; 
+  /* Tăng nhẹ khoảng cách dòng giúp text "dễ thở" */
+  --md-typeset-line-height: 1.7; 
+}
+
+/* Làm các thẻ tiêu đề đậm nét và nổi bật hơn */
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+  font-weight: 700;
+  letter-spacing: -0.04em;
+}
+
+/* Tùy chỉnh nhẹ khung trích dẫn blockquote cho giống giao diện lập trình */
+.md-typeset blockquote {
+  border-left: 0.2rem solid var(--md-accent-fg-color);
+  background-color: var(--md-code-bg-color);
+  padding: 12px 20px;
+  border-radius: 0 4px 4px 0;
+}
+
+/* ======================================== */
+
+/* Căn đều lề trái và phải cho văn bản trong nội dung */
+.md-typeset p {
+  text-align: justify;
+  text-justify: inter-word; /* làm đều khoảng trắng giữa từ */
+}
+
+/* Căn đều cả danh sách nếu muốn */
+.md-typeset li {
+  text-align: justify;
+  text-justify: inter-word;
+}
