@@ -97,7 +97,7 @@ extra:
       link: https://www.facebook.com/yds.thienqc/
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/thienqc/
-    - icon: fontawesome/brands/gmail
+    - icon: fontawesome/solid/envelope
       link: mailto:thienqc.sj@gmail.com
   analytics:
     provider: google
