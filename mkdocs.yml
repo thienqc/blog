@@ -13,7 +13,7 @@ theme:
     font:
         text: JetBrains Mono
         code: JetBrains Mono
-    language: en
+    language: vi
     static_templates:
       - 404.html
       - rss.xml
