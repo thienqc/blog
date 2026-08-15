@@ -4,7 +4,7 @@
     "slug": "bi-mat-kinh-man-coi-thanh-louis-marie-de-montfort",
     "title": "Bí mật kinh Mân Côi",
     "author": "Thánh Louis Marie De Montfort",
-    "description": "",
+    "description": "Khám phá ra kho tàng ân sủng và lợi ích lớn lao cuả việc tôn kính Mẹ và yêu mến tràng chuỗi Mân Côi.",
     "cover": "covers/bi-mat-kinh-man-coi-thanh-louis-marie-de-montfort.jpg",
     "size": 166615
   },
@@ -22,7 +22,7 @@
     "slug": "cuoi-voi-dong-ten-nikolaas-sintobin-sj",
     "title": "Cười với Dòng Tên",
     "author": "Nikolaas Sintobin, S.J.",
-    "description": "",
+    "description": "Cuốn sách nhỏ này vừa khôi hài vừa nghiêm túc. Bằng lối nói trong sáng và dí dỏm, quyển sách kể cho chúng ta nghe lối sống, cầu nguyện và phong cách làm việc của các tu sĩ Dòng Tên, hay còn gọi là Giê-su hữu.",
     "cover": "covers/cuoi-voi-dong-ten-nikolaas-sintobin-sj.jpg",
     "size": 2985896
   },
@@ -40,7 +40,7 @@
     "slug": "hoa-trai-thinh-lang-thomas-merton",
     "title": "Hoa trái thinh lặng",
     "author": "Thomas Merton",
-    "description": "",
+    "description": "Những gì được nói ở đây về sự cô tịch không chỉ là một giải pháp cho các nhà ẩn tu, nó còn liên quan đến toàn thể tương lai của con người và số phận của thế giới trong đó nó đang sống; và đặc biệt, dĩ nhiên, đến tương lai đời sống tôn giáo của nó.",
     "cover": "covers/hoa-trai-thinh-lang-thomas-merton.jpg",
     "size": 425776
   },
@@ -49,7 +49,7 @@
     "slug": "lay-chua-tai-sao-ngai-im-lang-giuse-phan-thanh-binh-sdb",
     "title": "Lạy Chúa! Tại sao ngài im lặng?",
     "author": "Giuse Phan Thanh Bình SDB",
-    "description": "",
+    "description": "Hành trình đi tìm lời giải đáp cho những vấn nạn về đau khổ và sự dữ dưới nhãn quan Kitô giáo.",
     "cover": "covers/lay-chua-tai-sao-ngai-im-lang-giuse-phan-thanh-binh-sdb.jpg",
     "size": 268430
   },
@@ -58,16 +58,16 @@
     "slug": "lich-su-giao-hoi-cong-giao-alan-schreck",
     "title": "Lịch sử giáo hội Công Giáo",
     "author": "Alan Schreck",
-    "description": "",
+    "description": "Một cái nhìn tổng quát nhưng trung thực về lịch sử Giáo Hội Công Giáo.",
     "cover": "covers/lich-su-giao-hoi-cong-giao-alan-schreck.jpg",
     "size": 553769
   },
   {
     "file": "Lich Su Giao Hoi Qua 100 Trinh Thuat - Josef Holzer.epub",
     "slug": "lich-su-giao-hoi-qua-100-trinh-thuat-josef-holzer",
-    "title": "LỊCH SỬ GIÁO HỘI QUA 100 TRÌNH THUẬT",
+    "title": "Lịch sử Giáo Hội qua 100 trình thuật",
     "author": "Josef Holzer",
-    "description": "",
+    "description": "Kể lại hai ngàn năm lịch sử Giáo Hội qua 100 trình thuật sống động",
     "cover": "covers/lich-su-giao-hoi-qua-100-trinh-thuat-josef-holzer.jpg",
     "size": 936267
   },
@@ -83,9 +83,9 @@
   {
     "file": "Nguoi lu hanh thanh Loyola - Ignatius of Loyola.epub",
     "slug": "nguoi-lu-hanh-thanh-loyola-ignatius-of-loyola",
-    "title": "NGƯỜI LỮ HÀNH THÀNH LOYOLA",
+    "title": "Người lữ hành thành Loyola",
     "author": "Ignatius of Loyola",
-    "description": "Hồi ký thánh I-nhã",
+    "description": "Thủ bản tự thuật thánh I-nhã",
     "cover": "covers/nguoi-lu-hanh-thanh-loyola-ignatius-of-loyola.jpg",
     "size": 1207514
   },
@@ -93,8 +93,8 @@
     "file": "Nhat ky tam hon - POPE JOHN XXIII.epub",
     "slug": "nhat-ky-tam-hon-pope-john-xxiii",
     "title": "Nhật ký tâm hồn",
-    "author": "POPE JOHN XXIII",
-    "description": "",
+    "author": "Pope John XXIII",
+    "description": "Không cần đề tựa dài dòng, chỉ cần đọc những dòng đầu, đủ khiến bạn suy nghĩ và biết đâu bạn sẽ có nhiều quyết định đổi mới đời sống.",
     "cover": "covers/nhat-ky-tam-hon-pope-john-xxiii.jpg",
     "size": 364771
   },
@@ -103,16 +103,16 @@
     "slug": "nam-chiec-banh-va-hai-con-ca-fx-nguyen-van-thuan-tgm",
     "title": "Năm chiếc bánh và hai con cá",
     "author": "Fx. Nguyễn Văn Thuận, TGM",
-    "description": "",
+    "description": "Đứng giữa quang cảnh tuyệt vời, đồi lúa chín vàng, biển rộng mênh mông một màu xanh da trời, với những làn sóng bạc, tôi nghĩ ngay đến Chúa Giêsu đang nói chuyện với dân chúng.",
     "cover": "covers/nam-chiec-banh-va-hai-con-ca-fx-nguyen-van-thuan-tgm.jpg",
     "size": 336094
   },
   {
     "file": "TAI HINH DUNG PHUT HOI TAM - Mark Thibodeaux, SJ.epub",
     "slug": "tai-hinh-dung-phut-hoi-tam-mark-thibodeaux-sj",
-    "title": "TÁI HÌNH DUNG PHÚT HỒI TÂM",
+    "title": "Tái hình dung phút hồi tâm",
     "author": "Mark Thibodeaux, SJ",
-    "description": "",
+    "description": "Những cách cầu nguyện mới mẻ từ ngày sống của bạn.",
     "cover": "covers/tai-hinh-dung-phut-hoi-tam-mark-thibodeaux-sj.jpg",
     "size": 272109
   }
