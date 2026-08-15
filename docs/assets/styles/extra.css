@@ -36,6 +36,15 @@
 
 /* ======================================== */
 
+/* Chữ copyright ở footer dùng --lighter (trắng 45%) trên nền rất tối, ở
+   cỡ chữ 10px -> tỉ lệ tương phản chỉ ~4.52 (cần 4.5), Lighthouse flag.
+   Đổi sang --light (70%), vẫn là biến có sẵn của theme -> ~9.26 */
+.md-footer .md-copyright {
+  color: var(--md-footer-fg-color--light);
+}
+
+/* ======================================== */
+
 /* Tag cloud trên trang /tags/ — cỡ chữ do tag-cloud.js gán theo số bài viết,
    phần CSS này chỉ lo bố cục + hiệu ứng, không đụng tag nhỏ ở cuối mỗi bài */
 .md-typeset .blogging-tags-grid.tag-cloud-ready {
