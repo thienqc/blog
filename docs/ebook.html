@@ -508,13 +508,24 @@
       document.documentElement.setAttribute("data-theme", mode);
     }
 
+    // Thứ tự đúng như danh sách "palette:" trong mkdocs.yml — Material chọn
+    // theme dựa vào "index" này (không chỉ dựa vào color.scheme), nên phải
+    // khớp chính xác thứ tự đó, nếu không bundle JS đầy đủ của Material sẽ
+    // tự tính lại theme từ index sai và ghi đè lại màu mình vừa đổi.
+    //   0 = tự động theo hệ thống, 1 = sáng (indigo/indigo), 2 = tối (black/indigo)
     function writePalette(mode) {
-      const existing = readPalette() || { index: 0, color: {} };
-      existing.color.scheme = mode === "dark" ? "slate" : "default";
-      existing.color.primary = existing.color.primary || (mode === "dark" ? "black" : "indigo");
-      existing.color.accent = existing.color.accent || "indigo";
+      const index = mode === "dark" ? 2 : 1;
+      const palette = {
+        index,
+        color: {
+          media: mode === "dark" ? "(prefers-color-scheme: dark)" : "(prefers-color-scheme: light)",
+          scheme: mode === "dark" ? "slate" : "default",
+          primary: mode === "dark" ? "black" : "indigo",
+          accent: "indigo",
+        },
+      };
       try {
-        localStorage.setItem(PALETTE_KEY, JSON.stringify(existing));
+        localStorage.setItem(PALETTE_KEY, JSON.stringify(palette));
       } catch (e) { /* localStorage không khả dụng, bỏ qua */ }
     }
 
