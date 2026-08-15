@@ -16,9 +16,6 @@ Total_Pages: 420
 Type:
   - Book
 Last_Read: 2024-06-09
-READ:
-  - "[221008](221008.md)"
-  - "[240609](240609.md)"
 ---
 # Thư viện nửa đêm  
 [Author:: [Matt Haig](Matt%20Haig.md)] - (Publication_Year:: 2020)  
@@ -36,3 +33,5 @@ Mình tin chắc rằng, cho dù hiện tại ban đang cảm thấy cô đơn, 
 Vì vậy, HÃY CAN ĐẢM SỐNG.  
   
   
+---  
+Read:: [221018](../../221018.md), [240609](../../240609.md)
