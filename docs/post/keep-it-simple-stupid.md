@@ -25,4 +25,4 @@ Bạn có thể xem thêm [video này](https://www.youtube.com/watch?v=E6ySG7x
 
 Nếu bạn có thắc mắc gì hoặc muốn chia sẻ về hệ thống của bạn, hãy để lại [bình luận](https://www.facebook.com/groups/594306492570157/posts/646641940669945/) nhé.
 
-![KISS (KEEP IT SIMPLE STUPID)-1685368412414.jpeg](../assets/img/KISS%20(KEEP%20IT%20SIMPLE%20STUPID)-1685368412414.jpeg)
+![KISS (KEEP IT SIMPLE STUPID)-1685368412414.webp](../assets/img/KISS%20(KEEP%20IT%20SIMPLE%20STUPID)-1685368412414.webp)
