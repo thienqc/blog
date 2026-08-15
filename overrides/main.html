@@ -1,0 +1,18 @@
+{#-
+  Extends Material for MkDocs' base.html, overriding only the "fonts" block
+  to self-host JetBrains Mono instead of fetching it from
+  fonts.googleapis.com/fonts.gstatic.com — that added a render-blocking
+  cross-origin round trip before any text could paint. Mirrors the stock
+  block's logic (same --md-text-font/--md-code-font CSS vars) so nothing
+  else in the theme needs to change.
+-#}
+{% extends "base.html" %}
+
+{% block fonts %}
+  {% if config.theme.font != false %}
+    {% set text = config.theme.font.text | d("Roboto", true) %}
+    {% set code = config.theme.font.code | d("Roboto Mono", true) %}
+    <link rel="stylesheet" href="{{ 'assets/fonts/jetbrains-mono.css' | url }}">
+    <style>:root{--md-text-font:"{{ text }}";--md-code-font:"{{ code }}"}</style>
+  {% endif %}
+{% endblock %}
