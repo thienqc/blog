@@ -506,6 +506,22 @@
     function applyTheme(mode) {
       // mode: "dark" | "light"
       document.documentElement.setAttribute("data-theme", mode);
+      updateThemeIcon();
+    }
+
+    function isCurrentlyDark() {
+      return document.documentElement.getAttribute("data-theme") === "dark"
+        || (!document.documentElement.hasAttribute("data-theme")
+            && matchMedia("(prefers-color-scheme: dark)").matches);
+    }
+
+    function updateThemeIcon() {
+      const btn = document.getElementById("theme-toggle");
+      const dark = isCurrentlyDark();
+      // Icon thể hiện kiểu sẽ đổi SANG khi bấm, giống nút đổi kiểu xem thư viện.
+      btn.textContent = dark ? "☀️" : "🌙";
+      btn.title = dark ? "Chuyển sang giao diện sáng" : "Chuyển sang giao diện tối";
+      btn.setAttribute("aria-label", btn.title);
     }
 
     // Thứ tự đúng như danh sách "palette:" trong mkdocs.yml — Material chọn
@@ -532,9 +548,10 @@
     (function initTheme() {
       const palette = readPalette();
       const scheme = palette && palette.color && palette.color.scheme;
-      if (scheme === "slate") applyTheme("dark");
-      else if (scheme === "default") applyTheme("light");
+      if (scheme === "slate") document.documentElement.setAttribute("data-theme", "dark");
+      else if (scheme === "default") document.documentElement.setAttribute("data-theme", "light");
       // nếu không có gì lưu sẵn, để CSS tự theo prefers-color-scheme
+      updateThemeIcon();
     })();
 
     document.getElementById("theme-toggle").addEventListener("click", () => {
@@ -579,7 +596,10 @@
 
     function applyViewMode(mode) {
       listEl.classList.toggle("view-grid", mode === "grid");
-      viewToggleBtn.textContent = mode === "grid" ? "📋 Chi tiết" : "🖼 Chỉ bìa";
+      // Icon thể hiện kiểu xem sẽ đổi SANG khi bấm — giống cách nút sáng/tối hoạt động.
+      viewToggleBtn.textContent = mode === "grid" ? "📋" : "🖼";
+      viewToggleBtn.title = mode === "grid" ? "Chuyển sang xem chi tiết" : "Chuyển sang xem chỉ bìa";
+      viewToggleBtn.setAttribute("aria-label", viewToggleBtn.title);
     }
 
     let viewMode = localStorage.getItem(VIEW_STORAGE_KEY) || "detail";
