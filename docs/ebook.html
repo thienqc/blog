@@ -67,6 +67,38 @@
       margin-top: 0;
     }
 
+    .page-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .back-link {
+      color: var(--fg-muted);
+      text-decoration: none;
+      font-size: 0.9em;
+    }
+    .back-link:hover {
+      color: var(--accent);
+    }
+
+    #theme-toggle {
+      background: var(--code-bg);
+      border: 1px solid var(--border);
+      color: var(--fg);
+      border-radius: 6px;
+      padding: 0.4rem 0.7rem;
+      cursor: pointer;
+      font-family: inherit;
+      font-size: 1em;
+      flex-shrink: 0;
+    }
+    #theme-toggle:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
     #status {
       color: var(--fg-muted);
       margin: 1.25rem 0;
@@ -190,8 +222,8 @@
 
     #reader-modal {
       background: var(--bg);
-      width: min(900px, 94vw);
-      height: min(720px, 90vh);
+      width: min(1200px, 96vw);
+      height: min(920px, 94vh);
       border-radius: 8px;
       display: flex;
       flex-direction: column;
@@ -286,12 +318,28 @@
       color: var(--fg-muted);
       font-size: 0.85em;
     }
+
+    #reader-font {
+      background: var(--code-bg);
+      border: 1px solid var(--border);
+      color: var(--fg);
+      border-radius: 6px;
+      padding: 0.35rem 0.5rem;
+      font-family: inherit;
+      font-size: 0.85em;
+    }
   </style>
 </head>
 <body>
   <div class="wrap">
-    <h1>Kho ebook</h1>
-    <p class="subtitle">Đọc trực tiếp trên trình duyệt hoặc tải file .epub về máy.</p>
+    <div class="page-header">
+      <div>
+        <h1>Kho ebook</h1>
+        <p class="subtitle">Đọc trực tiếp trên trình duyệt hoặc tải file .epub về máy.</p>
+      </div>
+      <button id="theme-toggle" aria-label="Đổi sáng/tối" title="Đổi sáng/tối">◐</button>
+    </div>
+    <a class="back-link" href="./">← Quay lại trang blog</a>
 
     <div id="status">Đang tải danh sách...</div>
     <ul class="book-list" id="book-list"></ul>
@@ -313,27 +361,62 @@
       <div id="reader-nav">
         <button id="reader-prev">‹ Trang trước</button>
         <span id="reader-status"></span>
-        <button id="reader-next">Trang sau ›</button>
+        <div style="display:flex; align-items:center; gap:0.5rem;">
+          <select id="reader-font" title="Phông chữ"></select>
+          <button id="reader-next">Trang sau ›</button>
+        </div>
       </div>
     </div>
   </div>
 
   <script>
     // ---- sync với light/dark của trang chính (Material for MkDocs) ----
-    (function () {
+    // Material lưu lựa chọn sáng/tối vào localStorage theo key riêng cho từng
+    // thư mục (new URL(".", location).pathname + ".__palette"). Vì ebook.html
+    // nằm ngay gốc docs/, key này trùng với key của trang chủ "/blog/" — đọc
+    // và ghi lại đúng key đó để 2 trang khớp nhau khi người dùng đổi ở trang chủ.
+    const PALETTE_KEY = new URL(".", location).pathname + ".__palette";
+
+    function readPalette() {
       try {
-        var scope = new URL(".", location);
-        var raw = localStorage.getItem(scope.pathname + ".__palette");
-        if (!raw) return;
-        var palette = JSON.parse(raw);
-        var scheme = palette && palette.color && palette.color.scheme;
-        if (scheme === "slate") {
-          document.documentElement.setAttribute("data-theme", "dark");
-        } else if (scheme === "default") {
-          document.documentElement.setAttribute("data-theme", "light");
-        }
-      } catch (e) { /* giữ theo prefers-color-scheme nếu đọc lỗi */ }
+        const raw = localStorage.getItem(PALETTE_KEY);
+        return raw ? JSON.parse(raw) : null;
+      } catch (e) {
+        return null;
+      }
+    }
+
+    function applyTheme(mode) {
+      // mode: "dark" | "light"
+      document.documentElement.setAttribute("data-theme", mode);
+    }
+
+    function writePalette(mode) {
+      const existing = readPalette() || { index: 0, color: {} };
+      existing.color.scheme = mode === "dark" ? "slate" : "default";
+      existing.color.primary = existing.color.primary || (mode === "dark" ? "black" : "indigo");
+      existing.color.accent = existing.color.accent || "indigo";
+      try {
+        localStorage.setItem(PALETTE_KEY, JSON.stringify(existing));
+      } catch (e) { /* localStorage không khả dụng, bỏ qua */ }
+    }
+
+    (function initTheme() {
+      const palette = readPalette();
+      const scheme = palette && palette.color && palette.color.scheme;
+      if (scheme === "slate") applyTheme("dark");
+      else if (scheme === "default") applyTheme("light");
+      // nếu không có gì lưu sẵn, để CSS tự theo prefers-color-scheme
     })();
+
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+      const isDark = document.documentElement.getAttribute("data-theme") === "dark"
+        || (!document.documentElement.hasAttribute("data-theme")
+            && matchMedia("(prefers-color-scheme: dark)").matches);
+      const next = isDark ? "light" : "dark";
+      applyTheme(next);
+      writePalette(next);
+    });
   </script>
 
   <script>
@@ -341,7 +424,14 @@
     const ASSET_BASE = "assets/ebook/";
     const JSZIP_SRC = "assets/js/jszip.min.js";
     const EPUBJS_SRC = "assets/js/epub.min.js";
+    const READING_FONTS_CSS = new URL("assets/fonts/reading-fonts.css", location.href).href;
     const READ_TIMEOUT_MS = 20000;
+    const FONT_STORAGE_KEY = "ebook-reader-font";
+    const FONT_OPTIONS = [
+      { value: "", label: "Theo sách (mặc định)" },
+      { value: "Bookerly, Georgia, 'Times New Roman', serif", label: "Bookerly" },
+      { value: "Georgia, 'Times New Roman', serif", label: "Georgia" },
+    ];
 
     function formatSize(bytes) {
       if (bytes < 1024 * 1024) return (bytes / 1024).toFixed(0) + " KB";
@@ -500,6 +590,48 @@
     const prevBtn = document.getElementById("reader-prev");
     const nextBtn = document.getElementById("reader-next");
     const closeBtn = document.getElementById("reader-close");
+    const fontSelect = document.getElementById("reader-font");
+
+    FONT_OPTIONS.forEach(opt => {
+      const el = document.createElement("option");
+      el.value = opt.value;
+      el.textContent = opt.label;
+      fontSelect.appendChild(el);
+    });
+    fontSelect.value = localStorage.getItem(FONT_STORAGE_KEY) || "";
+
+    function applyReaderFont(family) {
+      if (!currentRendition) return;
+      if (family) {
+        currentRendition.themes.font(family);
+      } else {
+        currentRendition.themes.removeOverride("font-family");
+      }
+    }
+
+    fontSelect.addEventListener("change", () => {
+      try { localStorage.setItem(FONT_STORAGE_KEY, fontSelect.value); } catch (e) { /* ignore */ }
+      applyReaderFont(fontSelect.value);
+    });
+
+    function setupReaderThemes(rendition) {
+      // Font-face của Bookerly (nếu bạn đã thêm file) luôn được nạp vào mọi
+      // trang sách qua theme "default", vì theme "default" luôn được inject.
+      rendition.themes.default({
+        "body": {
+          "text-align": "justify !important",
+          "text-justify": "inter-word !important",
+          "line-height": "1.6 !important",
+        },
+        "p": {
+          "text-align": "justify !important",
+          "text-justify": "inter-word !important",
+        },
+      });
+      rendition.themes.register("reading-fonts", READING_FONTS_CSS);
+      rendition.themes.select("reading-fonts");
+      applyReaderFont(fontSelect.value);
+    }
 
     let lastOpened = null;
 
@@ -516,6 +648,13 @@
         await withTimeout(ensureReaderLibs(), READ_TIMEOUT_MS, "Không tải được thư viện đọc sách (quá thời gian chờ).");
         currentBook = ePub(url);
         currentRendition = currentBook.renderTo("viewer", { width: "100%", height: "100%" });
+        setupReaderThemes(currentRendition);
+        currentRendition.on("keyup", handleReaderKey);
+        currentRendition.on("keydown", (e) => {
+          // Trình duyệt vẫn cuộn trang bằng phím mũi tên bên trong iframe
+          // nếu không chặn ở đây — ngăn lại vì mình đã tự điều hướng trang.
+          if (e.key === "ArrowLeft" || e.key === "ArrowRight") e.preventDefault();
+        });
         await withTimeout(currentRendition.display(), READ_TIMEOUT_MS, "Tải nội dung sách quá lâu, có thể do mạng chậm.");
         loadingEl.classList.add("hidden");
       } catch (err) {
@@ -547,12 +686,20 @@
     });
     prevBtn.addEventListener("click", () => currentRendition && currentRendition.prev());
     nextBtn.addEventListener("click", () => currentRendition && currentRendition.next());
-    document.addEventListener("keydown", (e) => {
+
+    // handleReaderKey được gắn theo 2 nguồn:
+    // - currentRendition.on("keyup", ...): epub.js forward sự kiện bàn phím
+    //   từ bên trong iframe của từng trang sách — đây là nguồn chính, vẫn
+    //   hoạt động kể cả khi người dùng đang bôi đen văn bản trong iframe đó.
+    // - document listener bên dưới: dự phòng cho lúc focus nằm ở khung ngoài
+    //   (nút, thanh điều hướng) chứ không phải trong nội dung sách.
+    function handleReaderKey(e) {
       if (!overlay.classList.contains("open")) return;
       if (e.key === "ArrowLeft") currentRendition && currentRendition.prev();
       if (e.key === "ArrowRight") currentRendition && currentRendition.next();
       if (e.key === "Escape") closeReader();
-    });
+    }
+    document.addEventListener("keydown", handleReaderKey);
 
     loadBooks();
   </script>
