@@ -1,5 +1,77 @@
 [
   {
+    "file": "Bi mat kinh Man Coi - Thanh Louis Marie De Montfort.epub",
+    "slug": "bi-mat-kinh-man-coi-thanh-louis-marie-de-montfort",
+    "title": "Bí mật kinh Mân Côi",
+    "author": "Thánh Louis Marie De Montfort",
+    "description": "",
+    "cover": "covers/bi-mat-kinh-man-coi-thanh-louis-marie-de-montfort.jpg",
+    "size": 166615
+  },
+  {
+    "file": "Chuyen nguoi hanh huong - Khuyet danh.epub",
+    "slug": "chuyen-nguoi-hanh-huong-khuyet-danh",
+    "title": "Chuyện người hành hương",
+    "author": "Khuyết danh",
+    "description": "",
+    "cover": "covers/chuyen-nguoi-hanh-huong-khuyet-danh.jpg",
+    "size": 600931
+  },
+  {
+    "file": "Cuoi voi Dong Ten - Nikolaas Sintobin, SJ.epub",
+    "slug": "cuoi-voi-dong-ten-nikolaas-sintobin-sj",
+    "title": "Cười với Dòng Tên",
+    "author": "Nikolaas Sintobin, S.J.",
+    "description": "",
+    "cover": "covers/cuoi-voi-dong-ten-nikolaas-sintobin-sj.jpg",
+    "size": 2985896
+  },
+  {
+    "file": "Dan Lang Ho - P. Dourisboure.epub",
+    "slug": "dan-lang-ho-p-dourisboure",
+    "title": "Dân Làng Hồ",
+    "author": "P. Dourisboure",
+    "description": "Theo tiếng Ba Na, “KONTUM” nghĩa là “LÀNG HỒ”. KON : Làng, cũng như Plei hoặc Pơlei (Ba Na) và Buôn (Ra Đê, Jrai). Đơn vị quần cư của đồng bào Tây Nguyên. TUM : Hồ, ao hồ. Nơi có nhiều hồ nước do các nhánh sông Dak Bla tạo thành.",
+    "cover": "covers/dan-lang-ho-p-dourisboure.jpg",
+    "size": 1123391
+  },
+  {
+    "file": "Hoa trai thinh lang - Thomas Merton.epub",
+    "slug": "hoa-trai-thinh-lang-thomas-merton",
+    "title": "Hoa trái thinh lặng",
+    "author": "Thomas Merton",
+    "description": "",
+    "cover": "covers/hoa-trai-thinh-lang-thomas-merton.jpg",
+    "size": 425776
+  },
+  {
+    "file": "Lay Chua! Tai sao ngai im lang - Giuse Phan Thanh Binh SDB.epub",
+    "slug": "lay-chua-tai-sao-ngai-im-lang-giuse-phan-thanh-binh-sdb",
+    "title": "Lạy Chúa! Tại sao ngài im lặng?",
+    "author": "Giuse Phan Thanh Bình SDB",
+    "description": "",
+    "cover": "covers/lay-chua-tai-sao-ngai-im-lang-giuse-phan-thanh-binh-sdb.jpg",
+    "size": 268430
+  },
+  {
+    "file": "Lich su giao hoi Cong Giao - Alan Schreck.epub",
+    "slug": "lich-su-giao-hoi-cong-giao-alan-schreck",
+    "title": "Lịch sử giáo hội Công Giáo",
+    "author": "Alan Schreck",
+    "description": "",
+    "cover": "covers/lich-su-giao-hoi-cong-giao-alan-schreck.jpg",
+    "size": 553769
+  },
+  {
+    "file": "Lich Su Giao Hoi Qua 100 Trinh Thuat - Josef Holzer.epub",
+    "slug": "lich-su-giao-hoi-qua-100-trinh-thuat-josef-holzer",
+    "title": "LỊCH SỬ GIÁO HỘI QUA 100 TRÌNH THUẬT",
+    "author": "Josef Holzer",
+    "description": "",
+    "cover": "covers/lich-su-giao-hoi-qua-100-trinh-thuat-josef-holzer.jpg",
+    "size": 936267
+  },
+  {
     "file": "Nguoi Chung Thu Nhat - Pham Dinh Khiem.epub",
     "slug": "nguoi-chung-thu-nhat-pham-dinh-khiem",
     "title": "Người Chứng Thứ Nhất",
@@ -16,5 +88,32 @@
     "description": "Hồi ký thánh I-nhã",
     "cover": "covers/nguoi-lu-hanh-thanh-loyola-ignatius-of-loyola.jpg",
     "size": 1207514
+  },
+  {
+    "file": "Nhat ky tam hon - POPE JOHN XXIII.epub",
+    "slug": "nhat-ky-tam-hon-pope-john-xxiii",
+    "title": "Nhật ký tâm hồn",
+    "author": "POPE JOHN XXIII",
+    "description": "",
+    "cover": "covers/nhat-ky-tam-hon-pope-john-xxiii.jpg",
+    "size": 364771
+  },
+  {
+    "file": "Nam chiec banh va hai con ca - Fx. Nguyen Van Thuan, TGM.epub",
+    "slug": "nam-chiec-banh-va-hai-con-ca-fx-nguyen-van-thuan-tgm",
+    "title": "Năm chiếc bánh và hai con cá",
+    "author": "Fx. Nguyễn Văn Thuận, TGM",
+    "description": "",
+    "cover": "covers/nam-chiec-banh-va-hai-con-ca-fx-nguyen-van-thuan-tgm.jpg",
+    "size": 336094
+  },
+  {
+    "file": "TAI HINH DUNG PHUT HOI TAM - Mark Thibodeaux, SJ.epub",
+    "slug": "tai-hinh-dung-phut-hoi-tam-mark-thibodeaux-sj",
+    "title": "TÁI HÌNH DUNG PHÚT HỒI TÂM",
+    "author": "Mark Thibodeaux, SJ",
+    "description": "",
+    "cover": "covers/tai-hinh-dung-phut-hoi-tam-mark-thibodeaux-sj.jpg",
+    "size": 272109
   }
 ]
