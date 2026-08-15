@@ -43,6 +43,7 @@ theme:
 
 hooks:
   - hooks/lazy_images.py
+  - hooks/posts_index.py
 
 plugins:
   - search
