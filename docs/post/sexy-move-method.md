@@ -4,7 +4,7 @@ share: true
 comments: true
 tags:
   - rubik
-date: 2023-11-03
+date: 2026-07-16
 URL: Phương pháp giải Rubik chỉ cần nhớ 1 công thức
 description:
 ---

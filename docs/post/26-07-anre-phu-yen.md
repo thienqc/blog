@@ -37,14 +37,14 @@ Ngài được Đức Thánh Cha Gioan Phaolô II tuyên phong chân phước ng
   
 `Ngày 26.7.1644` : tử đạo tại "Gò Xử" (nay thuộc giáo họ Phước Kiều, giáo xứ Vĩnh Điện, giáo phận Đà Nẵng), Quảng Nam  
   
-Ngay sau sự kiện này, hài cốt được rước đi Maccao bằng đường thuỷ và đến Mâco ngày 15.8.1644  
+Ngay sau sự kiện này, hài cốt được rước đi Macao bằng đường thuỷ và đến Macao ngày 15.8.1644  
   
 `Năm 1645` : cha Đắc Lộ mang thủ cấp từ Hội An đi Macao. Cũng năm đó, toà GM Macao lập hồ sơ xin phong thánh.  
   
-`Năm 1648` : thủ cấp được gợi lại Goa  
+`Năm 1648` : thủ cấp được gởi lại Goa  
   
 `Năm 1652` : thủ cấp tại Goa và hồ sơ xin phong thánh tại Macao đều tới Roma  
   
-`Ngày 15.8.1958` : nhân dịp chuẩn bị kỷ năm 300 năm ngày thành lập hàng giáo phẩm Việt Nam (1659-1959), tóc và tài liệu của Á Thánh Anre từ Roma về Việt Nam (Sài Gòn) bằng đường hàng không.  
+`Ngày 15.8.1958` : nhân dịp chuẩn bị kỷ niệm 300 năm ngày thành lập hàng giáo phẩm Việt Nam (1659-1959), tóc và tài liệu của Á Thánh Anre từ Roma về Việt Nam (Sài Gòn) bằng đường hàng không.  
   
 `Ngày 5.3.2000` : ĐGH Gioan Phaolo II tôn phong Á Thánh, với tước hiệu "Tử Đạo Tiên Khởi Việt Nam, bổn mạng Giáo lý viên Việt Nam" và Mẫu Gương Niềm Tin của Giới Trẻ Thế Giới.
