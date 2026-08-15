@@ -27,8 +27,11 @@ aliases:
   
 ![|318x466](https://i.imgur.com/I9CD6h2.jpg)  
   
-  
-Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21133&authkey=!ALVKfnD3YetdmkA)  
+```  
+Một đêm vội vã lẩn trốn sau phi vụ khoắng đồ nhà người, Atsuya, Shota và Kouhei đã rẽ vào lánh tạm trong một căn nhà hoang bên con dốc vắng người qua lại. Căn nhà có vẻ khi xưa là một tiệm tạp hóa với biển hiệu cũ kỹ bám đầy bồ hóng, khiến người ta khó lòng đọc được trên đó viết gì. Định bụng nghỉ tạm một đêm rồi sáng hôm sau chuồn sớm, cả ba không ngờ chờ đợi cả bọn sẽ là một đêm không ngủ, với bao điều kỳ bí bắt đầu từ một phong thư bất ngờ gửi đến…    
+    
+Tài kể chuyện hơn người đã giúp Keigo khéo léo thay đổi các mốc dấu thời gian và không gian, chắp nối những câu chuyện tưởng chừng hoàn toàn riêng rẽ thành một kết cấu chặt chẽ, gây bất ngờ từ đầu tới cuối.  
+```  
   
 ---  
 [Review Điều kì diệu của tiệm tạp hoá Namiya](./review-dieu-ki-dieu-cua-tiem-tap-hoa-namiya.md)  
