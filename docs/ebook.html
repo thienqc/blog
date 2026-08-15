@@ -408,14 +408,30 @@
       font-size: 0.85em;
     }
 
-    #reader-font {
+    #font-size-control {
+      display: flex;
+      align-items: center;
+      gap: 0.35rem;
+    }
+    #font-size-control button {
       background: var(--code-bg);
       border: 1px solid var(--border);
       color: var(--fg);
       border-radius: 6px;
-      padding: 0.35rem 0.5rem;
+      padding: 0.35rem 0.6rem;
+      cursor: pointer;
       font-family: inherit;
       font-size: 0.85em;
+    }
+    #font-size-control button:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+    #font-size-label {
+      color: var(--fg-muted);
+      font-size: 0.8em;
+      min-width: 2.8em;
+      text-align: center;
     }
   </style>
 </head>
@@ -459,7 +475,11 @@
         <button id="reader-prev">‹ Trang trước</button>
         <span id="reader-status"></span>
         <div style="display:flex; align-items:center; gap:0.5rem;">
-          <select id="reader-font" title="Phông chữ"></select>
+          <div id="font-size-control">
+            <button id="font-size-dec" title="Giảm cỡ chữ">A−</button>
+            <span id="font-size-label">100%</span>
+            <button id="font-size-inc" title="Tăng cỡ chữ">A+</button>
+          </div>
           <button id="reader-next">Trang sau ›</button>
         </div>
       </div>
@@ -514,6 +534,18 @@
       applyTheme(next);
       writePalette(next);
     });
+
+    // Khi quay lại trang này bằng nút Back của trình duyệt, trang có thể được
+    // phục hồi nguyên trạng từ bfcache thay vì tải lại — lúc đó initTheme() ở
+    // trên không chạy lại nên theme cũ trên màn hình có thể lệch với
+    // localStorage. Đọc lại mỗi khi trang được phục hồi kiểu này.
+    window.addEventListener("pageshow", (e) => {
+      if (!e.persisted) return;
+      const palette = readPalette();
+      const scheme = palette && palette.color && palette.color.scheme;
+      if (scheme === "slate") applyTheme("dark");
+      else if (scheme === "default") applyTheme("light");
+    });
   </script>
 
   <script>
@@ -522,12 +554,13 @@
     const JSZIP_SRC = "assets/js/jszip.min.js";
     const EPUBJS_SRC = "assets/js/epub.min.js";
     const READ_TIMEOUT_MS = 20000;
-    const FONT_STORAGE_KEY = "ebook-reader-font";
-    const DEFAULT_FONT = "Georgia, 'Times New Roman', serif";
-    const FONT_OPTIONS = [
-      { value: DEFAULT_FONT, label: "Georgia (mặc định)" },
-      { value: "", label: "Theo sách" },
-    ];
+    // Luôn ép 1 font đọc duy nhất — font riêng của từng epub hay bị thiếu/lỗi
+    // khi hiển thị trong trình đọc, nên không cho chọn "theo sách" nữa.
+    const READER_FONT = "Georgia, 'Times New Roman', serif";
+    const FONT_SIZE_KEY = "ebook-reader-font-size";
+    const FONT_SIZE_STEP = 10;
+    const FONT_SIZE_MIN = 60;
+    const FONT_SIZE_MAX = 200;
 
     const VIEW_STORAGE_KEY = "ebook-view-mode";
     const listEl = document.getElementById("book-list");
@@ -708,33 +741,33 @@
     const prevBtn = document.getElementById("reader-prev");
     const nextBtn = document.getElementById("reader-next");
     const closeBtn = document.getElementById("reader-close");
-    const fontSelect = document.getElementById("reader-font");
     const tocToggleBtn = document.getElementById("reader-toc-toggle");
     const tocPanel = document.getElementById("toc-panel");
     const tocListEl = document.getElementById("toc-list");
+    const fontSizeLabel = document.getElementById("font-size-label");
+    const fontSizeDecBtn = document.getElementById("font-size-dec");
+    const fontSizeIncBtn = document.getElementById("font-size-inc");
 
-    FONT_OPTIONS.forEach(opt => {
-      const el = document.createElement("option");
-      el.value = opt.value;
-      el.textContent = opt.label;
-      fontSelect.appendChild(el);
-    });
-    fontSelect.value = localStorage.getItem(FONT_STORAGE_KEY) ?? DEFAULT_FONT;
+    let fontSize = parseInt(localStorage.getItem(FONT_SIZE_KEY), 10);
+    if (!fontSize || isNaN(fontSize)) fontSize = 100;
 
-    function applyReaderFont(family) {
-      if (!currentRendition) return;
-      if (family) {
-        currentRendition.themes.font(family);
-      } else {
-        currentRendition.themes.removeOverride("font-family");
-      }
+    function applyFontSize() {
+      fontSizeLabel.textContent = fontSize + "%";
+      if (currentRendition) currentRendition.themes.fontSize(fontSize + "%");
     }
 
-    fontSelect.addEventListener("change", () => {
-      try { localStorage.setItem(FONT_STORAGE_KEY, fontSelect.value); } catch (e) { /* ignore */ }
-      applyReaderFont(fontSelect.value);
+    fontSizeDecBtn.addEventListener("click", () => {
+      fontSize = Math.max(FONT_SIZE_MIN, fontSize - FONT_SIZE_STEP);
+      try { localStorage.setItem(FONT_SIZE_KEY, fontSize); } catch (e) { /* ignore */ }
+      applyFontSize();
+    });
+    fontSizeIncBtn.addEventListener("click", () => {
+      fontSize = Math.min(FONT_SIZE_MAX, fontSize + FONT_SIZE_STEP);
+      try { localStorage.setItem(FONT_SIZE_KEY, fontSize); } catch (e) { /* ignore */ }
+      applyFontSize();
     });
 
+    let wheelLocked = false;
     function setupReaderThemes(rendition) {
       rendition.themes.default({
         "body": {
@@ -747,7 +780,20 @@
           "text-justify": "inter-word !important",
         },
       });
-      applyReaderFont(fontSelect.value);
+      rendition.themes.font(READER_FONT);
+      applyFontSize();
+
+      // epub.js không forward sự kiện "wheel" từ iframe ra ngoài như keydown/keyup,
+      // nên phải tự gắn trực tiếp vào document của từng trang khi nó được tạo.
+      rendition.hooks.content.register((contents) => {
+        contents.document.addEventListener("wheel", (e) => {
+          if (wheelLocked) return;
+          wheelLocked = true;
+          setTimeout(() => { wheelLocked = false; }, 500);
+          if (e.deltaY > 0) rendition.next();
+          else if (e.deltaY < 0) rendition.prev();
+        }, { passive: true });
+      });
     }
 
     let lastOpened = null;
