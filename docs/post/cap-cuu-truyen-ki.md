@@ -12,7 +12,7 @@ URL:
 ---
 # Cấp cứu truyền kì
 
-![CCTK.png](../assets/img/CCTK.png)
+![CCTK.webp](../assets/img/CCTK.webp)
 
 Đi làm buổi đầu tiên, câu được hỏi nhiều nhất "sao em lại chọn cấp cứu", "đi cấp cứu làm gì", "cấp cứu khổ như thế đâm đầu vào chi"?
 
