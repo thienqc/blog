@@ -2,11 +2,14 @@
 {% extends "blog.html" %}
 
 {# A macro to render a blog entry, required. #}
+{# Post titles are h2 (not h3) because index.md's own heading is h1 "Home" —
+   jumping straight to h3 skips a level, which Lighthouse a11y flags as
+   "Heading elements are not in a sequentially-descending order". #}
 {% macro render_blog(title, description, time, url, page) -%}
 <div class="blog-post">
-    <h3 class="blog-post-title">
+    <h2 class="blog-post-title">
         <a class="link" href="{{ url }}">{{ title }}</a>
-    </h3>
+    </h2>
 
     {% if show_tags and "tags" in page.meta %}
         {% call render_tags(page.meta["tags"], index_url) %}
@@ -31,6 +34,11 @@
 <style>
     .md-typeset .blog-post-description {
         margin-bottom: 0;
+    }
+
+    /* Keep the old h3 visual size now that the tag is semantically h2 */
+    .md-typeset .blog-post-title {
+        font-size: 1.25em;
     }
 </style>
 {% endblock %}
