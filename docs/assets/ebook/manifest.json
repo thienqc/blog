@@ -4,8 +4,17 @@
     "slug": "nguoi-chung-thu-nhat-pham-dinh-khiem",
     "title": "Người Chứng Thứ Nhất",
     "author": "Phạm Đình Khiêm",
-    "description": "Nguồn: https://gpcantho.com/nguoi-chung-thu-nhat-tac-gia-pham-dinh-khiem/",
+    "description": "Cuộc đời Chân Phước Anrê Phú Yên",
     "cover": "covers/nguoi-chung-thu-nhat-pham-dinh-khiem.jpg",
     "size": 879053
+  },
+  {
+    "file": "Nguoi lu hanh thanh Loyola - Ignatius of Loyola.epub",
+    "slug": "nguoi-lu-hanh-thanh-loyola-ignatius-of-loyola",
+    "title": "NGƯỜI LỮ HÀNH THÀNH LOYOLA",
+    "author": "Ignatius of Loyola",
+    "description": "Hồi ký thánh I-nhã",
+    "cover": "covers/nguoi-lu-hanh-thanh-loyola-ignatius-of-loyola.jpg",
+    "size": 1207514
   }
 ]
