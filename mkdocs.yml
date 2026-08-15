@@ -41,6 +41,9 @@ theme:
       - search.highlight
       - navigation.footer
 
+hooks:
+  - hooks/lazy_images.py
+
 plugins:
   - search
   - autolinks
