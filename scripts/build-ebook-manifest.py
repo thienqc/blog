@@ -5,6 +5,10 @@ Run this after adding/removing an .epub file in docs/assets/ebook/, then
 commit the updated manifest.json (and any new covers/*.jpg) along with the
 epub itself. Requires Pillow (./.venv/bin/python -m pip install Pillow).
 
+Title/author/description are only auto-extracted for books not already in
+manifest.json — if you hand-edit those fields for an existing book, re-running
+this script won't overwrite them (size/cover/slug still refresh).
+
     ./.venv/bin/python scripts/build-ebook-manifest.py
 """
 import html
@@ -130,10 +134,26 @@ def main():
         json.dump([], open(MANIFEST_PATH, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
         return
 
+    existing_by_file = {}
+    if os.path.isfile(MANIFEST_PATH):
+        with open(MANIFEST_PATH, encoding="utf-8") as f:
+            for entry in json.load(f):
+                existing_by_file[entry["file"]] = entry
+
     entries = []
     for filename in epubs:
-        print(f"Đang xử lý: {filename}")
-        entries.append(process_epub(filename))
+        prior = existing_by_file.get(filename)
+        if prior:
+            print(f"Đã có sẵn, giữ nguyên tiêu đề/tác giả/mô tả: {filename}")
+            entry = process_epub(filename)
+            entry["slug"] = prior.get("slug", entry["slug"])
+            entry["title"] = prior.get("title", entry["title"])
+            entry["author"] = prior.get("author", entry["author"])
+            entry["description"] = prior.get("description", entry["description"])
+        else:
+            print(f"Sách mới, đang trích metadata: {filename}")
+            entry = process_epub(filename)
+        entries.append(entry)
 
     entries.sort(key=lambda e: e["title"].lower())
 

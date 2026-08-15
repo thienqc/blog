@@ -1,0 +1,44 @@
+/* Font đọc sách cho trình đọc epub.js (docs/ebook.html).
+   Bookerly là font độc quyền của Amazon/Kindle — không có sẵn công khai để
+   tự tải, nên các @font-face dưới đây chỉ khai báo vị trí file. Muốn dùng
+   Bookerly thật, tự thêm 4 file (lấy từ ứng dụng Kindle bạn đã cài hợp
+   pháp) vào chính thư mục này với đúng tên:
+     Bookerly-Regular.woff2 / .woff
+     Bookerly-Italic.woff2 / .woff
+     Bookerly-Bold.woff2 / .woff
+     Bookerly-BoldItalic.woff2 / .woff
+   Thiếu file thì trình duyệt tự bỏ qua, không lỗi gì — chỉ là chữ sẽ dùng
+   font dự phòng (Georgia/serif) thay vì Bookerly. */
+
+@font-face {
+  font-family: "Bookerly";
+  src: url("Bookerly-Regular.woff2") format("woff2"),
+       url("Bookerly-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Bookerly";
+  src: url("Bookerly-Italic.woff2") format("woff2"),
+       url("Bookerly-Italic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Bookerly";
+  src: url("Bookerly-Bold.woff2") format("woff2"),
+       url("Bookerly-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Bookerly";
+  src: url("Bookerly-BoldItalic.woff2") format("woff2"),
+       url("Bookerly-BoldItalic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
