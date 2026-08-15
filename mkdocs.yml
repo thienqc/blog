@@ -92,9 +92,8 @@ extra_css:
     - assets/styles/extra.css
 
 extra_javascript:
-  - assets/js/random-post.js
-  - assets/js/theme-bfcache-sync.js
-  - assets/js/tag-cloud.js
+  - path: assets/js/site.js
+    defer: true
 
 extra:
   social:
