@@ -33,3 +33,30 @@
   text-align: justify;
   text-justify: inter-word;
 }
+
+/* ======================================== */
+
+/* Tag cloud trên trang /tags/ — cỡ chữ do tag-cloud.js gán theo số bài viết,
+   phần CSS này chỉ lo bố cục + hiệu ứng, không đụng tag nhỏ ở cuối mỗi bài */
+.md-typeset .blogging-tags-grid.tag-cloud-ready {
+  gap: 10px 16px;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 0 4px;
+}
+
+.md-typeset .blogging-tags-grid.tag-cloud-ready .blogging-tag {
+  background: none;
+  line-height: 1.4;
+  transition: transform 0.15s ease, opacity 0.15s ease;
+}
+
+.md-typeset .blogging-tags-grid.tag-cloud-ready .blogging-tag code {
+  background: none;
+  padding: 0;
+}
+
+.md-typeset .blogging-tags-grid.tag-cloud-ready .blogging-tag:hover {
+  transform: scale(1.08);
+  opacity: 0.75;
+}
