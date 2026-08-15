@@ -96,6 +96,7 @@ extra_javascript:
     defer: true
 
 extra:
+  homepage: https://thienqc.github.io/
   social:
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/yds.thienqc/
