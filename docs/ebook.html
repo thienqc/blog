@@ -83,7 +83,7 @@
       color: var(--accent);
     }
 
-    #theme-toggle {
+    #theme-toggle, #view-toggle {
       background: var(--code-bg);
       border: 1px solid var(--border);
       color: var(--fg);
@@ -91,10 +91,11 @@
       padding: 0.4rem 0.7rem;
       cursor: pointer;
       font-family: inherit;
-      font-size: 1em;
+      font-size: 0.85em;
+      white-space: nowrap;
       flex-shrink: 0;
     }
-    #theme-toggle:hover {
+    #theme-toggle:hover, #view-toggle:hover {
       border-color: var(--accent);
       color: var(--accent);
     }
@@ -130,6 +131,38 @@
     }
     li.book.highlight {
       box-shadow: 0 0 0 3px var(--accent);
+    }
+
+    .book-list.view-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+      gap: 1.25rem;
+    }
+    .book-list.view-grid li.book {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      border-left: 1px solid var(--border);
+      cursor: pointer;
+    }
+    .book-list.view-grid .book-cover {
+      width: 100%;
+      height: auto;
+      aspect-ratio: 2 / 3;
+      margin: 0 0 0.5rem;
+    }
+    .book-list.view-grid .book-author,
+    .book-list.view-grid .book-description,
+    .book-list.view-grid .book-size,
+    .book-list.view-grid .book-actions {
+      display: none;
+    }
+    .book-list.view-grid .book-title {
+      font-size: 0.85em;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
     }
 
     .book-cover {
@@ -234,20 +267,21 @@
     #reader-header {
       display: flex;
       align-items: center;
-      justify-content: space-between;
       padding: 0.75rem 1rem;
       border-bottom: 1px solid var(--border);
-      gap: 1rem;
+      gap: 0.5rem;
     }
 
     #reader-title {
+      flex: 1 1 auto;
+      min-width: 0;
       font-weight: 700;
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
     }
 
-    #reader-close {
+    #reader-close, #reader-toc-toggle {
       background: transparent;
       border: none;
       color: var(--fg);
@@ -255,6 +289,61 @@
       cursor: pointer;
       line-height: 1;
       padding: 0.25rem 0.5rem;
+      flex-shrink: 0;
+    }
+    #reader-close:hover, #reader-toc-toggle:hover {
+      color: var(--accent);
+    }
+
+    #toc-panel {
+      position: absolute;
+      inset: 0 auto 0 0;
+      width: min(300px, 80%);
+      background: var(--bg);
+      border-right: 1px solid var(--border);
+      box-shadow: 0.3rem 0 1rem rgba(0, 0, 0, 0.25);
+      transform: translateX(-100%);
+      transition: transform 0.2s ease;
+      display: flex;
+      flex-direction: column;
+      z-index: 10;
+    }
+    #toc-panel.open {
+      transform: translateX(0);
+    }
+    #toc-panel-header {
+      font-weight: 700;
+      padding: 0.9rem 1rem;
+      border-bottom: 1px solid var(--border);
+    }
+    #toc-list {
+      overflow-y: auto;
+      padding: 0.5rem 0;
+    }
+    #toc-list ul {
+      list-style: none;
+      margin: 0;
+      padding-left: 1rem;
+    }
+    #toc-list > ul {
+      padding-left: 0;
+    }
+    #toc-list a {
+      display: block;
+      padding: 0.4rem 1rem;
+      color: var(--fg);
+      text-decoration: none;
+      font-size: 0.9em;
+      overflow-wrap: break-word;
+    }
+    #toc-list a:hover {
+      color: var(--accent);
+      background: var(--code-bg);
+    }
+    #toc-empty {
+      padding: 1rem;
+      color: var(--fg-muted);
+      font-size: 0.9em;
     }
 
     #reader-body {
@@ -337,7 +426,10 @@
         <h1>Kho ebook</h1>
         <p class="subtitle">Đọc trực tiếp trên trình duyệt hoặc tải file .epub về máy.</p>
       </div>
-      <button id="theme-toggle" aria-label="Đổi sáng/tối" title="Đổi sáng/tối">◐</button>
+      <div style="display:flex; gap:0.5rem; flex-shrink:0;">
+        <button id="view-toggle" aria-label="Đổi kiểu xem" title="Đổi kiểu xem"></button>
+        <button id="theme-toggle" aria-label="Đổi sáng/tối" title="Đổi sáng/tối">◐</button>
+      </div>
     </div>
     <a class="back-link" href="./">← Quay lại trang blog</a>
 
@@ -348,6 +440,7 @@
   <div id="reader-overlay">
     <div id="reader-modal">
       <div id="reader-header">
+        <button id="reader-toc-toggle" aria-label="Mục lục" title="Mục lục">☰</button>
         <div id="reader-title"></div>
         <button id="reader-close" aria-label="Đóng">&times;</button>
       </div>
@@ -356,6 +449,10 @@
         <div id="reader-loading">
           <span id="reader-loading-text">Đang tải sách...</span>
           <button class="btn btn-outline retry-btn" id="reader-retry">Thử lại</button>
+        </div>
+        <div id="toc-panel">
+          <div id="toc-panel-header">Mục lục</div>
+          <div id="toc-list"></div>
         </div>
       </div>
       <div id="reader-nav">
@@ -424,14 +521,31 @@
     const ASSET_BASE = "assets/ebook/";
     const JSZIP_SRC = "assets/js/jszip.min.js";
     const EPUBJS_SRC = "assets/js/epub.min.js";
-    const READING_FONTS_CSS = new URL("assets/fonts/reading-fonts.css", location.href).href;
     const READ_TIMEOUT_MS = 20000;
     const FONT_STORAGE_KEY = "ebook-reader-font";
+    const DEFAULT_FONT = "Georgia, 'Times New Roman', serif";
     const FONT_OPTIONS = [
-      { value: "", label: "Theo sách (mặc định)" },
-      { value: "Bookerly, Georgia, 'Times New Roman', serif", label: "Bookerly" },
-      { value: "Georgia, 'Times New Roman', serif", label: "Georgia" },
+      { value: DEFAULT_FONT, label: "Georgia (mặc định)" },
+      { value: "", label: "Theo sách" },
     ];
+
+    const VIEW_STORAGE_KEY = "ebook-view-mode";
+    const listEl = document.getElementById("book-list");
+    const viewToggleBtn = document.getElementById("view-toggle");
+
+    function applyViewMode(mode) {
+      listEl.classList.toggle("view-grid", mode === "grid");
+      viewToggleBtn.textContent = mode === "grid" ? "📋 Chi tiết" : "🖼 Chỉ bìa";
+    }
+
+    let viewMode = localStorage.getItem(VIEW_STORAGE_KEY) || "detail";
+    applyViewMode(viewMode);
+
+    viewToggleBtn.addEventListener("click", () => {
+      viewMode = viewMode === "grid" ? "detail" : "grid";
+      applyViewMode(viewMode);
+      try { localStorage.setItem(VIEW_STORAGE_KEY, viewMode); } catch (e) { /* ignore */ }
+    });
 
     function formatSize(bytes) {
       if (bytes < 1024 * 1024) return (bytes / 1024).toFixed(0) + " KB";
@@ -440,7 +554,6 @@
 
     async function loadBooks() {
       const statusEl = document.getElementById("status");
-      const listEl = document.getElementById("book-list");
       try {
         const res = await fetch(MANIFEST_URL);
         if (!res.ok) throw new Error(`Không đọc được manifest.json (${res.status})`);
@@ -458,6 +571,11 @@
           const li = document.createElement("li");
           li.className = "book";
           li.id = book.slug;
+          li.addEventListener("click", () => {
+            if (listEl.classList.contains("view-grid")) {
+              openReader(url, book.title || book.file);
+            }
+          });
 
           if (book.cover) {
             const img = document.createElement("img");
@@ -591,6 +709,9 @@
     const nextBtn = document.getElementById("reader-next");
     const closeBtn = document.getElementById("reader-close");
     const fontSelect = document.getElementById("reader-font");
+    const tocToggleBtn = document.getElementById("reader-toc-toggle");
+    const tocPanel = document.getElementById("toc-panel");
+    const tocListEl = document.getElementById("toc-list");
 
     FONT_OPTIONS.forEach(opt => {
       const el = document.createElement("option");
@@ -598,7 +719,7 @@
       el.textContent = opt.label;
       fontSelect.appendChild(el);
     });
-    fontSelect.value = localStorage.getItem(FONT_STORAGE_KEY) || "";
+    fontSelect.value = localStorage.getItem(FONT_STORAGE_KEY) ?? DEFAULT_FONT;
 
     function applyReaderFont(family) {
       if (!currentRendition) return;
@@ -615,8 +736,6 @@
     });
 
     function setupReaderThemes(rendition) {
-      // Font-face của Bookerly (nếu bạn đã thêm file) luôn được nạp vào mọi
-      // trang sách qua theme "default", vì theme "default" luôn được inject.
       rendition.themes.default({
         "body": {
           "text-align": "justify !important",
@@ -628,12 +747,46 @@
           "text-justify": "inter-word !important",
         },
       });
-      rendition.themes.register("reading-fonts", READING_FONTS_CSS);
-      rendition.themes.select("reading-fonts");
       applyReaderFont(fontSelect.value);
     }
 
     let lastOpened = null;
+
+    function renderTocLevel(items) {
+      const ul = document.createElement("ul");
+      items.forEach(item => {
+        const li = document.createElement("li");
+        const a = document.createElement("a");
+        a.href = "#";
+        a.textContent = (item.label || "").trim() || item.href;
+        a.addEventListener("click", (e) => {
+          e.preventDefault();
+          if (currentRendition) currentRendition.display(item.href);
+          tocPanel.classList.remove("open");
+        });
+        li.appendChild(a);
+        if (item.subitems && item.subitems.length) {
+          li.appendChild(renderTocLevel(item.subitems));
+        }
+        ul.appendChild(li);
+      });
+      return ul;
+    }
+
+    function loadToc(book) {
+      tocListEl.innerHTML = "";
+      book.loaded.navigation.then(nav => {
+        if (!nav.toc || nav.toc.length === 0) {
+          tocListEl.innerHTML = '<div id="toc-empty">Sách này không có mục lục.</div>';
+          return;
+        }
+        tocListEl.appendChild(renderTocLevel(nav.toc));
+      }).catch(() => {
+        tocListEl.innerHTML = '<div id="toc-empty">Không đọc được mục lục.</div>';
+      });
+    }
+
+    tocToggleBtn.addEventListener("click", () => tocPanel.classList.toggle("open"));
 
     async function openReader(url, title) {
       lastOpened = { url, title };
@@ -642,11 +795,13 @@
       loadingEl.classList.remove("hidden", "error");
       loadingTextEl.textContent = "Đang tải sách...";
       overlay.classList.add("open");
+      tocPanel.classList.remove("open");
       document.getElementById("viewer").innerHTML = "";
 
       try {
         await withTimeout(ensureReaderLibs(), READ_TIMEOUT_MS, "Không tải được thư viện đọc sách (quá thời gian chờ).");
         currentBook = ePub(url);
+        loadToc(currentBook);
         currentRendition = currentBook.renderTo("viewer", { width: "100%", height: "100%" });
         setupReaderThemes(currentRendition);
         currentRendition.on("keyup", handleReaderKey);
@@ -669,6 +824,8 @@
 
     function closeReader() {
       overlay.classList.remove("open");
+      tocPanel.classList.remove("open");
+      tocListEl.innerHTML = "";
       if (currentRendition) {
         currentRendition.destroy();
         currentRendition = null;
