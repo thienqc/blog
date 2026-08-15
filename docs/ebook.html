@@ -6,6 +6,7 @@
   <title>Kho ebook</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=JetBrains+Mono:300,300i,400,400i,700,700i%7CJetBrains+Mono:400,400i,700,700i&display=fallback">
   <style>
+    /* Light palette (default) — matches Material indigo/slate theme in mkdocs.yml */
     :root {
       --bg: #fff;
       --fg: #000000de;
@@ -15,8 +16,9 @@
       --accent: #526cfe;
       --accent-dark: #3d54e0;
     }
+    /* System dark mode, unless an explicit light/dark override is set below */
     @media (prefers-color-scheme: dark) {
-      :root {
+      :root:not([data-theme="light"]) {
         --bg: hsla(225, 15%, 14%, 1);
         --fg: hsla(225, 15%, 90%, 0.82);
         --fg-muted: hsla(225, 15%, 90%, 0.56);
@@ -25,6 +27,16 @@
         --accent: #526cfe;
         --accent-dark: #6b81ff;
       }
+    }
+    /* Explicit override synced from the main site's light/dark toggle */
+    :root[data-theme="dark"] {
+      --bg: hsla(225, 15%, 14%, 1);
+      --fg: hsla(225, 15%, 90%, 0.82);
+      --fg-muted: hsla(225, 15%, 90%, 0.56);
+      --border: hsla(225, 15%, 90%, 0.12);
+      --code-bg: hsla(225, 15%, 18%, 1);
+      --accent: #526cfe;
+      --accent-dark: #6b81ff;
     }
 
     * { box-sizing: border-box; }
@@ -40,7 +52,7 @@
     }
 
     .wrap {
-      max-width: 760px;
+      max-width: 820px;
       margin: 0 auto;
     }
 
@@ -74,21 +86,35 @@
 
     li.book {
       display: flex;
-      justify-content: space-between;
-      align-items: center;
-      flex-wrap: wrap;
-      gap: 0.75rem 1rem;
+      gap: 1rem;
       padding: 1rem 1.25rem;
-      margin-bottom: 0.75rem;
+      margin-bottom: 0.9rem;
       background: var(--code-bg);
       border: 1px solid var(--border);
       border-left: 0.2rem solid var(--accent);
       border-radius: 0 6px 6px 0;
+      scroll-margin-top: 1.5rem;
+      transition: box-shadow 0.3s ease;
+    }
+    li.book.highlight {
+      box-shadow: 0 0 0 3px var(--accent);
     }
 
-    .book-info {
-      min-width: 0;
+    .book-cover {
+      flex: 0 0 auto;
+      width: 64px;
+      height: 92px;
+      object-fit: cover;
+      border-radius: 4px;
+      background: var(--border);
+    }
+
+    .book-main {
       flex: 1 1 auto;
+      min-width: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 0.3rem;
     }
 
     .book-title {
@@ -101,24 +127,31 @@
       font-size: 0.95em;
     }
 
+    .book-description {
+      font-size: 0.88em;
+      color: var(--fg-muted);
+      overflow-wrap: break-word;
+    }
+
     .book-size {
       color: var(--fg-muted);
-      font-size: 0.85em;
+      font-size: 0.8em;
     }
 
     .book-actions {
       display: flex;
       gap: 0.5rem;
-      flex-shrink: 0;
+      flex-wrap: wrap;
+      margin-top: 0.3rem;
     }
 
     .btn {
-      padding: 0.5rem 1rem;
+      padding: 0.4rem 0.9rem;
       border-radius: 6px;
       text-decoration: none;
       white-space: nowrap;
       font-family: inherit;
-      font-size: 0.9em;
+      font-size: 0.85em;
       border: none;
       cursor: pointer;
     }
@@ -131,12 +164,12 @@
       background: var(--accent-dark);
     }
 
-    .btn-download {
+    .btn-outline {
       background: transparent;
       color: var(--accent);
       border: 1px solid var(--accent);
     }
-    .btn-download:hover {
+    .btn-outline:hover {
       background: var(--accent);
       color: #fff;
     }
@@ -203,6 +236,31 @@
       inset: 0;
     }
 
+    #reader-loading {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.75rem;
+      color: var(--fg-muted);
+      text-align: center;
+      padding: 1rem;
+    }
+    #reader-loading.hidden {
+      display: none;
+    }
+    #reader-loading .retry-btn {
+      display: none;
+    }
+    #reader-loading.error .retry-btn {
+      display: inline-block;
+    }
+    #reader-loading.error {
+      color: #e6695b;
+    }
+
     #reader-nav {
       display: flex;
       justify-content: space-between;
@@ -247,6 +305,10 @@
       </div>
       <div id="reader-body">
         <div id="viewer"></div>
+        <div id="reader-loading">
+          <span id="reader-loading-text">Đang tải sách...</span>
+          <button class="btn btn-outline retry-btn" id="reader-retry">Thử lại</button>
+        </div>
       </div>
       <div id="reader-nav">
         <button id="reader-prev">‹ Trang trước</button>
@@ -257,59 +319,90 @@
   </div>
 
   <script>
-    const REPO = "thienqc/blog";
-    const BRANCH = "main";
-    const DIR_PATH = "docs/assets/ebook";
+    // ---- sync với light/dark của trang chính (Material for MkDocs) ----
+    (function () {
+      try {
+        var scope = new URL(".", location);
+        var raw = localStorage.getItem(scope.pathname + ".__palette");
+        if (!raw) return;
+        var palette = JSON.parse(raw);
+        var scheme = palette && palette.color && palette.color.scheme;
+        if (scheme === "slate") {
+          document.documentElement.setAttribute("data-theme", "dark");
+        } else if (scheme === "default") {
+          document.documentElement.setAttribute("data-theme", "light");
+        }
+      } catch (e) { /* giữ theo prefers-color-scheme nếu đọc lỗi */ }
+    })();
+  </script>
+
+  <script>
+    const MANIFEST_URL = "assets/ebook/manifest.json";
     const ASSET_BASE = "assets/ebook/";
-    const EPUBJS_CDN = "https://cdn.jsdelivr.net/npm/epubjs/dist/epub.min.js";
+    const JSZIP_SRC = "assets/js/jszip.min.js";
+    const EPUBJS_SRC = "assets/js/epub.min.js";
+    const READ_TIMEOUT_MS = 20000;
 
     function formatSize(bytes) {
       if (bytes < 1024 * 1024) return (bytes / 1024).toFixed(0) + " KB";
       return (bytes / (1024 * 1024)).toFixed(1) + " MB";
     }
 
-    function parseNameFromFile(filename) {
-      const base = filename.replace(/\.epub$/i, "");
-      const parts = base.split(" - ");
-      if (parts.length >= 2) {
-        const author = parts.pop().trim();
-        const title = parts.join(" - ").trim();
-        return { title, author };
-      }
-      return { title: base.trim(), author: "" };
-    }
-
     async function loadBooks() {
       const statusEl = document.getElementById("status");
       const listEl = document.getElementById("book-list");
       try {
-        const apiUrl = `https://api.github.com/repos/${REPO}/contents/${DIR_PATH}?ref=${BRANCH}`;
-        const res = await fetch(apiUrl);
-        if (!res.ok) throw new Error(`GitHub API trả về lỗi ${res.status}`);
-        const files = await res.json();
-        const epubs = files.filter(f => f.type === "file" && /\.epub$/i.test(f.name));
+        const res = await fetch(MANIFEST_URL);
+        if (!res.ok) throw new Error(`Không đọc được manifest.json (${res.status})`);
+        const books = await res.json();
 
-        if (epubs.length === 0) {
+        if (!Array.isArray(books) || books.length === 0) {
           statusEl.textContent = "Chưa có ebook nào.";
           return;
         }
 
-        epubs.sort((a, b) => a.name.localeCompare(b.name, "vi"));
-
-        epubs.forEach(file => {
-          const { title, author } = parseNameFromFile(file.name);
-          const url = ASSET_BASE + encodeURIComponent(file.name);
+        books.forEach(book => {
+          const url = ASSET_BASE + encodeURIComponent(book.file);
+          const shareUrl = new URL(`#${book.slug}`, location.href).href;
 
           const li = document.createElement("li");
           li.className = "book";
+          li.id = book.slug;
 
-          const info = document.createElement("div");
-          info.className = "book-info";
-          info.innerHTML = `
-            <div class="book-title">${title}</div>
-            ${author ? `<div class="book-author">${author}</div>` : ""}
-            <div class="book-size">${formatSize(file.size)}</div>
-          `;
+          if (book.cover) {
+            const img = document.createElement("img");
+            img.className = "book-cover";
+            img.src = ASSET_BASE + book.cover.split("/").map(encodeURIComponent).join("/");
+            img.alt = book.title || book.file;
+            li.appendChild(img);
+          }
+
+          const main = document.createElement("div");
+          main.className = "book-main";
+
+          const titleEl = document.createElement("div");
+          titleEl.className = "book-title";
+          titleEl.textContent = book.title || book.file;
+          main.appendChild(titleEl);
+
+          if (book.author) {
+            const authorEl = document.createElement("div");
+            authorEl.className = "book-author";
+            authorEl.textContent = book.author;
+            main.appendChild(authorEl);
+          }
+
+          if (book.description) {
+            const descEl = document.createElement("div");
+            descEl.className = "book-description";
+            descEl.textContent = book.description;
+            main.appendChild(descEl);
+          }
+
+          const sizeEl = document.createElement("div");
+          sizeEl.className = "book-size";
+          sizeEl.textContent = formatSize(book.size || 0);
+          main.appendChild(sizeEl);
 
           const actions = document.createElement("div");
           actions.className = "book-actions";
@@ -317,75 +410,123 @@
           const readBtn = document.createElement("button");
           readBtn.className = "btn btn-read";
           readBtn.textContent = "Đọc";
-          readBtn.addEventListener("click", () => openReader(url, title));
+          readBtn.addEventListener("click", () => openReader(url, book.title || book.file));
 
           const dlLink = document.createElement("a");
-          dlLink.className = "btn btn-download";
+          dlLink.className = "btn btn-outline";
           dlLink.href = url;
           dlLink.textContent = "Tải về";
-          dlLink.setAttribute("download", file.name);
+          dlLink.setAttribute("download", book.file);
+
+          const copyBtn = document.createElement("button");
+          copyBtn.className = "btn btn-outline";
+          copyBtn.textContent = "Copy link";
+          copyBtn.addEventListener("click", () => copyLink(copyBtn, shareUrl));
 
           actions.appendChild(readBtn);
           actions.appendChild(dlLink);
+          actions.appendChild(copyBtn);
+          main.appendChild(actions);
 
-          li.appendChild(info);
-          li.appendChild(actions);
+          li.appendChild(main);
           listEl.appendChild(li);
         });
 
         statusEl.remove();
+        scrollToHashBook();
       } catch (err) {
         statusEl.classList.add("error");
-        statusEl.textContent = `Không tải được danh sách ebook (${err.message}). Xem trực tiếp trên GitHub: `;
-        const link = document.createElement("a");
-        link.href = `https://github.com/${REPO}/tree/${BRANCH}/${DIR_PATH}`;
-        link.textContent = link.href;
-        statusEl.appendChild(link);
+        statusEl.textContent = `Không tải được danh sách ebook: ${err.message}`;
       }
     }
 
-    // ---- epub.js reader ----
-    let epubjsPromise = null;
-    function ensureEpubJs() {
-      if (window.ePub) return Promise.resolve();
-      if (!epubjsPromise) {
-        epubjsPromise = new Promise((resolve, reject) => {
-          const script = document.createElement("script");
-          script.src = EPUBJS_CDN;
-          script.onload = resolve;
-          script.onerror = () => reject(new Error("Không tải được thư viện đọc epub"));
-          document.head.appendChild(script);
-        });
+    function scrollToHashBook() {
+      const slug = location.hash.slice(1);
+      if (!slug) return;
+      const el = document.getElementById(slug);
+      if (!el) return;
+      el.scrollIntoView({ behavior: "smooth", block: "center" });
+      el.classList.add("highlight");
+      setTimeout(() => el.classList.remove("highlight"), 2000);
+    }
+
+    async function copyLink(btn, url) {
+      const original = btn.textContent;
+      try {
+        await navigator.clipboard.writeText(url);
+        btn.textContent = "Đã copy!";
+      } catch (e) {
+        btn.textContent = "Không copy được";
       }
-      return epubjsPromise;
+      setTimeout(() => { btn.textContent = original; }, 1500);
+    }
+
+    // ---- epub.js reader (vendored local: jszip.min.js + epub.min.js) ----
+    let scriptsPromise = null;
+    function loadScript(src) {
+      return new Promise((resolve, reject) => {
+        const script = document.createElement("script");
+        script.src = src;
+        script.onload = resolve;
+        script.onerror = () => reject(new Error(`Không tải được ${src}`));
+        document.head.appendChild(script);
+      });
+    }
+    function ensureReaderLibs() {
+      if (window.ePub) return Promise.resolve();
+      if (!scriptsPromise) {
+        scriptsPromise = loadScript(JSZIP_SRC).then(() => loadScript(EPUBJS_SRC));
+      }
+      return scriptsPromise;
+    }
+
+    function withTimeout(promise, ms, message) {
+      let timer;
+      const timeout = new Promise((_, reject) => {
+        timer = setTimeout(() => reject(new Error(message)), ms);
+      });
+      return Promise.race([promise, timeout]).finally(() => clearTimeout(timer));
     }
 
     let currentBook = null;
     let currentRendition = null;
 
     const overlay = document.getElementById("reader-overlay");
-    const titleEl = document.getElementById("reader-title");
+    const titleEl2 = document.getElementById("reader-title");
     const statusEl2 = document.getElementById("reader-status");
+    const loadingEl = document.getElementById("reader-loading");
+    const loadingTextEl = document.getElementById("reader-loading-text");
+    const retryBtn = document.getElementById("reader-retry");
     const prevBtn = document.getElementById("reader-prev");
     const nextBtn = document.getElementById("reader-next");
     const closeBtn = document.getElementById("reader-close");
 
+    let lastOpened = null;
+
     async function openReader(url, title) {
-      titleEl.textContent = title;
-      statusEl2.textContent = "Đang tải sách...";
+      lastOpened = { url, title };
+      titleEl2.textContent = title;
+      statusEl2.textContent = "";
+      loadingEl.classList.remove("hidden", "error");
+      loadingTextEl.textContent = "Đang tải sách...";
       overlay.classList.add("open");
+      document.getElementById("viewer").innerHTML = "";
 
       try {
-        await ensureEpubJs();
-        document.getElementById("viewer").innerHTML = "";
+        await withTimeout(ensureReaderLibs(), READ_TIMEOUT_MS, "Không tải được thư viện đọc sách (quá thời gian chờ).");
         currentBook = ePub(url);
         currentRendition = currentBook.renderTo("viewer", { width: "100%", height: "100%" });
-        await currentRendition.display();
-        statusEl2.textContent = "";
+        await withTimeout(currentRendition.display(), READ_TIMEOUT_MS, "Tải nội dung sách quá lâu, có thể do mạng chậm.");
+        loadingEl.classList.add("hidden");
       } catch (err) {
-        statusEl2.textContent = `Lỗi: ${err.message}`;
+        loadingEl.classList.add("error");
+        loadingTextEl.textContent = err.message || "Có lỗi khi mở sách.";
       }
     }
+
+    retryBtn.addEventListener("click", () => {
+      if (lastOpened) openReader(lastOpened.url, lastOpened.title);
+    });
 
     function closeReader() {
       overlay.classList.remove("open");

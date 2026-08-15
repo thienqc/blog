@@ -1,2 +1,4 @@
 .vscode/settings.json
 .obsidian/*
+.venv/
+site/
