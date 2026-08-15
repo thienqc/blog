@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kho ebook</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=JetBrains+Mono:300,300i,400,400i,700,700i%7CJetBrains+Mono:400,400i,700,700i&display=fallback">
+  <style>
+    :root {
+      --bg: #fff;
+      --fg: #000000de;
+      --fg-muted: #0000008a;
+      --border: #00000012;
+      --code-bg: #f5f5f5;
+      --accent: #526cfe;
+      --accent-dark: #3d54e0;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: hsla(225, 15%, 14%, 1);
+        --fg: hsla(225, 15%, 90%, 0.82);
+        --fg-muted: hsla(225, 15%, 90%, 0.56);
+        --border: hsla(225, 15%, 90%, 0.12);
+        --code-bg: hsla(225, 15%, 18%, 1);
+        --accent: #526cfe;
+        --accent-dark: #6b81ff;
+      }
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--fg);
+      font-family: 'JetBrains Mono', SFMono-Regular, Consolas, Menlo, monospace;
+      line-height: 1.7;
+      letter-spacing: -0.02em;
+      padding: 2.5rem 1.25rem 4rem;
+    }
+
+    .wrap {
+      max-width: 760px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      font-weight: 700;
+      letter-spacing: -0.04em;
+      margin-bottom: 0.2rem;
+    }
+
+    p.subtitle {
+      color: var(--fg-muted);
+      margin-top: 0;
+    }
+
+    #status {
+      color: var(--fg-muted);
+      margin: 1.25rem 0;
+    }
+    #status.error {
+      color: #e6695b;
+    }
+    #status a {
+      color: var(--accent);
+    }
+
+    ul.book-list {
+      list-style: none;
+      padding: 0;
+      margin: 1.5rem 0;
+    }
+
+    li.book {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.75rem 1rem;
+      padding: 1rem 1.25rem;
+      margin-bottom: 0.75rem;
+      background: var(--code-bg);
+      border: 1px solid var(--border);
+      border-left: 0.2rem solid var(--accent);
+      border-radius: 0 6px 6px 0;
+    }
+
+    .book-info {
+      min-width: 0;
+      flex: 1 1 auto;
+    }
+
+    .book-title {
+      font-weight: 700;
+      overflow-wrap: break-word;
+    }
+
+    .book-author {
+      color: var(--fg-muted);
+      font-size: 0.95em;
+    }
+
+    .book-size {
+      color: var(--fg-muted);
+      font-size: 0.85em;
+    }
+
+    .book-actions {
+      display: flex;
+      gap: 0.5rem;
+      flex-shrink: 0;
+    }
+
+    .btn {
+      padding: 0.5rem 1rem;
+      border-radius: 6px;
+      text-decoration: none;
+      white-space: nowrap;
+      font-family: inherit;
+      font-size: 0.9em;
+      border: none;
+      cursor: pointer;
+    }
+
+    .btn-read {
+      background: var(--accent);
+      color: #fff;
+    }
+    .btn-read:hover {
+      background: var(--accent-dark);
+    }
+
+    .btn-download {
+      background: transparent;
+      color: var(--accent);
+      border: 1px solid var(--accent);
+    }
+    .btn-download:hover {
+      background: var(--accent);
+      color: #fff;
+    }
+
+    /* Reader modal */
+    #reader-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.6);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+    }
+    #reader-overlay.open {
+      display: flex;
+    }
+
+    #reader-modal {
+      background: var(--bg);
+      width: min(900px, 94vw);
+      height: min(720px, 90vh);
+      border-radius: 8px;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      box-shadow: 0 0.5rem 2rem rgba(0, 0, 0, 0.4);
+    }
+
+    #reader-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0.75rem 1rem;
+      border-bottom: 1px solid var(--border);
+      gap: 1rem;
+    }
+
+    #reader-title {
+      font-weight: 700;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    #reader-close {
+      background: transparent;
+      border: none;
+      color: var(--fg);
+      font-size: 1.3em;
+      cursor: pointer;
+      line-height: 1;
+      padding: 0.25rem 0.5rem;
+    }
+
+    #reader-body {
+      flex: 1;
+      position: relative;
+      min-height: 0;
+    }
+
+    #viewer {
+      position: absolute;
+      inset: 0;
+    }
+
+    #reader-nav {
+      display: flex;
+      justify-content: space-between;
+      padding: 0.6rem 1rem;
+      border-top: 1px solid var(--border);
+    }
+
+    #reader-nav button {
+      background: var(--code-bg);
+      border: 1px solid var(--border);
+      color: var(--fg);
+      border-radius: 6px;
+      padding: 0.4rem 1rem;
+      cursor: pointer;
+      font-family: inherit;
+    }
+    #reader-nav button:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    #reader-status {
+      color: var(--fg-muted);
+      font-size: 0.85em;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Kho ebook</h1>
+    <p class="subtitle">Đọc trực tiếp trên trình duyệt hoặc tải file .epub về máy.</p>
+
+    <div id="status">Đang tải danh sách...</div>
+    <ul class="book-list" id="book-list"></ul>
+  </div>
+
+  <div id="reader-overlay">
+    <div id="reader-modal">
+      <div id="reader-header">
+        <div id="reader-title"></div>
+        <button id="reader-close" aria-label="Đóng">&times;</button>
+      </div>
+      <div id="reader-body">
+        <div id="viewer"></div>
+      </div>
+      <div id="reader-nav">
+        <button id="reader-prev">‹ Trang trước</button>
+        <span id="reader-status"></span>
+        <button id="reader-next">Trang sau ›</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const REPO = "thienqc/blog";
+    const BRANCH = "main";
+    const DIR_PATH = "docs/assets/ebook";
+    const ASSET_BASE = "assets/ebook/";
+    const EPUBJS_CDN = "https://cdn.jsdelivr.net/npm/epubjs/dist/epub.min.js";
+
+    function formatSize(bytes) {
+      if (bytes < 1024 * 1024) return (bytes / 1024).toFixed(0) + " KB";
+      return (bytes / (1024 * 1024)).toFixed(1) + " MB";
+    }
+
+    function parseNameFromFile(filename) {
+      const base = filename.replace(/\.epub$/i, "");
+      const parts = base.split(" - ");
+      if (parts.length >= 2) {
+        const author = parts.pop().trim();
+        const title = parts.join(" - ").trim();
+        return { title, author };
+      }
+      return { title: base.trim(), author: "" };
+    }
+
+    async function loadBooks() {
+      const statusEl = document.getElementById("status");
+      const listEl = document.getElementById("book-list");
+      try {
+        const apiUrl = `https://api.github.com/repos/${REPO}/contents/${DIR_PATH}?ref=${BRANCH}`;
+        const res = await fetch(apiUrl);
+        if (!res.ok) throw new Error(`GitHub API trả về lỗi ${res.status}`);
+        const files = await res.json();
+        const epubs = files.filter(f => f.type === "file" && /\.epub$/i.test(f.name));
+
+        if (epubs.length === 0) {
+          statusEl.textContent = "Chưa có ebook nào.";
+          return;
+        }
+
+        epubs.sort((a, b) => a.name.localeCompare(b.name, "vi"));
+
+        epubs.forEach(file => {
+          const { title, author } = parseNameFromFile(file.name);
+          const url = ASSET_BASE + encodeURIComponent(file.name);
+
+          const li = document.createElement("li");
+          li.className = "book";
+
+          const info = document.createElement("div");
+          info.className = "book-info";
+          info.innerHTML = `
+            <div class="book-title">${title}</div>
+            ${author ? `<div class="book-author">${author}</div>` : ""}
+            <div class="book-size">${formatSize(file.size)}</div>
+          `;
+
+          const actions = document.createElement("div");
+          actions.className = "book-actions";
+
+          const readBtn = document.createElement("button");
+          readBtn.className = "btn btn-read";
+          readBtn.textContent = "Đọc";
+          readBtn.addEventListener("click", () => openReader(url, title));
+
+          const dlLink = document.createElement("a");
+          dlLink.className = "btn btn-download";
+          dlLink.href = url;
+          dlLink.textContent = "Tải về";
+          dlLink.setAttribute("download", file.name);
+
+          actions.appendChild(readBtn);
+          actions.appendChild(dlLink);
+
+          li.appendChild(info);
+          li.appendChild(actions);
+          listEl.appendChild(li);
+        });
+
+        statusEl.remove();
+      } catch (err) {
+        statusEl.classList.add("error");
+        statusEl.textContent = `Không tải được danh sách ebook (${err.message}). Xem trực tiếp trên GitHub: `;
+        const link = document.createElement("a");
+        link.href = `https://github.com/${REPO}/tree/${BRANCH}/${DIR_PATH}`;
+        link.textContent = link.href;
+        statusEl.appendChild(link);
+      }
+    }
+
+    // ---- epub.js reader ----
+    let epubjsPromise = null;
+    function ensureEpubJs() {
+      if (window.ePub) return Promise.resolve();
+      if (!epubjsPromise) {
+        epubjsPromise = new Promise((resolve, reject) => {
+          const script = document.createElement("script");
+          script.src = EPUBJS_CDN;
+          script.onload = resolve;
+          script.onerror = () => reject(new Error("Không tải được thư viện đọc epub"));
+          document.head.appendChild(script);
+        });
+      }
+      return epubjsPromise;
+    }
+
+    let currentBook = null;
+    let currentRendition = null;
+
+    const overlay = document.getElementById("reader-overlay");
+    const titleEl = document.getElementById("reader-title");
+    const statusEl2 = document.getElementById("reader-status");
+    const prevBtn = document.getElementById("reader-prev");
+    const nextBtn = document.getElementById("reader-next");
+    const closeBtn = document.getElementById("reader-close");
+
+    async function openReader(url, title) {
+      titleEl.textContent = title;
+      statusEl2.textContent = "Đang tải sách...";
+      overlay.classList.add("open");
+
+      try {
+        await ensureEpubJs();
+        document.getElementById("viewer").innerHTML = "";
+        currentBook = ePub(url);
+        currentRendition = currentBook.renderTo("viewer", { width: "100%", height: "100%" });
+        await currentRendition.display();
+        statusEl2.textContent = "";
+      } catch (err) {
+        statusEl2.textContent = `Lỗi: ${err.message}`;
+      }
+    }
+
+    function closeReader() {
+      overlay.classList.remove("open");
+      if (currentRendition) {
+        currentRendition.destroy();
+        currentRendition = null;
+      }
+      if (currentBook) {
+        currentBook.destroy();
+        currentBook = null;
+      }
+      document.getElementById("viewer").innerHTML = "";
+    }
+
+    closeBtn.addEventListener("click", closeReader);
+    overlay.addEventListener("click", (e) => {
+      if (e.target === overlay) closeReader();
+    });
+    prevBtn.addEventListener("click", () => currentRendition && currentRendition.prev());
+    nextBtn.addEventListener("click", () => currentRendition && currentRendition.next());
+    document.addEventListener("keydown", (e) => {
+      if (!overlay.classList.contains("open")) return;
+      if (e.key === "ArrowLeft") currentRendition && currentRendition.prev();
+      if (e.key === "ArrowRight") currentRendition && currentRendition.next();
+      if (e.key === "Escape") closeReader();
+    });
+
+    loadBooks();
+  </script>
+</body>
+</html>
