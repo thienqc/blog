@@ -7,7 +7,9 @@ comments: true
 tags:
   - XV23
 date: 2023-12-29
-description:
+description: Về lại SG
+category:
+  - toi-di
 ---
 # XV23 - ngày 28 • SG  
 *19/12/2023*  

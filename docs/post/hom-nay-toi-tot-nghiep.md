@@ -5,10 +5,10 @@ comments: true
 tags:
   - Sisyphus
 date: 2023-10-21
-URL:
-description:
 aliases:
   - Hôm nay tôi tốt nghiệp
+category:
+  - toi-cam
 ---
 # Hôm nay tôi tốt nghiệp  
   
@@ -16,3 +16,9 @@ Sau 6 năm học đằng đẵng, cuối cùng mình cũng đã đẩy được 
   
 Nhưng trên hết...  
   
+> [!Example] Xem thêm   
+ > - [Lời nhắn nhủ của Mr. Thanh](./loi-nhan-nhu-cua-mr-thanh.md)  
+ > - [Những thách thức của bác sĩ trẻ thời nay?](./nhung-thach-thuc-cua-bac-si-tre-thoi-nay.md)  
+ > - [CHỌN NHẦM NGHỀ THÌ PHẢI LÀM SAO???](./chon-nham-nghe-thi-phai-lam-sao.md)  
+ > - [ĐƯỢC LÀM VIỆC MÌNH THÍCH THÌ CẢM THẤY RA SAO?](./duoc-lam-viec-minh-thich-thi-cam-thay-ra-sao.md)  
+ > - [Mặt trái của nghề BS tại Mỹ](./mat-trai-cua-nghe-BS-tai-my.md)

@@ -6,7 +6,8 @@ tags:
   - rubik
 date: 2026-07-16
 URL: Phương pháp giải Rubik chỉ cần nhớ 1 công thức
-description:
+category:
+  - toi-hoc
 ---
 # Sexy move method  
   
@@ -69,3 +70,5 @@ Nếu đã quen thì có thể kết hợp bước 2 - 3 thành một.
 - Ngược chiều kim đồng hồ: R1 - L1 - R5 - L5  
 - Cùng chiều kim đồng hồ: L1 - R1 - L5 - R5  
   
+> [!Example] Xem thêm   
+ > - [Giải rubik 4x4x4](./giai-rubik-4x4x4.md)

@@ -7,7 +7,9 @@ comments: true
 tags:
   - XV23
 date: 2023-12-14
-description:
+description: Biết thêm 1 người bạn "già"
+category:
+  - toi-di
 ---
 # XV23 - ngày 13 • Phở & cà phê  
   

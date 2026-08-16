@@ -8,6 +8,8 @@ tags:
   - XV23
 date: 2023-12-28
 description:
+category:
+  - toi-di
 ---
 # XV23 - ngày 27 • Ngày mưa  
 *26/12/2023*  

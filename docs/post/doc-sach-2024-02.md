@@ -4,11 +4,11 @@ comments: true
 filename: doc-sach-2024-02
 aliases:
   - Đọc sách (2024.02)
-description:
 tags:
   - DocSach
 date: 2024-02-29
-URL:
+category:
+  - toi-doc
 ---
 # Đọc sách - T02.2024  
   

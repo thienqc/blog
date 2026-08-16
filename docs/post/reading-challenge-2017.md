@@ -8,7 +8,8 @@ description:
 tags:
   - DocSach
 date: 2024-01-20
-URL:
+category:
+  - toi-doc
 ---
 # Reading challenge 2017  
 Bước vào đại học, tập tành đọc sách, khởi đầu bằng những quyển đọc trong khi học quân sự: [Cà phê cùng Tony](../../C%C3%A0%20Ph%C3%AA%20C%C3%B9ng%20Tony.md), [Tuổi Trẻ Đáng Giá Bao Nhiêu](../../Tu%E1%BB%95i%20Tr%E1%BA%BB%20%C4%90%C3%A1ng%20Gi%C3%A1%20Bao%20Nhi%C3%AAu.md), ...  
@@ -31,3 +32,6 @@ Bước vào đại học, tập tành đọc sách, khởi đầu bằng nhữn
 - Trí Tuệ Do Thái  
 - Triệu Phú Khu Ổ Chuột  
 - [Tuổi Trẻ Đáng Giá Bao Nhiêu](../../Tu%E1%BB%95i%20Tr%E1%BA%BB%20%C4%90%C3%A1ng%20Gi%C3%A1%20Bao%20Nhi%C3%AAu.md) ⭐  
+  
+  
+> **[Reading challenge](./reading-challenge.md) 👉 [2018](./reading-challenge-2018.md)**

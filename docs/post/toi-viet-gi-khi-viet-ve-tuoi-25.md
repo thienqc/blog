@@ -9,6 +9,8 @@ description: Lại một năm nữa trôi qua, vào ngày này tôi càng muốn
 aliases:
   - Tôi viết gì khi viết về tuổi 25
 filename: toi-viet-gi-khi-viet-ve-tuoi-25
+category:
+  - toi-cam
 ---
 # Tôi viết gì khi viết về tuổi 25  
   
@@ -28,4 +30,6 @@ Nhìn những người anh em xung quanh, con chợt nghĩ, mình phải làm g
   
 Tuổi 25, tôi không còn băn khoăn trước những bước đi trong cuộc đời mình.  
   
-  
+> [!Example] Xem thêm   
+> - [Tôi viết gì ở tuổi 26](./toi-viet-gi-o-tuoi-26.md)  
+> - [Hai bảy](./hai-bay.md)

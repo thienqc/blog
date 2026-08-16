@@ -8,6 +8,8 @@ tags:
   - XV23
 date: 2023-12-10
 description: Đi tìm bình yên
+category:
+  - toi-di
 ---
 # XV23 - ngày 09 • Bình yên nơi đâu?  
 *10/12/2023*  

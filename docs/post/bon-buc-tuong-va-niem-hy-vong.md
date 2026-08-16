@@ -7,8 +7,8 @@ share: true
 tags:
   - film
 date: 2025-03-05
-URL:
-description:
+category:
+  - toi-cam
 ---
 # Bốn bức tường và niềm hy vọng   
   

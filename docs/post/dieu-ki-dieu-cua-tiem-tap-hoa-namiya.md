@@ -11,7 +11,6 @@ tags:
   - Reading_challenge_RC_2021
   - Detective
   - favorite
-  - KhoSach
 Type:
   - Book
 Last_Read: 2021-03-04
@@ -21,6 +20,8 @@ date: 2021-03-04
 aliases:
   - Namiya
   - Điều Kỳ Diệu Của Tiệm Tạp Hoá Namiya
+category:
+  - toi-doc
 ---
 # Điều Kỳ Diệu Của Tiệm Tạp Hóa Namiya  
 [Author:: [Keigo Higashino](../../Keigo%20Higashino.md)] - (Publication_Year:: 2012)  
@@ -33,5 +34,6 @@ Một đêm vội vã lẩn trốn sau phi vụ khoắng đồ nhà người, At
 Tài kể chuyện hơn người đã giúp Keigo khéo léo thay đổi các mốc dấu thời gian và không gian, chắp nối những câu chuyện tưởng chừng hoàn toàn riêng rẽ thành một kết cấu chặt chẽ, gây bất ngờ từ đầu tới cuối.  
 ```  
   
----  
-[Review Điều kì diệu của tiệm tạp hoá Namiya](./review-dieu-ki-dieu-cua-tiem-tap-hoa-namiya.md)  
+  
+> [!Example] Xem thêm   
+ > - [Review Điều kì diệu của tiệm tạp hoá Namiya](./review-dieu-ki-dieu-cua-tiem-tap-hoa-namiya.md)  

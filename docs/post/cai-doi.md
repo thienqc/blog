@@ -9,6 +9,8 @@ tags:
   - life
   - MAGIS
 date: 2026-06-17
+category:
+  - toi-cam
 ---
 # Cái đói  
   

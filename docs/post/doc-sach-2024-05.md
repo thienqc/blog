@@ -4,11 +4,11 @@ comments: true
 filename: doc-sach-2024-05
 aliases:
   - Đọc sách (2024.05)
-description:
 tags:
   - DocSach
 date: 2024-05-31
-URL:
+category:
+  - toi-doc
 ---
 # Đọc sách - T05.2024  
   

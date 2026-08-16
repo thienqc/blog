@@ -8,6 +8,8 @@ description: Không có tình thương nào cao cả hơn tình thương của n
 tags:
   - life
 date: 2026-08-14
+category:
+  - toi-cam
 ---
 # Chết vì yêu  
   
@@ -21,6 +23,6 @@ Hôm qua mình đọc [Người chứng thứ nhất](https://thienqc.github.io/
   
 > *“Hãy giữ nghĩa cùng Chúa Giêsu cho đến hết hơi, cho đến trọn đời”.*  
   
-Tuần trước mình đi hành hương tới Tắc Sậy để viếng mộ Chân Phước Phanxico Xavie Trương Bửu Diệp, Ngài cũng đã dám đứng ra để chết thay cho những người giáo dân của mình chăm sóc, xứng với câu *"sống giữa đoàn chiên và chết giữa đoàn chiên".*.  
+Tuần trước mình đi hành hương tới Tắc Sậy để viếng mộ Chân Phước Phanxico Xavie Trương Bửu Diệp, Ngài cũng đã dám đứng ra để chết thay cho những người giáo dân của mình chăm sóc, xứng với câu *"sống giữa đoàn chiên và chết giữa đoàn chiên".*  
   
-Tất cả những gương mẫu trên đều được hưởng phúc trên Trời, đều trở nên đồng hình đồng dạng với thầy Giêsu, Đấng mà họ theo đuổi đến tận hết hơi thở cuối cùng, Đấng chết trên Thập Giá để đền tội cho loài người chúng ta.
+Tất cả những gương mẫu trên đều được hưởng phúc trên Trời, đều trở nên đồng hình đồng dạng với thầy Giêsu, Đấng mà họ theo đuổi đến tận hết hơi thở cuối cùng, Đấng chịu chết trên Thập Giá để đền tội cho loài người chúng ta.

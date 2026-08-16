@@ -5,12 +5,15 @@ comments: true
 tags:
   - DucMe
 date: 2023-10-04
-URL: 
-description: 
 aliases:
   - Ba mệnh lệnh Fatima
+category:
+  - toi-cam
 ---
-# Ba mệnh lệnh Fatima
-- Ăn năn đền tội
-- Cải thiện đời sống
-- Lần chuỗi Mân Côi
+# Ba mệnh lệnh Fatima  
+- Ăn năn đền tội  
+- Cải thiện đời sống  
+- Lần chuỗi Mân Côi  
+  
+> [!Example] Xem thêm   
+ > - [Bí mật kinh Mân Côi](./bi-mat-kinh-man-coi.md)

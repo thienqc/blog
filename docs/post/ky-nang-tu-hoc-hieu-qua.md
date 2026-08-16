@@ -2,14 +2,15 @@
 filename: ky-nang-tu-hoc-hieu-qua
 aliases:
   - Kỹ năng tự học hiệu quả
-description:
-URL:
 share: true
 comments: true
 date: 2023-05-21
 tags:
   - self-study
   - Reference
+category:
+  - toi-luu
+  - toi-hoc
 ---
 # Kỹ năng tự học hiệu quả  
   

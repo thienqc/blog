@@ -7,8 +7,8 @@ comments: true
 tags:
   - DocSach
 date: 2023-10-31
-URL:
-description:
+category:
+  - toi-doc
 ---
 # Đọc sách - T10.2023  
 Tháng này mình đọc chỉ 2 cuốn, vì bận lễ [tốt nghiệp](./hom-nay-toi-tot-nghiep.md), cũng như đam mê bộ môn Sinh tồn  
@@ -30,6 +30,7 @@ Nghe giống kiểu "Làm công việc mình yêu thích thì cả đời sẽ k
 > Cho dù là một tuyến manh mối đều không thể nào hoàn thành được mục tiêu, nhưng điểm giao nhau của bao nhiêu tuyển manh mối này, chính là chỗ gần chân tướng sự thật nhất.”  
   
 Cái này làm mình liên tưởng tới việc học, mình kết nối nhiều điểm chấm lại với nhau để tìm ra SỰ THẬT.  
+  
   
 > [!Example] Xem thêm  
 > - [Reading challenge](./reading-challenge.md)

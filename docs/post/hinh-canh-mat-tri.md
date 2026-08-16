@@ -4,7 +4,6 @@ comments: true
 filename: hinh-canh-mat-tri
 aliases:
   - Hình cảnh mất trí
-description:
 tags:
   - Reading_challenge_RC_2024
   - Detective
@@ -16,6 +15,8 @@ Total_Pages: 256
 type:
   - Book
 Last_Read: 2024-02-16
+category:
+  - toi-doc
 ---
 # Hình cảnh mất trí  
 [Author::[Chan Ho kei](../../Chan%20Ho%20kei.md)] - (Publication_Year:: 2011)  

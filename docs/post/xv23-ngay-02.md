@@ -8,6 +8,8 @@ tags:
   - XV23
 date: 2023-12-03
 description: LangBiang
+category:
+  - toi-di
 ---
 # XV23 - ngày 02 • LangBiang  
   

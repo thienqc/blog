@@ -16,6 +16,8 @@ Total_Pages: 348
 type:
   - Book
 Last_Read: 2024-02-17
+category:
+  - toi-doc
 ---
 # Vòng đu quay đêm  
 [Author::[Kanae Minato](../../Kanae%20Minato.md)] - (Publication_Year:: 2010)  

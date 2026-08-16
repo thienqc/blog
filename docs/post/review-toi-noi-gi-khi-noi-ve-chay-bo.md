@@ -10,6 +10,8 @@ share: true
 comments: true
 aliases:
   - Review Tôi nói gì khi nói về chạy bộ
+category:
+  - toi-doc
 ---
 # Review Tôi nói gì khi nói về chạy bộ  
   

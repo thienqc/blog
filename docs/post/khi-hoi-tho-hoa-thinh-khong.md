@@ -13,21 +13,21 @@ tags:
   - KhoSach
   - quote
 date: 2023-11-12
-URL:
-description:
+description: Hồi kí của một bác sĩ cũng là một bệnh nhân, mình đã đọc 5 ln
 Cover: Khi Hơi Thở Hóa Thinh Không-1764255990981.webp
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 236
 Type:
   - Book
 Last_Read: 2021-10-18
+category:
+  - toi-doc
 ---
 # Khi hơi thở hoá thinh không  
 [Author:: [Paul Kalanithi](../../Paul%20Kalanithi.md)] - (Publication_Year:: 2016)  
   
 ![Khi Hơi Thở Hóa Thinh Không-1764255990981.webp](../assets/img/Khi%20H%C6%A1i%20Th%E1%BB%9F%20H%C3%B3a%20Thinh%20Kh%C3%B4ng-1764255990981.webp)  
   
-Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21171&authkey=!ACRGB9N6rol-1bQ)  
   
 ---  
 ## Highlights  

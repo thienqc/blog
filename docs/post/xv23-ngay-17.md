@@ -7,7 +7,9 @@ comments: true
 tags:
   - XV23
 date: 2023-12-18
-description:
+description: Bike trip
+category:
+  - toi-di
 ---
 # XV23 - ngày 17 • Hà Giang  
   

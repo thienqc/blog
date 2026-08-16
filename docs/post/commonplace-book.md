@@ -6,8 +6,8 @@ tags:
   - PKM
   - ideas
 date: 2023-10-17
-URL:
-description:
+category:
+  - toi-hoc
 ---
 # Commonplace Book  
   

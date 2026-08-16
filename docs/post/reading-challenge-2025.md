@@ -7,6 +7,8 @@ aliases:
 tags:
   - DocSach
 date: 2025-12-31
+category:
+  - toi-doc
 ---
 # Reading challenge 2025  
   
@@ -41,7 +43,7 @@ Trong cuốn sách, nhân vật chính là thanh tra Alan Grant đã dùng chín
   
 *Một quyển sách của một tác giả mới*  
   
-Mỗi khi muốn đọc trinh thám mình lại tìm về những tác giả châu Á như Keigo, Lôi Mễ, Tần Minh,... . Vì thế để đổi gió, mình đã tìm đến Erle Stanley Gardner - được ghi nhận là tác giả sách bán chạy nhất của mọi thời đại[^2]. Ông đã tạo ra nhân vật luật sư Perry Mason với cách suy luận phá án độc đáo, một phần do tác giả cũng là luật sư ở đời thật. Mình đọc được [Tiếng chó tru trong đêm](./tieng-cho-tru-trong-dem.md) và [Móng vuốt bọc nhung](./mong-vuot-boc-nhung.md), nhưng không tiếp tục đọc tiếp những chuyện khác vì cách viết của tác giả khá là mì-ăn-liền.  
+Mỗi khi muốn đọc trinh thám mình lại tìm về những tác giả châu Á như Keigo, Lôi Mễ, Tần Minh,... . Vì thế để đổi gió, mình đã tìm đến Erle Stanley Gardner - được ghi nhận là tác giả sách bán chạy nhất của mọi thời đại[^2]. Ông đã tạo ra nhân vật luật sư Perry Mason với cách suy luận phá án độc đáo, một phần do tác giả cũng là luật sư ở đời thật. Mình đọc được [Tiếng chó tru trong đêm](../../tieng-cho-tru-trong-dem.md) và [Móng vuốt bọc nhung](../../mong-vuot-boc-nhung.md), nhưng không tiếp tục đọc tiếp những chuyện khác vì cách viết của tác giả khá là mì-ăn-liền.  
   
 ## 1.4 Read a book that's the first in a series  
   
@@ -57,7 +59,7 @@ Có đọc lại quyển nào đâu :)) Tạch.
   
 *Một quyển sách về siêu anh hùng*  
   
-Một siêu anh hùng là như thế nào? Đọc [Răng khôn](./rang-khon.md) của Lôi Mễ để biết rằng đời thường cũng có siêu anh hùng chứ không phải chỉ trên phim ảnh, truyện tranh. Bất kỳ ai trong chúng ta cũng có thể trở thành "siêu anh hùng" nếu dám giữ vững lương tâm giữa một thế giới đầy biến động.  
+Một siêu anh hùng là như thế nào? Đọc [Răng khôn](../../rang-khon.md) của Lôi Mễ để biết rằng đời thường cũng có siêu anh hùng chứ không phải chỉ trên phim ảnh, truyện tranh. Bất kỳ ai trong chúng ta cũng có thể trở thành "siêu anh hùng" nếu dám giữ vững lương tâm giữa một thế giới đầy biến động.  
 ## 2.2 Read a book a friend loves  
   
 *Một quyển sách mà một người bạn thích*  
@@ -91,7 +93,7 @@ Hai năm trước mình có xem một bộ phim về một chàng trai 'bỏ ph�
   
 *Một quyển sách có hình một con vật trên bìa*  
   
-Là sách của Keigo lại thuộc seri Cảnh sát Kaga, không cần nói gì hơn về chất lượng của [Người mới đến](./nguoi-moi-den.md). Liệu chú chó Shiba trong trang bìa có đóng vai trò quan trọng như chú mèo ở truyện Ác ý cùng seri không? Đọc xong sẽ biết.  
+Là sách của Keigo lại thuộc seri Cảnh sát Kaga, không cần nói gì hơn về chất lượng của [Người mới đến](../../nguoi-moi-den.md). Liệu chú chó Shiba trong trang bìa có đóng vai trò quan trọng như chú mèo ở truyện Ác ý cùng seri không? Đọc xong sẽ biết.  
   
 ## 3.2 Read a book with a flashlight  
   
@@ -107,7 +109,7 @@ Yeah, được ngôi sao.
   
 *Một quyển sách với thể loại mới*  
   
-Có những câu chuyện chỉ dám thì thầm to nhỏ trong ngõ. Nếu không ai nhắc nhở chắc chắn cả đời bạn sẽ chẳng để tâm. [Những chuyện kỳ bí trong ngõ hẹp](./nhung-chuyen-ky-bi-trong-ngo-hep.md) có nhiều mẩu chuyện nhỏ khác nhau. Với màu sắc u ám, ma quỷ hiện hình, bí thuật lừa đảo, lòng tham của con người, tất cả được người này người kia truyền miệng, thì thầm trong ngõ nhỏ. (*trích lời giới thiệu của quyển sách*).  
+Có những câu chuyện chỉ dám thì thầm to nhỏ trong ngõ. Nếu không ai nhắc nhở chắc chắn cả đời bạn sẽ chẳng để tâm. [Những chuyện kỳ bí trong ngõ hẹp](../../nhung-chuyen-ky-bi-trong-ngo-hep.md) có nhiều mẩu chuyện nhỏ khác nhau. Với màu sắc u ám, ma quỷ hiện hình, bí thuật lừa đảo, lòng tham của con người, tất cả được người này người kia truyền miệng, thì thầm trong ngõ nhỏ. (*trích lời giới thiệu của quyển sách*).  
   
 ## 4.1 Read a book about nature  
   
@@ -154,7 +156,7 @@ Một khi đã yêu ai thì việc tìm hiểu tất tần tật về người �
   
 *Một quyển sách về tình yêu*  
   
-[Phố tan màn đêm](./pho-tan-man-dem.md) là tác phẩm của Keigo, nhưng mình đọc thấy mang dáng dấp của Murakami. Keigo thì viết trinh thám, thế sao mình lại xếp quyển này vào hạng mục sách cho tình yêu?  
+[Phố tan màn đêm](../../pho-tan-man-dem.md) là tác phẩm của Keigo, nhưng mình đọc thấy mang dáng dấp của Murakami. Keigo thì viết trinh thám, thế sao mình lại xếp quyển này vào hạng mục sách cho tình yêu?  
   
 > *Tôi từng xem những kẻ ngoại tình là không ra gì. Oái oăm thay, tôi phải nói lời đó với chính mình...*  
   
@@ -168,8 +170,8 @@ Tính ra được 4 bingo đấy chứ, cũng cũng.
   
 Một số quyển sách chưa được nhắc tên:  
   
-- Lôi Mễ: [nang-tien-ca](./nang-tien-ca.md)  
-- Keigo Higashino: [giac-mo-tien-tri](./giac-mo-tien-tri.md), [noi-niem-cua-tham-tu-galileo](./noi-niem-cua-tham-tu-galileo.md), [thien-nga-va-doi](./thien-nga-va-doi.md)  
+- Lôi Mễ: [nang-tien-ca](../../nang-tien-ca.md)  
+- Keigo Higashino: [giac-mo-tien-tri](../../giac-mo-tien-tri.md), [noi-niem-cua-tham-tu-galileo](../../noi-niem-cua-tham-tu-galileo.md), [thien-nga-va-doi](../../thien-nga-va-doi.md)  
 - Agatha Christie: [muoi-nguoi-da-den-nho](./muoi-nguoi-da-den-nho.md)  
 - Jeffery Deaver: [Buồng khử](../../Bu%E1%BB%93ng%20kh%E1%BB%AD.md), [A Textbook Case](../../A%20Textbook%20Case.md), [Kẻ tầm da](../../K%E1%BA%BB%20t%E1%BA%A7m%20da.md)  
 - Edogawa Rampo: [Chiec-ghe-nguoi](../../Chiec-ghe-nguoi.md)  
@@ -177,8 +179,8 @@ Một số quyển sách chưa được nhắc tên:
   
 --> Toàn trinh thám thôi he :v  
   
+> **[2024](./reading-challenge-2024.md) 👈 [Reading challenge](./reading-challenge.md)**  
+  
 ---  
-  
-  
 [^1]: [Rev Up Reading Routines With a Free Book Bingo Printable \| Scholastic](https://www.scholastic.com/parents/books-and-reading/reading-resources/free-book-bingo-idea-to-rev-up-reading.html)  
 [^2]: [Erle Stanley Gardner \| Trang Trinh Thám](https://trangtrinhtham.wordpress.com/2018/09/01/erle-stanley-gardner/)

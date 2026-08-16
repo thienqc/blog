@@ -8,6 +8,8 @@ tags:
   - SaintOfTheDay
 date: 2023-10-02
 description: Các Thiên thần Bản mệnh
+category:
+  - toi-cam
 ---
 # 02.10 | Các Thiên thần Bản mệnh  
 *The Guardian Angels*  
@@ -41,4 +43,4 @@ Nguồn: [Feast of the Guardian Angels | Franciscan Media](https://www.francisca
   
   
 > [!Example] Xem thêm  
-> [Các phẩm Thiên Thần](./cac-pham-thien-than.md)
+> - [Các phẩm Thiên Thần](./cac-pham-thien-than.md)

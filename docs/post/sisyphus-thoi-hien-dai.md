@@ -9,6 +9,8 @@ comments: true
 description: Cuộc sống là một hành trình... đẩy đá
 aliases:
   - Sisyphus thời hiện đại
+category:
+  - toi-cam
 ---
 # Sisyphus thời hiện đại  
   
@@ -27,7 +29,7 @@ Nếu cùng đích cuộc đời là đi tìm ý nghĩa cuộc sống
   
 > [!quote] Quote  
 > "Con hãy tận hưởng những đường vòng nho nhỏ đó hết mình nhé. Vì con sẽ tìm thấy những thứ quan trọng hơn điều con muốn."  
-> ~ Ging nói với Gon trong [Hunter x Hunter](../../Hunter%20x%20Hunter.md).  
+> ~ Ging nói với Gon trong [Hunter x Hunter](Hunter%20x%20Hunter.md).  
   
 ### Kết  
 Albert Camus đã viết trong tiểu luận [Thần thoại Sisyphus](./than-thoai-sisyphus.md):  

@@ -3,24 +3,21 @@ filename: cau-chuyen-dong-song
 share: true
 comments: true
 date: 2023-11-11
-URL:
-description:
 Cover: Câu chuyện dòng sông-1756728893967.webp
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 254
 tags:
-  - KhoSach
   - Reading_challenge_RC_2023
 type:
   - Book
 Last_Read: 2023-11-11
+category:
+  - toi-doc
 ---
 # Câu chuyện dòng sông  
 [Author::[Hermann Hesse](Hermann%20Hesse.md)] - (Publication_Year:: 1922)  
   
 ![Câu chuyện dòng sông-1756728893967.webp](../assets/img/C%C3%A2u%20chuy%E1%BB%87n%20d%C3%B2ng%20s%C3%B4ng-1756728893967.webp)  
-  
-Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21170&authkey=!ANI7OD63zRkeG30)  
   
 ---  
   

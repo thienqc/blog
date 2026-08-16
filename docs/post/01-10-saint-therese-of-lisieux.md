@@ -9,7 +9,8 @@ tags:
   - SaintOfTheDay
 date: 2024-10-01
 URL: https://www.franciscanmedia.org/saint-of-the-day/saint-therese-of-lisieux/
-description:
+category:
+  - toi-cam
 ---
 # 01.10 | Saint Thérèse of Lisieux  
   
@@ -55,7 +56,6 @@ Priests
 ### Quote  
   
 > “Tôi làm như mấy đứa bé chưa biết đọc. Tôi nói với Chúa cách đơn sơ điều tôi muốn nói với Người, và Người luôn nghe tôi.”  
-  
   
   
 Source: [Saint Thérèse of Lisieux | Franciscan Media](https://www.franciscanmedia.org/saint-of-the-day/saint-therese-of-lisieux/)  

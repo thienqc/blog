@@ -1,21 +1,20 @@
 ---
 comments: true
 filename: doi-net-lich-su-dong-ten-tap-1
-aliases:
 share: true
 date: 2024-05-13
 tags:
   - IHS
   - Reading_challenge_RC_2024
   - SachThiengLieng
-URL:
-description:
 Cover: Đôi nét lịch sử Dòng Tên - Thời kì khai sinh và phát triển-1764380365497.webp
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 300
 type:
   - Book
 Last_Read: 2024-05-13
+category:
+  - toi-doc
 ---
 # Đôi nét lịch sử Dòng Tên - Thời kì khai sinh và phát triển  
 [Author::[Hoàng Sóc Sơn, S.J.](Ho%C3%A0ng%20S%C3%B3c%20S%C6%A1n,%20S.J..md)] - (Publication_Year:: 2007)  

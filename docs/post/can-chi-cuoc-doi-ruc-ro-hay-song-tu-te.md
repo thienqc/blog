@@ -5,6 +5,8 @@ filename: can-chi-cuoc-doi-ruc-ro-hay-song-tu-te
 tags:
   - life
 date: 2026-04-26
+category:
+  - toi-cam
 ---
 # Cần chi cuộc đời rực rỡ, hãy sống tử tế  
   
