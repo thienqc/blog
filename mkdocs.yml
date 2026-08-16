@@ -4,6 +4,15 @@ site_url: https://thienqc.github.io/blog/
 site_author: thienqc
 copyright: Copyright &copy; 2026 thienqc
 
+# No explicit `nav:` - left auto-generated on purpose. An explicit nav
+# (tried first, see git history) has to list every page it wants prev/
+# next-linked; leaving post/'s ~290 files out of it to keep the 5
+# category pages as a clean top-level tab bar also silently killed the
+# "previous/next post" footer links (they only exist between pages that
+# are actually in nav). Auto-nav keeps that working and still surfaces
+# the 5 category pages (and Tags) in the sidebar automatically, same as
+# tags.md already does - just alphabetically ordered, not curated.
+
 theme:
     name: material
     custom_dir: overrides
@@ -40,9 +49,11 @@ theme:
       - search.suggest
       - search.highlight
       - navigation.footer
+      - navigation.indexes
 
 hooks:
   - hooks/lazy_images.py
+  - hooks/categories.py
   - hooks/posts_index.py
 
 plugins:
@@ -60,6 +71,11 @@ plugins:
       time_format: ' %d-%m-%Y '
 
 markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - admonition
   - pymdownx.details
   - pymdownx.superfences

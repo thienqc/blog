@@ -10,17 +10,15 @@
     <h2 class="blog-post-title">
         <a class="link" href="{{ url }}">{{ title }}</a>
     </h2>
-
     {% if show_tags and "tags" in page.meta %}
         {% call render_tags(page.meta["tags"], index_url) %}
         {% endcall %}
     {% endif %}
-
     <p class="blog-post-description">
         {{ description }}
     </p>
     <div class="blog-post-extra">
-        Updated on  
+        Cập nhật ngày  
         <span>{{ time }}</span>
     </div>
     <hr />
@@ -34,6 +32,7 @@
 <style>
     .md-typeset .blog-post-description {
         margin-bottom: 0;
+        font-style: italic;
     }
 
     /* Keep the old h3 visual size now that the tag is semantically h2 */
