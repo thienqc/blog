@@ -9,6 +9,8 @@ tags:
 date: 2023-09-27
 aliases:
   - Mất cân bằng
+category:
+  - toi-cam
 ---
 # Mất cân bằng  
 ## Một số biểu hiện cho thấy mất cân bằng  
