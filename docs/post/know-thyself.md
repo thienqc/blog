@@ -8,12 +8,13 @@ comments: true
 tags:
   - manga
 date: 2023-10-02
-URL:
 description: Biết chính mình
+category:
+  - toi-hoc
 ---
 # Know thyself (Γνώθι σαυτόν)  
   
-![](https://i.imgur.com/zaYZAUd.jpg)  
+![|654x939](https://i.imgur.com/zaYZAUd.jpg)  
   
 ## Shuumatsu no valkyrie chap 82  
   
