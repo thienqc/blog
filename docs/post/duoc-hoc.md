@@ -6,7 +6,6 @@ aliases:
   - Được học
 description:
 date: 2024-01-10
-URL:
 Cover: Được học-1761045957418.webp
 Rating: ⭐⭐⭐⭐
 Total_Pages: 445
@@ -16,13 +15,13 @@ tags:
 Type:
   - Book
 Last_Read: 2023-12-16
+category:
+  - toi-doc
 ---
 # Được học  
 [Author:: [Tara Westover](Tara%20Westover.md)] - (Publication_Year:: 2018)  
   
 ![|296x475](https://i.imgur.com/dAQu5hN.jpg)  
-  
-Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21175&authkey=!AK2mO29UK6HW1kU)  
   
 ---  
 ## Nội dung  
