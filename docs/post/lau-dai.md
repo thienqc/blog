@@ -13,13 +13,13 @@ Last_Read: 2020-08-18
 date: 2023-10-12
 share: true
 comments: true
+category:
+  - toi-doc
 ---
 # Lâu Đài  
 [Author:: [Franz Kafka](../../Franz%20Kafka.md)] - (Publication_Year:: 1926)  
   
 ![|289x475](https://i.imgur.com/wUtFgZJ.jpg)  
-  
-Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21160&authkey=!ANZOabvl6www7fM)  
   
 ---  
   
