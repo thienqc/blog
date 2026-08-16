@@ -46,6 +46,28 @@
     {% if not config.theme.palette is mapping %}
       {% include "partials/javascripts/palette.html" %}
     {% endif %}
+    {#- Dropdown listing the 5 categories, right next to the palette
+        toggle - pure CSS (checkbox hack, same pattern Material itself
+        uses for search/drawer), no extra JS. -#}
+    <div class="md-header__option md-category-menu">
+      <input class="md-toggle" type="checkbox" id="__categories" autocomplete="off">
+      <label class="md-header__button md-icon" title="Chuyên mục" for="__categories">
+        {% include ".icons/material/chevron-down.svg" %}
+      </label>
+      <label class="md-category-menu__overlay" for="__categories"></label>
+      <div class="md-category-menu__inner">
+        {#- nav.homepage.url directly, not config.extra.homepage - that
+            override points the logo/title at the external personal
+            site (see mkdocs.yml), but "Bắt đầu" here means this blog's
+            own index.md. -#}
+        <a href="{{ nav.homepage.url | url }}">{% include ".icons/material/home.svg" %} Bắt đầu</a>
+        <a href="{{ 'toi-di/' | url }}">{% include ".icons/material/walk.svg" %} Tôi đi</a>
+        <a href="{{ 'toi-doc/' | url }}">{% include ".icons/material/book-open-page-variant.svg" %} Tôi đọc</a>
+        <a href="{{ 'toi-hoc/' | url }}">{% include ".icons/material/brain.svg" %} Tôi học</a>
+        <a href="{{ 'toi-cam/' | url }}">{% include ".icons/material/heart.svg" %} Tôi cảm</a>
+        <a href="{{ 'khac/' | url }}">{% include ".icons/material/dots-horizontal-circle.svg" %} Khác</a>
+      </div>
+    </div>
     {% if config.extra.alternate %}
       {% include "partials/alternate.html" %}
     {% endif %}
