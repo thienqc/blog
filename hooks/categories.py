@@ -10,7 +10,8 @@ publishing posts from Obsidian) always pushes straight into docs/post/
 and can't be told to push elsewhere.
 
 So instead, a post opts into a category via a plain `category: <slug>`
-front-matter field; anything missing/unrecognized defaults to "khac".
+front-matter field - or a list, `category: [<slug>, <slug>]`, to appear
+in more than one. Anything missing/unrecognized defaults to "khac".
 Category pages (docs/toi-di.md etc.) contain a `{{ category_content
 <slug> }}` placeholder that gets swapped for a rendered post list.
 
@@ -78,10 +79,11 @@ def on_files(files, config):
 def on_page_content(html, page, config, files):
     if "date" not in page.meta:
         return html
-    key = page.meta.get("category") or "khac"
-    if key not in CATEGORY_LABELS:
-        key = "khac"
-    _posts_by_category[key].append(page)
+    raw = page.meta.get("category")
+    raw = raw if isinstance(raw, list) else [raw]
+    keys = [k for k in raw if k in CATEGORY_LABELS] or ["khac"]
+    for key in keys:
+        _posts_by_category[key].append(page)
     return html
 
 

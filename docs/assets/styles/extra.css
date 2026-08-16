@@ -12,12 +12,14 @@
   letter-spacing: -0.04em;
 }
 
-/* Tùy chỉnh nhẹ khung trích dẫn blockquote cho giống giao diện lập trình */
+/* Blockquote tinh giản: chỉ viền trái, không nền, giữ nguyên độ tương
+   phản chữ như văn bản thường (--md-default-fg-color--light trước đó
+   quá nhạt, khó đọc — nền màu code trước đây thì lại giống code block) */
 .md-typeset blockquote {
   border-left: 0.2rem solid var(--md-accent-fg-color);
-  background-color: var(--md-code-bg-color);
-  padding: 12px 20px;
-  border-radius: 0 4px 4px 0;
+  background-color: transparent;
+  padding: 4px 20px;
+  border-radius: 0;
 }
 
 /* ======================================== */
@@ -78,4 +80,85 @@
    nên phải dùng :has() để chọn ngược lên <li> (grid item thật sự). */
 .md-typeset .grid.cards > ul > li:has(> p.wide) {
   grid-column: span 2;
+}
+
+/* Material's own auto-fit grid columns (minmax(min(100%,16rem),1fr))
+   should already collapse to 1 column on narrow screens, but in
+   practice ends up splitting into 2 uneven columns on phones - force a
+   single column below ~600px so cards don't get squeezed/wrap badly. */
+@media screen and (max-width: 37.5em) {
+  /* The <ul> is display:contents (Material collapses it out of the box
+     tree so <li> become direct grid items) - the real grid container is
+     .grid.cards itself, so that's what needs the override, not the ul. */
+  .md-typeset .grid.cards {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ======================================== */
+
+/* Dropdown next to the palette toggle listing the 5 categories - pure
+   CSS checkbox hack (#__categories), same pattern Material itself uses
+   for the drawer/search toggles, no extra JS needed. */
+.md-category-menu {
+  position: relative;
+}
+
+.md-category-menu__overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 2;
+}
+
+.md-category-menu__inner {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  z-index: 3;
+  min-width: 10rem;
+  margin-top: 0.4rem;
+  padding: 0.4rem 0;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  border-radius: 0.2rem;
+  box-shadow: var(--md-shadow-z2);
+  display: flex;
+  flex-direction: column;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-0.4rem);
+  transition: opacity 0.2s, transform 0.2s, visibility 0.2s;
+}
+
+#__categories:checked ~ .md-category-menu__overlay {
+  display: block;
+}
+
+#__categories:checked ~ .md-category-menu__inner {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.md-category-menu__inner a {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.5rem 0.8rem;
+  color: var(--md-default-fg-color);
+  font-size: 0.7rem;
+  text-decoration: none;
+}
+
+.md-category-menu__inner a:hover {
+  background: var(--md-default-fg-color--lightest);
+  color: var(--md-accent-fg-color);
+}
+
+.md-category-menu__inner a svg {
+  width: 1.1rem;
+  height: 1.1rem;
+  fill: currentColor;
+  flex-shrink: 0;
 }
