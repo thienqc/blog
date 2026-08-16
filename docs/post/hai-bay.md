@@ -9,6 +9,8 @@ tags:
   - Reflection
   - SinhNhat
 date: 2026-01-02
+category:
+  - toi-cam
 ---
 # Hai bảy  
   
@@ -32,4 +34,9 @@ Vậy đến năm 37 tuổi, tôi sẽ thế nào? Tôi có viết được mộ
   
 Có một điều tôi tin chắc hơn trước đây: cuộc đời tôi không chỉ là chuỗi những lựa chọn ngẫu nhiên. Nhìn lại những khúc quanh, những lần đổi hướng, những mất mát và cả những bất ngờ, tôi dần nhận ra có một bàn tay âm thầm dẫn dắt tôi. Tôi tin rằng Chúa có một kế hoạch đặc biệt cho cuộc sống của tôi - một kế hoạch không phải lúc nào cũng dễ hiểu, nhưng là một kế hoạch tốt đẹp.  
   
-> “Vì chính Ta biết các kế hoạch Ta định làm cho các ngươi – sấm ngôn của ĐỨC CHÚA - kế hoạch thịnh vượng, chứ không phải tai ương, để các ngươi có một tương lai và một niềm hy vọng.” **(Gr 29,11)**
+> “Vì chính Ta biết các kế hoạch Ta định làm cho các ngươi – sấm ngôn của ĐỨC CHÚA - kế hoạch thịnh vượng, chứ không phải tai ương, để các ngươi có một tương lai và một niềm hy vọng.” **(Gr 29,11)**  
+  
+  
+> [!Example] Xem thêm   
+ > - [Tôi viết gì khi viết về tuổi 25](./toi-viet-gi-khi-viet-ve-tuoi-25.md)  
+ > - [Tôi viết gì ở tuổi 26](./toi-viet-gi-o-tuoi-26.md)

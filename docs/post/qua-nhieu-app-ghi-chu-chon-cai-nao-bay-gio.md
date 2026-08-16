@@ -9,6 +9,8 @@ URL:
 description:
 aliases:
   - Quá nhiều app ghi chú, chọn cái nào bây giờ
+category:
+  - toi-hoc
 ---
 # Quá nhiều app ghi chú, chọn cái nào bây giờ  
   

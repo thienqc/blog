@@ -8,7 +8,8 @@ description:
 tags:
   - Reflection
 date: 2026-06-16
-URL:
+category:
+  - toi-cam
 ---
 # Tâm tình khoa cấp cứu  
   

@@ -2,12 +2,11 @@
 share: true
 comments: true
 filename: doc-sach-2024-06
-aliases:
-description:
 tags:
   - DocSach
 date: 2024-06-30
-URL:
+category:
+  - toi-doc
 ---
 # Đọc sách - T06.2024  
   

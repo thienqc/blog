@@ -8,6 +8,8 @@ description: Chút suy tư sau chuyến đi cuối năm Ất Tỵ
 tags:
   - MAGIS
 date: 2026-01-20
+category:
+  - toi-cam
 ---
 # Dòng sông chảy qua những cuộc đời  
 *Chút suy tư sau chuyến đi cuối năm Ất Tỵ*  

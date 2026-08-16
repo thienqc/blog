@@ -1,6 +1,5 @@
 ---
 filename: su-tri-hoan
-description:
 URL: https://www.youtube.com/watch?v=arj7oStGLkU
 date: 2023-09-21
 tags:
@@ -9,6 +8,8 @@ share: true
 comments: true
 aliases:
   - Sự trì hoãn
+category:
+  - toi-hoc
 ---
 # Sự trì hoãn  
   

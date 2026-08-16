@@ -2,14 +2,14 @@
 filename: khung-hoang-hien-sinh-la-cai-dech-gi
 aliases:
   - KHỦNG HOẢNG HIỆN SINH LÀ CÁI "ĐẾCH" GÌ?
-description:
-URL:
 date: 2021-04-09
 tags:
   - Existentialism
   - Reference
 share: true
 comments: true
+category:
+  - toi-luu
 ---
 # KHỦNG HOẢNG HIỆN SINH LÀ CÁI "ĐẾCH" GÌ?  
   

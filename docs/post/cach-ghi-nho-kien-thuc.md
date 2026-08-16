@@ -2,7 +2,6 @@
 filename: cach-ghi-nho-kien-thuc
 aliases:
   - CÁCH GHI NHỚ KIẾN THỨC
-description:
 tags:
   - self-study
   - Reference
@@ -10,6 +9,9 @@ date: 2023-06-14
 URL: https://www.facebook.com/Bs.Phuc.Radiologist/posts/pfbid02mrSjQmK45kW4fkSLkbRyJJ5LEWcziC9VxrThTNgWp4JokwvpGYFM1FbUUBKqnRcwl
 share: true
 comments: true
+category:
+  - toi-luu
+  - toi-hoc
 ---
 # CÁCH GHI NHỚ KIẾN THỨC  
 @Bs.Phuc.Radiologist  

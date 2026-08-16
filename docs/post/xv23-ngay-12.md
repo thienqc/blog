@@ -8,6 +8,8 @@ tags:
   - XV23
 date: 2023-12-13
 description: Hải Phòng -  Hà Nội
+category:
+  - toi-di
 ---
 # XV23 - ngày 12 • Hải Phòng - Hà Nội  
   

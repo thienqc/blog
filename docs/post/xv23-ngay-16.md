@@ -7,7 +7,9 @@ comments: true
 tags:
   - XV23
 date: 2023-12-17
-description:
+description: Lang thang ở Sapa
+category:
+  - toi-di
 ---
 # XV23 - ngày 16 • Lặng lẽ Sapa  
   
@@ -77,7 +79,7 @@ Tiếc là sương dày quá không xem được những di tích này.
   
 Trên đường quay lại thị trấn, phần vì quá lạnh, phần vì đường dài, mình đi nhờ xe một anh thanh niên đang trên đường đón vợ về. Người dân ở đây có loại áo mưa khá đặc biệt, là một bao nhựa được cắt ra trùm kín, che phủ được phần tay phía trước, chống được cái lạnh cắt da cắt thịt.  
   
-https://youtube.com/shorts/ski_O8wTFYQ?feature=share  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ski_O8wTFYQ?si=xUzAZGQFL5BUV6gP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
   
 ![](https://i.imgur.com/ikXkGLs.png)  
   

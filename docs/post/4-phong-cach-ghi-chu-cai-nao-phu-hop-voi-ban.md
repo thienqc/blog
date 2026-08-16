@@ -2,8 +2,6 @@
 filename: 4-phong-cach-ghi-chu-cai-nao-phu-hop-voi-ban
 aliases:
   - 4 PHONG CÁCH GHI CHÚ - CÁI NÀO PHÙ HỢP VỚI BẠN
-description:
-URL:
 date: 2023-03-02
 Link: https://www.facebook.com/groups/1454041224987835/posts/2031213813937237/
 tags:
@@ -12,6 +10,8 @@ tags:
   - notion
 share: true
 comments: true
+category:
+  - toi-hoc
 ---
 # 4 PHONG CÁCH GHI CHÚ - CÁI NÀO PHÙ HỢP VỚI BẠN  
   
@@ -60,4 +60,4 @@ Phong cách ghi chú của bạn như thế nào? Và bạn đang dùng ap
   
   
 > [!Example] Xem thêm  
-> [Quá nhiều app ghi chú, chọn cái nào bây giờ](./qua-nhieu-app-ghi-chu-chon-cai-nao-bay-gio.md)
+> - [Quá nhiều app ghi chú, chọn cái nào bây giờ](./qua-nhieu-app-ghi-chu-chon-cai-nao-bay-gio.md)

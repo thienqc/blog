@@ -4,11 +4,11 @@ comments: true
 filename: cac-pham-thien-than
 aliases:
   - Các phẩm Thiên Thần
-description:
 tags:
   - AMDG
 date: 2025-09-29
-URL:
+category:
+  - toi-cam
 ---
 # Các phẩm Thiên Thần  
   
@@ -65,5 +65,5 @@ Chín phẩm Thiên Thần là chín cung bậc của tình yêu phục vụ Thi
   
   
 > [!Example] Xem thêm  
-> [29.09 | Saints Michael, Gabriel, và Raphael](./29-09-saints-michael-gabriel-and-raphael.md)  
-> [02.10 | Các Thiên thần Bản mệnh](./02-10-cac-thien-than-ban-menh.md)
+> - [29.09 | Saints Michael, Gabriel, và Raphael](./29-09-saints-michael-gabriel-and-raphael.md)  
+> - [02.10 | Các Thiên thần Bản mệnh](./02-10-cac-thien-than-ban-menh.md)

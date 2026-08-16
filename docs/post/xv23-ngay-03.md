@@ -8,6 +8,8 @@ tags:
   - XV23
 date: 2023-12-04
 description: Tạm biệt Đà Lạt, mình xuống Ninh Thuận
+category:
+  - toi-di
 ---
 # XV23 - ngày 03 • Bye Đà Lạt  
   

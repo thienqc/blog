@@ -7,6 +7,8 @@ aliases:
 tags:
   - life
 date: 2026-07-22
+category:
+  - toi-cam
 ---
 # Chia tay  
   

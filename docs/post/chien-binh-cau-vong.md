@@ -14,6 +14,8 @@ tags:
 Type:
   - Book
 Last_Read: 2024-01-25
+category:
+  - toi-doc
 ---
 # Chiến Binh Cầu Vồng  
 [Author:: [Andrea Hirata](Andrea%20Hirata.md)] - (Publication_Year:: 2005)  

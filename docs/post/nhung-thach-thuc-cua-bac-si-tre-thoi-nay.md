@@ -2,7 +2,6 @@
 filename: nhung-thach-thuc-cua-bac-si-tre-thoi-nay
 aliases:
   - Những thách thức của bác sĩ trẻ thời nay?
-description:
 tags:
   - career
   - Reference
@@ -10,6 +9,8 @@ date: 2023-06-10
 URL: https://www.facebook.com/100001140853298/posts/pfbid06Y8osdsJHAXnTjFjEtjPaSW2aMZGcjSuC2c6LL57RYeBYAe8EALm7PzaWcBP1LJ5l/
 share: true
 comments: true
+category:
+  - toi-luu
 ---
 # Những thách thức của bác sĩ trẻ thời nay?  
   

@@ -7,16 +7,15 @@ share: true
 date: 2024-05-03
 tags:
   - Reading_challenge_RC_2024
-  - KhoSach
   - SachThiengLieng
-URL:
-description:
 Cover: Câu Chuyện Con Bò Câm-1760877761786.webp
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 90
 type:
   - Book
 Last_Read: 2024-05-03
+category:
+  - toi-doc
 ---
 # Câu chuyện "Con Bò Câm"  
   
@@ -29,8 +28,6 @@ Cuốn sách nhỏ này được viết dưới hình thức tự thuật của 
 Đó là câu chuyện về [Tôma Aquinô](../../Thomas-Aquinas.md), với biệt hiệu là “Con bò câm” do các bạn đồng môn gán cho với hàm ý trêu chọc, coi là anh chàng ngố. Nhưng không ai có thể ngờ rằng sẽ đến lúc “Con bò câm” ấy, đúng như tiên báo của thầy Anbêtô, có thể rống lên thật to bằng những suy tư triết học, thần học thật uyên thâm.  
   
 Tôma Aquinô là – một tu sĩ Đa Minh thánh thiện – một triết gia, một thần học gia lỗi lạc – một thi nhân sáng tác những bản văn phụng vụ – một thầy dạy tuyệt vời của Giáo hội – và vì thế, được đặt làm quan thầy các trường học Công giáo trên toàn thế giới.  
-  
-Ebook:: 📙 [PDF](https://onedrive.live.com/download?resid=E92BC60129512289%21204&authkey=!AHhkXQy61fHATCI&em=2)  
   
 Audio:: 🔉 [Audio](https://youtu.be/NvcAV6I6uwg)  
   

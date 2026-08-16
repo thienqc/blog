@@ -1,6 +1,6 @@
 ---
 filename: song-nhu-hemoglobin
-description: 
+description:
 tags:
   - life-style
 date: 2023-07-03
@@ -9,6 +9,8 @@ share: true
 comments: true
 aliases:
   - Sống như hemoglobin
+category:
+  - toi-cam
 ---
 # Sống như hemoglobin  
   
@@ -16,7 +18,7 @@ aliases:
 > Like hemoglobin, you probably do a better job when you're in a relaxed state, so sit back and relax!  
 > ~ Crush Step 1: The Ultimate USMLE Step 1 Review p.627  
   
-![|654x24](https://d1j63owfs0b5j3.cloudfront.net/term/images/690-1528727027183.png)  
+![Sống như hemoglobin-1786877909755.webp](../assets/img/S%E1%BB%91ng%20nh%C6%B0%20hemoglobin-1786877909755.webp)  
   
 Hemoglobin (Hb) hay còn gọi là huyết sắc tố là một protein trong hồng cầu, có nhiệm vụ chuyên chở oxy trong máu. Hb tồn tại 2 dạng: dạng T (taut/tense) và dạng R (relaxed). Khi ở dạng "căng" (T), oxy không được liên kết với heme, điều này làm cản trở sự tiếp cận oxy. Khi một phân tử oxy gắn được vào heme, Hb giãn ra, tăng ái lực với phân tử oxy thứ hai, và cứ tiếp tục như vậy cho tới khi đủ bốn oxy , trở thành dạng "thư giãn" (R) có ái lực với oxy gấp 150 so với dạng (T). Có thể nói, khi ở trạng thái thư giãn, hemoglobin có đầy đủ oxy để chuyên chở tới các mô trong cơ thể.  
   

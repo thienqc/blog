@@ -4,11 +4,12 @@ comments: true
 filename: obsidian-nen-doc
 aliases:
   - TỔNG HỢP BÀI VIẾT NÊN ĐỌC TRONG GROUP
-description:
 tags:
   - obsidian
 date: 2024-03-06
 URL: https://www.facebook.com/groups/594306492570157/posts/676397947694344/
+category:
+  - toi-hoc
 ---
 # TỔNG HỢP BÀI VIẾT NÊN ĐỌC TRONG GROUP  
   

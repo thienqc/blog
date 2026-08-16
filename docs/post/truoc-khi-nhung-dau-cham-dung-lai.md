@@ -8,6 +8,8 @@ description: Viết vào những ngày cuối năm Ất Tỵ
 tags:
   - life
 date: 2026-02-16
+category:
+  - toi-cam
 ---
 # Trước khi những dấu chấm dừng lại  
   
@@ -75,7 +77,7 @@ Và điều duy nhất còn ở lại, sẽ là ký ức về cách bạn đã s
 > Phút này nối tiếp phút kia, muôn triệu phút thành một đời sống.  
 > Chấm mỗi chấm cho đúng, đời sẽ đẹp.  
 > Sống mỗi phút cho tốt, đời sẽ thánh.  
-> ~ Trích [Năm chiếc bánh và hai con cá](../../N%C4%83m%20chi%E1%BA%BFc%20b%C3%A1nh%20v%C3%A0%20hai%20con%20c%C3%A1.md.md) - ĐHY FX Nguyễn Văn Thuận  
+> ~ Trích [Năm chiếc bánh và hai con cá](../../N%C4%83m%20chi%E1%BA%BFc%20b%C3%A1nh%20v%C3%A0%20hai%20con%20c%C3%A1.md) - ĐHY FX Nguyễn Văn Thuận  
   
 ---  
 [^1]: [Your Life in Weeks — Wait But Why](https://waitbutwhy.com/2014/05/life-weeks.html)

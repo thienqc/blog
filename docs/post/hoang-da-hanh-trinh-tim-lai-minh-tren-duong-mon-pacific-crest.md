@@ -18,13 +18,13 @@ Total_Pages: 386
 type:
   - Book
 Last_Read: 2023-11-20
+category:
+  - toi-doc
 ---
 # Hoang Dã: Hành trình tìm lại mình trên Đường mòn Pacific Crest  
 [Author::[Cheryl Strayed](Cheryl%20Strayed.md)] - (Publication_Year:: 2012)  
   
 ![Hoang Dã-1756729692233.webp](../assets/img/Hoang%20D%C3%A3-1756729692233.webp)  
-  
-Ebook:: 📘 [EPUB](https://onedrive.live.com/dowwnload?resid=E92BC60129512289%21172&authkey=!AC60bCVJF5bX4I4)  
   
 ---  
   

@@ -1,6 +1,6 @@
 ---
 filename: tao-mot-trang-blog-don-gian-bang-obsidian-va-mkdocs
-URL: 
+URL:
 share: true
 comments: true
 tags:
@@ -8,9 +8,11 @@ tags:
   - obsidian
 date: 2023-09-22
 description: Xây dựng bộ não thứ hai
-extra: 
+extra:
 aliases:
   - Tạo một trang blog đơn giản bằng Obsidian và MkDocs
+category:
+  - toi-hoc
 ---
 # Tạo một trang blog đơn giản bằng Obsidian và MkDocs  
   

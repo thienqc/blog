@@ -7,7 +7,9 @@ comments: true
 tags:
   - XV23
 date: 2023-12-27
-description:
+description: Về thăm Mẹ
+category:
+  - toi-di
 ---
 # XV23 - ngày 26 • Đức Mẹ La Vang  
   

@@ -13,6 +13,8 @@ Rating: ⭐⭐⭐⭐
 type:
   - Book
 Last_Read: 2024-02-21
+category:
+  - toi-doc
 ---
 # Sống đơn giản  
   
@@ -20,7 +22,6 @@ Last_Read: 2024-02-21
   
 ![|299x456](https://i.imgur.com/TwsAHBE.png)  
   
-Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21202&authkey=!AOwWg6aVH_bAY9s)  
   
 > Biết cái nào là chính, cái nào là phụ!  
   

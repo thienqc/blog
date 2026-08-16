@@ -8,6 +8,8 @@ tags:
   - XV23
 date: 2023-12-02
 description: Lâm Đồng
+category:
+  - toi-di
 ---
 # XV23 - ngày 01 • Lâm Đồng  
   

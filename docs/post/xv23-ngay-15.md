@@ -7,7 +7,9 @@ comments: true
 tags:
   - XV23
 date: 2023-12-16
-description:
+description: Một mình ở HN, gặp bạn
+category:
+  - toi-di
 ---
 # XV23 - ngày 15 • Vài suy tư để lại Hà Nội  
   
@@ -23,10 +25,9 @@ Chị Khánh: giỏi nhiều thứ nhưng đang không biết muốn làm gì. H
   
 MQ: Có những giúp mình mở cánh cửa để bước vào thế giới mới. Đây là một trong những người bạn đó. Respect.  
   
-  
 Triết lí chú xe ôm [Phúc - Lộc - Thọ](./phuc-loc-tho.md), nhưng làm sao để thoát ra khỏi cái nghèo?  
   
-[Được học](./duoc-hoc.md)   
+[Được học](./duoc-hoc.md)  
   
 Không đem đồ lạnh nên vào Uniqlo.  
   
@@ -34,6 +35,6 @@ Nghe danh nhà thờ Thái Hà, nay mới được tận mắt.
   
 Bắt xe lên điểm đến tiếp theo.  
   
-Tạm biệt Hà Nôi!  
+Tạm biệt Hà Nội!  
   
 > **[Ngày 14](./xv23-ngay-14.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 16](./xv23-ngay-16.md)**

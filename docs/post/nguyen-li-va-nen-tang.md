@@ -10,6 +10,8 @@ URL:
 description:
 aliases:
   - LT23
+category:
+  - toi-cam
 ---
 # NGUYÊN LÝ VÀ NỀN TẢNG  
   

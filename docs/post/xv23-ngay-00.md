@@ -8,6 +8,8 @@ tags:
   - XV23
 date: 2023-12-01
 description: Những ngày chuẩn bị
+category:
+  - toi-di
 ---
 # XV23 - Ngày 00 • Những ngày chuẩn bị  
   

@@ -10,6 +10,8 @@ URL: https://www.facebook.com/groups/594306492570157/posts/707585224575616/
 share: true
 comments: true
 description: chơi đùa với dữ liệu
+category:
+  - toi-hoc
 ---
 # DATAVIEW  
 *Chơi đùa với dữ liệu*  

@@ -7,8 +7,8 @@ comments: true
 tags:
   - DocSach
 date: 2023-11-30
-URL:
-description:
+category:
+  - toi-doc
 ---
 # Đọc sách - T11.2023  
 Sau tháng 10 chỉ đọc được 2 quyển, tháng 11 này mình đọc nhiều hơn để đuổi kịp tiến độ [Reading challenge 2023](./reading-challenge-2023.md).  

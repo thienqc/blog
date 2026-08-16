@@ -7,7 +7,9 @@ comments: true
 tags:
   - XV23
 date: 2023-12-22
-description:
+description: Diễn nguyện Noel 2023
+category:
+  - toi-di
 ---
 # XV23 - ngày 21 • Đêm ca nguyện  
   
@@ -54,12 +56,13 @@ Những bà mẹ cũng góp vài bài.
   
 ![](https://i.imgur.com/zJl0cbT.png)  
   
-<!--⚠️Imgur upload failed, check dev console-->  
 ![XV23 - ngày 21-20241222201404614.webp](../assets/img/XV23%20-%20ng%C3%A0y%2021-20241222201404614.webp)  
   
 Gian hàng ẩm thực. Mà các em ở đây bán khá là thật tình á. Ban đầu 10k/2 xiên, hông ai mua hết. Mình bỏ ra ít tình mua khoảng 50 xiên, mình mới nói giờ các em bán 10k/3 xiên đi, hết 50 phần thì bán lại giá cũ. Ai ngờ các em bán 10k/3 xiên tới cuối luôn, sau tổng kết lại thì lỗ mà :)) Cha phải bù thêm vào, vì mục đích là gây quỹ cho hội Giáo lý, với lan toả niềm vui Giáng Sinh đến mọi người.  
   
-Còn đây là tiết mục cuối cùng, với giọn hát của cha Trung, xem đến cuối để thấy mình he: https://youtu.be/0BA78zvcDRQ  
+Còn đây là tiết mục cuối cùng, với giọn hát của cha Trung, xem đến cuối để thấy mình he  
+  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0BA78zvcDRQ?si=8Cbt2Eg5BnslgwUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
   
 ![](https://i.imgur.com/nfREThD.png)  
   

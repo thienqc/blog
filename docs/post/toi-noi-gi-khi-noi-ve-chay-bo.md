@@ -13,13 +13,14 @@ tags:
   - Reading_challenge_RC_2020
   - Reading_challenge_RC_2022
   - favorite
-  - KhoSach
 Type:
   - Book
 Last_Read: 2022-10-17
 share: true
 comments: true
 date: 2022-10-17
+category:
+  - toi-doc
 ---
 # Tôi nói gì khi nói về chạy bộ  
 [Author:: [Haruki Murakami](../../Haruki%20Murakami.md)] - (Publication_Year:: 2007)  

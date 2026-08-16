@@ -4,11 +4,11 @@ comments: true
 filename: reading-challenge-2020
 aliases:
   - Reading challenge 2020
-description:
 tags:
   - DocSach
 date: 2024-01-23
-URL:
+category:
+  - toi-doc
 ---
 # Reading challenge 2020  
 ![](https://i.imgur.com/gIBurE4.jpg)  
@@ -24,7 +24,7 @@ Một năm với nhiều đợt [Reading slump](./reading-slump.md) nhưng vẫn
 - [Tôi tự học](./toi-tu-hoc.md) ~ Thu giang Nguyễn Duy Cần    
   
 Đọc để biết cuộc đời thì chán lắm, nhưng mà cứ bước tiếp đi    
-##  [Suối nguồn](./suoi-nguon.md) - Mình có đang sống thứ sinh?    
+##  [Suối nguồn](../../suoi-nguon.md) - Mình có đang sống thứ sinh?    
 Với 1210 trang, mình không nghĩ sẽ đọc xong tác phẩm đồ sộ này. Và thời gian mình bỏ ra để đọc thật sự xứng đáng.    
 ## [Chan Ho Kei ](../../Chan%20Ho%20kei.md)   
 Tác giả trinh thám mới nổi với 2 quyển được xuất bản tại VN là [13.67](../../13.67.md) và [In the net](../../Ng%C6%B0%E1%BB%9Di%20trong%20l%C6%B0%E1%BB%9Bi.md). Đây là sự pha trộn giữa trinh thám cổ điển và trinh thám tâm lí của Nhật. Cực thích tác giả này, nhưng mà hình như chưa có tác phẩm mới.    
@@ -39,3 +39,7 @@ Bối rối với [Kafka bên bờ biển](../../Kafka%20b%C3%AAn%20b%E1%BB%9D%2
 Thử sức với Nobel nhưng khó thật sự, đang DNF với [Dịch hạch](../../D%E1%BB%8Bch%20H%E1%BA%A1ch.md) (1957). Năm sau cố gắng mở rộng nhiều thể loại hơn, chứ không đọc tập trung mỗi trinh thám nữa.  
   
 ## LIST BOOK  
+  
+  
+  
+> **[2019](./reading-challenge-2019.md) 👈 [Reading challenge](./reading-challenge.md) 👉 [2021](./reading-challenge-2021.md)**

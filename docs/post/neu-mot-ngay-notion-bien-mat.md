@@ -10,6 +10,8 @@ URL:
 description:
 aliases:
   - Nếu một ngày Notion biến mất
+category:
+  - toi-hoc
 ---
 # Nếu một ngày Notion biến mất  
 ## Đặt vấn đề  

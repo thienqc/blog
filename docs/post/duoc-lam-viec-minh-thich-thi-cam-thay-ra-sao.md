@@ -2,13 +2,13 @@
 filename: duoc-lam-viec-minh-thich-thi-cam-thay-ra-sao
 aliases:
   - ĐƯỢC LÀM VIỆC MÌNH THÍCH THÌ CẢM THẤY RA SAO?
-description:
-URL:
 date: 2021-04-18
 tags:
   - Reflection
 share: true
 comments: true
+category:
+  - toi-luu
 ---
 # ĐƯỢC LÀM VIỆC MÌNH THÍCH THÌ CẢM THẤY RA SAO?  
   

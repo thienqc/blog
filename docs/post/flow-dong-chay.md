@@ -19,6 +19,9 @@ aliases:
   - Flow - dòng chảy
   - flow
   - dòng chảy
+category:
+  - toi-doc
+  - toi-hoc
 ---
 # Flow - dòng chảy  
 [Author:: [Mihaly Csikszentmihalyi](Mihaly%20Csikszentmihalyi.md)] - (Publication_Year:: 1990)  

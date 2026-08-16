@@ -8,6 +8,8 @@ tags:
   - XV23
 date: 2023-12-08
 description: Một cú lừa đau đớn và bài học nhớ đời
+category:
+  - toi-di
 ---
 # XV23 - ngày 07 • Một cú lừa đau đớn và bài học nhớ đời  
 *08/12/2023*  

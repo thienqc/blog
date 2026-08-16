@@ -1,14 +1,14 @@
 ---
 share: true
 filename: reading-challenge-2023
-description:
 tags:
   - DocSach
 date: 2023-12-31
-URL:
 aliases:
   - Reading challenge 2023
 comments: true
+category:
+  - toi-doc
 ---
 # Reading challenge 2023  
   
@@ -78,3 +78,4 @@ Do đó sẽ có 2 quyển được chọn làm quyển sách của năm là
 - Người gác đêm 2  
 - Bật đèn  
   
+> **[2022](./reading-challenge-2022.md) 👈 [Reading challenge](./reading-challenge.md) 👉 [2024](./reading-challenge-2024.md)**

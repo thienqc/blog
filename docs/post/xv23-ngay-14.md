@@ -7,7 +7,9 @@ comments: true
 tags:
   - XV23
 date: 2023-12-15
-description:
+description: Hai mình ở HN
+category:
+  - toi-di
 ---
 # XV23 - ngày 14 • Plan, no plan  
   
@@ -22,7 +24,7 @@ Một ngày dạo chơi ở HN không lên kế hoạch trước
 - Đi qua lăng ngó chùa Một Cột  
 - Tượng Đức Mẹ ở nhà thờ Cửa Bắc  
 - Cà phê sách  
-- Quyền lớn nhất của con người là được học  
+- Quyền lớn nhất của con người là [được học](./duoc-hoc.md)  
 - Đêm hoà nhạc [A Bethlehem Star](https://www.youtube.com/watch?v=t92QoaMAyOs) ở nhà thờ Lớn Hà Nội  
 - Lên đường, chia tay bạn về lại SG  
   

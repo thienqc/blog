@@ -8,6 +8,8 @@ tags:
   - XV23
 date: 2023-12-07
 description: Hello Nha Trang
+category:
+  - toi-di
 ---
 # XV23 - ngày 06 • Hello Nha Trang  
 *07/12/2023*  

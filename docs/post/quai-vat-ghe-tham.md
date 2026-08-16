@@ -16,6 +16,8 @@ Last_Read: 2021-08-28
 date: 2023-10-08
 share: true
 comments: true
+category:
+  - toi-doc
 ---
 # Quái vật ghé thăm  
 [Author:: [Patrick Ness](../../Patrick%20Ness.md)] - (Publication_Year:: 2011)  

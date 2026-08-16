@@ -10,13 +10,13 @@ tags:
   - Reading_challenge_RC_2024
   - Survival
 URL: https://www.goodreads.com/book/show/12989048
-description:
 Cover: The Ultimate Hang - An Illustrated Guide to Hammock Camping-1760709405355.webp
 Rating: ⭐⭐⭐⭐
-Total_Pages:
 type:
   - Book
 Last_Read: 2024-02-22
+category:
+  - toi-doc
 ---
 # The Ultimate Hang - An Illustrated Guide to Hammock Camping  
 [Author::[Derek Hansen](Derek%20Hansen.md)] - (Publication_Year:: 2011)  

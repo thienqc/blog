@@ -7,7 +7,9 @@ comments: true
 tags:
   - XV23
 date: 2023-12-19
-description:
+description: Tạm biệt HG
+category:
+  - toi-di
 ---
 # XV23 - ngày 18 • Tạm biệt Hà Giang  
   
@@ -28,7 +30,7 @@ Sông Nho Quế xanh cực kì xanh luôn!
   
 Ngồi xem lại những hình cũ này vẫn thích đi tiếp một lần nữa.  
   
-https://youtube.com/shorts/_Foh3o4dgYQ  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_Foh3o4dgYQ?si=9G4qWELdxAiY96OM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
   
 Chạy xe trên cung đèo, xung quanh là núi rừng xanh ngát  
   

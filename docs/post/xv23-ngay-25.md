@@ -8,6 +8,8 @@ tags:
   - XV23
 date: 2023-12-26
 description:
+category:
+  - toi-di
 ---
 # XV23 - ngày 25 • Cột mốc  
   

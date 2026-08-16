@@ -4,11 +4,11 @@ comments: true
 filename: reading-challenge-2018
 aliases:
   - Reading challenge 2018
-description:
 tags:
   - DocSach
 date: 2024-01-21
-URL:
+category:
+  - toi-doc
 ---
 # Reading challenge 2018  
 Cuối năm là thời điểm mà chúng tổng kết, điểm lại tất tần tật mọi thứ tỉ tì ti trên đời. Và mình sẽ tổng kết một năm 2018 qua những quyển sách mình đọc. Đọc sách không cốt ở số lượng mà là chất lượng. Như trong một lời giới thiệu trong “Cuộc đời của Pi” rằng cái thú của đọc sách là nhặt được những hạt ngọc trong đó. Để nhìn nhận những hạt ngọc đã nhặt được mình dựa vào “Thử thách đọc sách 2018” của Trạm đọc.  
@@ -111,4 +111,6 @@ Kết thúc bằng một đoạn phú của Đào Tiềm – **Quy khứ lai t�
 > "Ví ta đã với đời chẳng hiệp,  
 > Cần chi mà giao thiệp với ai.  
 > Chuyện trò thân thích mấy người,  
-> Bạn cùng đèn sách khi vui đỡ buồn".
+> Bạn cùng đèn sách khi vui đỡ buồn".  
+  
+> **[2017](./reading-challenge-2017.md) 👈 [Reading challenge](./reading-challenge.md) 👉 [2019](./reading-challenge-2019.md)**

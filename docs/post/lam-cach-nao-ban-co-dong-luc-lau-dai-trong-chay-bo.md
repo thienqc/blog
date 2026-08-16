@@ -2,14 +2,14 @@
 filename: lam-cach-nao-ban-co-dong-luc-lau-dai-trong-chay-bo
 aliases:
   - Làm cách nào bạn có động lực lâu dài trong chạy bộ?
-description:
-URL:
 share: true
 comments: true
 date: 2023-09-25
 tags:
   - Run
   - motivation
+category:
+  - toi-hoc
 ---
 # Làm cách nào bạn có động lực lâu dài trong chạy bộ?  
   

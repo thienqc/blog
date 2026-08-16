@@ -7,7 +7,9 @@ comments: true
 tags:
   - XV23
 date: 2023-12-21
-description:
+description: Lên Kon Tum
+category:
+  - toi-di
 ---
 # XV23 - ngày 20 • Kon Tum  
   

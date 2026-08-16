@@ -7,7 +7,9 @@ comments: true
 tags:
   - XV23
 date: 2023-12-23
-description:
+description: Xứ vùng cao
+category:
+  - toi-di
 ---
 # XV23 - ngày 22 • Kleng  
   
@@ -43,7 +45,7 @@ Quay lại Kleng, ca đoàn đang tập hát cho buổi lễ Noel sắp tới.
   
 ![](https://i.imgur.com/wgiLje9.png)  
   
-https://youtu.be/eNYq2LECm_o  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eNYq2LECm_o?si=p4aplV-240MHtcZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
   
 ![](https://i.imgur.com/On6xRdZ.png)  
   

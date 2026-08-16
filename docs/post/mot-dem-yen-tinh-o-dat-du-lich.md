@@ -4,11 +4,11 @@ comments: true
 filename: mot-dem-yen-tinh-o-dat-du-lich
 aliases:
   - Một đêm yên tĩnh ở đất du lịch
-description:
 tags:
   - chill
 date: 2024-04-06
-URL:
+category:
+  - toi-di
 ---
 # Một đêm yên tĩnh ở đất du lịch  
 Bữa giờ cứ nghe đi nghe lại bài [Đánh cắp mặt trời](https://youtu.be/yz7dyDJdmJk) nên cũng nhớ lại cái đêm mình ở trên vùng cao.  
@@ -38,3 +38,6 @@ Ngồi ở đây mình đếm được đúng 12 khách du lịch đi ngang qua 
 Cần gì hơn ở một thị trấn thuộc một tỉnh miền núi.  
   
 Đủ cái sự hề rồi, mình về ngủ đây.   
+  
+> [!Example] Xem thêm   
+ > - [XV23 - ngày 17 • Hà Giang](./xv23-ngay-17.md)

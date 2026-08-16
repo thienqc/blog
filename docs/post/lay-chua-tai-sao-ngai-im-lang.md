@@ -1,25 +1,26 @@
 ---
 comments: true
 filename: lay-chua-tai-sao-ngai-im-lang
-aliases:
 share: true
 date: 2024-10-10
 tags:
   - Reading_challenge_RC_2024
   - SachThiengLieng
-URL:
-description:
 Cover: Lạy Chúa - Tại sao Ngài im lặng-1757087431783.webp
 Rating: ⭐⭐⭐⭐⭐
-Total_Pages:
 type:
   - Book
 Last_Read: 2024-10-10
+category:
+  - toi-doc
+  - toi-cam
 ---
 # Lạy Chúa - Tại sao Ngài im lặng  
 [Author::[Giuse Phan Thanh Bình, SDB](Giuse%20Phan%20Thanh%20B%C3%ACnh,%20SDB.md)] - (Publication_Year:: )  
   
 ![Lạy Chúa - Tại sao Ngài im lặng-1757087431783.webp](../assets/img/L%E1%BA%A1y%20Ch%C3%BAa%20-%20T%E1%BA%A1i%20sao%20Ng%C3%A0i%20im%20l%E1%BA%B7ng-1757087431783.webp)  
+  
+--> [EPUB](https://thienqc.github.io/blog/ebook.html#lay-chua-tai-sao-ngai-im-lang-giuse-phan-thanh-binh-sdb)  
   
 > [!important]- MỤC LỤC  
 > - CHƯƠNG MỘT: Những lập luận thường dùng để giải thích và cắt nghĩa đau khổ   

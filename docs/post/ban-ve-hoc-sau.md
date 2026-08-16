@@ -9,6 +9,8 @@ URL:
 description: Vài điều bàn luận với Long
 aliases:
   - Bàn về học sâu
+category:
+  - toi-hoc
 ---
 # Bàn về học sâu  
   

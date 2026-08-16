@@ -9,6 +9,8 @@ tags:
   - SaintOfTheDay
 description: Các Tổng Lãnh Thiên thần
 URL: https://www.franciscanmedia.org/saint-of-the-day/saints-michael-gabriel-and-raphael/
+category:
+  - toi-cam
 ---
 # 29.09 | Saints Michael, Gabriel, and Raphael  
   
