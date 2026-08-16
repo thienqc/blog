@@ -2,8 +2,6 @@
 filename: thanh-tri
 aliases:
   - Thành trì
-description:
-URL:
 Cover: Thành trì-1760503271373.webp
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 532
@@ -12,7 +10,6 @@ tags:
   - Reading_challenge_RC_2018
   - medical_fiction
   - favorite
-  - KhoSach
   - Reading_challenge_RC_2024
 Type:
   - Book
@@ -20,6 +17,8 @@ Last_Read: 2024-03-27
 share: true
 comments: true
 date: 2024-03-27
+category:
+  - toi-doc
 ---
 # Thành trì  
 [Author:: [AJ Cronin](../../AJ%20Cronin.md)] - (Publication_Year:: 1937)  
