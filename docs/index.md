@@ -17,7 +17,6 @@ icon: material/home
 - :material-heart: __[Tôi cảm](toi-cam.md)__: Những điều mình cảm
 
 - :material-dots-horizontal-circle: __[Khác](khac.md)__: và những thứ còn lại
-{ .wide }
 
 </div>
 

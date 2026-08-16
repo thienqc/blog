@@ -23,6 +23,7 @@ substitutes into already-rendered HTML (phase 2), so every post has
 already been collected by the time any page's placeholder is resolved,
 regardless of nav order.
 """
+import random
 import re
 
 CATEGORY_LABELS = {
@@ -35,6 +36,7 @@ CATEGORY_LABELS = {
 PLACEHOLDER = re.compile(r"\{\{\s*category_content\s+([\w-]+)\s*\}\}")
 
 _posts_by_category = {key: [] for key in CATEGORY_LABELS}
+_post_categories = {}  # page -> [keys it belongs to], for "related posts"
 
 # Top-level nav order. Auto-nav (no explicit `nav:` in mkdocs.yml - see
 # the comment there for why) sorts alphabetically by filename with
@@ -73,6 +75,7 @@ def on_files(files, config):
     # otherwise posts pile up duplicated across live-reload rebuilds.
     for key in CATEGORY_LABELS:
         _posts_by_category[key] = []
+    _post_categories.clear()
     return files
 
 
@@ -82,6 +85,7 @@ def on_page_content(html, page, config, files):
     raw = page.meta.get("category")
     raw = raw if isinstance(raw, list) else [raw]
     keys = [k for k in raw if k in CATEGORY_LABELS] or ["khac"]
+    _post_categories[page.file.src_path] = keys
     for key in keys:
         _posts_by_category[key].append(page)
     return html
@@ -120,9 +124,61 @@ def render_category(key):
     return "\n".join(parts)
 
 
+# "Related posts" appended to the bottom of every post: pulled from the
+# union of all categories that post belongs to (own post excluded), so
+# a post in 2 categories draws from both pools combined rather than
+# picking just one. Built at build time (this runs once per build, not
+# per page view) - no client-side fetch, no runtime cost per visitor.
+RELATED_COUNT = 3
+RELATED_STYLE = (
+    "<style>"
+    ".related-posts{margin-top:2em}"
+    ".related-posts ul{list-style:none;padding:0}"
+    ".related-posts li{border-bottom:1px solid var(--md-default-fg-color--lightest);padding:0.6em 0}"
+    ".related-posts li:first-child{padding-top:0}"
+    "</style>"
+)
+# Insert right before the "Bài ngẫu nhiên" button (overrides/partials/
+# comments.html) - falls back to before comments, then end of article,
+# for the rare post without comments/that button enabled.
+RANDOM_BTN_ANCHOR = re.compile(r'<button id="random-post-btn"')
+COMMENTS_ANCHOR = re.compile(r'<h2 id="__comments">')
+
+
+def render_related(page):
+    keys = _post_categories.get(page.file.src_path, [])
+    pool = {}
+    for key in keys:
+        for p in _posts_by_category.get(key, []):
+            if p is not page:
+                pool[p.abs_url] = p
+    candidates = list(pool.values())
+    if not candidates:
+        return ""
+
+    chosen = random.sample(candidates, min(RELATED_COUNT, len(candidates)))
+    items = "".join(f'<li><a href="{p.abs_url}">{p.title}</a></li>' for p in chosen)
+    return (
+        RELATED_STYLE
+        + '<div class="related-posts">'
+        + "<h2>Bài cùng chuyên mục</h2>"
+        + f"<ul>{items}</ul>"
+        + "</div>"
+    )
+
+
 def on_post_page(output, page, config):
     match = PLACEHOLDER.search(output)
-    if not match:
-        return output
-    key = match.group(1)
-    return PLACEHOLDER.sub(lambda _: render_category(key), output, count=1)
+    if match:
+        key = match.group(1)
+        return PLACEHOLDER.sub(lambda _: render_category(key), output, count=1)
+
+    if page.file.src_path in _post_categories:
+        related = render_related(page)
+        if related:
+            anchor_match = RANDOM_BTN_ANCHOR.search(output) or COMMENTS_ANCHOR.search(output)
+            insert_at = anchor_match.start() if anchor_match else output.rfind("</article>")
+            if insert_at != -1:
+                output = output[:insert_at] + related + output[insert_at:]
+
+    return output

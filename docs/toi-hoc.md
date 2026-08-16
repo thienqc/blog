@@ -5,4 +5,6 @@ icon: material/brain
 
 # Tôi học
 
+Về não-hai, về công nghệ,...
+
 {{ category_content toi-hoc }}

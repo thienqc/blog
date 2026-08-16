@@ -8,10 +8,13 @@ overrides/rss.xml doesn't have to rely on nav.pages - nav is now an
 explicit, curated list (see mkdocs.yml) that deliberately excludes
 individual posts, so nav.pages no longer contains them.
 """
+import itertools
 import json
+import re
 from pathlib import Path
 
 _posts = []
+ARCHIVE_PLACEHOLDER = re.compile(r"\{\{\s*archive_content\s*\}\}")
 
 
 def on_files(files, config):
@@ -38,6 +41,39 @@ def on_template_context(context, template_name, config):
     # have (there's no Page object backing them).
     context["blog_posts"] = sorted_posts()
     return context
+
+
+# "Bài viết" (docs/post/index.md) archive: every post, grouped by year,
+# minimal style - just year headings + a plain linked list (no cards,
+# no descriptions). Reuses the same `_posts` this hook already collects
+# for posts-index.json/rss.xml, so no extra pass over the content.
+ARCHIVE_STYLE = (
+    "<style>"
+    ".post-archive ul{list-style:none;padding:0;margin:0 0 1.5em}"
+    ".post-archive li{display:flex;gap:0.8em;padding:0.3em 0}"
+    ".post-archive .post-archive-date{color:var(--md-default-fg-color--light);"
+    "font-variant-numeric:tabular-nums;flex-shrink:0}"
+    "</style>"
+)
+
+
+def render_archive():
+    parts = [ARCHIVE_STYLE, '<div class="post-archive">']
+    for year, posts in itertools.groupby(sorted_posts(), key=lambda p: p.meta["date"].year):
+        parts.append(f"<h2>{year}</h2><ul>")
+        for p in posts:
+            date_str = p.meta["date"].strftime("%d/%m")
+            parts.append(
+                f'<li><span class="post-archive-date">{date_str}</span>'
+                f'<a href="{p.abs_url}">{p.title}</a></li>'
+            )
+        parts.append("</ul>")
+    parts.append("</div>")
+    return "".join(parts)
+
+
+def on_post_page(output, page, config):
+    return ARCHIVE_PLACEHOLDER.sub(lambda _: render_archive(), output, count=1)
 
 
 def on_post_build(config):
