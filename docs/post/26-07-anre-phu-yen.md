@@ -9,6 +9,8 @@ tags:
   - SaintOfTheDay
 date: 2024-01-18
 URL: https://www.facebook.com/photo?fbid=760130849479148&set=a.461380502687519
+category:
+  - toi-cam
 ---
 # Chân Phước Anre Phú Yên  
   
