@@ -19,7 +19,7 @@ category:
 # Viết và đọc tiểu thuyết  
 [Author:: [Nhất Linh](Nh%C3%A2%CC%81t%20Linh.md)] - (Publication_Year:: 1961)  
   
-![|434x674](https://i.imgur.com/tU7od6E.jpg)  
+![Viết và đọc tiểu thuyết-1761044570720.webp](../assets/img/Vi%E1%BA%BFt%20v%C3%A0%20%C4%91%E1%BB%8Dc%20ti%E1%BB%83u%20thuy%E1%BA%BFt-1761044570720.webp)  
   
 ---  
 ### Phần 1:   

@@ -20,7 +20,7 @@ category:
   
 [Author::[Charles Wagner](Charles%20Wagner.md)] - (Publication_Year:: 1904)  
   
-![|299x456](https://i.imgur.com/TwsAHBE.png)  
+![Sống đơn giản-1760539923128.webp](../assets/img/S%E1%BB%91ng%20%C4%91%C6%A1n%20gi%E1%BA%A3n-1760539923128.webp)  
   
   
 > Biết cái nào là chính, cái nào là phụ!  

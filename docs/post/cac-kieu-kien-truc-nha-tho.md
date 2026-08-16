@@ -7,8 +7,6 @@ aliases:
 tags:
   - TIL
 date: 2024-02-20
-category:
-  - toi-luu
 ---
 # Các kiểu kiến trúc khác nhau của nhà thờ đến từ đâu  
   

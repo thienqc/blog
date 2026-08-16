@@ -11,7 +11,6 @@ aliases:
   - The Compass of Zettelkasten Thinking
 category:
   - toi-hoc
-  - toi-luu
 ---
 # The Compass of Zettelkasten Thinking  
 - **North:** The Source. Where did it originate.  

@@ -19,7 +19,7 @@ category:
 # Lâu Đài  
 [Author:: [Franz Kafka](../../Franz%20Kafka.md)] - (Publication_Year:: 1926)  
   
-![|289x475](https://i.imgur.com/wUtFgZJ.jpg)  
+![Lâu Đài-1760540835648.webp](../assets/img/L%C3%A2u%20%C4%90%C3%A0i-1760540835648.webp)  
   
 ---  
   

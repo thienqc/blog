@@ -1,17 +1,13 @@
 ---
 filename: flow-dong-chay
-description:
-URL:
 Cover: Flow - dòng chảy-1760089186074.webp
 Last_Read:
-Rating: ""
 Total_Pages: 552
 tags:
   - happiness
   - KhoSach
 Type:
   - Book
-Status:
 share: true
 comments: true
 date: 2023-10-06
@@ -26,10 +22,7 @@ category:
 # Flow - dòng chảy  
 [Author:: [Mihaly Csikszentmihalyi](Mihaly%20Csikszentmihalyi.md)] - (Publication_Year:: 1990)  
   
-![|553x787](https://i.imgur.com/ImedPfJ.jpg)  
-  
-  
-Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21145&authkey=!AKIpLNZFODzrdwY)  
+![Flow - dòng chảy-1760089186074.webp](../assets/img/Flow%20-%20d%C3%B2ng%20ch%E1%BA%A3y-1760089186074.webp)  
   
 ---  
 ## Highlights  
