@@ -6,6 +6,8 @@ description: AI và não hai
 tags:
   - PKM
 date: 2026-05-16
+category:
+  - toi-hoc
 ---
 # Ghi chú về "LLM Wiki - Karpathy"  
   
