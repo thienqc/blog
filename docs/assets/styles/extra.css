@@ -51,42 +51,10 @@
   text-align: center;
 }
 
-/* "Xem thêm" (bạn dùng callout [!Example] cho việc này) - bỏ hẳn khung/
-   icon mặc định của Material (nguồn gây vỡ icon trước đó), làm custom
-   style riêng: nhãn chữ hoa nhỏ màu accent + gạch chân, danh sách link
-   gọn bên dưới, không có khung/nền/icon gì cả. */
-.md-typeset .admonition.example {
-  all: unset;
-  display: block;
-  margin: 1.5em 0;
-}
-
-.md-typeset .admonition.example > .admonition-title {
-  all: unset;
-  display: block;
-  font-size: 1.4em; /* to như h2 (Bài cùng chuyên mục), cho nổi bật */
-  font-weight: 700;
-  letter-spacing: -0.04em;
-  color: var(--md-accent-fg-color);
-  margin-bottom: 0.5em;
-}
-
-.md-typeset .admonition.example > .admonition-title::before {
-  display: none;
-}
-
-.md-typeset .admonition.example > :last-child {
-  margin-bottom: 0;
-}
-
-/* hooks/example_list.py convert nội dung thành <ul><li> thật (kể cả khi
-   nguồn viết nhiều link liền nhau, ngăn bởi <br/> trong cùng 1 <p> -
-   CSS không tự thêm được dấu đầu dòng cho từng dòng sau <br/>), nên chỉ
-   cần style <ul> bình thường, không cần hack ::before nữa. */
-.md-typeset .admonition.example > ul {
-  margin: 0.3em 0 0;
-  padding-left: 1.1em;
-}
+/* "Xem thêm" ([!Example] callout) không còn hiện riêng nữa - hooks/
+   categories.py giờ trích link ra rồi gộp thẳng vào "Có thể bạn sẽ
+   thích" ở cuối bài, xoá callout khỏi nội dung. Không cần CSS riêng
+   cho .admonition.example nữa. */
 
 /* ======================================== */
 
@@ -159,6 +127,19 @@
   .md-typeset .grid.cards {
     grid-template-columns: 1fr;
   }
+}
+
+/* ======================================== */
+
+/* Material tự mở rộng section đang active trong sidebar (vd "Bài viết"
+   với ~290 bài) mỗi khi đang đọc 1 trang bên trong nó - hợp lý cho
+   section nhỏ, nhưng với section to thì tràn cả sidebar, trông lượm
+   thượm. Giới hạn chiều cao + cho cuộn riêng, áp dụng chung cho MỌI
+   section tự mở rộng (không riêng "Bài viết") - không đụng gì tới dữ
+   liệu nav/prev-next, thuần CSS. */
+.md-nav__item--nested > .md-nav__toggle:checked ~ .md-nav {
+  max-height: 40vh;
+  overflow-y: auto;
 }
 
 /* ======================================== */
