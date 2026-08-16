@@ -18,7 +18,7 @@ category:
 # Mười người da đen nhỏ  
 [Author::[Agatha Christie](../../Agatha%20Christie.md)] - (Publication_Year:: 1939)  
   
-![|336x500](https://i.imgur.com/6hyklh4.png)  
+![Mười người da đen nhỏ-20250326210812337.webp](../assets/img/M%C6%B0%E1%BB%9Di%20ng%C6%B0%E1%BB%9Di%20da%20%C4%91en%20nh%E1%BB%8F-20250326210812337.webp)  
   
 | Nguyên bản                                                 | Tạm dịch                             |  
 | ---------------------------------------------------------- | ------------------------------------ |  
