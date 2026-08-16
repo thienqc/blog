@@ -2,13 +2,13 @@
 filename: how-to-make-notion-run-faster
 aliases:
   - Làm thế nào để NOTION chạy nhanh hơn
-description:
-URL:
 tags:
   - notion
 share: true
 comments: true
 date: 2023-06-26
+category:
+  - toi-hoc
 ---
 # Làm thế nào để NOTION chạy nhanh hơn  
 ## Những yếu tố ảnh hưởng tới tốc độ của Notion  
