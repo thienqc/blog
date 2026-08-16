@@ -8,6 +8,8 @@ tags:
   - XV23
 date: 2023-12-05
 description: Ninh Thuận - vùng đất của nắng và gió
+category:
+  - toi-di
 ---
 # XV23 - ngày 04 • Ninh Thuận  
   
