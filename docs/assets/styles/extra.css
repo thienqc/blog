@@ -13,13 +13,79 @@
 }
 
 /* Blockquote tinh giản: chỉ viền trái, không nền, giữ nguyên độ tương
-   phản chữ như văn bản thường (--md-default-fg-color--light trước đó
-   quá nhạt, khó đọc — nền màu code trước đây thì lại giống code block) */
+   phản chữ như văn bản thường. Material tự có sẵn
+   ".md-typeset blockquote { color: var(--md-default-fg-color--light) }"
+   trong CSS gốc của theme (không phải do mình) — chỉ bỏ override màu ở
+   đây không đủ, vẫn rơi về đúng màu nhạt đó, phải ghi đè rõ ràng bằng
+   --md-default-fg-color (không phải bản --light) mới hết nhạt. */
 .md-typeset blockquote {
   border-left: 0.2rem solid var(--md-accent-fg-color);
   background-color: transparent;
+  color: var(--md-default-fg-color);
   padding: 4px 20px;
+  margin-left: 2.5em; /* thụt cả khối (kể cả viền trái) vào ~1 tab */
   border-radius: 0;
+}
+
+/* ======================================== */
+
+/* Nav tuần tự trong series (vd "Ngày 20 👈 XV23 👉 Ngày 22") - hooks/
+   nav_quote.py gắn class này vào đúng blockquote chứa 👈 và/hoặc 👉,
+   dựa theo nội dung chứ không phải cú pháp viết riêng - vẫn gõ
+   blockquote bình thường trong Obsidian như trước giờ, không cần sửa
+   note nào cả. Nền pill nhạt màu accent (không viền, không khung) để
+   có điểm nhấn, không lẫn vào văn bản thường. Chữ căn giữa - phải khai
+   báo lại trên chính thẻ <p>, vì ".md-typeset p { text-align: justify }"
+   ở trên áp trực tiếp lên <p> con, ghi đè mất center của thẻ cha. */
+.md-typeset blockquote.nav-quote {
+  display: table;
+  border-left: none;
+  background-color: color-mix(in srgb, var(--md-accent-fg-color) 12%, transparent);
+  border-radius: 2rem;
+  padding: 0.6em 1.4em;
+  margin: 1.5em auto;
+}
+
+.md-typeset blockquote.nav-quote p {
+  margin: 0;
+  text-align: center;
+}
+
+/* "Xem thêm" (bạn dùng callout [!Example] cho việc này) - bỏ hẳn khung/
+   icon mặc định của Material (nguồn gây vỡ icon trước đó), làm custom
+   style riêng: nhãn chữ hoa nhỏ màu accent + gạch chân, danh sách link
+   gọn bên dưới, không có khung/nền/icon gì cả. */
+.md-typeset .admonition.example {
+  all: unset;
+  display: block;
+  margin: 1.5em 0;
+}
+
+.md-typeset .admonition.example > .admonition-title {
+  all: unset;
+  display: block;
+  font-size: 1.4em; /* to như h2 (Bài cùng chuyên mục), cho nổi bật */
+  font-weight: 700;
+  letter-spacing: -0.04em;
+  color: var(--md-accent-fg-color);
+  margin-bottom: 0.5em;
+}
+
+.md-typeset .admonition.example > .admonition-title::before {
+  display: none;
+}
+
+.md-typeset .admonition.example > :last-child {
+  margin-bottom: 0;
+}
+
+/* hooks/example_list.py convert nội dung thành <ul><li> thật (kể cả khi
+   nguồn viết nhiều link liền nhau, ngăn bởi <br/> trong cùng 1 <p> -
+   CSS không tự thêm được dấu đầu dòng cho từng dòng sau <br/>), nên chỉ
+   cần style <ul> bình thường, không cần hack ::before nữa. */
+.md-typeset .admonition.example > ul {
+  margin: 0.3em 0 0;
+  padding-left: 1.1em;
 }
 
 /* ======================================== */
@@ -74,22 +140,22 @@
 
 /* ======================================== */
 
-/* Cho 1 card cụ thể trong .grid.cards trải rộng 2 cột thay vì 1 —
-   đánh dấu bằng { .wide } ngay sau card đó trong markdown (attr_list).
-   attr_list gắn class vào thẻ <p> bên trong <li> chứ không phải <li>,
-   nên phải dùng :has() để chọn ngược lên <li> (grid item thật sự). */
-.md-typeset .grid.cards > ul > li:has(> p.wide) {
-  grid-column: span 2;
+/* Category grid on the home page: fixed 2 columns on desktop (4 main
+   cards as 2x2, "Khác" left as its own odd cell on the row below),
+   fixed 1 column on mobile (all 5 stacked). Material's own
+   auto-fit/minmax sizing (repeat(auto-fit,minmax(min(100%,16rem),1fr)))
+   picks the column count from available width somewhat unpredictably
+   (observed splitting into 2 uneven columns on some phones instead of
+   collapsing to 1) - defining explicit column counts for each
+   breakpoint instead removes that guesswork entirely.
+   The <ul> is display:contents (Material collapses it out of the box
+   tree so <li> become direct grid items) - the real grid container is
+   .grid.cards itself, so that's what these rules target, not the ul. */
+.md-typeset .grid.cards {
+  grid-template-columns: repeat(2, 1fr);
 }
 
-/* Material's own auto-fit grid columns (minmax(min(100%,16rem),1fr))
-   should already collapse to 1 column on narrow screens, but in
-   practice ends up splitting into 2 uneven columns on phones - force a
-   single column below ~600px so cards don't get squeezed/wrap badly. */
 @media screen and (max-width: 37.5em) {
-  /* The <ul> is display:contents (Material collapses it out of the box
-     tree so <li> become direct grid items) - the real grid container is
-     .grid.cards itself, so that's what needs the override, not the ul. */
   .md-typeset .grid.cards {
     grid-template-columns: 1fr;
   }

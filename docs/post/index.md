@@ -6,4 +6,6 @@ icon: material/post-outline
 
 # Bài viết
 
-Toàn bộ bài viết, sắp xếp theo thời gian gần đây nhất.
+Toàn bộ bài viết, chia theo năm.
+
+{{ archive_content }}

@@ -55,6 +55,9 @@ hooks:
   - hooks/lazy_images.py
   - hooks/categories.py
   - hooks/posts_index.py
+  - hooks/cache_bust.py
+  - hooks/nav_quote.py
+  - hooks/example_list.py
 
 plugins:
   - search
@@ -81,27 +84,12 @@ markdown_extensions:
   - pymdownx.superfences
   - footnotes
   - tables
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
-  - def_list
-  - pymdownx.tasklist:
-      custom_checkbox: true
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-      combine_header_slug: true
-      slugify: !!python/object/apply:pymdownx.slugs.slugify
-        kwds:
-          case: lower
   - toc:
       permalink: true
 
