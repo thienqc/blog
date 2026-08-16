@@ -3,13 +3,14 @@ filename: cach-minh-dong-bo-obsidian-giua-cac-thiet-bi
 aliases:
   - Cách mình đồng bộ obsidian giữa các thiết bị
 description:
-URL:
 date: 2023-05-21
-Link: https://www.facebook.com/groups/594306492570157/posts/644009084266564
+URL: https://www.facebook.com/groups/594306492570157/posts/644009084266564
 tags:
   - obsidian
 share: true
 comments: true
+category:
+  - toi-hoc
 ---
 # Cách mình đồng bộ obsidian giữa các thiết bị  
   
