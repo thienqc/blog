@@ -16,6 +16,8 @@ Total_Pages: 420
 Type:
   - Book
 Last_Read: 2024-06-09
+category:
+  - toi-doc
 ---
 # Thư viện nửa đêm  
 [Author:: [Matt Haig](Matt%20Haig.md)] - (Publication_Year:: 2020)  
