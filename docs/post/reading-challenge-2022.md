@@ -4,11 +4,11 @@ comments: true
 filename: reading-challenge-2022
 aliases:
   - Reading challenge 2022
-description:
 tags:
   - DocSach
 date: 2024-01-25
-URL:
+category:
+  - toi-doc
 ---
 # Reading challenge 2022  
   
@@ -28,6 +28,8 @@ Một số đầu sách có thể đọc thử:
 - [Sherlock Holmes (tuyển tập)](../../Sherlock%20Holmes%20To%C3%A0n%20T%E1%BA%ADp.md)  
 - [Thư viện nửa đêm](./thu-vien-nua-dem.md)  
 - [Cái ghế trống](../../C%C3%A1i%20gh%E1%BA%BF%20tr%E1%BB%91ng%20(3).md)  
+  
+> **[2021](./reading-challenge-2021.md) 👈 [Reading challenge](./reading-challenge.md) 👉 [2023](./reading-challenge-2023.md)**  
   
 ---  
 [^1]: [Anh Hùng Xạ Điêu](../../Anh%20H%C3%B9ng%20X%E1%BA%A1%20%C4%90i%C3%AAu.md) (1957), [Thần Điêu Hiệp Lữ](../../Th%E1%BA%A7n%20%C4%90i%C3%AAu%20Hi%E1%BB%87p%20L%E1%BB%AF.md) (1959), [Ỷ Thiên Đồ Long Ký](../../%E1%BB%B6%20Thi%C3%AAn%20%C4%90%E1%BB%93%20Long%20K%C3%BD.md) (1961)
