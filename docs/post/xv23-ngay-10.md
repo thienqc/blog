@@ -8,6 +8,8 @@ tags:
   - XV23
 date: 2023-12-11
 description: "\r\rGiữa màn đêm, ánh sáng dẫn lối..."
+category:
+  - toi-di
 ---
 # XV23 - ngày 10 • Tiếp tục lên đường  
 *11/12/2023*  
