@@ -2,13 +2,13 @@
 filename: doc-sach-2023-09
 aliases:
   - Đọc sách - T09.2023
-URL:
 share: true
 comments: true
 tags:
   - DocSach
 date: 2023-09-30
-description:
+category:
+  - toi-doc
 ---
 # Đọc sách - T09.2023  
 Tháng này mình đọc không nhiều, chủ yếu là trinh thám.  
@@ -23,7 +23,7 @@ Thuộc seri thám tử xe lăn Lincoln Rhyme.
 "Trăng lạnh" và "Lưới điện tử thần" sẽ giới thiệu nhân vật "Thợ đồng hồ" - một trong những tên tội phạm thông minh và gian xảo - xứng tầm với quý ngài James Moriarty đối thủ của Shelock Holmes.  
 "Dữ liệu tử thần" sẽ cho chúng ta thấy một thế giới mà nhân dạng con người chỉ qua những số liệu, và nhân dạng chúng ta dễ bị làm giả đến mức nào.  
   
-## [Tam thể](./tam-the.md)  
+## [Tam thể](../../tam-the.md)  
 Sci-fi sẽ tạo ra một thế giới với những quy tắc phù hợp. Và lượng kiến khoa học thường rất nhiều, đôi khi gây lú, nên mình khá ngại đụng tới thể loại này. Mặc dù trong "Tam thể" cũng có những thuật ngữ chuyên ngành mình không hiểu mấy, nhưng cốt truyện và nhân vật thì vẫn có thể thẩm thấu được.  
   
   
