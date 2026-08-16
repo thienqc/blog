@@ -11,18 +11,18 @@ Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 452
 tags:
   - Reading_challenge_RC_2023
-  - KhoSach
 Type:
   - Book
 aliases:
   - Người đàn ông mang tên Ove
+category:
+  - toi-doc
 ---
 # Người đàn ông mang tên Ove  
 [Author:: [Fredrik Backman](../../Fredrik%20Backman.md)] - (Publication_Year:: 2012)  
   
 ![Người đàn ông mang tên Ove-1761280850331.webp](../assets/img/Ng%C6%B0%E1%BB%9Di%20%C4%91%C3%A0n%20%C3%B4ng%20mang%20t%C3%AAn%20Ove-1761280850331.webp)  
   
-Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21174&authkey=!ACtvj6xlhElVy0o)  
   
 ---  
 ## Highlights  
