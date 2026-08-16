@@ -9,8 +9,6 @@ URL:
 description:
 aliases:
   - Hãy yêu tôi bây giờ
-category:
-  - toi-luu
 ---
 # Hãy yêu tôi bây giờ  
   

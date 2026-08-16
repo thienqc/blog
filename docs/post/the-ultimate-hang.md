@@ -21,7 +21,7 @@ category:
 # The Ultimate Hang - An Illustrated Guide to Hammock Camping  
 [Author::[Derek Hansen](Derek%20Hansen.md)] - (Publication_Year:: 2011)  
   
-![|267x400](https://i.imgur.com/rD1Aip1.png)  
+![The Ultimate Hang - An Illustrated Guide to Hammock Camping-1760709405355.webp](../assets/img/The%20Ultimate%20Hang%20-%20An%20Illustrated%20Guide%20to%20Hammock%20Camping-1760709405355.webp)  
   
 ---  
   

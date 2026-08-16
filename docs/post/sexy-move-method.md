@@ -6,8 +6,6 @@ tags:
   - rubik
 date: 2026-07-16
 URL: Phương pháp giải Rubik chỉ cần nhớ 1 công thức
-category:
-  - toi-hoc
 ---
 # Sexy move method  
   

@@ -11,6 +11,7 @@ aliases:
   - Be Kind, Be Useful, Be Fearless
 category:
   - toi-luu
+Author: Barack Obama
 ---
 # Be Kind, Be Useful, Be Fearless  
 [West Wing Week: 11/11/16 or, "Be Kind, Be Useful, Be Fearless" - YouTube](https://www.youtube.com/watch?v=-GlJdcxyLOY)  

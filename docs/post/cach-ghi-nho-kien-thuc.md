@@ -12,6 +12,7 @@ comments: true
 category:
   - toi-luu
   - toi-hoc
+Author: Bs.Phuc.Radiologist
 ---
 # CÁCH GHI NHỚ KIẾN THỨC  
 @Bs.Phuc.Radiologist  

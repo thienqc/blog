@@ -21,7 +21,7 @@ category:
   
 [Author::[Mary Fabyan Windeatt](Mary%20Fabyan%20Windeatt.md)] - (Publication_Year:: 2012)  
   
-![|300|300x480](https://i.imgur.com/ONw7Bkh.png)  
+![Câu Chuyện Con Bò Câm-1760877761786.webp](../assets/img/C%C3%A2u%20Chuy%E1%BB%87n%20Con%20B%C3%B2%20C%C3%A2m-1760877761786.webp)  
   
 Cuốn sách nhỏ này được viết dưới hình thức tự thuật của chính nhân vật về cuộc đời của mình. Sách kể chuyện dành cho thiếu nhi, nhưng không kém phần hấp dẫn đối với người lớn.  
   

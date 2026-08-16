@@ -21,7 +21,7 @@ category:
 # Được học  
 [Author:: [Tara Westover](Tara%20Westover.md)] - (Publication_Year:: 2018)  
   
-![|296x475](https://i.imgur.com/dAQu5hN.jpg)  
+![Được học-1761045957418.webp](../assets/img/%C4%90%C6%B0%E1%BB%A3c%20h%E1%BB%8Dc-1761045957418.webp)  
   
 ---  
 ## Nội dung  

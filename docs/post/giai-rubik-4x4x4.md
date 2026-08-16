@@ -7,8 +7,6 @@ aliases:
 tags:
   - rubik
 date: 2026-08-16
-category:
-  - toi-hoc
 ---
 # Giải rubik 4x4x4  
   

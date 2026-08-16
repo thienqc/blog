@@ -10,6 +10,7 @@ comments: true
 description: Những góc khuất
 category:
   - toi-luu
+Author: huynhtranmd
 ---
 # Mặt trái của nghề BS tại Mỹ  
 Nhìn từ bên ngoài, nghề BS (tại Mỹ) có thể là nghề mơ uớc của nhiều người. Tuy nhiên, ít ai biết được hết những góc khuất của nghề này.   

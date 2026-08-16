@@ -22,7 +22,7 @@ category:
 # Vòng đu quay đêm  
 [Author::[Kanae Minato](../../Kanae%20Minato.md)] - (Publication_Year:: 2010)  
   
-![|256x384](https://i.imgur.com/zuGUWBv.png)  
+![Vòng đu quay đêm-1764255282117.webp](../assets/img/V%C3%B2ng%20%C4%91u%20quay%20%C4%91%C3%AAm-1764255282117.webp)  
   
 ---  
 Mọi chuyện bắt nguồn từ do đâu?  
