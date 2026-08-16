@@ -5,10 +5,10 @@ comments: true
 tags:
   - hmm
 date: 2023-11-20
-URL:
-description:
 aliases:
   - Cô đơn hay cô độc, khao khát được nói chuyện
+category:
+  - toi-cam
 ---
 # Cô đơn hay cô độc, khao khát được nói chuyện  
 Nghịch lí của việc háo hức đi cắm trại một mình lại là muốn được đi *với 1 người khác* để trò chuyện, để chia sẻ.   
