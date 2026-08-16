@@ -4,13 +4,17 @@ comments: true
 filename: reading-challenge
 aliases:
   - KhoSach - RC
-description:
+  - Reading challenge
 tags:
   - DocSach
-date: 2024-12-31
-URL:
+date: 2025-12-31
+category:
+  - toi-doc
 ---
 # Reading challenge  
+  
+## [2025](./reading-challenge-2025.md)  
+  
 ## [2024](./reading-challenge-2024.md)  
 - [Đọc sách - T01.2024](./doc-sach-2024-01.md)  
 - [Đọc sách - T02.2024](./doc-sach-2024-02.md)  
