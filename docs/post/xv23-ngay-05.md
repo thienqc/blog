@@ -8,6 +8,8 @@ tags:
   - XV23
 date: 2023-12-06
 description: Một tháng Champa
+category:
+  - toi-di
 ---
 # XV23 - ngày 05 • Một thoáng Chăm Pa  
 *06/12/2023*  
@@ -24,7 +26,7 @@ Sau khi nghỉ ngơi tại nhà, hôm nay mình quyết định đi tìm hiểu 
 ## Làng gốm Bàu Trúc  
 Hãy xem cách làm gốm rất đặc biệt chỉ riêng ở Bàu Trúc. Bình thường thì nghệ nhân sẽ ngồi một chỗ và cho khối đất sét xoay trên con lăn, còn ở đây, người thợ sẽ đi xoay xung quanh cục đất sét và cho ra thành phẩm rất là nhanh.  
   
-https://youtube.com/shorts/mV0h5akTgCw?feature=share  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mV0h5akTgCw?si=K_tgd4sMWm0R1hVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
   
 Điều đặc biệt là những sản phẩm cho sinh hoạt hằng ngày thì sẽ do phụ nữ đảm nhiệm, còn những sản phẩm có hoa văn chi tiết sẽ do đàn ông thực hiện, vì những sản phẩm sắc xảo này sẽ là đồ dâng cho thần linh, còn người phụ nữ (quan niệm là liên quan tới sinh nở thì sẽ dơ bẩn) sẽ không làm.  
   
