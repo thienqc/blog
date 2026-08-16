@@ -8,7 +8,8 @@ description: Tổng kết những quyển sách đã đọc trong năm 2021
 tags:
   - DocSach
 date: 2024-01-24
-URL:
+category:
+  - toi-doc
 ---
 # Reading challenge 2021  
   
@@ -64,4 +65,6 @@ Khi tổng hợp và chọn ra được top 10, mình mới thấy rằng năm n
   
 Mục tiêu năm sau sẽ như mọi năm là đọc hết đống sách còn dang dở/  
   
-[My Year in Books - 2021 (notion.site)](https://thienqc.notion.site/My-Year-in-Books-2021-9a19bff56d22416eb81573768f31a887)
+[My Year in Books - 2021 (notion.site)](https://thienqc.notion.site/My-Year-in-Books-2021-9a19bff56d22416eb81573768f31a887)  
+  
+> **[2020](./reading-challenge-2020.md) 👈 [Reading challenge](./reading-challenge.md) 👉 [2022](./reading-challenge-2022.md)**
