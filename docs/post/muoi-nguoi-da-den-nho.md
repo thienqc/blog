@@ -12,6 +12,8 @@ Rating: ⭐⭐⭐
 type:
   - Book
 Last_Read: 2025-03-26
+category:
+  - toi-doc
 ---
 # Mười người da đen nhỏ  
 [Author::[Agatha Christie](../../Agatha%20Christie.md)] - (Publication_Year:: 1939)  
