@@ -1,7 +1,5 @@
 ---
 filename: review-dieu-ki-dieu-cua-tiem-tap-hoa-namiya
-description:
-URL:
 share: true
 comments: true
 tags:
@@ -9,12 +7,14 @@ tags:
 date: 2018-04-06
 aliases:
   - Review Điều kì diệu của tiệm tạp hoá Namiya
+category:
+  - toi-doc
 ---
 # Review Điều kì diệu của tiệm tạp hoá Namiya  
   
 *Lần đầu viết review. Review có tí spoil. Khuyên chỉ nên đã đọc qua tác phẩm.*  
   
-ĐIỀU KỲ DIỆU CỦA TIỆM TẠP HOÁ NAMIYA - HIGASHINO KEIGO  
+[ĐIỀU KỲ DIỆU CỦA TIỆM TẠP HOÁ NAMIYA](./dieu-ki-dieu-cua-tiem-tap-hoa-namiya.md) - HIGASHINO KEIGO  
   
 ![|654x654](https://i.imgur.com/xpbTkNF.jpg)  
   
@@ -47,7 +47,4 @@ Bộ phim chuyển thể không thể hiện hết nội tâm nhân vật, lư�
   
 Bài *[Reborn](https://youtu.be/GMUiipgOPVY)* khá hay, nhẹ nhàng, da diết.  
   
-Bắt đầu ghiền truyện của tác giả Higashino Keigo.  
-  
----  
-Sách: [Điều Kỳ Diệu Của Tiệm Tạp Hóa Namiya|](./dieu-ki-dieu-cua-tiem-tap-hoa-namiya.md)
+Bắt đầu ghiền truyện của tác giả Higashino Keigo.
