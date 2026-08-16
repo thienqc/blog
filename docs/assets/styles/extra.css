@@ -69,3 +69,13 @@
   transform: scale(1.08);
   opacity: 0.75;
 }
+
+/* ======================================== */
+
+/* Cho 1 card cụ thể trong .grid.cards trải rộng 2 cột thay vì 1 —
+   đánh dấu bằng { .wide } ngay sau card đó trong markdown (attr_list).
+   attr_list gắn class vào thẻ <p> bên trong <li> chứ không phải <li>,
+   nên phải dùng :has() để chọn ngược lên <li> (grid item thật sự). */
+.md-typeset .grid.cards > ul > li:has(> p.wide) {
+  grid-column: span 2;
+}

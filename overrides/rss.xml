@@ -5,16 +5,13 @@
     <link>{{ config.site_url }}</link>
     <description>{{ config.site_description }}</description>
     <lastBuildDate>
-      {% set valid_pages = [] %}
-      {% for p in nav.pages %}
-        {% if "date" in p.meta %}
-          {% if valid_pages.append(p) %}{% endif %}
-        {% endif %}
-      {% endfor %}
-      {% set sorted_pages = valid_pages|sort(attribute="meta.date", reverse=True) %}
-      {{ (sorted_pages[0].meta.date if sorted_pages else now()).strftime('%a, %d %b %Y %H:%M:%S GMT') }}
+      {#- blog_posts comes from hooks/posts_index.py's on_page_context,
+          already sorted newest-first - not nav.pages, which is now an
+          explicit curated list (see mkdocs.yml) that excludes individual
+          posts, so it wouldn't find any. -#}
+      {{ (blog_posts[0].meta.date if blog_posts else now()).strftime('%a, %d %b %Y %H:%M:%S GMT') }}
     </lastBuildDate>
-    {% for post in valid_pages|sort(attribute="meta.date", reverse=True) %}
+    {% for post in blog_posts %}
     <item>
       <title>{{ post.title }}</title>
       <link>{{ config.site_url }}{{ post.url }}</link>
