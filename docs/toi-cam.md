@@ -5,6 +5,7 @@ icon: material/heart
 
 # Tôi cảm
 
-Những điều làm trái tim rung động
+<b><i>Những điều làm trái tim rung động</i></b>
+<br>
 
 {{ category_content toi-cam }}

@@ -57,7 +57,6 @@ hooks:
   - hooks/posts_index.py
   - hooks/cache_bust.py
   - hooks/nav_quote.py
-  - hooks/example_list.py
 
 plugins:
   - search
