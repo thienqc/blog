@@ -1,6 +1,5 @@
 ---
 filename: reading-slump
-URL:
 share: true
 comments: true
 tags:
@@ -11,6 +10,9 @@ date: 2023-09-19
 aliases:
   - Reading slump
   - Bệnh chán đọc
+category:
+  - toi-doc
+  - toi-hoc
 ---
 # Reading slump  
 Cho dù có yêu đọc sách đến đâu thì vẫn sẽ có một thời điểm nào đó, bạn cảm thấy chán. Nguyên nhân và cách thoát khỏi "bệnh chán đọc" (reading slump) này là gì?  
