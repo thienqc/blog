@@ -4,18 +4,17 @@ comments: true
 filename: musashi-giang-ho-kiem-khach
 aliases:
   - Musashi - giang hồ kiếm khách
-description:
 tags:
   - Reading_challenge_RC_2024
-  - KhoSach
 date: 2024-01-21
-URL:
 Cover: Musashi - giang hồ kiếm khách-1756563609903.webp
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 1080
 type:
   - Book
 Last_Read: 2024-01-17
+category:
+  - toi-doc
 ---
 # Musashi - giang hồ kiếm khách  
   
@@ -26,8 +25,6 @@ Last_Read: 2024-01-17
 Dù được mệnh danh là một kiếm sĩ bậc thầy, nhưng  ông chắc chắn là người thường chứ không phải thiên tài, kì nhân gì cả. Vì là người thường nên cuộc đời ông cũng rất bình thường. Một tuổi trẻ nông nỗi, không chí chắn, chỉ biết dùng kiếm giải quyết một chuyện. Nhưng trên con đường kiếm đạo của mình, ông đã ra sức trau rồi sức mạnh, cả thể chất đặc biệt là tinh thần. Vì biết mình không biết gì cả nên ông học tập, quan sát, đúc kết, ngẫm nghĩ mọi thứ xung quanh, con người. Thế nên đến cuối đời ông được mọi người ca tụng là ronin vĩ đại nhất.  
   
 Con đường ông chọn là kiếm đạo, nhưng về sau cùng mọi con đường chúng ta đi (kiếm đạo, thiền đạo, thậm chí là trà đạo) rốt cũng chỉ dẫn con người đến quân bình nội tâm, đến hạnh phúc đích thực.  
-  
-Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21185&authkey=!AHx6SxRU3iskDRQ)  
   
 ---  
 ## Highlight  
