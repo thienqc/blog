@@ -4,11 +4,11 @@ comments: true
 filename: toi-khong-tham-gia-reading-challenge
 aliases:
   - Tôi không tham gia Reading challenge nữa
-description:
 tags:
   - hmm
 date: 2024-03-06
-URL:
+category:
+  - toi-doc
 ---
 # Tôi không tham gia Reading challenge nữa  
   
