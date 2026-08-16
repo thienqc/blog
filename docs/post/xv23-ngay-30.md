@@ -8,6 +8,8 @@ tags:
   - XV23
 date: 2023-12-31
 description:
+category:
+  - toi-di
 ---
 # XV23 - ngày 30 • VIET NAM  
 *31/12/2023*  
