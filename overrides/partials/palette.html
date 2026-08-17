@@ -1,0 +1,34 @@
+{#-
+  Based on Material for MkDocs' own partials/palette.html - only the
+  toggle icon changes. Swapped Material's built-in icons (toggle-switch
+  / toggle-switch-off / link, from mkdocs.yml's theme.icon.palette
+  config) for the homepage's own hand-drawn auto/light/dark SVGs
+  (~/App/100_GITHUB/thienqc.github.io/theme.js) so the light/dark
+  toggle reads as the same icon across all 3 sites: homepage, blog,
+  ebook.html. Everything else - the radio inputs, cycling via the
+  `for` attribute, aria labels from mkdocs.yml - is untouched, copied
+  straight from Material's own template.
+
+  Palette order in mkdocs.yml is fixed: index 0 = auto (media-only,
+  no toggle... actually has one here), 1 = light, 2 = dark - matched
+  by loop.index0 below.
+-#}
+<form class="md-header__option" data-md-component="palette">
+  {% for option in config.theme.palette %}
+    {% set scheme  = option.scheme  | d("default", true) %}
+    {% set primary = option.primary | d("indigo", true) %}
+    {% set accent  = option.accent  | d("indigo", true) %}
+    <input class="md-option" data-md-color-media="{{ option.media }}" data-md-color-scheme="{{ scheme | replace(' ', '-') }}" data-md-color-primary="{{ primary | replace(' ', '-') }}" data-md-color-accent="{{ accent | replace(' ', '-') }}" {% if option.toggle %} aria-label="{{ option.toggle.name }}" {% else %} aria-hidden="true" {% endif %} type="radio" name="__palette" id="__palette_{{ loop.index0 }}">
+    {% if option.toggle %}
+      <label class="md-header__button md-icon" title="{{ option.toggle.name }}" for="__palette_{{ loop.index % loop.length }}" hidden>
+        {% if loop.index0 == 0 %}
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3a9 9 0 0 0 0 18V3z"/></svg>
+        {% elif loop.index0 == 1 %}
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="5"/><g stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.2" y1="4.2" x2="5.6" y2="5.6"/><line x1="18.4" y1="18.4" x2="19.8" y2="19.8"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.2" y1="19.8" x2="5.6" y2="18.4"/><line x1="18.4" y1="5.6" x2="19.8" y2="4.2"/></g></svg>
+        {% else %}
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+        {% endif %}
+      </label>
+    {% endif %}
+  {% endfor %}
+</form>

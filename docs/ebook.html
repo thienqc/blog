@@ -95,6 +95,22 @@
       white-space: nowrap;
       flex-shrink: 0;
     }
+    /* #theme-toggle holds an inline SVG (same icon set as the homepage
+       toggle, ~/theme.js there) instead of text/emoji - size it like
+       the homepage button's icon. */
+    #theme-toggle {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 2.2rem;
+      height: 2.2rem;
+      padding: 0;
+    }
+    #theme-toggle svg {
+      width: 18px;
+      height: 18px;
+      fill: currentColor;
+    }
     #theme-toggle:hover, #view-toggle:hover {
       border-color: var(--accent);
       color: var(--accent);
@@ -263,6 +279,13 @@
       overflow: hidden;
       box-shadow: 0 0.5rem 2rem rgba(0, 0, 0, 0.4);
     }
+    #reader-modal:fullscreen, #reader-modal:-webkit-full-screen {
+      width: 100vw;
+      height: 100vh;
+      max-width: none;
+      max-height: none;
+      border-radius: 0;
+    }
 
     #reader-header {
       display: flex;
@@ -281,7 +304,7 @@
       white-space: nowrap;
     }
 
-    #reader-close, #reader-toc-toggle {
+    #reader-close, #reader-toc-toggle, #reader-fullscreen {
       background: transparent;
       border: none;
       color: var(--fg);
@@ -291,7 +314,7 @@
       padding: 0.25rem 0.5rem;
       flex-shrink: 0;
     }
-    #reader-close:hover, #reader-toc-toggle:hover {
+    #reader-close:hover, #reader-toc-toggle:hover, #reader-fullscreen:hover {
       color: var(--accent);
     }
 
@@ -444,7 +467,7 @@
       </div>
       <div style="display:flex; gap:0.5rem; flex-shrink:0;">
         <button id="view-toggle" aria-label="Đổi kiểu xem" title="Đổi kiểu xem"></button>
-        <button id="theme-toggle" aria-label="Đổi sáng/tối" title="Đổi sáng/tối">◐</button>
+        <button id="theme-toggle" aria-label="Đổi giao diện sáng/tối"></button>
       </div>
     </div>
     <a class="back-link" href="./">← Quay lại trang blog</a>
@@ -458,6 +481,7 @@
       <div id="reader-header">
         <button id="reader-toc-toggle" aria-label="Mục lục" title="Mục lục">☰</button>
         <div id="reader-title"></div>
+        <button id="reader-fullscreen" aria-label="Toàn màn hình" title="Toàn màn hình">⛶</button>
         <button id="reader-close" aria-label="Đóng">&times;</button>
       </div>
       <div id="reader-body">
@@ -475,6 +499,7 @@
         <button id="reader-prev">‹ Trang trước</button>
         <span id="reader-status"></span>
         <div style="display:flex; align-items:center; gap:0.5rem;">
+          <button id="flow-toggle" title="Đổi kiểu xem"></button>
           <div id="font-size-control">
             <button id="font-size-dec" title="Giảm cỡ chữ">A−</button>
             <span id="font-size-label">100%</span>
@@ -492,7 +517,21 @@
     // thư mục (new URL(".", location).pathname + ".__palette"). Vì ebook.html
     // nằm ngay gốc docs/, key này trùng với key của trang chủ "/blog/" — đọc
     // và ghi lại đúng key đó để 2 trang khớp nhau khi người dùng đổi ở trang chủ.
+    // 3 trạng thái auto -> light -> dark -> auto, cùng icon/logic với
+    // theme.js của trang chủ (thienqc.github.io/theme.js) - "auto" nghĩa là
+    // chưa chọn gì, chỉ xoá data-theme + key, để CSS tự theo hệ thống.
     const PALETTE_KEY = new URL(".", location).pathname + ".__palette";
+    const THEME_ICONS = {
+      auto: '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3a9 9 0 0 0 0 18V3z"/></svg>',
+      light: '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="5"/><g stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.2" y1="4.2" x2="5.6" y2="5.6"/><line x1="18.4" y1="18.4" x2="19.8" y2="19.8"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.2" y1="19.8" x2="5.6" y2="18.4"/><line x1="18.4" y1="5.6" x2="19.8" y2="4.2"/></g></svg>',
+      dark: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>',
+    };
+    const THEME_LABELS = {
+      auto: "Đang theo hệ thống — bấm để chuyển sang giao diện sáng",
+      light: "Đang dùng giao diện sáng — bấm để chuyển sang giao diện tối",
+      dark: "Đang dùng giao diện tối — bấm để theo hệ thống",
+    };
+    const THEME_NEXT = { auto: "light", light: "dark", dark: "auto" };
 
     function readPalette() {
       try {
@@ -503,24 +542,22 @@
       }
     }
 
-    function applyTheme(mode) {
-      // mode: "dark" | "light"
-      document.documentElement.setAttribute("data-theme", mode);
-      updateThemeIcon();
+    function currentThemeMode() {
+      const attr = document.documentElement.getAttribute("data-theme");
+      return attr === "dark" || attr === "light" ? attr : "auto";
     }
 
     function isCurrentlyDark() {
-      return document.documentElement.getAttribute("data-theme") === "dark"
-        || (!document.documentElement.hasAttribute("data-theme")
-            && matchMedia("(prefers-color-scheme: dark)").matches);
+      const mode = currentThemeMode();
+      return mode === "dark"
+        || (mode === "auto" && matchMedia("(prefers-color-scheme: dark)").matches);
     }
 
     function updateThemeIcon() {
       const btn = document.getElementById("theme-toggle");
-      const dark = isCurrentlyDark();
-      // Icon thể hiện kiểu sẽ đổi SANG khi bấm, giống nút đổi kiểu xem thư viện.
-      btn.textContent = dark ? "☀️" : "🌙";
-      btn.title = dark ? "Chuyển sang giao diện sáng" : "Chuyển sang giao diện tối";
+      const mode = currentThemeMode();
+      btn.innerHTML = THEME_ICONS[mode];
+      btn.title = THEME_LABELS[mode];
       btn.setAttribute("aria-label", btn.title);
     }
 
@@ -530,6 +567,10 @@
     // tự tính lại theme từ index sai và ghi đè lại màu mình vừa đổi.
     //   0 = tự động theo hệ thống, 1 = sáng (indigo/indigo), 2 = tối (black/indigo)
     function writePalette(mode) {
+      if (mode === "auto") {
+        try { localStorage.removeItem(PALETTE_KEY); } catch (e) { /* ignore */ }
+        return;
+      }
       const index = mode === "dark" ? 2 : 1;
       const palette = {
         index,
@@ -545,20 +586,28 @@
       } catch (e) { /* localStorage không khả dụng, bỏ qua */ }
     }
 
+    function applyTheme(mode) {
+      // mode: "auto" | "light" | "dark"
+      if (mode === "auto") document.documentElement.removeAttribute("data-theme");
+      else document.documentElement.setAttribute("data-theme", mode);
+      updateThemeIcon();
+      // applyReaderTheme được định nghĩa ở script bên dưới, nhưng hàm này
+      // chỉ thực sự chạy khi có sự kiện (click/pageshow), tức là sau khi
+      // toàn trang (cả 2 script) đã chạy xong - an toàn để gọi ở đây.
+      applyReaderTheme();
+    }
+
     (function initTheme() {
       const palette = readPalette();
       const scheme = palette && palette.color && palette.color.scheme;
       if (scheme === "slate") document.documentElement.setAttribute("data-theme", "dark");
       else if (scheme === "default") document.documentElement.setAttribute("data-theme", "light");
-      // nếu không có gì lưu sẵn, để CSS tự theo prefers-color-scheme
+      // nếu không có gì lưu sẵn, để CSS tự theo prefers-color-scheme (auto)
       updateThemeIcon();
     })();
 
     document.getElementById("theme-toggle").addEventListener("click", () => {
-      const isDark = document.documentElement.getAttribute("data-theme") === "dark"
-        || (!document.documentElement.hasAttribute("data-theme")
-            && matchMedia("(prefers-color-scheme: dark)").matches);
-      const next = isDark ? "light" : "dark";
+      const next = THEME_NEXT[currentThemeMode()];
       applyTheme(next);
       writePalette(next);
     });
@@ -573,6 +622,7 @@
       const scheme = palette && palette.color && palette.color.scheme;
       if (scheme === "slate") applyTheme("dark");
       else if (scheme === "default") applyTheme("light");
+      else applyTheme("auto");
     });
   </script>
 
@@ -772,6 +822,8 @@
     const prevBtn = document.getElementById("reader-prev");
     const nextBtn = document.getElementById("reader-next");
     const closeBtn = document.getElementById("reader-close");
+    const fullscreenBtn = document.getElementById("reader-fullscreen");
+    const readerModal = document.getElementById("reader-modal");
     const tocToggleBtn = document.getElementById("reader-toc-toggle");
     const tocPanel = document.getElementById("toc-panel");
     const tocListEl = document.getElementById("toc-list");
@@ -798,34 +850,93 @@
       applyFontSize();
     });
 
-    let wheelLocked = false;
-    function setupReaderThemes(rendition) {
-      rendition.themes.default({
+    // Sách epub tự mang theo CSS riêng (thường viết cho nền trắng, chữ
+    // đen) - rendition.themes.default() không tự động thừa hưởng biến
+    // --bg/--fg của trang ngoài, nên khi trang ngoài chuyển tối, nội
+    // dung sách vẫn đen trên nền tối nếu không ép màu thủ công ở đây.
+    // Đọc trực tiếp từ CSS custom property hiện tại (không hardcode
+    // màu riêng) để luôn khớp đúng với khung ngoài, kể cả khi theme đổi
+    // giữa lúc đang đọc.
+    function applyReaderTheme() {
+      if (!currentRendition) return;
+      const style = getComputedStyle(document.documentElement);
+      const bg = style.getPropertyValue("--bg").trim();
+      const fg = style.getPropertyValue("--fg").trim();
+      const accent = style.getPropertyValue("--accent").trim();
+      currentRendition.themes.default({
+        "html": {
+          "background": bg + " !important",
+        },
         "body": {
+          "background": bg + " !important",
+          "color": fg + " !important",
           "text-align": "justify !important",
           "text-justify": "inter-word !important",
           "line-height": "1.6 !important",
+        },
+        "p, div, span, li, h1, h2, h3, h4, h5, h6": {
+          "color": fg + " !important",
         },
         "p": {
           "text-align": "justify !important",
           "text-justify": "inter-word !important",
         },
+        "a, a *": {
+          "color": accent + " !important",
+        },
       });
+    }
+
+    let wheelLocked = false;
+    function setupReaderThemes(rendition) {
+      applyReaderTheme();
       rendition.themes.font(READER_FONT);
       applyFontSize();
 
-      // epub.js không forward sự kiện "wheel" từ iframe ra ngoài như keydown/keyup,
-      // nên phải tự gắn trực tiếp vào document của từng trang khi nó được tạo.
-      rendition.hooks.content.register((contents) => {
-        contents.document.addEventListener("wheel", (e) => {
-          if (wheelLocked) return;
-          wheelLocked = true;
-          setTimeout(() => { wheelLocked = false; }, 500);
-          if (e.deltaY > 0) rendition.next();
-          else if (e.deltaY < 0) rendition.prev();
-        }, { passive: true });
-      });
+      if (flowMode === "paginated") {
+        // epub.js không forward sự kiện "wheel" từ iframe ra ngoài như
+        // keydown/keyup ở flow lật trang - cuộn chuột không tự lật trang,
+        // nên giả lập thủ công. Flow cuộn dọc thì không cần, trình duyệt
+        // tự cuộn nội dung sẵn.
+        rendition.hooks.content.register((contents) => {
+          contents.document.addEventListener("wheel", (e) => {
+            if (wheelLocked) return;
+            wheelLocked = true;
+            setTimeout(() => { wheelLocked = false; }, 500);
+            if (e.deltaY > 0) rendition.next();
+            else if (e.deltaY < 0) rendition.prev();
+          }, { passive: true });
+        });
+      }
     }
+
+    // "scroll" = 1 trang, cuộn dọc liên tục (epub.js flow "scrolled-doc") -
+    // mặc định, dễ đọc trên điện thoại hơn.
+    // "paginated" = 2 trang, lật ngang (epub.js flow "paginated" + spread
+    // "auto" - tự xuống 1 trang trên màn hình hẹp).
+    const FLOW_STORAGE_KEY = "ebook-flow-mode";
+    let flowMode = localStorage.getItem(FLOW_STORAGE_KEY) || "scroll";
+    const flowToggleBtn = document.getElementById("flow-toggle");
+
+    function applyFlowIcon() {
+      // Icon thể hiện kiểu sẽ đổi SANG khi bấm, giống nút bìa/chi tiết ở
+      // trang danh sách.
+      flowToggleBtn.textContent = flowMode === "scroll" ? "📖" : "📜";
+      flowToggleBtn.title = flowMode === "scroll"
+        ? "Chuyển sang xem 2 trang (lật ngang)"
+        : "Chuyển sang xem 1 trang (cuộn dọc)";
+      flowToggleBtn.setAttribute("aria-label", flowToggleBtn.title);
+    }
+    applyFlowIcon();
+
+    flowToggleBtn.addEventListener("click", () => {
+      flowMode = flowMode === "scroll" ? "paginated" : "scroll";
+      try { localStorage.setItem(FLOW_STORAGE_KEY, flowMode); } catch (e) { /* ignore */ }
+      applyFlowIcon();
+      // Đổi flow đang lúc đọc dở - epub.js không hỗ trợ đổi flow trên
+      // rendition đang chạy, phải mở lại sách để dựng lại rendition mới.
+      if (lastOpened) openReader(lastOpened.url, lastOpened.title);
+    });
 
     let lastOpened = null;
 
@@ -879,7 +990,19 @@
         await withTimeout(ensureReaderLibs(), READ_TIMEOUT_MS, "Không tải được thư viện đọc sách (quá thời gian chờ).");
         currentBook = ePub(url);
         loadToc(currentBook);
-        currentRendition = currentBook.renderTo("viewer", { width: "100%", height: "100%" });
+        // "scroll" (mặc định): flow "scrolled-doc" + manager "continuous",
+        // cuộn dọc liên tục, dễ đọc trên điện thoại. "paginated": flow
+        // phân trang mặc định của epub.js + spread "auto" (2 trang song
+        // song khi màn hình đủ rộng, tự về 1 trang khi hẹp).
+        const renderOpts = { width: "100%", height: "100%" };
+        if (flowMode === "scroll") {
+          renderOpts.flow = "scrolled-doc";
+          renderOpts.manager = "continuous";
+        } else {
+          renderOpts.flow = "paginated";
+          renderOpts.spread = "auto";
+        }
+        currentRendition = currentBook.renderTo("viewer", renderOpts);
         setupReaderThemes(currentRendition);
         currentRendition.on("keyup", handleReaderKey);
         currentRendition.on("keydown", (e) => {
@@ -900,6 +1023,7 @@
     });
 
     function closeReader() {
+      if (document.fullscreenElement === readerModal) document.exitFullscreen();
       overlay.classList.remove("open");
       tocPanel.classList.remove("open");
       tocListEl.innerHTML = "";
@@ -915,6 +1039,20 @@
     }
 
     closeBtn.addEventListener("click", closeReader);
+
+    fullscreenBtn.addEventListener("click", () => {
+      if (document.fullscreenElement) {
+        document.exitFullscreen();
+      } else {
+        readerModal.requestFullscreen().catch(() => { /* trình duyệt/thiết bị không hỗ trợ, bỏ qua */ });
+      }
+    });
+    document.addEventListener("fullscreenchange", () => {
+      const isFull = document.fullscreenElement === readerModal;
+      fullscreenBtn.textContent = isFull ? "⤢" : "⛶";
+      fullscreenBtn.title = isFull ? "Thoát toàn màn hình" : "Toàn màn hình";
+      fullscreenBtn.setAttribute("aria-label", fullscreenBtn.title);
+    });
     overlay.addEventListener("click", (e) => {
       if (e.target === overlay) closeReader();
     });
