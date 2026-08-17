@@ -4,7 +4,7 @@ comments: true
 filename: 22-02-tong-toa-thanh-phero
 aliases:
   - 22.02 Tông toà thánh Phero
-description:
+description: Lễ này kính nhớ việc Chúa Giêsu chọn thánh Phero ngồi vào vị trí của Người
 tags:
   - SaintOfTheDay
 date: 2024-02-22
