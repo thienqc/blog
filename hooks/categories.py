@@ -23,6 +23,7 @@ substitutes into already-rendered HTML (phase 2), so every post has
 already been collected by the time any page's placeholder is resolved,
 regardless of nav order.
 """
+import json
 import random
 import re
 from urllib.parse import quote, urljoin, urlsplit
@@ -35,6 +36,13 @@ CATEGORY_LABELS = {
     "khac": "Khác",
 }
 PLACEHOLDER = re.compile(r"\{\{\s*category_content\s+([\w-]+)\s*\}\}")
+# SaintOfTheDay posts are filenamed "DD-MM-<slug>.md" (the feast day),
+# tagged "SaintOfTheDay" - same filename-matching trick as Reading
+# Challenge/Nhật ký đọc, since the `date` front matter field here is
+# "when this note was written", not the actual feast day either (all 8
+# were written on unrelated dates).
+SAINT_DATED_RE = re.compile(r"(?:^|/)(\d{2})-(\d{2})-.+\.md$")
+SAINT_HUB_SRC_PATH = "post/saint-of-the-day.md"
 LINK_TAG = re.compile(r'<a[^>]+href="([^"]+)"', re.I)
 ADMONITION_EXAMPLE = re.compile(r'<div class="admonition example">(.*?)</div>', re.S)
 
@@ -47,6 +55,7 @@ _pages_by_src_path = {}  # src_path -> page (Page isn't hashable, can't use it a
 _manual_related = {}  # src_path -> [abs_url, ...] extracted from "Xem thêm"
 _backlinks = {}  # target abs_url -> set of src_path of pages linking to it
 _toi_luu_posts = []  # posts tagged "toi-luu" - hidden corner of "khac", see on_page_content
+_saint_posts = []  # [{"dd", "mm", "url", "title"}, ...] - see render_saint_banner
 
 # Top-level nav order. Auto-nav (no explicit `nav:` in mkdocs.yml - see
 # the comment there for why) sorts alphabetically by filename with
@@ -111,6 +120,7 @@ def on_files(files, config):
     _manual_related.clear()
     _backlinks.clear()
     _toi_luu_posts.clear()
+    _saint_posts.clear()
     return files
 
 
@@ -146,6 +156,13 @@ def on_page_content(html, page, config, files):
         _post_tags[page.file.src_path] = tags
         for tag in tags:
             _posts_by_tag.setdefault(tag, []).append(page)
+
+        if "SaintOfTheDay" in tags:
+            m = SAINT_DATED_RE.search(page.file.src_path)
+            if m:
+                _saint_posts.append(
+                    {"dd": m.group(1), "mm": m.group(2), "url": page.abs_url, "title": page.title}
+                )
 
     # "Xem thêm" (> [!Example]) is now folded into "Có thể bạn sẽ thích"
     # instead of showing as its own section - extract the hrefs it
@@ -602,6 +619,46 @@ def render_khac_page():
     return "".join(parts)
 
 
+# "Hôm nay" banner on the SaintOfTheDay hub post - injected here (not
+# written into the note itself) because that note is synced from
+# Obsidian via Envelope, which pushes the vault's own copy on every
+# publish - anything hand-added straight into the .md file would be
+# gone the next time the note is edited/republished there. Matching
+# "today" also has to happen in the *visitor's browser*, not at build
+# time, since this site isn't rebuilt every day - a build-time "today"
+# would just go stale between deploys. Hidden by default (no post for
+# most calendar days yet); the script only reveals it on a match.
+SAINT_H1_RE = re.compile(r"</h1>", re.I)
+
+
+def render_saint_banner():
+    if not _saint_posts:
+        return ""
+    data = json.dumps(_saint_posts, ensure_ascii=False)
+    return (
+        "<style>"
+        "#saint-today{display:none;margin:1em 0;padding:0.6em 1em;border-radius:0.3rem;"
+        "border-left:0.2rem solid var(--md-accent-fg-color);"
+        "background:color-mix(in srgb, var(--md-accent-fg-color) 8%, transparent)}"
+        "#saint-today.show{display:block}"
+        "</style>"
+        '<div id="saint-today"></div>'
+        "<script>"
+        "(function(){"
+        f"var posts={data};"
+        "var now=new Date();"
+        "var dd=String(now.getDate()).padStart(2,'0');"
+        "var mm=String(now.getMonth()+1).padStart(2,'0');"
+        "var match=posts.find(function(p){return p.dd===dd&&p.mm===mm;});"
+        "if(!match)return;"
+        "var el=document.getElementById('saint-today');"
+        "el.innerHTML='🕯️ Hôm nay: <a href=\"'+match.url+'\">'+match.title+'</a>';"
+        "el.classList.add('show');"
+        "})();"
+        "</script>"
+    )
+
+
 def render_category_page(key, config):
     if key == "toi-doc":
         return render_book_grid(config)
@@ -616,7 +673,13 @@ def on_post_page(output, page, config):
         key = match.group(1)
         return PLACEHOLDER.sub(lambda _: render_category_page(key, config), output, count=1)
 
-    if page.file.src_path in _post_categories:
+    if page.file.src_path == SAINT_HUB_SRC_PATH:
+        h1_match = SAINT_H1_RE.search(output)
+        if h1_match:
+            banner = render_saint_banner()
+            output = output[: h1_match.end()] + banner + output[h1_match.end() :]
+
+    if page.file.src_path in _post_categories and page.file.src_path != SAINT_HUB_SRC_PATH:
         related = render_related(page)
         if related:
             anchor_match = RANDOM_BTN_ANCHOR.search(output) or COMMENTS_ANCHOR.search(output)
