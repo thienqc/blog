@@ -13,7 +13,7 @@ category:
 ---
 # Chết vì yêu  
   
-Hôm nay ngày 14/8 mừng lễ nhớ thánh [Maximilianô Maria Kolbe](https://dongten.net/suy-tu/hanh-cac-thanh-ngay-1408-hoc-cach-yeu-thuong-den-tan-cung-nhu-thanh-maximiliano-maria-kolbe). Ngài là một gương mẫu cho câu tin mừng ***Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình.*** (Ga 15,13).  
+Hôm nay ngày 14/8 mừng lễ nhớ thánh [Maximilianô Maria Kolbe](./14-08-maximilian-maria-kolbe.md). Ngài là một gương mẫu cho câu tin mừng ***Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình.*** (Ga 15,13).  
   
 Trong trại tập trung Auschwitz, Ngài đã dám đứng ra chết thay cho 1 người bạn tù. Ngài nói:  
   

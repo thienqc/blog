@@ -12,24 +12,21 @@ description: Lễ Các Thánh Nam Nữ
 category:
   - toi-cam
 ---
-# 01.11 | Solemnity of All Saints  
+# 01.11 | Các Thánh nam nữ  
   
 ![](https://i.imgur.com/rWstqCV.png)  
   
----  
-## Story  
+# Câu chuyện  
   
-The earliest certain observance of a feast in honor of all the saints is an early fourth-century commemoration of “all the martyrs.” In the early seventh century, after successive waves of invaders plundered the catacombs, Pope Boniface IV gathered up some 28 wagon-loads of bones and reinterred them beneath the Pantheon, a Roman temple dedicated to all the gods. The pope rededicated the shrine as a Christian church. According to Venerable Bede, the pope intended “that the memory of all the saints might in the future be honored in the place which had formerly been dedicated to the worship not of gods but of demons” (*On the Calculation of Time*).  
+Việc cử hành sớm nhất được biết chắc chắn về một ngày lễ kính toàn thể các thánh là lễ tưởng niệm "tất cả các vị tử đạo" vào đầu thế kỷ IV. Đầu thế kỷ VII, sau nhiều đợt quân xâm lăng cướp phá các hang toại đạo, Đức Giáo hoàng Bônifaciô IV đã thu gom chừng 28 xe hài cốt và cải táng dưới đền Pantheon, một đền thờ Rôma vốn được dâng kính mọi thần linh. Đức Giáo hoàng đã cung hiến lại nơi này thành một thánh đường Kitô giáo. Theo Thánh Bêđa Khả kính, ý định của Đức Giáo hoàng là "để từ nay ký ức về toàn thể các thánh được tôn kính tại chính nơi trước kia đã được dâng hiến, không phải cho việc thờ phượng các thần minh, mà cho ma quỷ" (_Về Cách Tính Thời Gian_).  
   
-But the rededication of the Pantheon, like the earlier commemoration of all the martyrs, occurred in May. Many Eastern Churches still honor all the saints in the spring, either during the Easter season or immediately after Pentecost.  
+Thế nhưng việc cung hiến lại đền Pantheon, cũng như lễ tưởng niệm các vị tử đạo trước đó, đều diễn ra vào tháng Năm. Nhiều Giáo hội Đông phương đến nay vẫn kính nhớ toàn thể các thánh vào mùa xuân, hoặc trong Mùa Phục Sinh, hoặc ngay sau lễ Chúa Thánh Thần Hiện Xuống.  
   
-How the Western Church came to celebrate this feast, now recognized as a solemnity, in November is a puzzle to historians. The Anglo-Saxon theologian Alcuin observed the feast on November 1 in 800, as did his friend Arno, Bishop of Salzburg. Rome finally adopted that date in the ninth century.  
+Việc Giáo hội Tây phương đi đến chỗ cử hành ngày lễ này — nay được nhìn nhận là một lễ trọng — vào tháng Mười Một vẫn còn là một câu đố đối với các sử gia. Nhà thần học người Anglo-Saxon là Alcuinô đã mừng lễ vào ngày 1 tháng Mười Một năm 800, cũng như người bạn của ngài là Arnô, Giám mục thành Salzburg. Mãi đến thế kỷ IX, giáo hội Rôma mới chính thức nhận ngày này.  
   
----  
+## Suy Niệm  
   
-## Reflection  
-  
-This feast first honored martyrs. Later, when Christians were free to worship according to their consciences, the Church acknowledged other paths to sanctity. In the early centuries the only criterion was popular acclaim, even when the bishop’s approval became the final step in placing a commemoration on the calendar. The first papal canonization occurred in 993; the lengthy process now required to prove extraordinary sanctity took form in the last 500 years. Today’s feast honors the obscure as well as the famous—the saints each of us have known.  
+Ban đầu, ngày lễ này chỉ kính nhớ các vị tử đạo. Về sau, khi các Kitô hữu được tự do thờ phượng theo lương tâm mình, Hội Thánh đã nhìn nhận thêm những nẻo đường khác dẫn đến sự thánh thiện. Trong những thế kỷ đầu, tiêu chuẩn duy nhất là sự tôn kính của lòng dân, ngay cả khi việc chuẩn nhận của giám mục đã trở thành bước sau cùng để ghi một lễ tưởng niệm vào lịch phụng vụ. Cuộc phong thánh đầu tiên do Đức Giáo hoàng thực hiện diễn ra năm 993; còn tiến trình dài lâu ngày nay đòi hỏi để chứng minh sự thánh thiện phi thường thì chỉ mới định hình trong khoảng 500 năm trở lại đây. Ngày lễ hôm nay tôn kính cả những vị âm thầm lẫn những vị lừng danh — những vị thánh mà mỗi người chúng ta đã từng quen biết.  
   
 ---  
   
