@@ -13,7 +13,7 @@ category:
 ---
 # Cấp cứu truyền kì  
   
-![646x282](CCTK.webp)  
+![Cấp cứu truyền kì-1786929791181.webp](../assets/img/C%E1%BA%A5p%20c%E1%BB%A9u%20truy%E1%BB%81n%20k%C3%AC-1786929791181.webp)  
   
 Đi làm buổi đầu tiên, câu được hỏi nhiều nhất "sao em lại chọn cấp cứu", "đi cấp cứu làm gì", "cấp cứu khổ như thế đâm đầu vào chi"?  
   
