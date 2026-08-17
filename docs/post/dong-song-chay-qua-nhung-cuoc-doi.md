@@ -10,6 +10,7 @@ tags:
 date: 2026-01-20
 category:
   - toi-cam
+  - toi-doc
 ---
 # Dòng sông chảy qua những cuộc đời  
 *Chút suy tư sau chuyến đi cuối năm Ất Tỵ*  
