@@ -11,55 +11,54 @@ date: 2024-10-01
 URL: https://www.franciscanmedia.org/saint-of-the-day/saint-therese-of-lisieux/
 category:
   - toi-cam
+description: Bông Hoa Nhỏ
 ---
-# 01.10 | Saint Thérèse of Lisieux  
+# 01.10 | Thánh Thérèse thành Lisieux  
   
 ![](https://i.imgur.com/4NZSg1M.png)  
   
   
-Saint Thérèse of Lisieux as a novice at age 16. | Carmelite Archives of Lisieux  
-(January 2, 1873 – September 30, 1897)  
+*Thánh Têrêsa Hài Đồng Giêsu khi còn là tập sinh, lúc 16 tuổi. | Văn khố Dòng Cát Minh Lisieux*  
+  
+(sinh ngày 2 tháng 1, 1873 - mất ngày 30 tháng 9, 1897)  
   
 ---  
   
-## Saint Thérèse of Lisieux’s Story  
+## Cuộc đời  
   
-“I prefer the monotony of obscure sacrifice to all ecstasies. To pick up a pin for love can convert a soul.”  
+> "Tôi thích sự đơn điệu của những hy sinh âm thầm hơn mọi cơn ngất trí. Nhặt một cây kim vì lòng mến cũng có thể hoán cải một linh hồn."  
   
-These are the words of Thérèse of Lisieux, a Carmelite nun called the “Little Flower,” who lived a cloistered life of obscurity in the convent of Lisieux, France. And her preference for hidden sacrifice did indeed convert souls. Few saints of God are more popular than this young nun. Her autobiography, *The Story of a Soul*, is read and loved throughout the world. Thérèse Martin entered the convent at the age of 15 and died in 1897 at the age of 24.  
+Đó là những lời của Thánh Têrêsa Lisieux, một nữ tu Dòng Cát Minh được gọi là "Bông Hoa Nhỏ", người đã sống một đời ẩn dật trong đan viện Lisieux, nước Pháp. Và quả thật, lòng yêu chuộng những hy sinh âm thầm của ngài đã hoán cải nhiều linh hồn. Ít có vị thánh nào của Thiên Chúa được yêu mến hơn nữ tu trẻ này. Cuốn tự thuật của ngài, *Truyện Một Tâm Hồn*, được đọc và yêu mến trên khắp thế giới. Têrêsa Martin vào đan viện năm 15 tuổi và qua đời năm 1897, lúc mới 24 tuổi.  
   
-Life in a Carmelite convent is indeed uneventful and consists mainly of prayer and hard domestic work. But Thérèse possessed that holy insight that redeems the time, however dull that time may be. She saw in quiet suffering a redemptive suffering, suffering that was indeed her apostolate. Thérèse said she came to the Carmel convent “to save souls and pray for priests.” And shortly before she died, she wrote: “I want to spend my heaven doing good on earth.”  
+Đời sống trong một đan viện Cát Minh quả thật không có gì nổi bật, chủ yếu gồm việc cầu nguyện và lao động nội trợ vất vả. Nhưng Têrêsa có được sự thấu hiểu thánh thiện biết cứu chuộc thời gian, dù thời gian ấy có tẻ nhạt đến đâu. Ngài nhìn thấy trong đau khổ âm thầm một sự đau khổ cứu độ, và chính sự đau khổ ấy là hoạt động tông đồ của ngài. Têrêsa nói rằng ngài đến đan viện Cát Minh "để cứu các linh hồn và cầu nguyện cho các linh mục." Và ít lâu trước khi qua đời, ngài viết: "Con muốn dùng thiên đàng của con để làm việc lành dưới thế."  
   
-Thérèse was canonized in 1925. On October 19, 1997, Pope John Paul II proclaimed her a Doctor of the Church, the third woman to be so recognized in light of her holiness and the influence of her teaching on spirituality in the Church.  
+Têrêsa được tuyên thánh năm 1925. Ngày 19 tháng 10 năm 1997, Đức Giáo hoàng Gioan Phaolô II đã tuyên phong ngài là [Tiến sĩ Hội Thánh](./tien-si-hoi-thanh.md) — người phụ nữ thứ ba được nhìn nhận như thế — vì sự thánh thiện của ngài và ảnh hưởng giáo huấn của ngài trên nền linh đạo của Giáo Hội.  
   
-Her parents, [Louis and Zélie](https://www.franciscanmedia.org/saint-of-the-day/saints-louis-martin-and-zelie-guerin), were beatified in 2008 and canonized in 2015.  
+“I prefer the monotony of obscure sacrifice to all ecstasies. To pick up a pin for love can convert   
   
----  
+Song thân của ngài, [Louis và Zélie](https://www.franciscanmedia.org/saint-of-the-day/saints-louis-martin-and-zelie-guerin), đã được phong chân phước năm 2008 và được tuyên thánh năm 2015.  
   
-## Reflection  
+## Suy niệm  
   
-Thérèse has much to teach our age of the image, the appearance, the “self.” We have become a dangerously self-conscious people, painfully aware of the need to be fulfilled, yet knowing we are not. Thérèse, like so many saints, sought to serve others, to do something outside herself, to forget herself in quiet acts of love. She is one of the great examples of the gospel paradox that we gain our life by losing it, and that the seed that falls to the ground must die in order to live.  
+Thánh Têrêsa có nhiều điều để dạy cho thời đại chúng ta — thời đại của hình ảnh, của vẻ bề ngoài, của "cái tôi". Chúng ta đã trở nên một dân tộc quá bận tâm về bản thân đến mức nguy hiểm, day dứt ý thức về nhu cầu được thành toàn, nhưng lại biết rằng mình chưa được thành toàn. Têrêsa, cũng như bao vị thánh khác, đã tìm cách phục vụ tha nhân, làm điều gì đó ở ngoài bản thân mình, quên mình đi trong những hành vi yêu thương âm thầm. Ngài là một trong những mẫu gương tuyệt vời về nghịch lý Tin Mừng: chúng ta được sống khi dám mất sự sống mình, và hạt giống rơi xuống đất phải chết đi thì mới sinh hoa trái.  
   
-Preoccupation with self separates modern men and women from God, from their fellow human beings, and ultimately from themselves. We must re-learn to forget ourselves, to contemplate a God who draws us out of ourselves, and to serve others as the ultimate expression of selfhood. These are the insights of Saint Thérèse, and they are more valid today than ever.  
+Sự bận tâm về bản thân tách lìa con người thời nay khỏi Thiên Chúa, khỏi đồng loại, và sau cùng là khỏi chính mình. Chúng ta phải học lại cách quên mình, chiêm ngắm một Thiên Chúa lôi kéo ta ra khỏi chính mình, và phục vụ tha nhân như cách diễn tả cao cả nhất của bản ngã. Đó là những trực giác của Thánh Têrêsa, và ngày nay chúng còn giá trị hơn bao giờ hết.  
   
----  
-  
-### Saint Thérèse is the Patron Saint of  
-  
-Florists    
-Missionaries    
-Pilots    
-Priests  
-  
----  
+### Thánh Têrêsa là Bổn mạng của  
+- Người bán hoa    
+- Các nhà truyền giáo    
+- Phi công    
+- Các linh mục  
   
 ### Quote  
   
 > “Tôi làm như mấy đứa bé chưa biết đọc. Tôi nói với Chúa cách đơn sơ điều tôi muốn nói với Người, và Người luôn nghe tôi.”  
   
+Ở quê vào ngày lễ Thánh Têrêsa (01/10) thường là ngày mưa rất to, nên chỗ mình hay gọi Terêsa “nước ra đầy đồng”, mưa hoa hồng.  
   
 Source: [Saint Thérèse of Lisieux | Franciscan Media](https://www.franciscanmedia.org/saint-of-the-day/saint-therese-of-lisieux/)  
   
   
 > [!Example] Xem thêm  
-> [Tiến sĩ Hội Thánh](./tien-si-hoi-thanh.md)
+> - [Tiến sĩ Hội Thánh](./tien-si-hoi-thanh.md)  
+> - [Học tính nhẫn nại cùng chị Thánh Têrêsa](./WC25-10.md)
