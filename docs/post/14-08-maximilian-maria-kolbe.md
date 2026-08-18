@@ -15,9 +15,10 @@ category:
   
 ![250](../assets/img/Maximilian%20Maria%20Kolbe-1786956880806.webp)  
   
+***Thánh Maximilian Maria Kolbe, OFM Conv (1894-1941) - Ba Lan***  
 ## Cuộc đời  
   
-Thánh Maximilian Maria Kolbe, OFM Conv sinh ngày 08/01/1894 tại Ba Lan và mất ngày 14/08/1941. 16  
+Thánh Maximilian Maria Kolbe, OFM Conv sinh ngày 08/01/1894 tại Ba Lan và mất ngày 14/08/1941.  
   
 Từ nhỏ Ngài được nhận được thị kiến từ Đức Mẹ là Ngài sẽ lãnh nhận 2 triều thiên: 1 màu trắng (tượng trưng cho sự trinh trắng), 1 màu đỏ (tượng trưng cho sự tử đạo). tuổi Ngài gia nhập dòng Anh Em Hèn Mọn Conventual. Ngài là người sáng lập Đạo Binh Đức Vô Nhiễm.  
   
