@@ -470,11 +470,22 @@ RELATED_COUNT = 5
 # Plain <ul> list, same look as "Xem thêm" (no bordered rows/card - this
 # is fixed at build time, not re-randomized per page view, so it isn't
 # trying to visually read as "live/dynamic" the way the old bordered-row
-# style implied).
+# style implied). Each <li> carries a small icon + color keyed to which
+# of the 3 sources picked it (see render_related) - a quick "why is
+# this here" signal without needing a label/tooltip.
 RELATED_STYLE = (
     "<style>"
     ".related-posts{margin-top:2em}"
-    ".related-posts ul{margin:0.3em 0 0;padding-left:1.1em}"
+    ".related-posts ul{margin:0.3em 0 0;padding-left:0;list-style:none}"
+    ".related-posts li{display:flex;align-items:baseline;gap:0.5em;margin:0.3em 0}"
+    ".related-icon{flex-shrink:0;display:inline-flex;align-items:center}"
+    ".related-icon svg{width:0.95em;height:0.95em}"
+    ".related-manual a{color:var(--md-accent-fg-color)}"
+    ".related-manual .related-icon svg{fill:var(--md-accent-fg-color)}"
+    ".related-backlink a{color:#00bfa5}"
+    ".related-backlink .related-icon svg{fill:#00bfa5}"
+    ".related-random a{color:var(--md-default-fg-color--light)}"
+    ".related-random .related-icon svg{fill:var(--md-default-fg-color--light)}"
     "</style>"
 )
 # Insert right before the "Bài ngẫu nhiên" button (overrides/partials/
@@ -484,22 +495,49 @@ RANDOM_BTN_ANCHOR = re.compile(r'<button id="random-post-btn"')
 COMMENTS_ANCHOR = re.compile(r'<h2 id="__comments">')
 
 
+# Icon per source - Xem thêm (manual) is a pin (deliberately "stuck
+# on" by the post itself), backlink is a chain link, random fill is a
+# shuffle icon - same Material Icons set (material/pin, material/
+# link-variant, material/shuffle-variant) used everywhere else on the
+# site (header dropdown, nav), path data copied straight from
+# Material's own bundled .icons/material/*.svg since this is plain
+# Python string output, not a Jinja template that can {% include %}
+# them.
+RELATED_SOURCE_ICON = {
+    "manual": '<svg viewBox="0 0 24 24"><path d="M16 12V4h1V2H7v2h1v8l-2 2v2h5.2v6h1.6v-6H18v-2z"/></svg>',
+    "backlink": (
+        '<svg viewBox="0 0 24 24"><path d="M10.59 13.41c.41.39.41 1.03 0 1.42-.39.39-1.03.39-1.42 0'
+        "a5.003 5.003 0 0 1 0-7.07l3.54-3.54a5.003 5.003 0 0 1 7.07 0 5.003 5.003 0 0 1 0 7.07l-1.49 1.49"
+        "c.01-.82-.12-1.64-.4-2.42l.47-.48a2.98 2.98 0 0 0 0-4.24 2.98 2.98 0 0 0-4.24 0l-3.53 3.53"
+        "a2.98 2.98 0 0 0 0 4.24m2.82-4.24c.39-.39 1.03-.39 1.42 0a5.003 5.003 0 0 1 0 7.07l-3.54 3.54"
+        "a5.003 5.003 0 0 1-7.07 0 5.003 5.003 0 0 1 0-7.07l1.49-1.49c-.01.82.12 1.64.4 2.43l-.47.47"
+        "a2.98 2.98 0 0 0 0 4.24 2.98 2.98 0 0 0 4.24 0l3.53-3.53a2.98 2.98 0 0 0 0-4.24.973.973 0 0 1 0-1.42\"/></svg>"
+    ),
+    # Same "shuffle" icon as the "Bài ngẫu nhiên" button (docs/index.md,
+    # overrides/partials/comments.html) - one icon for "random" site-wide.
+    "random": (
+        '<svg viewBox="0 0 24 24"><path d="m17 3 5.25 4.5L17 12l5.25 4.5L17 21v-3h-2.74l-2.82-2.82 2.12-2.12'
+        'L15.5 15H17V9h-1.5l-9 9H2v-3h3.26l9-9H17zM2 6h4.5l2.82 2.82-2.12 2.12L5.26 9H2z"/></svg>'
+    ),
+}
+
+
 def render_related(page):
     src_path = page.file.src_path
-    chosen = {}  # abs_url -> page, insertion order = priority
+    chosen = {}  # abs_url -> (page, source), insertion order = priority
 
     # 1. Manual "Xem thêm" links - always included, these were a
     # deliberate choice, not something to risk losing to random fill.
     for href in _manual_related.get(src_path, []):
         p = _pages_by_url.get(href)
         if p is not None and p is not page:
-            chosen[p.abs_url] = p
+            chosen[p.abs_url] = (p, "manual")
 
     # 2. Backlinks - other posts that link to this one.
     for other_src in _backlinks.get(page.abs_url, ()):
         p = _pages_by_src_path.get(other_src)
         if p is not None and p is not page and p.abs_url not in chosen:
-            chosen[p.abs_url] = p
+            chosen[p.abs_url] = (p, "backlink")
 
     # 3. Fill the rest (if any slots left) from category/tag matches,
     # randomly, same as before.
@@ -518,13 +556,17 @@ def render_related(page):
         candidates = list(pool.values())
         need = RELATED_COUNT - len(chosen)
         for p in random.sample(candidates, min(need, len(candidates))):
-            chosen[p.abs_url] = p
+            chosen[p.abs_url] = (p, "random")
 
     if not chosen:
         return ""
 
     items = "".join(
-        f'<li><a href="{p.abs_url}">{p.title}</a></li>' for p in list(chosen.values())[:RELATED_COUNT]
+        f'<li class="related-{source}">'
+        f'<span class="related-icon">{RELATED_SOURCE_ICON[source]}</span>'
+        f'<a href="{p.abs_url}">{p.title}</a>'
+        "</li>"
+        for p, source in list(chosen.values())[:RELATED_COUNT]
     )
     return (
         RELATED_STYLE
