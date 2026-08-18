@@ -13,18 +13,22 @@ category:
   - toi-cam
 ---
 # Stanislaus Kostka  
-1550-1568  
-13/11  
   
 ![Stanislaus Kostka-1786930433048.webp](../assets/img/Stanislaus%20Kostka-1786930433048.webp)  
   
-Gia đình quý tộc, bỏ nhà để đi tu [Dòng Tên](D%C3%B2ng%20T%C3%AAn.md).  
+***Thánh Stanislaus Kostka, SJ (1550-1568) - Ba Lan***  
+  
+## Cuộc đời  
+  
+Kostka là con trong một gia đình quý tộc, bỏ nhà để đi tu [Dòng Tên](D%C3%B2ng%20T%C3%AAn.md).  
   
 Chín tháng sau ngày vào dòng, cậu lâm trọng bệnh và chết trên giường bệnh sau khi đã khấn lần cuối, lúc mới 17 tuổi.  
   
 Hoán cải anh mình là Phaolo, người đã đuổi theo để ngăn cản em mình gia nhập dòng Tên, cuối cùng người anh phải công nhận đức thánh thiện của em mình, và cũng xin gia nhập dòng.  
   
-"Tôi được sinh ra để sống cho những gì cao quý hơn."  
+> "Tôi được sinh ra để sống cho những gì cao quý hơn."  
+  
+## Suy niệm  
   
 > [!info] NIỀM VUI KHÔN NÉN  
 > “Đau khổ làm sao nếu ai đó phải rời bỏ nơi họ yêu mến... nhưng hãy nghĩ đến niềm vui lớn lao mà người công chính cảm nhận được khi phụng sự Thiên Chúa. Họ mừng vui vì đã hy sinh trong lòng mến... Hãy nghĩ đến niềm vui mà linh hồn sẽ cảm nhận... đó là niềm vui khôn nén và là sự thoả mãn trọn vẹn khi về quê trời để hưởng nhan thánh Chúa cùng với các thiên thần và chư thánh... Ta hãy nhìn lại bản thân và tự hỏi: Tôi đã làm gì cho Đức Kitô? Tôi đang làm gì cho Đức Kitô? Và tôi phải làm gì cho Đức Kitô?"  
