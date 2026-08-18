@@ -12,7 +12,7 @@ URL: https://www.facebook.com/photo?fbid=760130849479148&set=a.461380502687519
 category:
   - toi-cam
 ---
-# Chân Phước Anre Phú Yên  
+# 26.07 | Chân Phước Anrê Phú Yên  
   
 ![|500x890](https://i.imgur.com/D1RCrnM.png)  
   
@@ -49,4 +49,7 @@ Ngay sau sự kiện này, hài cốt được rước đi Macao bằng đườn
   
 `Ngày 15.8.1958` : nhân dịp chuẩn bị kỷ niệm 300 năm ngày thành lập hàng giáo phẩm Việt Nam (1659-1959), tóc và tài liệu của Á Thánh Anre từ Roma về Việt Nam (Sài Gòn) bằng đường hàng không.  
   
-`Ngày 5.3.2000` : ĐGH Gioan Phaolo II tôn phong Á Thánh, với tước hiệu "Tử Đạo Tiên Khởi Việt Nam, bổn mạng Giáo lý viên Việt Nam" và Mẫu Gương Niềm Tin của Giới Trẻ Thế Giới.
+`Ngày 5.3.2000` : ĐGH Gioan Phaolo II tôn phong Á Thánh, với tước hiệu "Tử Đạo Tiên Khởi Việt Nam, bổn mạng Giáo lý viên Việt Nam" và Mẫu Gương Niềm Tin của Giới Trẻ Thế Giới.  
+  
+> [!Example] Xem thêm   
+ > - [Sách Người chứng thứ nhất - Phạm Đình Khiêm](https://thienqc.github.io/blog/ebook.html#nguoi-chung-thu-nhat-pham-dinh-khiem)

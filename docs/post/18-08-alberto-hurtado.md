@@ -11,7 +11,7 @@ date: 2026-08-18
 category:
   - toi-cam
 ---
-# Alberto Hurtado  
+# 18.08 | Alberto Hurtado  
   
 ![Alberto Hurtado-1787015714125.webp](../assets/img/Alberto%20Hurtado-1787015714125.webp)  
   
