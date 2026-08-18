@@ -11,7 +11,7 @@ date: 2026-08-14
 category:
   - toi-cam
 ---
-# Maximilian Maria Kolbe  
+# 14.08 | Thánh Maximilian Maria Kolbe  
   
 ![250](../assets/img/Maximilian%20Maria%20Kolbe-1786956880806.webp)  
   
