@@ -39,7 +39,7 @@ Mỗi lần xem những video chế tạo như thế này mình lại liên tư�
   
 ## Ý nghĩa từ biểu tượng của phần mềm Obsidian  
   
-![](https://i.imgur.com/n7PMAOa.png)  
+![|624x343](https://i.imgur.com/n7PMAOa.png)  
   
 Bài viết [The new Obsidian icon](https://obsidian.md/blog/new-obsidian-icon/) cho ta thấy ba ý nghĩa về logo mới của obsidian, cũng như là những giá trị cốt lõi của Obsidian  
   
