@@ -38,6 +38,6 @@ aliases:
   
 ## November  
 - [01.11 ᰻ Các Thánh nam nữ](./01-11-solemnity-of-all-saints.md)  
-- [13.11 ᰻ Thánh Stanislaus Kostka, SJ](./13-11-stanislaus-kostka.md)  
+- [13.11 ᰻ Thánh Stanislaus Kostka, SJ](../../Stanislaus%20Kostka.md)  
   
 ## December  
