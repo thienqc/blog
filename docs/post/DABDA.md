@@ -1,8 +1,7 @@
 ---
 filename: DABDA
-description: 
-URL: 
-
+description:
+URL:
 date: 2022-03-20
 tags:
   - hmm
@@ -11,12 +10,12 @@ comments: true
 aliases:
   - DABDA
 ---
-# DABDA
-
-DABDA – 5 giai đoạn khi đón nhận buồn
-
-- Denial (phủ nhận)
-- Anger (giận dữ)
-- Bargaining (hy vọng)
-- Depression (buồn bã)
-- Acceptance (chấp nhận)
+# DABDA  
+  
+DABDA – 5 giai đoạn khi đón nhận buồn  
+  
+- Denial (phủ nhận)  
+- Anger (giận dữ)  
+- Bargaining (hy vọng)  
+- Depression (buồn bã)  
+- Acceptance (chấp nhận)  
