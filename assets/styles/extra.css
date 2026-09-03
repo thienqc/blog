@@ -1,0 +1,227 @@
+/* TỐI ƯU TRẢI NGHIỆM ĐỌC CHO FONT JETBRAINS MONO */
+.md-typeset {
+  /* Thu hẹp khoảng cách chữ một chút để font dạng code nhìn liền mạch, dễ đọc hơn khi viết bài dài */
+  letter-spacing: -0.02em; 
+  /* Tăng nhẹ khoảng cách dòng giúp text "dễ thở" */
+  --md-typeset-line-height: 1.7; 
+}
+
+/* Làm các thẻ tiêu đề đậm nét và nổi bật hơn */
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+  font-weight: 700;
+  letter-spacing: -0.04em;
+}
+
+/* Blockquote tinh giản: chỉ viền trái, không nền, giữ nguyên độ tương
+   phản chữ như văn bản thường. Material tự có sẵn
+   ".md-typeset blockquote { color: var(--md-default-fg-color--light) }"
+   trong CSS gốc của theme (không phải do mình) — chỉ bỏ override màu ở
+   đây không đủ, vẫn rơi về đúng màu nhạt đó, phải ghi đè rõ ràng bằng
+   --md-default-fg-color (không phải bản --light) mới hết nhạt. */
+.md-typeset blockquote {
+  border-left: 0.2rem solid var(--md-accent-fg-color);
+  background-color: transparent;
+  color: var(--md-default-fg-color);
+  padding: 4px 20px;
+  margin-left: 2.5em; /* thụt cả khối (kể cả viền trái) vào ~1 tab */
+  border-radius: 0;
+}
+
+/* ======================================== */
+
+/* Nav tuần tự trong series (vd "Ngày 20 👈 XV23 👉 Ngày 22") - hooks/
+   nav_quote.py gắn class này vào đúng blockquote chứa 👈 và/hoặc 👉,
+   dựa theo nội dung chứ không phải cú pháp viết riêng - vẫn gõ
+   blockquote bình thường trong Obsidian như trước giờ, không cần sửa
+   note nào cả. Nền pill nhạt màu accent (không viền, không khung) để
+   có điểm nhấn, không lẫn vào văn bản thường. Chữ căn giữa - phải khai
+   báo lại trên chính thẻ <p>, vì ".md-typeset p { text-align: justify }"
+   ở trên áp trực tiếp lên <p> con, ghi đè mất center của thẻ cha. */
+.md-typeset blockquote.nav-quote {
+  display: table;
+  border-left: none;
+  background-color: color-mix(in srgb, var(--md-accent-fg-color) 12%, transparent);
+  border-radius: 2rem;
+  padding: 0.6em 1.4em;
+  margin: 1.5em auto;
+}
+
+.md-typeset blockquote.nav-quote p {
+  margin: 0;
+  text-align: center;
+}
+
+/* "Xem thêm" ([!Example] callout) không còn hiện riêng nữa - hooks/
+   categories.py giờ trích link ra rồi gộp thẳng vào "Có thể bạn sẽ
+   thích" ở cuối bài, xoá callout khỏi nội dung. Không cần CSS riêng
+   cho .admonition.example nữa. */
+
+/* ======================================== */
+
+/* Căn đều lề trái và phải cho văn bản trong nội dung */
+.md-typeset p {
+  text-align: justify;
+  text-justify: inter-word; /* làm đều khoảng trắng giữa từ */
+}
+
+/* Căn đều cả danh sách nếu muốn */
+.md-typeset li {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* ======================================== */
+
+/* Chữ copyright ở footer dùng --lighter (trắng 45%) trên nền rất tối, ở
+   cỡ chữ 10px -> tỉ lệ tương phản chỉ ~4.52 (cần 4.5), Lighthouse flag.
+   Đổi sang --light (70%), vẫn là biến có sẵn của theme -> ~9.26 */
+.md-footer .md-copyright {
+  color: var(--md-footer-fg-color--light);
+}
+
+/* ======================================== */
+
+/* Tag cloud trên trang /tags/ — cỡ chữ do tag-cloud.js gán theo số bài viết,
+   phần CSS này chỉ lo bố cục + hiệu ứng, không đụng tag nhỏ ở cuối mỗi bài */
+.md-typeset .blogging-tags-grid.tag-cloud-ready {
+  gap: 10px 16px;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 0 4px;
+}
+
+.md-typeset .blogging-tags-grid.tag-cloud-ready .blogging-tag {
+  background: none;
+  line-height: 1.4;
+  transition: transform 0.15s ease, opacity 0.15s ease;
+}
+
+.md-typeset .blogging-tags-grid.tag-cloud-ready .blogging-tag code {
+  background: none;
+  padding: 0;
+}
+
+.md-typeset .blogging-tags-grid.tag-cloud-ready .blogging-tag:hover {
+  transform: scale(1.08);
+  opacity: 0.75;
+}
+
+/* ======================================== */
+
+/* Category grid on the home page: fixed 2 columns on desktop (4 main
+   cards as 2x2, "Khác" left as its own odd cell on the row below),
+   fixed 1 column on mobile (all 5 stacked). Material's own
+   auto-fit/minmax sizing (repeat(auto-fit,minmax(min(100%,16rem),1fr)))
+   picks the column count from available width somewhat unpredictably
+   (observed splitting into 2 uneven columns on some phones instead of
+   collapsing to 1) - defining explicit column counts for each
+   breakpoint instead removes that guesswork entirely.
+   The <ul> is display:contents (Material collapses it out of the box
+   tree so <li> become direct grid items) - the real grid container is
+   .grid.cards itself, so that's what these rules target, not the ul. */
+.md-typeset .grid.cards {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+@media screen and (max-width: 37.5em) {
+  .md-typeset .grid.cards {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ======================================== */
+
+/* Material tự mở rộng section đang active trong sidebar (vd "Bài viết"
+   với ~290 bài) mỗi khi đang đọc 1 trang bên trong nó - hợp lý cho
+   section nhỏ, nhưng với section to thì tràn cả sidebar, trông lượm
+   thượm. Giới hạn chiều cao + cho cuộn riêng, áp dụng chung cho MỌI
+   section tự mở rộng (không riêng "Bài viết") - không đụng gì tới dữ
+   liệu nav/prev-next, thuần CSS. */
+.md-nav__item--nested > .md-nav__toggle:checked ~ .md-nav {
+  max-height: 40vh;
+  overflow-y: auto;
+}
+
+/* ======================================== */
+
+/* Dropdown next to the palette toggle listing the 5 categories - pure
+   CSS checkbox hack (#__categories), same pattern Material itself uses
+   for the drawer/search toggles, no extra JS needed. */
+.md-category-menu {
+  position: relative;
+}
+
+.md-category-menu__overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 2;
+}
+
+.md-category-menu__inner {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  z-index: 3;
+  min-width: 10rem;
+  margin-top: 0.4rem;
+  padding: 0.4rem 0;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  border-radius: 0.2rem;
+  box-shadow: var(--md-shadow-z2);
+  display: flex;
+  flex-direction: column;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-0.4rem);
+  transition: opacity 0.2s, transform 0.2s, visibility 0.2s;
+}
+
+#__categories:checked ~ .md-category-menu__overlay {
+  display: block;
+}
+
+#__categories:checked ~ .md-category-menu__inner {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.md-category-menu__inner a {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.5rem 0.8rem;
+  color: var(--md-default-fg-color);
+  font-size: 0.7rem;
+  text-decoration: none;
+}
+
+.md-category-menu__inner a:hover {
+  background: var(--md-default-fg-color--lightest);
+  color: var(--md-accent-fg-color);
+}
+
+.md-category-menu__inner a svg {
+  width: 1.1rem;
+  height: 1.1rem;
+  fill: currentColor;
+  flex-shrink: 0;
+}
+
+/* ======================================== */
+
+/* Icon sáng/tối/tự động (overrides/partials/palette.html) - Material's
+   own ".md-icon svg" default is 1.2rem (~19.2px); the auto/light/dark
+   SVGs there (same shapes as the homepage/ebook.html toggle) are drawn
+   closer to their 24x24 viewBox's edges than Material's own icons, so
+   they read visually heavier/bigger even at a near-identical box size.
+   Sized down to match ebook.html's own toggle (18px). Scoped to the
+   <form> Material renders the palette toggle as - ".md-header__option"
+   alone would also catch the category dropdown's chevron (a <div>
+   with the same class, see header.html), which isn't part of this. */
+form.md-header__option .md-icon svg {
+  width: 18px;
+  height: 18px;
+}
