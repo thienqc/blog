@@ -11,7 +11,7 @@ date: 2026-08-16
 # Giải rubik 4x4x4  
   
 ### 1. Tạo ô trung tâm  
-Nhớ Đỏ Vàng Xanh là ngược chiều kim đồng hồ  
+Nhớ Đỏ - Vàng - Xanh lá là ==cùng== chiều kim đồng hồ  
 ### 2. Tạo cặp cạnh  
 - Chéo: R F' U F  
 - Ngang: Dd - R - F' - U - R' - F - D'd'  

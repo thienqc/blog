@@ -17,7 +17,7 @@ aliases:
 category:
   - toi-doc
 ---
-# Đường Biên Hạnh Phúc
+# Đường biên hạnh phúc  
 [Author::[Nguyễn Thị Kim Ngân](Nguy%E1%BB%85n%20Th%E1%BB%8B%20Kim%20Ng%C3%A2n.md)] - (Publication_Year:: 2018)  
   
 ![Đường Biên Hạnh Phúc-1756729611625.webp](../assets/img/%C4%90%C6%B0%E1%BB%9Dng%20Bi%C3%AAn%20H%E1%BA%A1nh%20Ph%C3%BAc-1756729611625.webp)  
@@ -37,7 +37,6 @@ category:
   
 Lên đường, đôi khi nhiều người ngộ nhận đó là cách để họ rời xa những bộn bề lo toan và đủ thứ rắc rối đang vướng mắc. Nhưng chính những thứ ấy lại đang chờ sẵn họ ngay tại cửa nhà trong ngày trở về. Tuy nhiên, nếu bạn mang trong mình một trái tim tan vỡ thì lên đường có thể giúp bạn tìm thấy một mối tình mới, khi ấy bạn sẽ trở về với một tâm hồn hoàn toàn khác lạ - vì thực ra cốt lõi của tình yêu là hoàn thiện bản thân mình.  
   
-  
 ## My review  
 `231109`  
   
@@ -48,5 +47,4 @@ Tự hỏi rồi 2 chiếc xe đạp vứt lại Indo phải không ta?
   
 > [!Example] Xem thêm  
 > - [Ta ba lô trên đất Á](./ta-ba-lo-tren-dat-a.md)  
-> - [John đi tìm Hùng](../../john-di-tim-hung.md)  
-  
+> - [John đi tìm Hùng](../../john-di-tim-hung.md)
