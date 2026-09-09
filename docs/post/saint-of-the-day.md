@@ -4,7 +4,7 @@ share: true
 comments: true
 tags:
   - SaintOfTheDay
-date: 2026-08-18
+date: 2026-09-09
 description: Vị Thánh của ngày
 aliases:
   - Saint of the Day
@@ -30,6 +30,7 @@ aliases:
 - [14.08 ᰻ Thánh Mixiliano Maria Kolbe, OFM Conv](./14-08-maximilian-maria-kolbe.md)  
 - [18.08 ᰻ Thánh Alberto Hurtado, SJ](./18-08-alberto-hurtado.md)  
 ## September  
+- [09.09 ᰻ Thánh Phêrô Claver, SJ](./09-09-phero-claver.md)  
 - [29.09 ᰻ Các Tổng lãnh thiên thần Michael, Gabriel, và Raphael](./29-09-saints-michael-gabriel-and-raphael.md)  
 ## Obtober  
 - [01.10 ᰻ Thánh Thérèse Hài Đồng Giêsu](./01-10-saint-therese-of-lisieux.md)  

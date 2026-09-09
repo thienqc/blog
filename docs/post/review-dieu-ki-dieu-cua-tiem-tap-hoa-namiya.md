@@ -3,7 +3,7 @@ filename: review-dieu-ki-dieu-cua-tiem-tap-hoa-namiya
 share: true
 comments: true
 tags:
-  - Book
+  - review
 date: 2018-04-06
 aliases:
   - Review Điều kì diệu của tiệm tạp hoá Namiya
