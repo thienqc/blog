@@ -3,7 +3,7 @@ share: true
 comments: true
 filename: 18-08-alberto-hurtado
 aliases:
-  - New_Saint
+  - Alberto Hurtado
 description: Sống công chính và nhạy bén với người nghèo
 tags:
   - SaintOfTheDay
