@@ -57,11 +57,13 @@ hooks:
   - hooks/posts_index.py
   - hooks/cache_bust.py
   - hooks/nav_quote.py
+  - hooks/photo_grid.py
 
 plugins:
   - search
   - autolinks
   - callouts
+  - glightbox
   - blogging:
       dirs:
         - post

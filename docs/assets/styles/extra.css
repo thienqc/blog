@@ -225,3 +225,28 @@ form.md-header__option .md-icon svg {
   width: 18px;
   height: 18px;
 }
+
+/* ======================================== */
+
+/* Photo grid (hooks/photo_grid.py): wrap a block of images with
+   <!-- photo-grid:start/end --> in the note to lay them out as thumbnails
+   instead of one full-width image per line. */
+.md-typeset .photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 0.5rem;
+  margin: 1em 0;
+}
+
+.md-typeset .photo-grid a {
+  display: block;
+}
+
+.md-typeset .photo-grid img {
+  display: block;
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 0.2rem;
+  margin: 0;
+}
