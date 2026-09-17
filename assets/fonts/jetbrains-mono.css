@@ -1,0 +1,53 @@
+/* JetBrains Mono, self-hosted (was fetched from fonts.googleapis.com before —
+   that added a cross-origin DNS+TLS+CSS+font round trip that blocked text
+   rendering). Same weights Material was already requesting from Google
+   Fonts: 300/400/700, regular + italic. font-display: swap avoids
+   invisible text while the font loads. */
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("Light.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url("LightItalic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("Italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("BoldItalic.woff2") format("woff2");
+}
