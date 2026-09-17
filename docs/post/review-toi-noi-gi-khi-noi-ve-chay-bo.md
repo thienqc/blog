@@ -1,7 +1,5 @@
 ---
 filename: review-toi-noi-gi-khi-noi-ve-chay-bo
-description:
-URL:
 date: 2023-05-25
 tags:
   - Run
@@ -47,7 +45,6 @@ Hoàn thành một chặng đua, thì vẫn tiếp tục tập luyện, đừng 
 Học y nói riêng, cuộc sống nói chung cũng giống như chạy marathon vậy. Không phải xuất phát trước, tăng tốc sớm sẽ về đích mà là những người bền bỉ không bao giờ bỏ cuộc, vượt qua chính bản thân mình mới là người chiến thắng.  
   
 Viết xàm đủ rồi, kết thôi, mượn tạm một câu vậy.  
-  
   
 > [!Quote] Quote  
 > "Có ba lí do để tôi thất bại, tập luyện không đủ, tập luyện không đủ và tập luyện không đủ".  
