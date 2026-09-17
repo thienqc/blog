@@ -12,19 +12,17 @@ category:
   
 `201031`  
   
-![](https://i.imgur.com/xMY85Sf.png)  
-  
-![](https://i.imgur.com/hy52EjS.png)  
-  
-![](https://i.imgur.com/V5DdS0b.png)  
-  
-![](https://i.imgur.com/gOTaJX0.jpg)  
-  
-![](https://i.imgur.com/JlXUCMF.png)  
+<!-- photo:grid:start -->  
+![Bù Đăng, Bình Phước-1789540395638.webp](../assets/img/B%C3%B9%20%C4%90%C4%83ng,%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc-1789540395638.webp)  
+![Bù Đăng, Bình Phước-1789540505491.webp](../assets/img/B%C3%B9%20%C4%90%C4%83ng,%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc-1789540505491.webp)  
+![Bù Đăng, Bình Phước-1789540516161.webp](../assets/img/B%C3%B9%20%C4%90%C4%83ng,%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc-1789540516161.webp)  
+![Bù Đăng, Bình Phước-1789540527986.webp](../assets/img/B%C3%B9%20%C4%90%C4%83ng,%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc-1789540527986.webp)  
+![Bù Đăng, Bình Phước-1789540539666.webp](../assets/img/B%C3%B9%20%C4%90%C4%83ng,%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc-1789540539666.webp)  
+<!-- photo:grid:end -->  
   
 Sẵn anh em rảnh, cả đám rủ nhau đi chơi nhà anh Nghĩa. Tới nơi thì trời cũng tối. Ăn uống nghỉ ngơi tại nhà anh Nghĩa để sáng hôm sau đi chơi ở Bình Phước.  
   
-Sáng minh dậy sớm để chạy một vòng gần đó. Đường bê tông nên chạy cũng ok, không khí buổi sáng không khói bụi, thỉnh thoảng có mấy người đi làm cao su.  
+Sáng mình dậy sớm để chạy một vòng gần đó. Đường bê tông nên chạy cũng ok, không khí buổi sáng không khói bụi, thỉnh thoảng có mấy người đi làm cao su.  
   
 Ăn sáng xong xuôi, thì chúng mình lên đường. Điểm đến đầu tiên là khu bảo tồn văn hoá dân tộc S'Tiêng Sok Bom Bo. Ở đây mình đọc về lịch sử chống Mỹ ở người dân Bù Đăng, biết được bài hát "Tiếng chày trên sóc Bom Bo" sáng tác tại đây. Ở đây cũng lưu trữ bộ đàn đá lớn nhất Việt Nam.  
   
