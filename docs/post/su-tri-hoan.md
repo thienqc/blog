@@ -28,8 +28,9 @@ Con khỉ chỉ sợ mỗi con Quái vật. Nhưng trong những tình huống n
 Còn trì hoãn dài hạn là những việc mà ta chưa thấy lợi ích trước mắt: sức khoẻ, gia đình,.. Những việc này không có thời hạn, nên con Quái vật còn lâu mới xuất hiện.  
   
 ## Làm thế nào để không bị trì hoãn?  
-Just do it  
+==**JUST DO IT**==  
   
+Đơn giản là làm thôi!  
   
 > [!example] Xem thêm  
 > - [Reading slump](./reading-slump.md)  
