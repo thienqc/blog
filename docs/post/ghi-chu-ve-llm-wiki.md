@@ -25,7 +25,7 @@ Hình như ở đây có sự nhập nhằng giữa ==wiki== và ==personal know
   
 Điểm khác biệt ở đây là "nhiều người" vào "một người". Theo mình thì wiki là một dạng bách khoa toàn thư mở mà mọi người có thể cùng nhau vào đọc và cùng chỉnh sửa, duy trì, nó mang tính cộng đồng. Điển hình là [Wikipedia](https://www.wikipedia.org/). Còn PKB là kho tri thức cá nhân, được tạo ra cho chính cá nhân đó, và nó mang nhiều tính cá nhân (bạn đặt vào đó cảm xúc, suy nghĩ, trải nghiệm của bản thân). Một ví dụ là [notes.andymatuschak.org](https://notes.andymatuschak.org/), tuy được chia sẻ công khai nhưng đây chỉ là thứ yếu.  
   
-Xem thêm: [Is it a Wikipedia? — Zettelkasten Forum](https://forum.zettelkasten.de/discussion/2899/is-it-a-wikipedia)  
+--> Xem thêm: [Is it a Wikipedia? — Zettelkasten Forum](https://forum.zettelkasten.de/discussion/2899/is-it-a-wikipedia)  
   
 Bỏ qua sự nhầm lẫn này, mình nghĩ Karpathy muốn nhấn mạnh tới việc các ghi chú được liên kết với nhau để tạo thành một hệ thống tri thức (dù là wiki hay PKB), và việc duy trì/bảo trì được hệ thống này tốn rất nhiều công sức.  
   

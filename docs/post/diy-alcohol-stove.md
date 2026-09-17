@@ -21,11 +21,11 @@ category:
 ## Cách làm  
 B1: Cắt 2 lon coke, lấy 2 phần đáy, ước lượng tầm 1/3 chiều cao của lon (khoảng 100ml)  
   
-![](https://i.imgur.com/tIqU4QP.png)  
+![DIY Alcohol Stove-1789572230532.webp](../assets/img/DIY%20Alcohol%20Stove-1789572230532.webp)  
   
 B2: Dùng giấy nhám làm sạch phần rìa cắt, bên ngoài bên trong của 2 lon. Dùng kiềm bẻ nhẹ rìa của 1 lon  
   
-![](https://i.imgur.com/YtnXmBV.jpg)  
+![DIY Alcohol Stove-1789572251466.webp](../assets/img/DIY%20Alcohol%20Stove-1789572251466.webp)  
   
 B3: Ghép 2 lon lại với nhau (lon bị bẻ rìa nằm ở dưới)  
   
@@ -33,7 +33,7 @@ B4: Đục 1 lỗ to ở giữa, 16 lỗ ở rìa.
   
 B5: Cắt lấy phần đáy lon còn lại làm nắp đậy  
   
-![](https://i.imgur.com/CcyHSNS.jpg)  
+![DIY Alcohol Stove-1789572268072.webp](../assets/img/DIY%20Alcohol%20Stove-1789572268072.webp)  
   
 ## Thành quả  
   

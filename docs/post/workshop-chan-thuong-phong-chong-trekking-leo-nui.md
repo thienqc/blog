@@ -36,22 +36,20 @@ category:
 - miếng dán khi lật cổ chân    
     
 ### Chuột rút    
-- mỏi -> nhão, dãn -> báo tủy làm co cơ    
-- thiếu Ca, điện giải    
-- điều trị: kéo dài sợi cơ ra    
-- matxa bạch huyết    
-- giải mạc cơ (cạo gió)    
-- phòng chống: luyện tập cơ (kí ức TB cơ)    
-    
+- mỏi -> nhão, dãn -> báo tủy làm co cơ  
+- thiếu Ca, điện giải  
+- điều trị: kéo dài sợi cơ ra  
+- matxa bạch huyết  
+- giải mạc cơ (cạo gió)  
+- phòng chống: luyện tập cơ (kí ức TB cơ)  
 ### Thuốc    
-- Glucosamine    
-- corticoid    
-- PRP: huyết tương giàu tiểu cầu    
-    
+- Glucosamine  
+- corticoid  
+- PRP: huyết tương giàu tiểu cầu  
 ## Phòng tránh    
-- tập luyện    
-- các loại cơ    
-- ngồi nghỉ: k co chân    
-- nước: dựa nước tiểu    
-- trao đổi nhiệt    
+- tập luyện  
+- các loại cơ  
+- ngồi nghỉ: ==không co chân==  
+- nước: dựa nước tiểu  
+- trao đổi nhiệt  
 - hít thở

@@ -11,9 +11,9 @@ category:
   - toi-cam
 ---
 # Ba mệnh lệnh Fatima  
-- Ăn năn đền tội  
-- Cải thiện đời sống  
-- Lần chuỗi Mân Côi  
+1. Ăn năn đền tội  
+2. Cải thiện đời sống  
+3. Lần chuỗi Mân Côi  
   
 > [!Example] Xem thêm   
  > - [Bí mật kinh Mân Côi](./bi-mat-kinh-man-coi.md)

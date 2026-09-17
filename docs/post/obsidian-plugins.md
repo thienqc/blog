@@ -49,7 +49,7 @@ Những bài sau mình sẽ giới thiệu những plugin hay, các bạn
   
 > [!tip] Plugin  
 > - [DATAVIEW](./dataview.md)  
-> - [Dice Roller plugin](./dice-roller-plugin.md)  
+> - [Dice Roller plugin](../../dice-roller-plugin.md)  
 > - [Hình ảnh trong Obsidian](./hinh-anh-trong-obsidian.md)  
 > - [OBSIDIAN IMPORTER](./obsidian-importer.md)  
 > - [Cách xử lí plugin Custom Frame](./cach-xu-li-plugin-custom-frame-khong-dang-nhap-vao-tai-khoan.md)  

@@ -12,7 +12,7 @@ date: 2025-11-13
 category:
   - toi-cam
 ---
-# 13.11 | Thánh Stanislaus Kostka  
+# 13.11 ᰻ Thánh Stanislaus Kostka  
   
 ![Stanislaus Kostka-1786930433048.webp](../assets/img/Stanislaus%20Kostka-1786930433048.webp)  
   

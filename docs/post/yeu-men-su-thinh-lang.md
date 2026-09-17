@@ -4,7 +4,6 @@ comments: true
 filename: yeu-men-su-thinh-lang
 aliases:
   - Yêu mến sự thinh lặng
-description:
 tags:
   - pray
 date: 2024-02-23
@@ -24,5 +23,4 @@ Xin dạy chúng con ==thinh lặng nơi miệng lưỡi==, để biết ca tụ
   
 Xin dạy chúng con ==thinh lặng nơi trí khôn==, để mở ra trước sự thật và khép lại trước dối trá.  
   
-Cuối cùng xin dạy chúng con ==thinh lặng nơi quả tim==, để tránh xa mọi ích kỷ, thù hằn, ghen ghét, để yêu mến và ước ao Thiên Chúa trên hết mọi sự. Amen!  
-  
+Cuối cùng xin dạy chúng con ==thinh lặng nơi quả tim==, để tránh xa mọi ích kỷ, thù hằn, ghen ghét, để yêu mến và ước ao Thiên Chúa trên hết mọi sự. Amen!

@@ -6,7 +6,6 @@ tags:
   - love
   - 2Q
 date: 2023-11-18
-URL:
 description: từ một buổi cà phê
 aliases:
   - Hai câu chuyện
@@ -19,4 +18,5 @@ Tôi gặp nàng vào một ngày nắng đẹp. Tôi với nàng học chung m�
   
 Trong lớp, chàng là một chàng trai trầm tính, ít nói, có một nét thông minh ẩn giấu. Chúng tôi hay nói chuyện, chia sẻ với nhau nhiều thứ. Tôi biết chàng thích tôi. Tôi cũng đã thử thích lại chàng. Nhưng tôi nhận ra chúng tôi không thuộc về nhau. Chàng quá tốt với tôi, nhưng tôi lại không có cảm xúc gì hơn mức tình bạn. Vì thế tôi ngày càng tránh xa chàng, để chàng quên tôi mà đi tìm tình yêu đích thực cho mình.  
   
-  
+> [!Example] Xem thêm   
+ > - [Hai đường thẳng chéo nhau](./hai-duong-thang-cheo-nhau.md)

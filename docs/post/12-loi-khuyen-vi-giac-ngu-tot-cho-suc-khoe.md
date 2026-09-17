@@ -48,6 +48,8 @@ Cố gắng ra ngoài trong ánh sáng mặt trời tự nhiên ít nhất 30 ph
 ## 12. Đừng nằm ì trên giường  
 Nếu bạn thấp mình vẫn còn tỉnh táo sau khi năng trên giường khoảng 20 phút, hoặc đang bắt đầu cảm thấy lo âu, lo lắng, hãy đứng dậy và thực hiện một số hoạt động thư giãn cho đến khi cảm thấy buồn ngủ. Sự lo lắng rằng mình không thể ngủ có thể khiến bạn càng khó ngủ hơn.  
   
+--> Nguồn: [Sao chúng ta lại ngủ (Matthew Walker)](Sao%20ch%C3%BAng%20ta%20l%E1%BA%A1i%20ng%E1%BB%A7%20(Matthew%20Walker).md)  
+  
   
 > [!Example] Xem thêm  
 > - [Làm gì cho yêu đời](./lam-gi-cho-yeu-doi.md)  

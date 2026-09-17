@@ -24,5 +24,5 @@ category:
 - [Cách xử lí plugin Custom Frame](./cach-xu-li-plugin-custom-frame-khong-dang-nhap-vao-tai-khoan.md)  
 - [Phân biệt line và section](./obsidian-search.md#Phân%20biệt%20line%20và%20section)  
 - [Search khi property là checkbox](./obsidian-search.md#Property%20là%20Checkbox)  
-- [Dataview TASK example](./dataview-task-example.md)  
+- [Dataview TASK example](../../dataview-task-example.md)  
 - [Cách ghép các note nhỏ trong Obsidian](./cach-ghep-cac-note-nho-trong-obsidian.md)

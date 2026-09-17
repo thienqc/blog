@@ -39,8 +39,4 @@ Bối rối với [Kafka bên bờ biển](../../Kafka%20b%C3%AAn%20b%E1%BB%9D%2
 ## DNF  
 Thử sức với Nobel nhưng khó thật sự, đang DNF với [Dịch hạch](../../D%E1%BB%8Bch%20H%E1%BA%A1ch.md) (1957). Năm sau cố gắng mở rộng nhiều thể loại hơn, chứ không đọc tập trung mỗi trinh thám nữa.  
   
-## LIST BOOK  
-  
-  
-  
 > **[2019](./reading-challenge-2019.md) 👈 [Reading challenge](./reading-challenge.md) 👉 [2021](./reading-challenge-2021.md)**

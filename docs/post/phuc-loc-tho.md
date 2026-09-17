@@ -4,14 +4,13 @@ comments: true
 filename: phuc-loc-tho
 aliases:
   - Phúc - Lộc - Thọ
-description:
 tags:
   - hmm
 date: 2024-12-16
 URL: https://vi.wikipedia.org/wiki/Ph%C3%BAc_L%E1%BB%99c_Th%E1%BB%8D
 ---
 # Phúc - Lộc - Thọ  
-Phúc Lộc Thọ hay Phước Lộc Thọ (Giản thể: 福禄寿; Phồn thể: 福祿壽; bính âm: Fú Lù Shòu) là thuật ngữ thường được sử dụng trong văn hóa Trung Hoa và những nền văn hóa lân cận để diễn tả ba điều cơ bản trong cuộc sống tốt đẹp: may mắn (Phúc), giàu sang (Lộc), và sống lâu (Thọ). Mỗi ý niệm được nhân cách hóa thành bộ ba vị thần, gọi chung là 3 ông "Phúc-Lộc-Thọ" hay Tam Đa.  
+Phúc Lộc Thọ hay Phước Lộc Thọ (Giản thể: 福禄寿; Phồn thể: 福祿壽; bính âm: *Fú Lù Shòu*) là thuật ngữ thường được sử dụng trong văn hóa Trung Hoa và những nền văn hóa lân cận để diễn tả ba điều cơ bản trong cuộc sống tốt đẹp: may mắn (Phúc), giàu sang (Lộc), và sống lâu (Thọ). Mỗi ý niệm được nhân cách hóa thành bộ ba vị thần, gọi chung là 3 ông "Phúc-Lộc-Thọ" hay Tam Đa.  
   
 ## Các nhân vật  
   

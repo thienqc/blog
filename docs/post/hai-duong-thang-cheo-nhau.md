@@ -47,4 +47,4 @@ Và rồi, khi thời gian đủ dài, khi lòng người đủ lặng, ta nhậ
   
 Chúng ta từng tồn tại trong cùng một không gian, từng đi gần nhau, từng trò chuyện, từng chia sẻ, từng tưởng rằng có thể đi cùng một hướng. Nhưng thật ra, mỗi người đứng trên một mặt phẳng riêng – mặt phẳng của trải nghiệm, của cảm xúc, của giá trị sống. Và hai mặt phẳng ấy không giao nhau.  
   
-Chấp nhận điều đó không dễ.
+Chấp nhận điều đó không dễ!

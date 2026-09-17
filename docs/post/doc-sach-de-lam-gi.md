@@ -12,7 +12,9 @@ category:
 ---
 # Đọc sách để làm gì  
   
-Một cậu bé hỏi ông mình: "Đọc sách nhiều để làm gì hả ông?"  
+Một cậu bé hỏi ông mình:  
+  
+> "Đọc sách nhiều để làm gì hả ông?"  
   
 Ông bảo cậu ra suối múc nước nhưng phải bằng cái rổ đựng than. Cậu bé chạy đi chạy về mấy lần, lần nào cũng không được tí nước nào. Cậu nói với ông.  
   
@@ -21,4 +23,4 @@ Một cậu bé hỏi ông mình: "Đọc sách nhiều để làm gì hả ông
   
 > [!Example] Xem thêm  
 > - [Tại sao bạn nên đọc sách](./tai-sao-ban-nen-doc-sach.md)  
-> - [Kho sách](../../kho-sach.md)
+> - [Đọc sách](./reading-challenge.md)

@@ -24,14 +24,12 @@ category:
   
 ![Thần Thoại Sisyphus-1760503967190.webp](../assets/img/Th%E1%BA%A7n%20Tho%E1%BA%A1i%20Sisyphus-1760503967190.webp)  
   
-Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21130&authkey=!ANtPm4g0YNPGhsg)  
-  
 ---  
   
 > [!important] Post  
 > [sisyphus-thoi-hien-dai](./sisyphus-thoi-hien-dai.md)  
   
-## My thought  
+## Tui nghĩ  
   
 > [!NOTE] [210224](../../210224.md)  
 > Nếu Sisyphus biết rằng việc lăn tảng đá lên rồi cũng rơi xuống nhưng mà vẫn làm, không sợ bị số phận đè nặng, vẫn làm cái việc mà mình phải làm, thì mình vẫn chưa sẵn sàng nổ máy hậu Tết trong khi tuần sau thi rồi, thi lâm sàng, thi lí thuyết, thậm chí là đang ở giữa tuần học online rồi. 'Just do it' ư? Có lẽ không hợp với mình sao? Rõ ràng là mình biết chỉ cần làm thôi nhưng vẫn không làm. Phi lí là đây chứ đâu..  

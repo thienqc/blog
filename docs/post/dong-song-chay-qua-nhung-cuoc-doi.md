@@ -45,5 +45,4 @@ Trong chuyến đi này, tôi ngỡ mình là "người cho", nhưng thực tế
   
 Ngày cuối cùng, khi được các thầy dẫn đi chơi thác, ngồi ngâm chân trong dòng suối mát lạnh, tôi nhìn những tia nắng nhảy múa trên mặt nước, nghe tiếng nước chảy róc rách, mọi mệt mỏi của chuyến đi dường như trôi theo dòng nước.  
   
-Tôi chợt nhớ đến câu kết của cuốn sách: *"Tôi bị ám bởi những con nước."* Giờ đây, tôi cũng bị ám ảnh. Ám ảnh bởi ánh mắt của người bệnh, bởi lớp da chai sạn của người nông dân, và bởi sự tử tế mà chúng tôi dành cho nhau. Chuyến đi với nhóm MAGIS không chỉ là một đợt thiện nguyện: đó là một chuyến đi chữa lành, học một bài học về lòng nhân ái, nơi tôi học cách làm một dòng sông: cứ chảy, cứ hiến dâng, và cứ bao dung với tất cả những gì mình đi qua.  
-  
+Tôi chợt nhớ đến câu kết của cuốn sách: *"Tôi bị ám bởi những con nước."* Giờ đây, tôi cũng bị ám ảnh. Ám ảnh bởi ánh mắt của người bệnh, bởi lớp da chai sạn của người nông dân, và bởi sự tử tế mà chúng tôi dành cho nhau. Chuyến đi với nhóm MAGIS không chỉ là một đợt thiện nguyện: đó là một chuyến đi chữa lành, học một bài học về lòng nhân ái, nơi tôi học cách làm một dòng sông: cứ chảy, cứ hiến dâng, và cứ bao dung với tất cả những gì mình đi qua.

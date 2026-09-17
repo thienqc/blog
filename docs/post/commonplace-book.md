@@ -13,7 +13,7 @@ category:
   
 Tiếng Latin là: *locus communis*  
   
-Tiếng Việt tạm dịch là: chung một vị trí  
+Tiếng Việt tạm dịch là: *chung một vị trí*  
   
 Đây là một cách để biên soạn kiến ​​thức, thường bằng cách viết thông tin vào sách. Từ thời xa xưa đã có cho tới hiện này.  
   

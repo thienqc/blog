@@ -25,8 +25,6 @@ date: 2024-01-23
   
 ![Tôi Tự Học-1760714191624.webp](../assets/img/T%C3%B4i%20T%E1%BB%B1%20H%E1%BB%8Dc-1760714191624.webp)  
   
-Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21138&authkey=!AB0rPU2Me_RLkG4)  
-  
 ---  
 ## Tóm lược dựa trên mục lục  
   

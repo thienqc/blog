@@ -57,25 +57,16 @@ Do đó, cuộc cạnh tranh về ==sức ảnh hưởng MXH== sẽ là một th
   
 Các nhà tuyển dụng nước ngoài chú ý tới linkedin, facebook và tương tác của bạn với bên ngoài để đánh giá ứng viên. Từ từ, các nhà tuyển dụng ở VN cũng vậy mà thôi!  
   
-Giải pháp?  
   
-1. Tăng cường kỹ năng giao tiếp, tạo dựng mối quan hệ từ thời sinh viên.  
-2. Xác định rõ mục tiêu ngay khi tốt nghiệp: đi làm lấy tiền nuôi thân + chứng chỉ hành nghề + bán thân cho một cơ sở y tế trong 3-5 năm HOẶC bỏ thêm 150 triệu để lấy sự tự chủ nhưng phải xác định là bạn đã vừa chọn vào cuộc đua khác khốc liệt hơn sau 18 tháng.  
-3. Tập tính chủ động học hỏi, không ngại việc để tìm cho mình một mentor tốt trong tương lai.  
-4. Tham gia các khóa đào tạo hoặc tự học cách sử dụng các nền tảng, kỹ năng thuyết trình, kỹ năng mềm khác.  
+> [!hint] Giải pháp?  
+> 1. Tăng cường kỹ năng giao tiếp, tạo dựng mối quan hệ từ thời sinh viên.  
+> 2. Xác định rõ mục tiêu ngay khi tốt nghiệp: đi làm lấy tiền nuôi thân + chứng chỉ hành nghề + bán thân cho một cơ sở y tế trong 3-5 năm HOẶC bỏ thêm 150 triệu để lấy sự tự chủ nhưng phải xác định là bạn đã vừa chọn vào cuộc đua khác khốc liệt hơn sau 18 tháng.  
+> 3. Tập tính chủ động học hỏi, không ngại việc để tìm cho mình một mentor tốt trong tương lai.  
+> 4. Tham gia các khóa đào tạo hoặc tự học cách sử dụng các nền tảng, kỹ năng thuyết trình, kỹ năng mềm khác.  
   
 [Nguồn](https://www.facebook.com/100001140853298/posts/pfbid06Y8osdsJHAXnTjFjEtjPaSW2aMZGcjSuC2c6LL57RYeBYAe8EALm7PzaWcBP1LJ5l/)  
   
 > [!Example] Xem thêm  
 > - [Mặt trái của nghề BS tại Mỹ](./mat-trai-cua-nghe-BS-tai-my.md)  
 > - [CHỌN NHẦM NGHỀ THÌ PHẢI LÀM SAO](./chon-nham-nghe-thi-phai-lam-sao.md)  
-> - [Lời nhắn nhủ của Mr. Thanh](./loi-nhan-nhu-cua-mr-thanh.md)  
-  
----  
-# My thought  
-`2023-06-17`  
-Ok, con đường sắp tới của mình là ở Việt Nam  
-- Đậu nội trú Ngoại Lồng ngực (3 năm)  
-- 18 tháng: "chắc là" ngoại ở BV ??, khi nào đăng kí: chưa tìm hiểu  
-- Xin BV làm (BS Cường)  
-- Ở nhà học tiếng anh (đi du học): xa vời  
+> - [Lời nhắn nhủ của Mr. Thanh](./loi-nhan-nhu-cua-mr-thanh.md)

@@ -5,10 +5,10 @@ comments: true
 tags:
   - speech
 date: 2023-10-18
-URL:
-description:
 aliases:
   - The Ultimate question
+category:
+  - toi-luu
 ---
 # The Ultimate question  
   
@@ -18,6 +18,6 @@ https://www.youtube.com/watch?v=yqdipkq9TmA
   
 - Công nhận sự thật, giá trị, lòng tốt của đối phương  
   
-- Cách mở đầu ấn tượng: "Có một câu hỏi đã làm cả nhân loại đau đầu từ thuở sơ khai…"  
+- Cách mở đầu ấn tượng: "Có một câu hỏi đã làm cả nhân loại đau đầu từ thuở sơ khai..."  
   
 - Sử dụng "cái vé xe" đơn giản để minh hoạ một bài học sâu sắc

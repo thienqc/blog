@@ -34,13 +34,13 @@ category:
 - Và hóa ra nếu người ta không ganh ghét một người giỏi giang thì sẽ được người đó khai sáng. Giống như sự ngu dốt, thông minh cũng có tính lây lan.  
 - Bạn biết không, bạn thân mến, hạnh phúc là gì? Ấy là cảm giác của tôi lúc đó. Tôi hoàn toàn để hết tâm trí vào điệu nhảy và sẽ biểu diễn cùng với lũ bạn chí cốt và biết đâu người yêu đầu đời của tôi cũng đến xem thì sao.  
 - Chiong Si Ku hay Lễ giật đồ là một lễ hội thường niên đến bây giờ vẫn còn được tổ chức.  
-    - Note: Hungry ghost festival. Giống giật cô hồn ghê  
+    - --> Hungry ghost festival. Giống giật cô hồn ghê  
 - những người có học thức lòng vòng nói tới nói lui với những thuật ngữ to tát và lý thuyết cao siêu chẳng phải vì sự tiến bộ khoa học, mà là vì muốn khoe mẽ với những người ít nổi và không thể tìm ra lời lẽ để tranh luận.  
 - Đây là chỉ dẫn của Tuk Bayan Tula: Nếu các ngươi muốn thi đậu, Hãy mở sách ra mà học đi!  
-    - Note: Hài hước  
+    - --> Hài hước  
 - Lá thư chỉ vỏn bẹn mấy dòng. *Thưa cô, Cha em mất rồi. Ngày mai em đến trường để chào cô và các bạn. Học trò của cô, Lintang.*  
 - một người dân ==bản xứ== trên hòn đảo ==giàu nhất== Indonesia phải ==bỏ học== vì ==nghèo quá==. Hôm nay, một chú chuột nhắt sẽ chết đói trong một cái kho đầy gạo.  
-	- Trớ trêu  
+	- --> Trớ trêu  
 - Cuộc sống là những gì xảy đến với bạn trong khi bạn đang mải mê vạch kế hoạch này nọ.  
 - “Buồn làm gì, Ikal. Ít nhất thì mình cũng đã giữ lời hứa với cha, là mình sẽ không làm nghề đánh cá.”  
 - Ỏ đảo Belitong, không phải một tập đoàn khổng lồ, chẳng phải chính phủ, mà chính những người nghèo khó đã đòi lại một nhân quyền cơ bản - quyền được học tập.  

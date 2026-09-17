@@ -36,4 +36,5 @@ Nếu cuộc đời là một nhà tù thì chết có phải là để được
   
 Ta đón nhận cái chết như thế nào? Vui hay buồn? Chết là điều tất yếu vậy sao ta phải buồn?  
   
-"Không nhất thiết phải tin mọi điều hắn nói là xác thực, chỉ cần chấp nhận chúng là tất yếu". "Một kết luận đáng buồn, nó biến điều dối trá thành phương châm xử thế của thế gian."  
+> "Không nhất thiết phải tin mọi điều hắn nói là xác thực, chỉ cần chấp nhận chúng là tất yếu".  
+> "Một kết luận đáng buồn, nó biến điều dối trá thành phương châm xử thế của thế gian."  

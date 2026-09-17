@@ -11,7 +11,9 @@ category:
 ---
 # Bùi nhùi  
   
-Những loại bùi nhùi mình đã dùng  
+> Bùi nhùi (trong tiếng Anh là “tinder” hoặc “flint wick”) là một vật liệu dễ cháy, thường được tạo thành từ mớ rơm, cỏ khô hoặc sợi vải tết, dùng để giữ lửa hoặc tạo ngọn lửa ban đầu trong việc nhóm lửa hoặc bật lửa.  
+  
+Sau đây là những loại bùi nhùi mình đã dùng  
   
 ## Khăn giấy + dầu ăn  
   

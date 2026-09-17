@@ -1,7 +1,7 @@
 ---
 filename: 01-11-solemnity-of-all-saints
 aliases:
-  - 01.11 | Solemnity of All Saints
+  - 01.11 ᰻ Solemnity of All Saints
 share: true
 comments: true
 tags:
@@ -12,7 +12,7 @@ description: Lễ Các Thánh Nam Nữ
 category:
   - toi-cam
 ---
-# 01.11 | Các Thánh nam nữ  
+# 01.11 ᰻ Các Thánh nam nữ  
   
 ![](https://i.imgur.com/rWstqCV.png)  
   

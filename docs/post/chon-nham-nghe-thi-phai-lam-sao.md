@@ -21,11 +21,11 @@ Author: vukhacngoc86
   
 **CHỌN NHẦM NGHỀ THÌ PHẢI LÀM SAO???**  
   
-Câu hỏi đấy không mới, không lạ, và cũng không dễ trả lời đối với rất đông người trẻ, nhất là những bạn sinh viên….và cũng không ít lần mình được các bạn tin tưởng mà hỏi riêng câu hỏi ấy. Câu trả lời mỗi lần mỗi khác, vì nó được may đo riêng cho từng câu chuyện, từng hoàn cảnh. Lại một mùa thi nữa đang đến gần, mùa thất nghiệp lại còn càng gần hơn, có lẽ là lúc phù hợp để mình chia sẻ những gì chung nhất với những ai cần đọc – những người Việt trẻ đang loay hoay đi tìm chính mình, trên con đường sự nghiệp.  
+Câu hỏi đấy không mới, không lạ, và cũng không dễ trả lời đối với rất đông người trẻ, nhất là những bạn sinh viên... và cũng không ít lần mình được các bạn tin tưởng mà hỏi riêng câu hỏi ấy. Câu trả lời mỗi lần mỗi khác, vì nó được may đo riêng cho từng câu chuyện, từng hoàn cảnh. Lại một mùa thi nữa đang đến gần, mùa thất nghiệp lại còn càng gần hơn, có lẽ là lúc phù hợp để mình chia sẻ những gì chung nhất với những ai cần đọc – những người Việt trẻ đang loay hoay đi tìm chính mình, trên con đường sự nghiệp.  
   
 Một số bạn tự phát hiện ra mình chọn nhầm nghề khi còn đang ngồi trên giảng đường, một số khác lại là khi đã ra trường và đi làm; dù có là thời điểm nào, thì bạn cũng hãy thử làm theo mấy lời khuyên vặt của mình nhé.  
   
-## 1. CHỌN NHẦM NGHỀ LÀ CHUYỆN...... RẤT BÌNH THƯỜNG, ĐỪNG HOẢNG LOẠN!  
+## 1. CHỌN NHẦM NGHỀ LÀ CHUYỆN...RẤT BÌNH THƯỜNG, ĐỪNG HOẢNG LOẠN!  
   
 Hãy tưởng tượng lúc bạn phát hiện ra mình bị nhầm nghề cũng giống như một người đang lái xe trên cao tốc và phát hiện mình đi nhầm đường. Bạn sẽ làm gì? Quay đầu (make-an U-turn) ngay lập tức ah? Không phải lúc nào cũng có thể làm thế, bạn sẽ tan xác trước khi bạn kịp tìm ra được con đường đúng. Còn đang học năm thứ 3- 4 gần tốt nghiệp rồi mà phát hiện ra mình bị nhầm nghề, bỏ học lập tức, để “thà là bỏ đi hết, ta làm lại từ đầu”, chọn lại được đúng nghề hay không, chưa biết, nhưng chắc chắn bạn đã đốt thời gian đã qua của bản thân trong chớp mắt vào đúng lúc mà bạn cần phải bình tĩnh để suy nghĩ nhất.  
   
@@ -35,13 +35,13 @@ Bạn phát hiện ra mình chọn nhầm nghề, đó đã là điều khởi �
   
 Ai cũng có thể nhầm nghề một lúc nào đó trong đời. Thật đấy!  
   
-## 2. TỰ HỎI “THẾ NÀO LÀ NHẦM NGHỀ (Job-Mismatching)?  
+## 2. TỰ HỎI "THẾ NÀO LÀ NHẦM NGHỀ (Job-Mismatching)"?  
   
-Một ngày đẹp trời, bạn thức dậy cảm thấy mình chẳng muốn đến giảng đường hay chẳng muốn để chỗ làm, một cảm giác trống rỗng và muốn buôi xuôi tất cả……Đó có phải triệu chứng của chuyện chọn nhầm nghề? Chưa chắc. Công việc nào dù là cô lao công hay CEO ngân hàng thì một lúc nào đó cũng đều trải qua những giây phút khó khăn như kể trên. Facebook sinh ra cái trạng thái Feeling Empty chính là để mô tả những lúc ấy J.  
+Một ngày đẹp trời, bạn thức dậy cảm thấy mình chẳng muốn đến giảng đường hay chẳng muốn để chỗ làm, một cảm giác trống rỗng và muốn buôi xuôi tất cả... Đó có phải triệu chứng của chuyện chọn nhầm nghề? Chưa chắc. Công việc nào dù là cô lao công hay CEO ngân hàng thì một lúc nào đó cũng đều trải qua những giây phút khó khăn như kể trên. Facebook sinh ra cái trạng thái Feeling Empty chính là để mô tả những lúc ấy.  
   
-Tuy nhiên, các bạn Tây viết rất hay và rất nhiều về việc chọn nhầm nghề “Job-Mismatching” như thế này: Chọn nhầm nghề là không phải là sự nhàm chán trong chốc lát mà là tình trạng thiếu hụt động lực lâu dài đối với công việc, khiến cho sự gắn bó và cơ hội phát triển của bạn trở thành rất thấp. Vậy nên, đừng vì sếp mắng mấy câu, đồng nghiệp hơi lạnh lùng hay vì lương đang không tương xứng…..mà vội vã kết luận rằng: Thôi chết, tôi chọn nhầm nghề rồi. Tất cả chỉ là thử thách, và thế gian rất ít chỗ cho sự hoàn hảo.  
+Tuy nhiên, các bạn Tây viết rất hay và rất nhiều về việc chọn nhầm nghề “Job-Mismatching” như thế này: Chọn nhầm nghề là không phải là sự nhàm chán trong chốc lát mà là tình trạng thiếu hụt động lực lâu dài đối với công việc, khiến cho sự gắn bó và cơ hội phát triển của bạn trở thành rất thấp. Vậy nên, đừng vì sếp mắng mấy câu, đồng nghiệp hơi lạnh lùng hay vì lương đang không tương xứng... mà vội vã kết luận rằng: Thôi chết, tôi chọn nhầm nghề rồi. Tất cả chỉ là thử thách, và thế gian rất ít chỗ cho sự hoàn hảo.  
   
-Thế nên nếu bạn tìm được một công việc mà bạn vừa xuất chúng trong lĩnh vực đó, vừa thu nhập cao chót vót, bạn lại vừa say mê, thích thú hết mình, lại còn được đào tạo bài bản để làm việc đó……Ooops, chúc mừng, bạn thuộc phần trăm may mắn hiếm có so với phần còn lại của thế giới rồi.  
+Thế nên nếu bạn tìm được một công việc mà bạn vừa xuất chúng trong lĩnh vực đó, vừa thu nhập cao chót vót, bạn lại vừa say mê, thích thú hết mình, lại còn được đào tạo bài bản để làm việc đó... Ooops, chúc mừng, bạn thuộc phần trăm may mắn hiếm có so với phần còn lại của thế giới rồi.  
   
 Vậy nên, đừng vội vã kết luận!  
   

@@ -19,7 +19,7 @@ Trong trại tập trung Auschwitz, Ngài đã dám đứng ra chết thay cho 1
   
 > *“Tôi muốn thế chỗ cho ông kia. Tôi là một linh mục”.*  
   
-Hôm qua mình đọc [Người chứng thứ nhất](https://thienqc.github.io/blog/ebook.html#nguoi-chung-thu-nhat-pham-dinh-khiem) kể về cuộc đời [Chân Phước Anre Phú Yên](./26-07-anre-phu-yen.md), Ngài cũng đã dám đứng ra để chịu bị bắt thay cho nguời bạn của mình là thầy Inhaxiô, và trước khi chết và cả khi đầu lìa cổ, Ngài nói:  
+Hôm qua mình đọc [Người chứng thứ nhất](https://thienqc.github.io/blog/ebook.html#nguoi-chung-thu-nhat-pham-dinh-khiem) kể về cuộc đời [Chân Phước Anre Phú Yên](./26-07-anre-phu-yen.md), Ngài cũng đã dám đứng ra để chịu bị bắt thay cho nguời bạn của mình là thầy Inhaxiô, và trước khi chết và ngay cả khi đầu đã lìa cổ, Ngài nói:  
   
 > *“Hãy giữ nghĩa cùng Chúa Giêsu cho đến hết hơi, cho đến trọn đời”.*  
   

@@ -1,7 +1,7 @@
 ---
 filename: 02-10-cac-thien-than-ban-menh
 aliases:
-  - 02.10 | Các Thiên thần Bản mệnh
+  - 02.10 ᰻ Các Thiên thần Bản mệnh
 share: true
 comments: true
 tags:
@@ -11,7 +11,7 @@ description: Các Thiên thần Bản mệnh
 category:
   - toi-cam
 ---
-# 02.10 | Các Thiên thần Bản mệnh  
+# 02.10 ᰻ Các Thiên thần Bản mệnh  
 *The Guardian Angels*  
   
 ![](https://i.imgur.com/pZljZTX.png)  

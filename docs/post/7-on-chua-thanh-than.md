@@ -12,7 +12,7 @@ category:
 ---
 # 7 ơn Chúa Thánh Thần  
   
-![](https://i.imgur.com/9PZhSaL.png)  
+![|654x368](https://i.imgur.com/9PZhSaL.png)  
   
 | Ơn                       | Giúp ta                                                             |  
 | ------------------------ | ------------------------------------------------------------------- |  
@@ -35,5 +35,4 @@ category:
   
 > [!Example] Xem thêm   
  > - [7 ơn Chúa Thánh Thần - Dòng Tên-Dòng Chúa Giêsu (dongten.net)](https://dongten.net/7-on-chua-thanh-than/)  
-> - [Lễ Chúa Thánh Thần Hiện Xuống: Sự khác biệt mà Chúa Thánh Thần tạo ra - dongten.net](https://dongten.net/le-chua-thanh-than-hien-xuong-su-khac-biet-ma-chua-thanh-than-tao-ra/)  
-  
+> - [Lễ Chúa Thánh Thần Hiện Xuống: Sự khác biệt mà Chúa Thánh Thần tạo ra - dongten.net](https://dongten.net/le-chua-thanh-than-hien-xuong-su-khac-biet-ma-chua-thanh-than-tao-ra/)

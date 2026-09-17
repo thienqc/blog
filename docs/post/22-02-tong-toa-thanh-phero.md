@@ -3,7 +3,7 @@ share: true
 comments: true
 filename: 22-02-tong-toa-thanh-phero
 aliases:
-  - 22.02 Tông toà thánh Phero
+  - 22.02 ᰻ Tông toà thánh Phero
 description: Lễ này kính nhớ việc Chúa Giêsu chọn thánh Phero ngồi vào vị trí của Người
 tags:
   - SaintOfTheDay
@@ -11,7 +11,7 @@ date: 2024-02-22
 category:
   - toi-cam
 ---
-# 22.02 | Tông toà thánh Phêrô  
+# 22.02 ᰻ Tông toà thánh Phêrô  
 *Chair of Saint Peter*  
   
 ![](https://i.imgur.com/w9Y7eKz.png)  

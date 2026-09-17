@@ -57,4 +57,5 @@ Xem cách sử dụng [Template](https://help.obsidian.md/Plugins/Templates) đ�
 - Mình lấy những highlight vừa nhập, copy qua quyển sách. Ghi lại những suy nghĩ của mình về câu quote, hoặc nội dung quyển sách. Mình cố gắng liên kết với những kiến thức mình đã biết trước đó càng nhiều càng tốt.  
 - Khi cảm thấy lượng thông tin đủ nhiều thì mình sẽ viết bài về chủ đề đó, lưu trong thư mục `000 ZK notes`  
   
-*[Thảo luận tại group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/694635769203895)*
+*[Thảo luận tại group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/694635769203895)*  
+  

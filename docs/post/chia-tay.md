@@ -22,4 +22,10 @@ Chia tay 1 nhóm tông đồ.
   
 Chia tay 1 làng vùng cao.  
   
-Chia tay 1 hệ điều hành.
+Chia tay 1 ngôi nhà thân thương.  
+  
+Chia tay 1 hệ điều hành.  
+  
+Có những cuộc chia tay đã được định sẵn.  
+  
+Nhưng cũng có cuộc chia tay thì đến đột ngột.

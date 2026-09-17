@@ -127,8 +127,10 @@ Không ứng dụng được thì sẽ quên.
   
 Muốn không quên, bắt buộc kiến thức ==phải được liên hệ với thực tế, phải ứng dụng vào thực tế==. Yêu nhau mà không đi tới hôn nhân thì chỉ làm tội nhau. Kinh doanh không sinh ra lợi nhuận thì vô nghĩa. Kiến thức mà không ứng dụng được vào cuộc sống thì chỉ là những tư duy bồng bột. Giả sử chúng ta không ngừng nạp kiến thức mỗi ngày, giống như việc chúng ta ăn uống, thịt rau phối hợp rất hài hoà, giờ giấc ăn uống đều đặn, nhưng đường ruột lại không hấp thụ được, dù ăn bổ béo đến mấy thì cũng phải bài xuất ra ngoài, nhiều trường hợp vẫn không tránh đau bụng táo bón nội tâm giằng xé. Thu nạp kiến thức cũng vậy thôi. Nếu chúng ta không ứng dụng được, kiến thức sẽ phải quên đi, nếu ai đó nhớ được hết kiến thức sẽ trở thành giá sách di động, sẽ bị ngộ độc chữ rất nguy hiểm. Ứng dụng kiến thức quan trọng hơn nhiều so với lưu trữ kiến thức. Việc học, đọc sách, tiếp thu kiến thức là việc ai cũng làm được, nhưng việc ứng dụng kiến thức thì lại là vấn đề không đơn giản.  
   
+[Nguồn](https://www.facebook.com/Bs.Phuc.Radiologist/posts/pfbid02n87dyhhGpymkodY9RkybYzoq2ZG5bPXCFiX6GLWdWWVMMmCsC6H3tvePiV4tta3il)  
+  
 ---  
-## My thought  
+## Tui nghĩ  
 Tóm lại nè: 5 cách ghi nhớ kiến thức  
 1- Tối đa hoá các kết nối: suy nghĩ vấn đề dưới nhiều hướng khác nhau  
 2- Gắn với vận động cơ thể: viết lại kiến thức theo cách hiểu của bản thân  
@@ -136,7 +138,9 @@ Tóm lại nè: 5 cách ghi nhớ kiến thức
 4- Dạy lại kiến thức: dùng ngôn từ đơn giản để dạy đứa trẻ 5 tuổi  
 5- Ứng dụng: phải ứng dụng được kiến thức  
   
+--> **Learning pyramid**  
+  
+![Cách ghi nhớ kiến thức-1789568554622.webp](../assets/img/C%C3%A1ch%20ghi%20nh%E1%BB%9B%20ki%E1%BA%BFn%20th%E1%BB%A9c-1789568554622.webp)  
+  
   
 ---  
-  
-[Nguồn](https://www.facebook.com/Bs.Phuc.Radiologist/posts/pfbid02n87dyhhGpymkodY9RkybYzoq2ZG5bPXCFiX6GLWdWWVMMmCsC6H3tvePiV4tta3il)

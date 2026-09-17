@@ -28,7 +28,6 @@ category:
   
 ![Khi Hơi Thở Hóa Thinh Không-1764255990981.webp](../assets/img/Khi%20H%C6%A1i%20Th%E1%BB%9F%20H%C3%B3a%20Thinh%20Kh%C3%B4ng-1764255990981.webp)  
   
-  
 ---  
 ## Highlights  
 #quote   
@@ -38,7 +37,6 @@ category:
 “Bạn không bao giờ có thể đạt được sự hoàn hảo, nhưng bạn có thể tin vào đường tiệm cận của những gì mình không ngừng hướng tới.” — location: [3220]() ^ref-58820  
   
 ---  
-  
 ## Review  
   
 Nhân dịp đọc lần 5: 18/10/2021  

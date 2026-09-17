@@ -1,6 +1,5 @@
 ---
 filename: mat-trai-cua-nghe-BS-tai-my
-URL:
 date: 2023-09-21
 source: https://www.facebook.com/574011182/posts/pfbid02bu18B6wpNQQkPLCAoUe9LKBAi1tf7jFQEPxWS6PAqEPviVkrihyCV2Dxh74yWLWl/?sfnsn=mo&mibextid=6aamW6
 tags:

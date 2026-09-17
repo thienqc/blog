@@ -4,15 +4,16 @@ comments: true
 filename: tien-si-hoi-thanh
 aliases:
   - Tiến sĩ Hội Thánh
-description:
 tags:
   - AMDG
 date: 2025-10-01
 URL: https://dongten.net/38-tien-si-hoi-thanh-12-cau-hoi/
+category:
+  - toi-luu
 ---
 # 38 Tiến sĩ Hội Thánh: 12 câu hỏi  
   
-![](https://dongten.net/wp-content/uploads/2025/08/cac-thanh-duoc-tim-nhieu-nhat-tren-internet741201.jpg)  
+![Tiến sĩ Hội Thánh-1789548058401.webp](../assets/img/Ti%E1%BA%BFn%20s%C4%A9%20H%E1%BB%99i%20Th%C3%A1nh-1789548058401.webp)  
   
 _Soạn thảo: Lm. GB. Nguyễn Ngọc Thế SJ._  
   
@@ -202,7 +203,6 @@ Xét về vị trí địa lý của sinh quán các Tiến sĩ, do lẽ các v�
 - Saint for dummies. _Chương 13. Các Tiến sĩ Hội Thánh_ do Học viện thánh Giuse, Dòng Tên Việt Nam chuyển ngữ.  
 - Augustine Nguyễn Minh Triệu SJ. _Tìm hiểu về danh hiệu “Tiến Sĩ Hội Thánh”_.  
 - Vatican News. _Thánh John Henry Newman – Vị thánh Tiến Sĩ đầu tiên trong triều đại giáo hoàng của Đức Lêô._  
-  
   
   
 Nguồn: [38 Tiến sĩ Hội Thánh: 12 câu hỏi - Dòng Tên-Dòng Chúa Giêsu](https://dongten.net/38-tien-si-hoi-thanh-12-cau-hoi/)  

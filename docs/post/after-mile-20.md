@@ -4,7 +4,6 @@ comments: true
 filename: after-mile-20
 aliases:
   - After mile 20
-description:
 tags:
   - marathon
 date: 2024-01-06

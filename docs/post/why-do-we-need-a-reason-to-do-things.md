@@ -20,13 +20,11 @@ Mình là cái thằng không giỏi Văn (thi đại học tròn 5đ), chi
   
 Ban đầu định chỉ remake mấy bài cũ cũ trước đó viết, mà nghĩ lại nên viết bài nào coi như là để khởi đầu một hành trình mới. Thế là bật ra câu hỏi “tại sao chúng ta ‘cần một lí do’ để làm mọi thứ?”  
   
-  
-![](https://i.imgur.com/gPM9ehV.png)  
-  
+![Why do we 'need a reason' to do things-1789550605419.webp](../assets/img/Why%20do%20we%20'need%20a%20reason'%20to%20do%20things-1789550605419.webp)  
   
 Để trả lời câu hỏi này, hãy xem bức hình sau:  
-![Explosions At 117th Boston Marathon](https://i.imgur.com/ysRVTj2.jpg)  
   
+![Why do we 'need a reason' to do things-1789550590109.webp](../assets/img/Why%20do%20we%20'need%20a%20reason'%20to%20do%20things-1789550590109.webp)  
   
 Bạn nghĩ gì khi nhìn vào hình ảnh này?  
 -   **Đây là gì?** Bạn đang tìm **‘lí do’** về thứ trước mắt bạn. Đây là hình ảnh một vụ đánh bom ở cuộc thi marathon tại Boston (16/04/2013). Nếu không ai nói cho bạn biết đó là gì, và hoàn toàn không có ý tưởng gì, có thể bạn sẽ bức bối hoặc không mà đơn giản là đọc tiếp thôi :))  

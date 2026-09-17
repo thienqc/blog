@@ -12,7 +12,7 @@ URL: https://www.facebook.com/photo?fbid=760130849479148&set=a.461380502687519
 category:
   - toi-cam
 ---
-# 26.07 | Chân Phước Anrê Phú Yên  
+# 26.07 ᰻ Chân Phước Anrê Phú Yên  
   
 ![|500x890](https://i.imgur.com/D1RCrnM.png)  
   

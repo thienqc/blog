@@ -9,9 +9,14 @@ tags:
   - Run
   - motivation
 category:
+  - toi-luu
   - toi-hoc
+Author: Đào Trung Thành
+URL: https://chay365.com/lam-cach-nao-ban-co-dong-luc-lau-dai-trong-chay-bo/
 ---
 # Làm cách nào bạn có động lực lâu dài trong chạy bộ?  
+  
+@Đào Trung Thành  
   
 Tôi làm quen với chạy bộ đến nay được 10 năm. Có lẽ là một số ít những người đầu tiên hình thành phong trào chạy bộ này. Mặc dù đến với nó khá muộn khi bước sang tuổi tứ tuần. Lý do ban đầu của tôi là do sức khỏe khi cân nặng 78kg, mỡ nhiều, đường huyết cao. Đó là lý do mang tính phương tiện (instrumental reason)[^1]. Sức khỏe thường là một lý do phổ biến. Các lý do khác có thể là tò mò, ham vui, theo phong trào, muốn chứng tỏ bản thân. Tất cả lý do này đều từ bên ngoài với **động cơ ngoại tại (extrinsic motivation)**.  
   

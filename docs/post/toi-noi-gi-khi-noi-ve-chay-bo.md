@@ -2,8 +2,6 @@
 filename: toi-noi-gi-khi-noi-ve-chay-bo
 aliases:
   - Tôi nói gì khi nói về chạy bộ
-description:
-URL:
 Cover: Tôi Nói Gì Khi Nói Về Chạy Bộ-1764468816018.webp
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 236
@@ -27,8 +25,6 @@ category:
   
 ![Tôi Nói Gì Khi Nói Về Chạy Bộ-1764468816018.webp](../assets/img/T%C3%B4i%20N%C3%B3i%20G%C3%AC%20Khi%20N%C3%B3i%20V%E1%BB%81%20Ch%E1%BA%A1y%20B%E1%BB%99-1764468816018.webp)  
   
-Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21132&authkey=!AAPSuEtaePaU-sM)  
-  
 ---  
 ## Highlights  
   
@@ -51,4 +47,4 @@ thành lời những điều tôi — location: [1491]() ^ref-10574
   
 ---  
 ## Review  
-[Review Tôi nói gì khi nói về chạy bộ](./review-toi-noi-gi-khi-noi-ve-chay-bo.md)  
+- [Review Tôi nói gì khi nói về chạy bộ](./review-toi-noi-gi-khi-noi-ve-chay-bo.md)  
