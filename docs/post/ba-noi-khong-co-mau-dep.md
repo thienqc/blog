@@ -42,7 +42,7 @@ Thì ra là thế, chuyện là thằng nhỏ này trước khi đi ngủ luôn 
 > Ha hà há ha ha  
 > Thắp sáng một gia đình  
   
-![](https://i.imgur.com/yFXFDk8.png)  
+![Bà nội không có màu đẹp-1789550208483.webp](../assets/img/B%C3%A0%20n%E1%BB%99i%20kh%C3%B4ng%20c%C3%B3%20m%C3%A0u%20%C4%91%E1%BA%B9p-1789550208483.webp)  
   
 Lời bài hát mô tả một gia đình có ba, mẹ, con với mỗi màu nến khác nhau. Ông bà nội không được nhắc đến trong bài hát, nên không có màu sắc, nên cũng không phải là "một gia đình".  
   
