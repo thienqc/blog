@@ -22,7 +22,7 @@ from mkdocs.utils import get_relative_url
 
 IMG_LINE = re.compile(r'^[ \t]*!\[([^\]]*)\]\(([^)\s]+)(?:\s+"[^"]*")?\)[ \t]*$')
 MARKER_BLOCK = re.compile(
-    r'[ \t]*<!--\s*photo-grid:start\s*-->\n(.*?)\n[ \t]*<!--\s*photo-grid:end\s*-->',
+    r'[ \t]*<!--\s*photo-grid:start\s*-->[ \t]*\n(.*?)\n[ \t]*<!--\s*photo-grid:end\s*-->',
     re.S,
 )
 
