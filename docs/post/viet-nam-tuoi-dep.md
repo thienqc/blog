@@ -5,7 +5,6 @@ comments: true
 tags:
   - trip
 date: 2023-10-13
-URL:
 description: Những chuyến đi
 category:
   - toi-di
@@ -14,6 +13,7 @@ category:
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NSnkb1IAjbE?si=fa9rza2caSnQxO1J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
   
+Việt Nam tươi đẹp  
   
 - [Đỉnh Lang Biang](./lang-biang-peak.md)  
 - [Đèo Hải Vân](./deo-hai-van.md)  
