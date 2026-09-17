@@ -15,13 +15,12 @@ category:
 - Căt thì mỏng    
 - Phát rừng, thủ công trại, làm đồ ăn    
 - Dao trek - dao sinh tồn    
-    
-    
+  
 ## Lều trại    
 - Nilon riptop: nhẹ, mỏng, dễ rách    
 - PU chống thấm, 3000mm (polyester 210T) là tốt    
 - Khung nhôm: nhẹ, dẻo    
-- Tầm lót (mat)    
+- Tấm lót (mat)    
 	- chống rách    
 	- chống nước    
 	- ít dơ    
