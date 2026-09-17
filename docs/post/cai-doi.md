@@ -32,4 +32,4 @@ Tôi nhìn đứa trẻ 2 tuổi trên tay chị, gầy gò, nhỏ thỏm, cân 
   
 Mỗi lần đối mặt với sự lãng phí vô tình ấy, tôi lại nhớ về ánh mắt của những đứa trẻ vùng cao, vùng sâu vùng xa, những đứa trẻ lớn lên bằng cơm trắng chan xì dầu. Giờ đây, mỗi khi cầm chén cơm lên, tôi tự nhủ mình phải ăn thật trọn vẹn. Ăn không chỉ để nuôi sống bản thân, mà còn ăn để bù lại những thiếu thốn ngoài kia, ăn để có đủ sức khỏe mà tiếp tục hành trình mang chút sức mọn đi giúp đỡ các em.  
   
-![300](../assets/img/C%C3%A1i%20%C4%91%C3%B3i-1781695258472.webp)
+![Cái đói-1789571760293.webp](../assets/img/C%C3%A1i%20%C4%91%C3%B3i-1789571760293.webp)
