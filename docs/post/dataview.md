@@ -30,18 +30,7 @@ Dataview là 1 plugin cực kì mạnh mẽ, giúp ta có thể truy vấn bất
 ## Cấu trúc   
   
 ```md  
-TABLE without ID  
-	embed(link(Cover,"10")) as Cover,  
-	file.link as Title,  
-	Author,  
-	dateformat(Last_Read,"MMM-dd") as Date  
-FROM #Books  
-WHERE Rating="⭐⭐⭐⭐⭐"  
-SORT date(Last_Read) DESC  
-LIMIT 25  
-```  
   
-`thêm ```dataview`  
   
 ### 1. ` ```dataview`  
 Mục đích là khai báo ở dưới là 1 code block cho dataview  
@@ -110,7 +99,4 @@ Còn đây là bảng kiểm giúp bạn tránh những lỗi sai cơ bản: [c
   
 > [!Example] Xem thêm  
 > - [DATABASE Notion vs DATAVIEW Obsidian](./database-notion-vs-dataview-obsidian.md)  
-> - [Test DATAVIEW](./test-dataview.md)  
-> - [Thư viện sách](./thu-vien-sach-template.md)  
-> - [Dataview TASK example](./dataview-task-example.md)  
-> - [Dataview Hiển thị link tới note](./dataview-hien-thi-link-toi-note.md)
+> - [Thư viện sách](./thu-vien-sach-template.md)
