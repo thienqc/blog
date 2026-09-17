@@ -26,4 +26,4 @@ Bẵng đi một thời gian, trong ngày lễ tốt nghiệp sau đại học t
   
 Nhìn lại cả hành trình dài ấy, tôi chợt nhận ra rằng một mạng người được cứu không chỉ bởi y thuật, mà bởi một chuỗi những sự tử tế đan cài vào nhau. Đó là sự tận tụy của bác sĩ siêu âm, sự nhẫn nại của vị bác sĩ nán lại giờ trưa, sự kết nối của vị linh mục và cả sự kiên cường của người cha nghèo. Có lẽ đúng như người ta vẫn nói, chẳng cần phải sống một cuộc đời rực rỡ hay phô trương, chỉ cần sống tử tế và chân thành, chúng ta sẽ thấy phép màu vẫn luôn hiện hữu quanh đây, trong từng hơi thở của lòng nhân ái.  
   
-*PKDĐ 17/1/2026*
+*~ Viết về PKDĐ 17/1/2026*
