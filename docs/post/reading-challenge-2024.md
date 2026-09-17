@@ -30,7 +30,7 @@ tongsach: 23
 | Tháng   | Sách                                                                                                                                          |  
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------------- |  
 | 01-2024 | - [chien-binh-cau-vong](./chien-binh-cau-vong.md)<br>- [musashi-giang-ho-kiem-khach](./musashi-giang-ho-kiem-khach.md)<br>- [toi-tu-hoc](./toi-tu-hoc.md)                                                          |  
-| 02-2024 | - [hinh-canh-mat-tri](./hinh-canh-mat-tri.md)<br>- [song-don-gian](./song-don-gian.md)<br>- [the-ultimate-hang](./the-ultimate-hang.md)<br>- [vong-du-quay-dem](./vong-du-quay-dem.md) |  
+| 02-2024 | - [hinh-canh-mat-tri](../../hinh-canh-mat-tri.md)<br>- [song-don-gian](./song-don-gian.md)<br>- [the-ultimate-hang](./the-ultimate-hang.md)<br>- [vong-du-quay-dem](./vong-du-quay-dem.md) |  
 | 03-2024 | - [thanh-tri](./thanh-tri.md)                                                                                                                               |  
 | 04-2024 | - [mao-hiem-chau-a](../../mao-hiem-chau-a.md)                                                                                                                         |  
 | 05-2024 | - [cau-chuyen-con-bo-cam](./cau-chuyen-con-bo-cam.md)<br>- [doi-net-lich-su-dong-ten-tap-1](./doi-net-lich-su-dong-ten-tap-1.md)                                               |  
