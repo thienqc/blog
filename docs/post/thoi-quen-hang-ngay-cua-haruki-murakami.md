@@ -6,8 +6,6 @@ tags:
   - life-style
   - habit
 date: 2023-10-15
-URL:
-description:
 aliases:
   - Thói quen hằng ngày của Haruki Murakami
 ---
@@ -21,7 +19,7 @@ aliases:
 > [!NOTE] Tạm dịch  
 > Khi tôi trong chế độ viết tiểu thuyết, tôi thức dậy lúc 4 giờ sáng và làm việc trong 5-6 tiếng. Vào buổi chiều, tôi chạy khoảng 10km hoặc bơi 1500m (hoặc làm cả hai), sau đó tôi đọc một chút và nghe nhạc. Tôi đi ngủ lúc 9 giờ tối. Tôi giữ thói quen này hằng ngày mà không thay đổi. Sự lặp lại bản thân nó trở thành một thứ quan trọng; nó là một hình thức thôi miên. Tôi mê hoặc bản thân tôi để tâm trí đạt đến trạng thái sâu hơn. Nhưng để duy trì sự lặp lại trong khoảng thời gian dài - 6 tháng đến 1 năm - đòi hỏi phải có sức mạnh thể chất và tinh thần. Theo nghĩa đó, viết một cuốn tiểu thuyết dài giống như huấn luyện sinh tồn. Sức mạnh thể chất là cần thiết như sự nhạy cảm về nghệ thuật.  
   
-Lại nhớ đến câu nói của ông trong tác phẩm [toi-noi-gi-khi-noi-ve-chay-bo](./toi-noi-gi-khi-noi-ve-chay-bo.md):  
+Lại nhớ đến câu nói của ông trong tác phẩm [Tôi nói gì khi nói về chạy bộ](./toi-noi-gi-khi-noi-ve-chay-bo.md):  
   
 > [!Quote] Quote  
 > "Có ba lí do để tôi thất bại, tập luyện không đủ, tập luyện không đủ và tập luyện không đủ".  
