@@ -10,7 +10,6 @@ category:
 ---
 # Dinh ngày mưa  
   
-  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6v3jgfjz4m0?si=SEHAhy8sNj-RHjFN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
   
 `220521`  
@@ -21,7 +20,7 @@ Hôm đó trời xanh mây trắng, dự cảm sẽ là một ngày đẹp để
   
 Tới núi Dinh lần này, cảm nhận đầu tiên của mình là sao giống Đà Lạt thế, cảm giác có sương lạnh lạnh vậy. Bọn mình đi xe lên giữa núi để bắt đầu leo theo đường xanh lá.  
   
-Đường xanh lá sẽ đi lên "Sân bay" nếu theo vòng bự. Đừng tưởng đường ngắn mà dễ nha. Do ít người chọn đi đường xanh lá, bọn mình hầu như phải đi trong rừng rậm, có lúc còn lạc sang vòng nhỏ. Những bạn mới nên chọn đi vòng nhỏ, sẽ dễ đi hơn rất nhiều.  
+Đường xanh lá sẽ đi lên "*Sân bay*" nếu theo vòng bự. Đừng tưởng đường ngắn mà dễ nha. Do ít người chọn đi đường xanh lá, bọn mình hầu như phải đi trong rừng rậm, có lúc còn lạc sang vòng nhỏ. Những bạn mới nên chọn đi vòng nhỏ, sẽ dễ đi hơn rất nhiều.  
   
 Sau đó, bọn mình xuống tới cái cây cô đơn (tên tự đặt) ăn trưa. Đồ ăn bọn mình tự chuẩn bị và đem theo, mỗi người góp một tí thành ra rất nhiều. Sau đó, quẹo sang đường bên trái để ra đường màu đỏ/xanh dương. Lúc này trời mưa râm râm.  
   
@@ -39,4 +38,7 @@ Một số điều mình rút ra sau chuyến đi này
 - Đem theo cục sạc điện thoại  
 - Mang giày  
   
-Hẹn gặp núi Dinh vào một ngày không xa. Bạn nào muốn đi núi Dinh trải nghiệm có thể liên hệ với mình nè.
+Hẹn gặp núi Dinh vào một ngày không xa. Bạn nào muốn đi núi Dinh trải nghiệm có thể liên hệ với mình nè.  
+  
+> [!Example] Xem thêm  
+> - [Việt Nam tươi đẹp](./viet-nam-tuoi-dep.md)
