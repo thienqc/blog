@@ -14,7 +14,7 @@ category:
   
 Một bộ phim đạt 9.3/10 trên IMDb và là một trong những bộ phim đáng xem nhất mọi thời đại.  
   
-![](https://i.imgur.com/9rUyPrH.png)  
+![Bốn bức tường và niềm hy vọng-1789569139123.webp](../assets/img/B%E1%BB%91n%20b%E1%BB%A9c%20t%C6%B0%E1%BB%9Dng%20v%C3%A0%20ni%E1%BB%81m%20hy%20v%E1%BB%8Dng-1789569139123.webp)  
   
 *Nguồn ảnh: internet*  
   
