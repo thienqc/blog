@@ -18,7 +18,7 @@ tongsach: 77
   
 ## My Year in Books - 2021  
   
-Mặc dù bị [reading slump](./reading-slump.md) vào giữa năm, nhưng với sự trợ giúp đắc lực của chiếc kindle basic 4, mình đã đọc sách trở lại và kết thúc một năm đọc sách khá là ok, vượt xa chỉ tiêu đã đặt ra từ đầu năm (77/55 quyển).  
+Mặc dù bị [Reading slump](./reading-slump.md) vào giữa năm, nhưng với sự trợ giúp đắc lực của chiếc kindle basic 4, mình đã đọc sách trở lại và kết thúc một năm đọc sách khá là ok, vượt xa chỉ tiêu đã đặt ra từ đầu năm (77/55 quyển).  
   
 Nửa đầu năm là những quyển sách đầy tính triết lí (bộ ba của [Albert Camus](../../Albert%20Camus.md)), đa dạng thể loại; còn nửa sau là khi mình khám phá ra Lôi Mễ, Tử Kim Trần, Tần Minh, Jeffery Deaver... nên đa số toàn là trinh thám.  
   
