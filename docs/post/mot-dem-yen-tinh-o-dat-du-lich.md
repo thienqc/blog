@@ -23,7 +23,7 @@ Sau một ngày dài ngồi xe máy ôm cua gần 200km trên những con đèo 
   
 Trung tâm thị trấn Mèo Vạc cũng không to lắm, nên 3 anh em đi một vòng thì cũng thấy được quán "trà sữa nướng thảo mộc" - cái món hot trend mới nổi - nên cả 3 tấp vào luôn (đi tiếp cũng không còn cái quán nào khác đâu 🤡).  
   
-![](https://i.imgur.com/YNrXtkI.jpeg)  
+![Một đêm yên tĩnh ở đất du lịch-1789614255152.webp](../assets/img/M%E1%BB%99t%20%C4%91%C3%AAm%20y%C3%AAn%20t%C4%A9nh%20%E1%BB%9F%20%C4%91%E1%BA%A5t%20du%20l%E1%BB%8Bch-1789614255152.webp)  
   
 Chủ quán là một chị gái xinh đẹp, mà hề cái là chị nướng trà sữa xong thì đi qua hàng xiên nướng bên cạnh đứng tám, mặc kệ khách đang ngồi quán mình 🤡.  
   
@@ -33,7 +33,7 @@ Gần sắp tới dịp Noel, các thanh niên xóm đem xe máy đi bão, mặc
   
 Ngồi ở đây mình đếm được đúng 12 khách du lịch đi ngang qua (chưa kể 3 đứa mình). Theo như lời chị chủ quán thì mới hôm qua, hôm kia thôi, khách du lịch đông tới mức không có chỗ chen chân. Đó là điểm lợi khi mà có nhiều trò vui để xem, nhưng cũng là điểm hại vì tưởng đâu đây là làng của khách du lịch, giống như mình hay đùa làng H'Mông mà toàn người nước ngoài ở thôi 🤡.  
   
-![](https://i.imgur.com/AibaEmS.png)  
+![Một đêm yên tĩnh ở đất du lịch-1789614266551.webp](../assets/img/M%E1%BB%99t%20%C4%91%C3%AAm%20y%C3%AAn%20t%C4%A9nh%20%E1%BB%9F%20%C4%91%E1%BA%A5t%20du%20l%E1%BB%8Bch-1789614266551.webp)  
   
 Cần gì hơn ở một thị trấn thuộc một tỉnh miền núi.  
   
