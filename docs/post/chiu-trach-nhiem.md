@@ -1,6 +1,5 @@
 ---
 filename: chiu-trach-nhiem
-description:
 tags:
   - life
 date: 2023-07-05
