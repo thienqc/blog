@@ -63,5 +63,4 @@ Audio:: 🔉 [Audio](https://youtu.be/NvcAV6I6uwg)
 ![200](https://i.imgur.com/ysPsItk.png)  
   
 > Lạy thánh Tôma Aquinô là bổn mạng các trường học, xin ngài cầu bầu cùng Chúa ban cho chúng con một đức tin bền vững, một đức mến nồng nàn, một đời sống thanh khiết, cùng một tri thức chân thực. Chúng con cầu xin nhờ Đức Kitô Chúa chúng con. Amen.  
->   
 > *(Đọc trước khi học, dạy hoặc giảng)*
