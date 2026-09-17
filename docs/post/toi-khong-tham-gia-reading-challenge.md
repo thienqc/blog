@@ -16,7 +16,7 @@ Hôm nay mình đã xoá mục tiêu [Reading Challenge 2024 trên Goodreads](ht
   
 Việc chỉ đọc những sách có trên Goodreads cũng sẽ hạn chế mình đọc những quyển sách khác, chỉ vì "nó không có trên Goodreads".  
   
-Tất nhiên mình vẫn sẽ cập nhật [sách mình đọc](https://www.goodreads.com/user/show/71775165), nhưng mình sẽ không phụ thuộc vào Goodreads quá nhiều.  
+Tất nhiên mình vẫn sẽ cập nhật [sách mình đọc](./reading-challenge.md), nhưng mình sẽ không phụ thuộc vào Goodreads quá nhiều.  
   
 Khi đưa ra quyết định này, mình cảm thấy đã cởi bỏ một 'xiềng xích' bấy lâu nay :))  
   
