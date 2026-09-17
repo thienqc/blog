@@ -16,8 +16,7 @@ category:
   
 [ĐIỀU KỲ DIỆU CỦA TIỆM TẠP HOÁ NAMIYA](./dieu-ki-dieu-cua-tiem-tap-hoa-namiya.md) - HIGASHINO KEIGO  
   
-![|654x654](https://i.imgur.com/xpbTkNF.jpg)  
-  
+![Review Điều kì diệu của tiệm tạp hoá Namiya-1789540334113.webp](../assets/img/Review%20%C4%90i%E1%BB%81u%20k%C3%AC%20di%E1%BB%87u%20c%E1%BB%A7a%20ti%E1%BB%87m%20t%E1%BA%A1p%20ho%C3%A1%20Namiya-1789540334113.webp)  
   
 Gửi m,  
   
@@ -35,7 +34,9 @@ Chương bốn, hoài niệm về The Beatles. Paul Lennon, lá thư tư vấn n
   
 Chương cuối, cầu nguyện từ trên trời cao. Chó nhỏ lạc lối, một cô gái tuổi đôi mươi, giữa quyết định phải chọn công việc văn phòng rẻ tiền hay “tiếp viên” club. Cái cô VĐV trước là hàng xóm của cô này, khuyên cô đến tìm tư vấn ở tiệm Namiya. Bức thư của cô được 3 chàng trai nhận được. Họ đã khuyên cô không nên theo nghề “tiếp viên”. Nhưng đó là nghề nuôi sống cô và gia đình cô mang ơn. Khá là bực bội, nhưng sau đó, họ biết được cô cũng từ trại trẻ ra nên đã đưa ra những lời tiên đoán (người đến từ tương lai mà) về kinh tế Nhật những năm 90, và khuyên cô theo con đường đầu tư vào bất động sản và chứng khoán.  Nhờ vào lời tiên đoán, 32 năm sau, cô đã thành công và trở thành giám đốc công ty Little Dog. Đêm định mệnh, nhà cô bị đột nhập và lá thư cảm ơn cô định gửi cho tiệm Namiya bị đánh cắp. Mà thực ra, lá thư ấy cũng gửi tới đúng người đã tư vấn cho cô rồi. Nhờ vào bức thư cảm ơn cho mình, 3 chàng trai đã thấy lỗi sai của mình và bắt đầu làm cuộc đời bằng cách tới nhà cô để trả lại những món đồ đã lấy. 3 người họ đột nhập vào nhà cô vì hiểu lầm rằng cô muốn biến trại trẻ thành khách sạn tình yêu.  
   
-Những con người được nhận lời tư vấn. 3 chàng trai cũng thế. Họ thử gửi cho quá khứ một tờ giấy trắng và ông chủ tiệm đã cho họ lời khuyên cuối cùng. “Nếu ví người đến nhờ tư vấn đang có một tấm bản đồ trên tay thì hoặc là họ không biết đi đường nào cho đúng, hoặc là không biết mình đang đứng chỗ nào. Nhưng với “tấm bản đồ trắng” thì thật sự khó khăn, ai cũng sẽ thấy mất phương hướng. Nhưng bạn hãy thử thay đổi cách nhìn. Vì còn là giấy trắng nên bạn có thể vẽ bất kì bản đồ nào. Tất cả là tuỳ vào bạn. Một thứ đều tự do, khả năng là vô tận. Tôi mong bạn hãy tin vào bản thân và cháy hết mình với cuộc đời.”  
+Những con người được nhận lời tư vấn. 3 chàng trai cũng thế. Họ thử gửi cho quá khứ một tờ giấy trắng và ông chủ tiệm đã cho họ lời khuyên cuối cùng.  
+  
+> “Nếu ví người đến nhờ tư vấn đang có một tấm bản đồ trên tay thì hoặc là họ không biết đi đường nào cho đúng, hoặc là không biết mình đang đứng chỗ nào. Nhưng với “tấm bản đồ trắng” thì thật sự khó khăn, ai cũng sẽ thấy mất phương hướng. Nhưng bạn hãy thử thay đổi cách nhìn. Vì còn là giấy trắng nên bạn có thể vẽ bất kì bản đồ nào. Tất cả là tuỳ vào bạn. Một thứ đều tự do, khả năng là vô tận. Tôi mong bạn hãy tin vào bản thân và cháy hết mình với cuộc đời.”  
   
 Đang phê,  
   
