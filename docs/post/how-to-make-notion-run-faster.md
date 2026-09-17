@@ -33,8 +33,7 @@ category:
 - Delete Old & Unused Pages  
   
 ## Kết luận  
-Chuyển nhà =))  
-  
+[Chuyển nhà](./WC25-15.md) =))  
   
 > [!Example] Xem thêm  
 > - [Nếu một ngày Notion biến mất](./neu-mot-ngay-notion-bien-mat.md)  
