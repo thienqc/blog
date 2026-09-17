@@ -58,7 +58,7 @@ Bản thân mình đang tập luyện theo cách này:
   
 Đọc tập trung → Hiểu ý tưởng của tác giả → Ghi lại những suy nghĩ khi đọc thấy điểm hay → Khi ngồi xuống viết thì phát triển ý tưởng bằng từ ngữ của bản thân và áp dụng.  
   
-  
 > [!Example] Xem thêm  
-> - [ĐỌC](./doc.md)  
-> - [Tôi tự học](./toi-tu-hoc.md)
+> - [Đọc](./doc.md)  
+> - [Tôi tự học](./toi-tu-hoc.md)  
+> - [Tôi không tham gia Reading challenge nữa](./toi-khong-tham-gia-reading-challenge.md)
