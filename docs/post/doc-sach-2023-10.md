@@ -17,7 +17,7 @@ Tháng này mình đọc chỉ 2 cuốn, vì bận lễ [tốt nghiệp](./hom-n
 Trước khi bắt đầu phiêu lưu, khám phá nên **thông báo** cho ít nhất 1 người biết lịch trình của mình. Để mà khi có bị lạc, thì còn có người đi tìm kiếm mình.  
   
 Trong khi chờ người đến cứu, các bạn hãy làm theo những lời khuyên sau đây:    
-> - Ở YÊN TẠI CHỖ, nếu các bạn không tìm được đường ra và chắc chắn mọi người sẽ phát hiện ra được sự mất tích của các bạn và sẽ tổ chức tìm kiếm. Điều nầy rất cần thiết cho các bạn, vì nó hạn chế sự tiêu hao sức lực, năng lượng... trong khi các bạn đang thiếu thốn thực phẩm và có thể bị tổn thương.  
+> Ở YÊN TẠI CHỖ, nếu các bạn không tìm được đường ra và chắc chắn mọi người sẽ phát hiện ra được sự mất tích của các bạn và sẽ tổ chức tìm kiếm. Điều nầy rất cần thiết cho các bạn, vì nó hạn chế sự tiêu hao sức lực, năng lượng... trong khi các bạn đang thiếu thốn thực phẩm và có thể bị tổn thương.  
   
 ## [Người gác đêm](../../Ng%C6%B0%E1%BB%9Di%20g%C3%A1c%20%C4%91%C3%AAm.md)  
   
@@ -30,7 +30,6 @@ Nghe giống kiểu "Làm công việc mình yêu thích thì cả đời sẽ k
 > Cho dù là một tuyến manh mối đều không thể nào hoàn thành được mục tiêu, nhưng điểm giao nhau của bao nhiêu tuyển manh mối này, chính là chỗ gần chân tướng sự thật nhất.”  
   
 Cái này làm mình liên tưởng tới việc học, mình kết nối nhiều điểm chấm lại với nhau để tìm ra SỰ THẬT.  
-  
   
 > [!Example] Xem thêm  
 > - [Reading challenge](./reading-challenge.md)
