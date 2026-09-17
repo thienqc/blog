@@ -15,7 +15,7 @@ Nhớ Đỏ - Vàng - Xanh lá là ==cùng== chiều kim đồng hồ
 ### 2. Tạo cặp cạnh  
 - Chéo: R F' U F  
 - Ngang: Dd - R - F' - U - R' - F - D'd'  
-	- Ddont Run F'ast Unless R'un Fast D'd'aily  
+	- ==DD==ont ==R==un ==F'==ast ==U==nless ==R'==un ==F==ast ==D'd'==aily  
   
 ### 3. đưa về Rubik 3x3x3 --> [sexy-move-method](./sexy-move-method.md)  
   
