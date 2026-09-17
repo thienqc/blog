@@ -7,7 +7,6 @@ comments: true
 tags:
   - medical
 date: 2023-10-13
-URL:
 description: Chất giảm đau nội sinh
 ---
 # Endorphins, Mechanisms of Action, Animation - YouTube  
@@ -30,10 +29,10 @@ description: Chất giảm đau nội sinh
 			- não bị mất nhạy cảm khi tiếp xúc nhiều lần và quá mức với endophine  
 			- ngày càng tăng cường độ tập luyện  
   
-![](https://i.imgur.com/zvisupM.png)  
+![Endorphine-1789572565854.webp](../assets/img/Endorphine-1789572565854.webp)  
   
-![](https://i.imgur.com/PdLoLwg.png)  
   
+![Endorphine-1789572553722.webp](../assets/img/Endorphine-1789572553722.webp)  
   
   
 > [!bug]-  Transcript:  
