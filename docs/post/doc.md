@@ -18,7 +18,6 @@ Trước giờ sách được chia làm 2 loại hư cấu và phi hư cấu. Nh
   
 ![](https://i.imgur.com/P9Bcla7.png)  
   
-  
 ### 1. Capture - nắm bắt  
 Lưu lại những gì mà việc đọc gây ấn tượng với bạn, có thể là một câu trích dẫn, một ý tưởng, một đoạn văn xúc động hay thậm chí một từ ngữ đẹp...  
   
@@ -28,3 +27,6 @@ Bước này sẽ phải đánh giá lại những gì gây ấn tượng cho b�
 ### 3. Integrate - tích hợp  
 Những gì thu thập được phải phục vụ cho cuộc sống của bản thân.  
   
+> [!Example] Xem thêm  
+> - [Đọc sách](./reading-challenge.md)  
+> - [Đọc sách để làm gì](./doc-sach-de-lam-gi.md)
