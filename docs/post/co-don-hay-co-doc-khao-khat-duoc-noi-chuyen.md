@@ -11,12 +11,15 @@ category:
   - toi-cam
 ---
 # Cô đơn hay cô độc, khao khát được nói chuyện  
+  
 Nghịch lí của việc háo hức đi cắm trại một mình lại là muốn được đi *với 1 người khác* để trò chuyện, để chia sẻ.   
   
-Nghĩ về hoàn cảnh của ba khi hồi xưa nằm cheo queo trên rẫy..  
+Nghĩ về hoàn cảnh của ba khi hồi xưa nằm cheo queo trên rẫy...  
   
 Muốn được sáng mai dậy, xuống núi, gặp con người. Có phải do mai có cuộc hẹn? Ít nghĩ về nó nhưng maybe.  
   
 Trong quyển [Hoang Dã: Hành trình tìm lại mình trên Đường mòn Pacific Crest](./hoang-da-hanh-trinh-tim-lai-minh-tren-duong-mon-pacific-crest.md), tác giả kể về những ngày không gặp một ai mấy ngày liền, mà sự mừng rỡ khi được gặp những người dọc đường.  
   
-~ Viết khi đang nằm trên đỉnh Chứa Chan, xung quanh không một ai!
+![Cô đơn hay cô độc, khao khát được nói chuyện-1789572015351.webp](../assets/img/C%C3%B4%20%C4%91%C6%A1n%20hay%20c%C3%B4%20%C4%91%E1%BB%99c,%20khao%20kh%C3%A1t%20%C4%91%C6%B0%E1%BB%A3c%20n%C3%B3i%20chuy%E1%BB%87n-1789572015351.webp)  
+  
+~ *Viết khi đang nằm trên đỉnh Chứa Chan, xung quanh không một ai!*
