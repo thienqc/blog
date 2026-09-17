@@ -44,6 +44,4 @@ Sử dụng chai du lịch nhỏ để đựng nước và bảo quản tất c�
 - khăn du lịch  
 - bộ sơ cứu  
 - kem chống nắng  
-- kính râm  
-  
-## [Cắm trại bằng xe hơi](../../C%E1%BA%AFm%20tr%E1%BA%A1i%20b%E1%BA%B1ng%20xe%20h%C6%A1i.md)
+- kính râm
