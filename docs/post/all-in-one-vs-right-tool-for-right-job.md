@@ -15,8 +15,7 @@ category:
 ---
 # BẠN CHỌN "APP-TẤT-CẢ-TRONG-MỘT" HAY "ĐÚNG-APP-ĐÚNG-VIỆC"?  
   
-![](https://i.imgur.com/qBvb8em.png)  
-  
+![All-in-one vs right tool for right job-1789550095077.webp](../assets/img/All-in-one%20vs%20right%20tool%20for%20right%20job-1789550095077.webp)  
   
 Bài này sẽ nói về những suy nghĩ của mình về cách chọn công cụ phù hợp với hệ thống và quy trình làm việc của bản thân. Mình sẽ dùng hình ảnh "dao đa năng" và "hộp dụng cụ" để minh hoạ cho phương pháp này.  
   
