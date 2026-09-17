@@ -18,7 +18,6 @@ Một bộ phim cũng với chủ đề "du mục" là [Nomadland](https://www.i
   
 2 bộ phim làm mình dấy lên câu hỏi  
   
-  
 > [!question]   
  **Nếu con người có được sự tự do như mình mong muốn thì cuộc sống sẽ ra sao?**  
   
