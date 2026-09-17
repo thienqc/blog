@@ -1,7 +1,5 @@
 ---
 filename: dopamine-detox
-description:
-URL:
 share: true
 comments: true
 tags:
@@ -9,6 +7,7 @@ tags:
 date: 2023-06-06
 ---
 # Dopamine detox  
+  
 ## B1: Nhổ cỏ  
   
 > Cắt bỏ hoàn toàn những kích thích dopamine liều cao  
@@ -31,4 +30,5 @@ date: 2023-06-06
   
 > [!Example] Xem thêm  
 > - [Nghiệm game](./nghien-game.md)   
-> - [Thử thách 72h không dùng Facebook](./thu-thach-72h-khong-dung-facebook.md)
+> - [Thử thách 72h không dùng Facebook](./thu-thach-72h-khong-dung-facebook.md)  
+> - [Endorphine](./endorphins.md)
