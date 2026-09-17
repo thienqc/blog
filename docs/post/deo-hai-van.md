@@ -19,23 +19,16 @@ Và đúng thật như thế, trên hành trình từ Đà Näng ra Huể, ta ph
   
 Mặc dù đã có hầm Hải Vân, nhưng tự mình vượt đèo vẫn là một hành trình đáng trải qua.  
   
-![](https://i.imgur.com/Rtwj3Sh.jpg)  
+<!-- photo-grid:start -->  
+![Đèo Hải Vân-1789613471561.webp](../assets/img/%C4%90%C3%A8o%20H%E1%BA%A3i%20V%C3%A2n-1789613471561.webp)  
+![Đèo Hải Vân-1789613493389.webp](../assets/img/%C4%90%C3%A8o%20H%E1%BA%A3i%20V%C3%A2n-1789613493389.webp)  
+![Đèo Hải Vân-1789613483068.webp](../assets/img/%C4%90%C3%A8o%20H%E1%BA%A3i%20V%C3%A2n-1789613483068.webp)  
+![Đèo Hải Vân-1789613501205.webp](../assets/img/%C4%90%C3%A8o%20H%E1%BA%A3i%20V%C3%A2n-1789613501205.webp)  
+![Đèo Hải Vân-1789613517427.webp](../assets/img/%C4%90%C3%A8o%20H%E1%BA%A3i%20V%C3%A2n-1789613517427.webp)  
+![Đèo Hải Vân-1789613509568.webp](../assets/img/%C4%90%C3%A8o%20H%E1%BA%A3i%20V%C3%A2n-1789613509568.webp)  
+![Đèo Hải Vân-1789613526256.webp](../assets/img/%C4%90%C3%A8o%20H%E1%BA%A3i%20V%C3%A2n-1789613526256.webp)  
+<!-- photo-grid:end -->  
   
-*Bảng này chỉ có ở phía Huế*  
-  
-![](https://i.imgur.com/GxS2HUU.jpg)  
-  
-![](https://i.imgur.com/HMQu8XB.jpg)  
-  
-![](https://i.imgur.com/AhCtOur.jpg)  
-  
-*Một khúc cua tay áo mà đa số ai cũng đứng lại check-in*  
-  
-![](https://i.imgur.com/ktrV3eO.png)  
-  
-![](https://i.imgur.com/s7sDTyH.png)  
-  
-![](https://i.imgur.com/tbXZE0s.jpg)  
   
 <iframe width="315" height="560"  
 src="https://www.youtube.com/embed/2jA84w_UnQM"  
@@ -44,3 +37,7 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media;
 gyroscope; picture-in-picture;  
 web-share"  
 allowfullscreen></iframe>  
+  
+  
+> [!Example] Xem thêm  
+> - [Việt Nam tươi đẹp](./viet-nam-tuoi-dep.md)
