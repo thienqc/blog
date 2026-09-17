@@ -4,7 +4,6 @@ comments: true
 filename: phuong-cham-cua-me-teresa-calcutta
 aliases:
   - Kinh nghiệm cầu nguyện của mẹ Teresa Calcutta
-description:
 tags:
   - pray
 date: 2024-01-14
