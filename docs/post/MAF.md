@@ -1,18 +1,21 @@
 ---
 filename: MAF
-description:
-URL:
 date: 2023-05-27
 tags:
   - Run
 share: true
 comments: true
+category:
+  - toi-luu
+Author: Phil Maffetone
 ---
 # MAF - Chức năng hiếu khí tối đa  
   
-“By far the worst thing you can do is give up before you have even started. Health and fitness is not easy but everyone can achieve it.”  
+@Dr. Phil Maffetone  
   
-" Cho tới nay điều tồi tệ nhất bạn làm là bỏ cuộc thậm chí trước cả khi bắt đầu. Sức khoẻ và thể chất thì không dễ nhưng mọi người có thể đạt được nó.~ **Dr. Phil Maffetone**  
+> “By far the worst thing you can do is give up before you have even started. Health and fitness is not easy but everyone can achieve it.”  
+  
+"Cho tới nay điều tồi tệ nhất bạn làm là bỏ cuộc thậm chí trước cả khi bắt đầu. Sức khoẻ và thể chất thì không dễ nhưng mọi người có thể đạt được nó.~ **Dr. Phil Maffetone**  
   
 ### 3 bước  
   
