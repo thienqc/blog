@@ -11,7 +11,7 @@ date: 2024-03-19
 category:
   - toi-cam
 ---
-# 19.03 | Thánh Giuse  
+# 19.03 ᰻ Thánh Giuse  
   
 ![](https://i.imgur.com/5BEU155.png)  
   
@@ -37,7 +37,7 @@ Rồi trong giấc mơ, qua lời truyền dạy của thiên thần, thánh Giu
   
 > *19* Sau khi vua Hê-rô-đê băng hà, sứ thần Chúa lại hiện ra với ông Giu-se bên Ai-cập,*20* báo mộng cho ông rằng: “Này ông, dậy đem Hài Nhi và mẹ Người về đất Ít-ra-en, vì những kẻ tìm giết Hài Nhi đã chết rồi.”*21* Ông ==liền trỗi dậy== đưa Hài Nhi và mẹ Người về đất Ít-ra-en.*22* Nhưng vì nghe biết Ác-khê-lao đã kế vị vua cha là Hê-rô-đê, cai trị miền Giu-đê, nên ông sợ không dám về đó. Rồi sau khi được báo mộng, ông lui về miền Ga-li-lê,*23* và đến ở tại một thành kia gọi là Na-da-rét, để ứng nghiệm lời đã phán qua miệng các ngôn sứ rằng: Người sẽ được gọi là người Na-da-rét.  
   
-2 câu chuyện trên, Thánh Giuse nghe lời Thiên Chúa, thì ông "liền trỗi dậy". Một hành động ngay tức khắc, không có mảy may nghi ngờ, hoàn toàn TIN TƯỞNG vào lời Chúa nói với mình. Một đức tin mãnh liệt như thế giúp Giuse trở thành ĐẤNG CÔNG CHÍNH.   
+Qua hai câu chuyện trên, Thánh Giuse nghe lời Thiên Chúa, thì ông "liền trỗi dậy". Một hành động ngay tức khắc, không có mảy may nghi ngờ, hoàn toàn TIN TƯỞNG vào lời Chúa nói với mình. Một đức tin mãnh liệt như thế giúp Giuse trở thành ĐẤNG CÔNG CHÍNH.   
   
 ---  
 [^1]: Ông Giu-se, chồng bà, là người công chính và không muốn tố giác bà, nên mới định tâm bỏ bà cách kín đáo. (Mt 1,19)  
