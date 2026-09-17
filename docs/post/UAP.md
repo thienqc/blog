@@ -13,9 +13,9 @@ category:
 ---
 # 4 UAP  
   
-*Universal Apostolic Preferences = Ưu tiên tông đồ phổ quát*  
+*Universal Apostolic Preferences = Ưu tiên tông đồ phổ quát* của [Dòng Tên](D%C3%B2ng%20T%C3%AAn.md)  
   
-![4 UAP-1787016432486.webp](../assets/img/4%20UAP-1787016432486.webp)  
+![330x217](../assets/img/4%20UAP-1787016432486.webp)  
   
 1. Yêu mến các linh hồn  
 2. Yêu người nghèo và những người bị loại trừ  
