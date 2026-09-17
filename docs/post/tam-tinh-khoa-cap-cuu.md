@@ -4,7 +4,6 @@ comments: true
 filename: tam-tinh-khoa-cap-cuu
 aliases:
   - tâm tình khoa cấp cứu
-description:
 tags:
   - Reflection
 date: 2026-06-16
@@ -17,7 +16,7 @@ category:
   
 Những ngày cuối cùng ở khoa Cấp cứu, mình thấy trong lòng nôn nao. Nôn nao vì sắp kết thúc một chặng đường để mở ra một chặng đường mới, nhưng cũng thấy buồn man mác – buồn vì sắp phải chia tay những người anh, người chị đã đồng hành cùng mình trong suốt những năm qua. Rồi cả những hụt hẫng vì những dự án dở dang mà mình chưa hoàn thành.  
   
-Mình bỗng nhớ lại một bài thơ lượm lặt trong quyển “Phiến đá hình trái tim”:  
+Mình bỗng nhớ lại một bài thơ lượm lặt trong quyển “**Phiến đá hình trái tim**”:  
   
 *Đêm tôi thức với người*  
 *Ngày tôi ngủ với tôi*  
