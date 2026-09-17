@@ -6,7 +6,6 @@ tags:
   - LeCatTrongLy
 date: 2023-10-18
 URL: https://www.youtube.com/watch?v=RnaFaXzW0wk
-description:
 aliases:
   - Trước khi ra mắt - No 3
 ---
@@ -43,5 +42,4 @@ aliases:
 >   
 > Vài người trong ta ước mơ rằng mình không muốn bỏ  
 >   
-> Một tình yêu trong sáng như ánh trăng rằm lúc xưa.  
-  
+> Một tình yêu trong sáng như ánh trăng rằm lúc xưa.
