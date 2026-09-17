@@ -32,11 +32,11 @@ Có câu nói là, không phải ai đọc sách cũng thích đi du lịch, nh�
 - Nhật kí Che Guevara  
 - Bhutan đường tới hạnh phúc  
 - Cuộc phiêu lưu cuối cùng của Feynman  
-- [Tôi là một con lừa](../../T%C3%B4i%20l%C3%A0%20m%E1%BB%99t%20con%20l%E1%BB%ABa.md)  
+- ✔ [Tôi là một con lừa](../../T%C3%B4i%20l%C3%A0%20m%E1%BB%99t%20con%20l%E1%BB%ABa.md)  
 - Con đường hồi giáo  
 - Từ bàn môn điếm đến Chernobyl  
 - Chốc lát những bến bờ  
-- [Ta ba lô trên đất Á](./ta-ba-lo-tren-dat-a.md)  
+- ✔ [Ta ba lô trên đất Á](./ta-ba-lo-tren-dat-a.md)  
 - Trên con đường tơ lụa Nam Á - Nguyễn Chí Linh  
 - Những con đường tơ lụa  
 - Hành trình về phương Đông  
@@ -53,12 +53,12 @@ Có câu nói là, không phải ai đọc sách cũng thích đi du lịch, nh�
 - [Trên sa mạc và trong rừng thẳm](Tr%C3%AAn%20sa%20m%E1%BA%A1c%20v%C3%A0%20trong%20r%E1%BB%ABng%20th%E1%BA%B3m.md)  
 - Cô bé Heidi (Thuỵ Sĩ)  
 - Sáu người đi khắp thế gian  
-- [Vào trong hoang dã](../../V%C3%A0o%20trong%20hoang%20d%C3%A3.md)  
+- ✔ [Vào trong hoang dã](../../V%C3%A0o%20trong%20hoang%20d%C3%A3.md)  
 - [Trên đường](../../Tr%C3%AAn%20%C4%91%C6%B0%E1%BB%9Dng.md) - Jack Kebouac  
 - [Tôi, Charley và hành trình nước Mỹ](../../T%C3%B4i,%20Charley%20v%C3%A0%20h%C3%A0nh%20tr%C3%ACnh%20n%C6%B0%E1%BB%9Bc%20M%E1%BB%B9.md)  
 - Hội hè miên man  
-- [Nhà giả kim](../../Nh%C3%A0%20Gi%E1%BA%A3%20Kim.md)  
-- [Hoàng tử bé](../../Ho%C3%A0ng%20T%E1%BB%AD%20B%C3%A9.md)  
+- ✔ [Nhà giả kim](../../Nh%C3%A0%20Gi%E1%BA%A3%20Kim.md)  
+- ✔ [Hoàng tử bé](../../Ho%C3%A0ng%20T%E1%BB%AD%20B%C3%A9.md)  
 ## Sách chia theo khu vực địa lý cụ thể hay sách có concept thú vị  
 - Chuyện lạ Phi Châu  
 - [Châu phi nghìn trùng](Ch%C3%A2u%20phi%20ngh%C3%ACn%20tr%C3%B9ng.md)  
@@ -66,28 +66,27 @@ Có câu nói là, không phải ai đọc sách cũng thích đi du lịch, nh�
 - Hạnh phúc lang thang  
 - Đà Lạt một thời hương xa  
 - Đà Lạt những cuộc gặp gỡ  
-- [Vòm rừng](../../V%C3%B2m%20r%E1%BB%ABng.md)  
+- ✔ [Vòm rừng](../../V%C3%B2m%20r%E1%BB%ABng.md)  
 - [Một mình sống trong rừng](../../M%E1%BB%99t%20m%C3%ACnh%20s%E1%BB%91ng%20trong%20r%E1%BB%ABng.md)  
 - Bách khoa tri thức nhân loại  
 - Truyện cổ Adersen  
 - Nghìn lẻ một đêm  
-- [Babel - Vòng quanh thế giới qua 20 ngôn ngữ](../../Babel%20-%20V%C3%B2ng%20quanh%20th%E1%BA%BF%20gi%E1%BB%9Bi%20qua%2020%20ng%C3%B4n%20ng%E1%BB%AF.md)  
-- [Những tù nhân của địa lý](../../Nh%E1%BB%AFng%20t%C3%B9%20nh%C3%A2n%20c%E1%BB%A7a%20%C4%91%E1%BB%8Ba%20l%C3%BD.md)  
+- ✔ [Babel - Vòng quanh thế giới qua 20 ngôn ngữ](../../Babel%20-%20V%C3%B2ng%20quanh%20th%E1%BA%BF%20gi%E1%BB%9Bi%20qua%2020%20ng%C3%B4n%20ng%E1%BB%AF.md)  
+- ✔ [Những tù nhân của địa lý](../../Nh%E1%BB%AFng%20t%C3%B9%20nh%C3%A2n%20c%E1%BB%A7a%20%C4%91%E1%BB%8Ba%20l%C3%BD.md)  
 -   
 ## Sách kiến thức về lịch sử/du lịch Việt Nam  
 - Xứ đông dương  
 - Việt Nam sử lược - Trần Trọng Kim  
 - Du kí việt nam  
 - Đông Dương xinh đẹp...  
-- [Việt Nam phong tục](../../Vi%E1%BB%87t%20Nam%20phong%20t%E1%BB%A5c.md) - Phan Kế Bính  
+- ✔ [Việt Nam phong tục](../../Vi%E1%BB%87t%20Nam%20phong%20t%E1%BB%A5c.md) - Phan Kế Bính  
 - Văn minh Việt Nam - Phan Kế Bính  
 - Du lịch Việt Nam  
-- [100 kỹ năng sinh tồn](../../100%20k%E1%BB%B9%20n%C4%83ng%20sinh%20t%E1%BB%93n.md)  
+- ✔ [100 kỹ năng sinh tồn](../../100%20k%E1%BB%B9%20n%C4%83ng%20sinh%20t%E1%BB%93n.md)  
 - Siêu cẩm nang thám hiểm  
 - Cũ - Nick M  
 - Những cuộc phiêu lưu của Xê-muy-en Pinh  
 ## Trùm cuối  
 - Atlas thế giới =))  
-  
   
 --> [PHIM cho người Yêu Du Lịch @trandangdangkhoa](./phim-cho-nguoi-yeu-du-lich.md)
