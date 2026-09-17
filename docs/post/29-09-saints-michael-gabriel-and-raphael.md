@@ -12,7 +12,7 @@ URL: https://www.franciscanmedia.org/saint-of-the-day/saints-michael-gabriel-and
 category:
   - toi-cam
 ---
-# 29.09 | Các Tổng lãnh Thiên Thần Michael, Gabriel, và Raphael  
+# 29.09 ᰻ Các Tổng lãnh Thiên Thần Michael, Gabriel, và Raphael  
   
 ![](https://i.imgur.com/CMeDByi.png)  
   
