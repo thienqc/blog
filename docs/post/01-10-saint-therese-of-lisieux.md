@@ -13,7 +13,7 @@ category:
   - toi-cam
 description: Bông Hoa Nhỏ
 ---
-# 01.10 | Thánh Thérèse thành Lisieux  
+# 01.10 ᰻ Thánh Thérèse thành Lisieux  
   
 ![](https://i.imgur.com/4NZSg1M.png)  
   
@@ -23,7 +23,6 @@ description: Bông Hoa Nhỏ
 (sinh ngày 2 tháng 1, 1873 - mất ngày 30 tháng 9, 1897)  
   
 ---  
-  
 ## Cuộc đời  
   
 > "Tôi thích sự đơn điệu của những hy sinh âm thầm hơn mọi cơn ngất trí. Nhặt một cây kim vì lòng mến cũng có thể hoán cải một linh hồn."  
@@ -50,13 +49,13 @@ Sự bận tâm về bản thân tách lìa con người thời nay khỏi Thiê
 - Phi công    
 - Các linh mục  
   
-### Quote  
+### Trích dẫn  
   
 > “Tôi làm như mấy đứa bé chưa biết đọc. Tôi nói với Chúa cách đơn sơ điều tôi muốn nói với Người, và Người luôn nghe tôi.”  
   
 Ở quê vào ngày lễ Thánh Têrêsa (01/10) thường là ngày mưa rất to, nên chỗ mình hay gọi Terêsa “nước ra đầy đồng”, mưa hoa hồng.  
   
-Source: [Saint Thérèse of Lisieux | Franciscan Media](https://www.franciscanmedia.org/saint-of-the-day/saint-therese-of-lisieux/)  
+Nguồn: [Saint Thérèse of Lisieux | Franciscan Media](https://www.franciscanmedia.org/saint-of-the-day/saint-therese-of-lisieux/)  
   
   
 > [!Example] Xem thêm  
