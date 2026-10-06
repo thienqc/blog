@@ -20,4 +20,5 @@ category:
   
 Miễn sao sau mỗi lần vấp ngã, ta đều đứng lên và nói "Ok, I'm fine!" 💪  
   
+  
 > **[Ngày 06](./xv23-ngay-06.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 08](./xv23-ngay-08.md)**
