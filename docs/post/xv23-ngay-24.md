@@ -43,5 +43,4 @@ Những ngày trước chuẩn bị hang đá, mình để ý chỉ một số n
   
 Có ăn học, có giáo dục, thì con người ta mới thoát ra được cái nghèo. Sống ở Kleng, cha Trung đã xây dựng một nhà nội trú cho những bạn học sinh ở xa đến ở và đi học ở những ngôi trường gần đó. Mình nói chuyện với các em và nhận ra các em chưa có/không dám ước mơ. Nếu các em không đi học, các em sẽ mãi sống tiếp như cha mẹ mình, sẽ không thoát ra được khỏi cái nghèo đeo bám các em từ khi còn nhỏ. Được đi học, các em sẽ được tiếp xúc với những điều mới mẻ mà trước giờ các em chưa nghĩ tới. Nó sẽ gieo trong các em những hạt mầm mơ ước. Có hạt giống hi vọng, sau này các em có thể thoát ra khỏi cái vòng luẩn quẩn trên vai các em!  
   
-  
 > **[Ngày 23](./xv23-ngay-23.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 25](./xv23-ngay-25.md)**
