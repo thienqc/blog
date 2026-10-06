@@ -14,9 +14,9 @@ category:
   
 ![](https://i.imgur.com/f7S2RhN.png)  
   
-## [Hình cảnh mất trí](./hinh-canh-mat-tri.md)  
+## [Hình cảnh mất trí](../../hinh-canh-mat-tri.md)  
   
-> Khai thác chủ đề [PTSD](./PTSD.md), tác phẩm trinh thám đầu tay của [Trần Hạo Cơ](../../Chan%20Ho%20kei.md) hơi non so với đỉnh cao [13.67](../../13.67.md) hay [Người trong lưới](../../Ng%C6%B0%E1%BB%9Di%20trong%20l%C6%B0%E1%BB%9Bi.md). Dù thế, đây vẫn là tác phẩm phảng phất phong cách viết đầy cú plot twist đặc trưng của Trần Hạo Cơ.  
+> Khai thác chủ đề [PTSD](../../PTSD.md), tác phẩm trinh thám đầu tay của [Trần Hạo Cơ](../../Chan%20Ho%20kei.md) hơi non so với đỉnh cao [13.67](../../13.67.md) hay [Người trong lưới](../../Ng%C6%B0%E1%BB%9Di%20trong%20l%C6%B0%E1%BB%9Bi.md). Dù thế, đây vẫn là tác phẩm phảng phất phong cách viết đầy cú plot twist đặc trưng của Trần Hạo Cơ.  
   
 ## [Vòng đu quay đêm](./vong-du-quay-dem.md)  
   
