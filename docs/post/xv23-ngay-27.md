@@ -33,4 +33,5 @@ Tối đó, mình và mẹ đi lễ Các Thánh anh hài ở nhà thờ Chính T
   
 "Ra đi không có tiền trong tay"  
   
+  
 > **[Ngày 26](./xv23-ngay-26.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 28](./xv23-ngay-28.md)**
