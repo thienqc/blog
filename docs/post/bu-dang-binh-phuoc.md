@@ -12,13 +12,13 @@ category:
   
 `201031`  
   
-<!-- photo:grid:start -->  
+<!-- photo-grid:start -->  
 ![Bù Đăng, Bình Phước-1789540395638.webp](../assets/img/B%C3%B9%20%C4%90%C4%83ng,%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc-1789540395638.webp)  
 ![Bù Đăng, Bình Phước-1789540505491.webp](../assets/img/B%C3%B9%20%C4%90%C4%83ng,%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc-1789540505491.webp)  
 ![Bù Đăng, Bình Phước-1789540516161.webp](../assets/img/B%C3%B9%20%C4%90%C4%83ng,%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc-1789540516161.webp)  
 ![Bù Đăng, Bình Phước-1789540527986.webp](../assets/img/B%C3%B9%20%C4%90%C4%83ng,%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc-1789540527986.webp)  
 ![Bù Đăng, Bình Phước-1789540539666.webp](../assets/img/B%C3%B9%20%C4%90%C4%83ng,%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc-1789540539666.webp)  
-<!-- photo:grid:end -->  
+<!-- photo-grid:end -->  
   
 Sẵn anh em rảnh, cả đám rủ nhau đi chơi nhà anh Nghĩa. Tới nơi thì trời cũng tối. Ăn uống nghỉ ngơi tại nhà anh Nghĩa để sáng hôm sau đi chơi ở Bình Phước.  
   
