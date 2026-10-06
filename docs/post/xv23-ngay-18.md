@@ -34,41 +34,27 @@ Ngồi xem lại những hình cũ này vẫn thích đi tiếp một lần nữ
   
 Chạy xe trên cung đèo, xung quanh là núi rừng xanh ngát  
   
+<!-- photo-grid:start -->  
 ![](https://i.imgur.com/FlMhck2.png)  
-  
 ![](https://i.imgur.com/LTpKQTm.jpeg)  
-  
 ![](https://i.imgur.com/X1D4JXE.png)  
-  
 ![](https://i.imgur.com/ON7mE1E.png)  
-  
 ![](https://i.imgur.com/x3qTZkq.jpeg)  
-  
 ![](https://i.imgur.com/6jtWYLt.jpeg)  
-  
 ![](https://i.imgur.com/7ke6dZI.jpeg)  
-  
 ![](https://i.imgur.com/A75cHLC.jpeg)  
-  
 ![](https://i.imgur.com/hLcOfwz.png)  
-  
 ![](https://i.imgur.com/lBkROJ5.png)  
-  
-Mới mưa xong nè.  
-  
 ![](https://i.imgur.com/1N2No9i.png)  
-  
-Khúc này đang đói bụng, mà chạy ngang qua thấy mấy cô đang "đùn cốm" nên lại xin ăn nè !  
-  
 ![](https://i.imgur.com/pHTmHHf.png)  
+![](https://i.imgur.com/FWQQrPR.png)  
+![](https://i.imgur.com/fTL7vPB.png)  
+![](https://i.imgur.com/OZXH3Gz.png)  
+<!-- photo-grid:end -->  
+  
+Có đoạn đang chạy thì đang đói bụng, mà chạy ngang qua thấy mấy cô đang "đùn cốm" nên lại xin ăn nè !  
   
 So với hôm qua, cung hôm này mình đi có nhiều đoạn đường phải làm lắm, có khi chạy ngang qua công trường nữa cơ :v  
-  
-![](https://i.imgur.com/FWQQrPR.png)  
-  
-![](https://i.imgur.com/fTL7vPB.png)  
-  
-![](https://i.imgur.com/OZXH3Gz.png)  
   
 Về tới Cozy thì mình trả xe rồi nhờ gọi xe quay lại HN luôn. Tạm biệt Hà Giang, hẹn gặp lại!  
   

@@ -37,4 +37,5 @@ Bắt xe lên điểm đến tiếp theo.
   
 Tạm biệt Hà Nội!  
   
+  
 > **[Ngày 14](./xv23-ngay-14.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 16](./xv23-ngay-16.md)**

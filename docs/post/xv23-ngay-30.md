@@ -18,4 +18,5 @@ category:
   
 Một tháng qua mình đã làm được gì? Một năm qua mình đã có những trải nghiệm gì?  
   
+  
 > **[Ngày 29](./xv23-ngay-29.md) 👈 [XV23](./xuyen-viet-2023.md)**

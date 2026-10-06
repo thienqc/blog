@@ -68,4 +68,5 @@ Còn đây là tiết mục cuối cùng, với giọn hát của cha Trung, xem
   
 Hang đá trước ngày đại lễ.  
   
+  
 > **[Ngày 20](./xv23-ngay-20.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 22](./xv23-ngay-22.md)**

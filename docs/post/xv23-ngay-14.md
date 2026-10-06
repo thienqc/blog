@@ -19,7 +19,6 @@ Một ngày dạo chơi ở HN không lên kế hoạch trước
   
 ![](https://i.imgur.com/5Mxl2B9.jpeg)  
   
-  
 - Ăn cốm ở hồ gươm  
 - Đi qua lăng ngó chùa Một Cột  
 - Tượng Đức Mẹ ở nhà thờ Cửa Bắc  

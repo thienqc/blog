@@ -37,7 +37,6 @@ Bỏ lại đồ đạc, 2 thằng xách xe vi vu Đà Lạt buổi đêm. Ngồ
 ![|654x653](https://i.imgur.com/P317BHc.png)  
   
 Ngồi đó với những suy tư trong lòng, nghĩ về những biến cố đã trong quá khứ, ...  
-  
 ## Một vài fact về Lâm Đồng  
   
 - Lâm Đồng được thành lập từ việc sáp nhập tỉnh Lâm Viên với tỉnh Đồng Nai Thượng.  

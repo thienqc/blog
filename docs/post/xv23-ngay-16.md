@@ -89,5 +89,4 @@ Mình chỉ chơi ở Sapa một ngày, phần vì bị dính cảm từ mấy n
   
 ![](https://i.imgur.com/67bw9ab.png)  
   
-  
 > **[Ngày 15](./xv23-ngay-15.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 17](./xv23-ngay-17.md)**

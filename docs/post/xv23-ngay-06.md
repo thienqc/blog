@@ -28,5 +28,4 @@ Khi cắm trại một mình, ta chìm đắm trong một không gian tĩnh mị
   
 ![](https://i.imgur.com/qz1Qmlm.png)  
   
-  
 > **[Ngày 05](./xv23-ngay-05.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 07](./xv23-ngay-07.md)**

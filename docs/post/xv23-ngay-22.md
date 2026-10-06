@@ -54,4 +54,5 @@ Quay lại Kleng, ca đoàn đang tập hát cho buổi lễ Noel sắp tới.
   
 ![](https://i.imgur.com/KpVJcv0.jpeg)  
   
+  
 > **[Ngày 21](./xv23-ngay-21.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 23](./xv23-ngay-23.md)**

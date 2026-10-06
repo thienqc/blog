@@ -40,4 +40,4 @@ Có thể tự hỏi lòng mình những câu như:
 - Tôi sẽ làm gì để có thể sống một ngày mai hạnh phúc hơn, ý nghĩa hơn?  
 - Tôi cần thay đổi điều gì trong lời ăn tiếng nói, trong cách hành xử và trong lối sống của tôi?  
   
-Kết thúc Phút Hồi Tâm bằng 1 lời cầu nguyện, hoặc kinh Lạy Cha, hoặc 1 kinh nào tôi ưa thích!
+Kết thúc Phút Hồi Tâm bằng 1 lời cầu nguyện, hoặc kinh Lạy Cha, hoặc 1 kinh nào tôi ưa thích!  

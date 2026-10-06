@@ -30,7 +30,7 @@ Trước đó mình đọc [một số sách](./doc-sach-2023-11.md) để lấy
 | Đồ vệ sinh cá nhân | - Khăn tắm<br>- Bàn chải<br>- Kem đánh răng<br>- Bấm móng tay<br>- Dao cạo râu<br>- Dầu gội<br>- Lược<br>- Khăn ướt                                                                                                                                                                           |  
 | Túi y tế           | - Thuốc<br>	- Paracetamol<br>	- Promethazin<br>	- Vaseline<br>	- Thuốc tễ<br>	- Dầu gió<br>- Miếng dán đuổi muỗi<br>- Gạc<br>- Bông gòn<br>- Cồn 90 độ<br>- Băng thun<br>- Băng keo lụa<br>- Màn sinh tồn<br>- Ống quẹt<br>- Dây<br>- Khăn ướt                                                |  
   
-Khối lượng khoảng **15kg** (người ta khuyên không quá 20% trọng lượng cơ thể, nhưng mà thấy toàn đồ cần thiết, có lẽ sẽ xem xét bỏ bớt lại sau khi đi vài ngày)  
+Khối lượng khoảng ***15kg*** (người ta khuyên không quá 20% trọng lượng cơ thể, nhưng mà thấy toàn đồ cần thiết, có lẽ sẽ xem xét bỏ bớt lại sau khi đi vài ngày)  
   
 **Những nơi sẽ ghé qua**  
   

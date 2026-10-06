@@ -27,14 +27,5 @@ Author: Web5Ngay
     - thành công ngay lúc làm  
 - Phải tập trung  
   
----  
-  
-VD1: Chơi game  
-  
-VD2: học lịch sử  
-  
-VD3: làm bánh  
-  
-  
 > [!Example] Xem thêm  
 > - [Flow - dòng chảy](./flow-dong-chay.md)

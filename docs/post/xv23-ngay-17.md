@@ -61,7 +61,6 @@ Chạy dọc đường sẽ có những em nhỏ đi học, hoặc đi vác củ
 Này là đèo Mã Pí Lèng - một trong tứ đại đỉnh đèo của Việt Nam.  
   
 ---  
-  
 Nhìn chung là cảnh đẹp, nhưng nhiều cảnh đẹp quá thì nó lại nhàm.  
   
 View triệu đô? Là với người xuôi, chứ người dân ở đó có nghĩ tới rằng đây là view triệu đô, hay chỉ lo cơm áo gạo tiền.  

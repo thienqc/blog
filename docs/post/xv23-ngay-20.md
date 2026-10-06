@@ -52,4 +52,5 @@ View triệu đô
   
 Tối đó xem mấy em diễn tập cho diễn nguyện giáng sinh của giáo xứ K'leng!  
   
+  
 > **[Ngày 19](./xv23-ngay-19.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 21](./xv23-ngay-21.md)**

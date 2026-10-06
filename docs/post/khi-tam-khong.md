@@ -4,7 +4,6 @@ comments: true
 filename: khi-tam-khong
 aliases:
   - Khỉ tam không
-description:
 tags:
   - TIL
 date: 2024-02-23
@@ -38,4 +37,4 @@ Trong văn hóa phương Tây gọi là Ba chú khỉ thông thái (Three wise m
   
 Theo góc nhìn phương Tây thì một hình thức để diễn đạt ba câu châm ngôn: **"See no evils, hear no evils, talk no evils"** (Không thấy điều quỷ sứ, không nghe chuyện quỷ sứ, không nói lời quỷ sứ).  
   
-Người phương Tây dùng hình tượng con khỉ là vì khỉ thường hay bắt chước làm theo những gì nó trông thấy, trong thành ngữ của văn hóa Mỹ cũng có câu nói: **“Monkey see, monkey do”** (có nghĩa là khỉ thấy, khỉ bắt chước) là ám chỉ ý này.
+Người phương Tây dùng hình tượng con khỉ là vì khỉ thường hay bắt chước làm theo những gì nó trông thấy, trong thành ngữ của văn hóa Mỹ cũng có câu nói: **“Monkey see, monkey do”** (có nghĩa là khỉ thấy, khỉ bắt chước) là ám chỉ ý này.  
