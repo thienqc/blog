@@ -23,4 +23,4 @@ Author: hieu-tv
 - Project base learning  
 - Những cái công việc nhỏ mà áp dụng đc những kiến thức của mình -> thành tựu nhỏ -> động lực, hứng thú để tiếp tục  
   
-⇒ Sách [Tự học - một nhu cầu thời đại](../../tu-hoc-mot-nhu-cau-thoi-dai.md)  
+⇒ Sách [Tự học - một nhu cầu thời đại](../../tu-hoc-mot-nhu-cau-thoi-dai.md)
