@@ -33,4 +33,5 @@ Chúng ta cần tìm cái bình tâm trong thế giới hỗn loạn.
   
 Tạm biệt cái lạnh se se của Đà Lạt, mình đi tới điểm tiếp theo.  
   
+  
 > **[Ngày 02](./xv23-ngay-02.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 04](./xv23-ngay-04.md)**
