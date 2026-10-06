@@ -4,12 +4,10 @@ comments: true
 filename: PKM-huu-ich-hay-trao-luu
 aliases:
   - PKM có thực sự hữu ích hay chỉ là một trào lưu thoáng qua?
-description:
 tags:
   - obsidian
   - PKM
 date: 2024-01-12
-URL:
 category:
   - toi-hoc
 ---
