@@ -52,7 +52,6 @@ Cuối lễ, mỗi người được phát một phần quà gồm bánh mì, k�
   
 [Liên khúc Giáng Sinh](https://www.facebook.com/yds.thienqc/videos/890487565705413)  
   
-  
 > **[Ngày 22](./xv23-ngay-22.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 24](./xv23-ngay-24.md)**  
   
 ---  
