@@ -59,5 +59,4 @@ Sáng hôm sau thức dậy thì may quá đồ đạc và thân xác này còn 
   
 p/s: Nếu muốn biết thêm về chỗ tắm rửa có thể inbox riêng hen :v  
   
-  
 > **[Ngày 18](./xv23-ngay-18.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 20](./xv23-ngay-20.md)**
