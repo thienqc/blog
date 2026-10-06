@@ -16,6 +16,7 @@ category:
   
 ![Mc 10,46-52](../../Mc%2010,46-52.md)  
   
+  
 > "Anh muốn tôi làm gì cho anh?"  
   
 ## Lời Chúa  
@@ -41,7 +42,6 @@ Tôi nói với Người: “Lạy Thầy, xin cho con nhìn thấy được.”
 Và cùng với anh mù Ba-ti-mê, tôi kinh nghiệm về lời chữa lành của Chúa Giê-su... Tôi cảm nhận được tình yêu tuôn đổ từ Người, tình yêu mang đến sự chữa lành, mang đến niềm hy vọng mới cho cuộc đời của tôi...  
   
 Tôi bước theo Người trên đường...  
-  
 ## Phản tỉnh sau giờ cầu nguyện  
   
 - Trong đoạn Lời Chúa này, lời nào đánh động lòng tôi nhất?  
