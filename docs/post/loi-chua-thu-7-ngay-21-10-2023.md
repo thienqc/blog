@@ -17,4 +17,4 @@ category:
 >   
 > 11 “Khi người ta đưa anh em ra trước hội đường, trước mặt những người lãnh đạo và những người cầm quyền, thì anh em đừng lo phải bào chữa làm sao, hoặc phải nói gì, 12 vì ngay trong giờ đó, Thánh Thần sẽ dạy cho anh em biết những điều phải nói.”  
   
-Lạy Chúa, xin cho con ngày mai bình tĩnh để tôn vinh Chúa trước mặt người đời.
+Lạy Chúa, xin cho con ngày mai bình tĩnh để tôn vinh Chúa trước mặt người đời.  
