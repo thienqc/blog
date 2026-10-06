@@ -22,4 +22,5 @@ Tối đó mình có hẹn cà phê với đám bạn cấp 3. Giờ ai cũng c�
   
 p/s: Đúng 1 năm sau, mình vẫn có hẹn với đám bạn cấp 3, nhưng là những đứa chưa có bồ =)) Đời  
   
+  
 > **[Ngày 27](./xv23-ngay-27.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 29](./xv23-ngay-29.md)**
