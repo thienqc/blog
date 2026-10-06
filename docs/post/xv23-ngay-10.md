@@ -25,6 +25,7 @@ Bay VJ, mà delay, delay, delay miết, riết chán
   
 Tới Hà Nội. Cái nhìn đầu tiên là sao trông giống SG. Khúc chạy từ Nội Bài, cứ ngỡ đang ở khúc Suối Tiên không :v  
   
+  
 Gặp lại 2 đứa bạn  
   
 > [!NOTE] HÀ NỘI  
