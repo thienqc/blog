@@ -39,7 +39,6 @@ Bảo tàng Ninh Thuận được chia thành nhiều khu, trưng bày rất nhi
   
 ![](https://i.imgur.com/EwGRWWE.png)  
   
-  
-![](https://i.imgur.com/9nlAy14.png)  
+![|654x871](https://i.imgur.com/9nlAy14.png)  
   
 > **[Ngày 04](./xv23-ngay-04.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 06](./xv23-ngay-06.md)**
