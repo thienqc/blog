@@ -46,6 +46,6 @@ Polybus là học trò và là con rể của Hippocrates. Ông đã mô tả h�
 Diogenes thực sự đã cung cấp một mô tả rất thú vị và chính xác về hệ thống mạch máu, vượt qua tiêu chuẩn vào thời của ông và được coi là khá chính xác. Chúng ta không biết liệu Diogenes có giống như Empedocles, một bác sĩ, và cũng không biết liệu ông có thực hiện mổ xẻ hay không, đặc biệt là mổ xẻ con người. Tuy vậy, các nhà sử học tin rằng, ngoại trừ Herophilus và Erasistratus ở Ptolemaic Alexandria, không có bác sĩ hay triết gia Hy Lạp nào từng tiến hành mổ xẻ xác chết (von Staden, 1989). Tuy nhiên, mô tả của Diogenes mà chúng tôi đã trình bày ở đây chứng tỏ rằng mối quan tâm của ông đối với giải phẫu mạch máu là rất nghiêm túc, và ông hẳn đã thực hiện một số quan sát cá nhân, không chỉ ở động vật mà có lẽ đôi khi cả ở người. Ông có thể đã kiểm tra những người bị thương, những người, trong những hoàn cảnh khác nhau nhất, có thể đã quan sát anh ta.   
   
 [425BC: Diogenes xứ Apollonia: Người tiên phong trong giải phẫu mạch máu (pivie.com.vn)](https://pivie.com.vn/425bc-diogenes-xu-apollonia-nguoi-tien-phong-trong-giai-phau-mach-mau.htm)  
-## Tài liệu tham khảo  
+### Tài liệu tham khảo  
   
-Crivellato E, Mallardi F, Ribatti D. Diogenes of Apollonia: a pioneer in vascular anatomy. Anat Rec B New Anat. 2006 Jul;289(4):116-20. doi: 10.1002/ar.b.20106. PMID: 16865699.
+- Crivellato E, Mallardi F, Ribatti D. Diogenes of Apollonia: a pioneer in vascular anatomy. Anat Rec B New Anat. 2006 Jul;289(4):116-20. doi: 10.1002/ar.b.20106. PMID: 16865699.
