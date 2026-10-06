@@ -73,4 +73,5 @@ Vẫn là chiếc balo ấy, nhưng đã bỏ bớt cái lều ở nhà.
   
 Chỗ ngủ đêm nay!  
   
+  
 > **[Ngày 11](./xv23-ngay-11.md) 👈 [XV23](./xuyen-viet-2023.md) 👉 [Ngày 13](./xv23-ngay-13.md)**
