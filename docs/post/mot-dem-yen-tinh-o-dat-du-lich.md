@@ -6,6 +6,7 @@ aliases:
   - Một đêm yên tĩnh ở đất du lịch
 tags:
   - chill
+  - Viet
 date: 2024-04-06
 category:
   - toi-di
