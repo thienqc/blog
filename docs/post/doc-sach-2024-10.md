@@ -4,6 +4,7 @@ comments: true
 filename: doc-sach-2024-10
 tags:
   - DocSach
+  - Viet
 date: 2024-10-31
 category:
   - toi-doc
@@ -15,7 +16,6 @@ category:
 ## [Lạy Chúa - Tại sao Ngài im lặng](./lay-chua-tai-sao-ngai-im-lang.md)  
   
 > **“Này con! Tại sao con im lặng?”**   
-  
   
 > [!Example] Xem thêm  
 > - [Reading challenge](./reading-challenge.md)  
