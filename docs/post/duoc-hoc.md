@@ -4,7 +4,6 @@ comments: true
 filename: duoc-hoc
 aliases:
   - Được học
-description:
 date: 2024-01-10
 Cover: Được học-1761045957418.webp
 Rating: ⭐⭐⭐⭐
@@ -12,6 +11,7 @@ Total_Pages: 445
 tags:
   - Reading_challenge_RC_2023
   - KhoSach
+  - Viet
 Type:
   - Book
 Last_Read: 2023-12-16
@@ -35,5 +35,4 @@ Cuốn sách "Được Học" nhấn mạnh sự quyết tâm và lòng can đ�
 ## Highlights  
 - Anh đã định nghĩa bản thân tôi hộ tôi, và không có quyền lực nào lớn hơn thế.  
 - “Trước hết hãy khám phá xem khả năng của em là gì, sau đó hãy quyết định em là ai.”  
-- quyền nhìn và trải nghiệm nhiều sự thật hơn những sự thật được bố mang đến cho, và dùng những sự thật đó để kiến tạo tinh thần mình.  
-  
+- quyền nhìn và trải nghiệm nhiều sự thật hơn những sự thật được bố mang đến cho, và dùng những sự thật đó để kiến tạo tinh thần mình.
