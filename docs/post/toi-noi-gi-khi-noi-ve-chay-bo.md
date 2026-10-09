@@ -11,6 +11,7 @@ tags:
   - Reading_challenge_RC_2020
   - Reading_challenge_RC_2022
   - favorite
+  - Viet
 Type:
   - Book
 Last_Read: 2022-10-17
