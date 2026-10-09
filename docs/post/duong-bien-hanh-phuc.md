@@ -9,6 +9,7 @@ Total_Pages: 221
 tags:
   - Reading_challenge_RC_2023
   - Phuot
+  - Viet
 type:
   - Book
 Last_Read: 2023-11-09
