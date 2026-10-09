@@ -1,7 +1,5 @@
 ---
 filename: ren-luyen-ky-nang-sinh-ton-noi-hoang-da
-description:
-URL:
 Cover: Rèn Luyện Kỹ Năng Sinh Tồn Nơi Hoang Dã-1761045808254.webp
 Last_Read: 2023-10-21
 Rating: ⭐⭐⭐⭐⭐
@@ -10,6 +8,7 @@ tags:
   - KhoSach
   - Reading_challenge_RC_2023
   - Survival
+  - Viet
 Type:
   - Book
 share: true
