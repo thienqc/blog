@@ -4,6 +4,7 @@ share: true
 comments: true
 tags:
   - camping
+  - Viet
 date: 2023-10-22
 category:
   - toi-di
