@@ -6,6 +6,7 @@ share: true
 comments: true
 tags:
   - XV23
+  - Viet
 date: 2023-12-30
 description: Nhóm thiện nguyện
 category:
