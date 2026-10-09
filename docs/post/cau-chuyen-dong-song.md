@@ -8,6 +8,7 @@ Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 254
 tags:
   - Reading_challenge_RC_2023
+  - Viet
 type:
   - Book
 Last_Read: 2023-11-11
@@ -20,7 +21,6 @@ category:
 ![Câu chuyện dòng sông-1756728893967.webp](../assets/img/C%C3%A2u%20chuy%E1%BB%87n%20d%C3%B2ng%20s%C3%B4ng-1756728893967.webp)  
   
 ---  
-  
 *Bài viết của thầy Nguyễn Tuấn*  
   
 Nhà tôi ở dưới quê nằm bên cạnh một con sông. Thành ra, mỗi lần về quê tôi hay nằm võng chiêm nghiệm cái dòng sông và liên tưởng tới một trong những tiểu thuyết tôi thích nhứt là "Câu chuyện dòng sông" của văn hào Hermann Hesse. Cuốn này xuất bản năm 1922, còn tôi thì đọc từ năm đệ ngũ (tức lớp 8 ngày nay). Đó là một cuốn tiểu thuyết mang tính tự khám phá ý nghĩa của cuộc sống.   
@@ -55,7 +55,7 @@ Dòng sông là người thầy dạy cho Siddhartha biết cách lắng nghe, t
   
 Hermann Hesse cho người lái đò nói một câu rất đáng nhớ: "Người ta có thể học được nhiều điều từ một dòng sông". Và, chúng ta cũng có thể học rất nhiều từ "Câu chuyện dòng sông".   
   
-  
+---  
 [^1]: Đúng ra là Siddhartha Gautama, dịch sang tiếng Việt là Tất Đạt Đa Cồ Đàm, chính là tên của Thích Ca Mâu Ni. Tên Siddhartha có nghĩa là "người toại nguyện" (đạt được nguyện vọng của mình).   
   
 [^2]: Kamala bây giờ là một cái tên nổi tiếng, vì ứng cử viên phó tổng thống Mĩ là Kamala Harris. Theo từ điển thì Kamala có nghĩa là "Lotus" và còn là tên của một nữ thần trong truyền thuyết Hindu. Tên của bà (Kamala Harris) cũng có thể đọc là "Ho Gam-lai" (Hồ Gấm Lài?) trong tiếng Quảng Đông.
