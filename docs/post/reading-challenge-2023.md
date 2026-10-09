@@ -3,6 +3,7 @@ share: true
 filename: reading-challenge-2023
 tags:
   - DocSach
+  - Viet
 date: 2023-12-31
 aliases:
   - Reading challenge 2023
@@ -22,9 +23,8 @@ Có thể thấy, xu hướng nửa đầu năm là những quyển thể loại
   
 Do đó sẽ có 2 quyển được chọn làm quyển sách của năm là  
   
-• [Người đàn ông mang tên Ove](./nguoi-dan-ong-mang-ten-ove.md)  
-• [Hoang Dã: Hành trình tìm lại mình trên Đường mòn Pacific Crest](./hoang-da-hanh-trinh-tim-lai-minh-tren-duong-mon-pacific-crest.md)  
-  
+1. [Người đàn ông mang tên Ove](./nguoi-dan-ong-mang-ten-ove.md)  
+2. [Hoang Dã: Hành trình tìm lại mình trên Đường mòn Pacific Crest](./hoang-da-hanh-trinh-tim-lai-minh-tren-duong-mon-pacific-crest.md)  
   
 ## 01-2023	  
 - Ngôi trường mọi khi  
