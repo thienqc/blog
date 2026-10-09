@@ -4,6 +4,7 @@ share: true
 comments: true
 tags:
   - XV23
+  - Viet
 date: 2024-12-31
 description: Hành trình tuổi trẻ
 aliases:
