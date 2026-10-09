@@ -4,6 +4,7 @@ share: true
 comments: true
 tags:
   - review
+  - Viet
 date: 2018-04-06
 aliases:
   - Review Điều kì diệu của tiệm tạp hoá Namiya
