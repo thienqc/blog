@@ -4,6 +4,7 @@ aliases:
   - Làm thế nào để NOTION chạy nhanh hơn
 tags:
   - notion
+  - Viet
 share: true
 comments: true
 date: 2023-06-26
