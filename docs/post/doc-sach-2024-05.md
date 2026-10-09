@@ -6,6 +6,7 @@ aliases:
   - Đọc sách (2024.05)
 tags:
   - DocSach
+  - Viet
 date: 2024-05-31
 category:
   - toi-doc
@@ -24,8 +25,6 @@ Không nhiều nhưng tạm đủ.
 ## [doi-net-lich-su-dong-ten-tap-1](./doi-net-lich-su-dong-ten-tap-1.md)  
   
 Từ nhóm bạn được Chúa mời gọi trong Linh Thao, trở thành một Dòng Tông Đồ  
-  
-  
   
 > [!Example] Xem thêm  
 > - [Reading challenge](./reading-challenge.md)
