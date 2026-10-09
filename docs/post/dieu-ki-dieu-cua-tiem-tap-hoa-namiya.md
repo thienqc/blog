@@ -1,7 +1,5 @@
 ---
 filename: dieu-ki-dieu-cua-tiem-tap-hoa-namiya
-description:
-URL:
 Cover: Điều Kỳ Diệu Của Tiệm Tạp Hóa Namiya-1764467958645.webp
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 358
@@ -11,6 +9,7 @@ tags:
   - Reading_challenge_RC_2021
   - Detective
   - favorite
+  - Viet
 Type:
   - Book
 Last_Read: 2021-03-04
