@@ -1,12 +1,12 @@
 ---
 comments: true
 filename: muoi-nguoi-da-den-nho
-aliases:
 share: true
 date: 2025-03-26
 tags:
   - Reading_challenge_RC_2025
   - Detective
+  - Viet
 Cover: Mười người da đen nhỏ-20250326210812337.webp
 Rating: ⭐⭐⭐
 type:
@@ -42,3 +42,5 @@ category:
 | _One got frizzled up and then there was one._              | Một khô cong chết, một tên bơ phờ    |  
 | _One little Soldier boy left all alone;_                   | Còn tên lính nhỏ thẫn thờ            |  
 | _He went out and hanged himself and then there were none._ | Hắn đi treo cổ rồi chẳng còn ai.     |  
+  
+  
