@@ -2,15 +2,14 @@
 share: true
 comments: true
 filename: nguoi-dan-ong-mang-ten-ove
-description:
 date: 2024-01-03
-URL:
 Cover: Người đàn ông mang tên Ove-1761280850331.webp
 Last_Read: 2023-08-26
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 452
 tags:
   - Reading_challenge_RC_2023
+  - Viet
 Type:
   - Book
 aliases:
