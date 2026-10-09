@@ -6,6 +6,7 @@ aliases:
   - Đọc sách (2024.04)
 tags:
   - DocSach
+  - Viet
 date: 2024-04-30
 category:
   - toi-doc
@@ -20,7 +21,6 @@ Có những lúc cầm sách lên rồi lại bỏ xuống, tháng này mình c�
 ## [Mạo hiểm châu Á](../../mao-hiem-chau-a.md)  
   
 Kể về cuộc đời của thánh [Phanxicô Xavie](../../Francis%20Xavier.md), về hành trình của Ngài khi đến vùng đất châu Á truyền giáo, những trăn trở của Ngài khi chết vẫn hướng về Trung Quốc đại lục.  
-  
   
 > [!Example] Xem thêm  
 > - [Reading challenge](./reading-challenge.md)
