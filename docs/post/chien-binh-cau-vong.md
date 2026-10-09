@@ -11,6 +11,7 @@ Total_Pages: 428
 tags:
   - Reading_challenge_RC_2017
   - Reading_challenge_RC_2024
+  - Viet
 Type:
   - Book
 Last_Read: 2024-01-25
