@@ -8,6 +8,7 @@ tags:
   - PKM
   - obsidian
   - notion
+  - Viet
 share: true
 comments: true
 category:
