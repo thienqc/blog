@@ -3,6 +3,7 @@ filename: lang-biang-peak
 date: 2021-05-03
 tags:
   - trip
+  - Viet
 share: true
 comments: true
 extra:
