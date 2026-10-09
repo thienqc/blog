@@ -6,6 +6,7 @@ share: true
 comments: true
 tags:
   - DocSach
+  - Viet
 date: 2023-11-30
 category:
   - toi-doc
@@ -58,7 +59,6 @@ Tiếp theo đây là những quyển sách mang tính chất tôn giáo
 Là hành trình của một chàng trai đi tìm cái mình và ý nghĩa cuộc sống. Sau nhiều năm tháng tu hành các tôn giáo khác nhau, chàng cũng tìm được hạnh phúc và chân lí khi dừng lại bên dòng sông.   
   
 > "Dòng sông dạy cho chàng cách lắng nghe, từ bỏ những tham vọng, cám dỗ và cảm nhận sự thật Vô thường. Dòng sông không có thời gian, không có quá khứ, không có tương lai. Dòng sông lúc nào cũng tự làm mới."  
->   
 > ~ Trích bài thầy Nguyễn Tuấn  
   
 ## [Thủ Bản Tự Thuật Thánh Ignatius Loyola](../../Th%E1%BB%A7%20B%E1%BA%A3n%20T%E1%BB%B1%20Thu%E1%BA%ADt%20Th%C3%A1nh%20Ignatius%20Loyola.md)  
