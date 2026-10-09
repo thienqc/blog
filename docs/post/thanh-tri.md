@@ -11,6 +11,7 @@ tags:
   - medical_fiction
   - favorite
   - Reading_challenge_RC_2024
+  - Viet
 Type:
   - Book
 Last_Read: 2024-03-27
@@ -25,9 +26,6 @@ category:
   
 ![Thành trì-1760503271373.webp](../assets/img/Th%C3%A0nh%20tr%C3%AC-1760503271373.webp)  
   
-Ebook:: 📘 [EPUB](https://onedrive.live.com/download?resid=E92BC60129512289%21131&authkey=!AEps34BmYhxeQ9Q)  
-  
----  
   
 > [!important] Post  
 > [Nhìn lại Thành trì sau 5 năm](./review-thanh-tri.md)  
