@@ -4,6 +4,7 @@ share: true
 comments: true
 tags:
   - hmm
+  - Viet
 date: 2023-11-20
 aliases:
   - Cô đơn hay cô độc, khao khát được nói chuyện
