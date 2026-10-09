@@ -4,6 +4,7 @@ share: true
 comments: true
 tags:
   - trip
+  - Viet
 date: 2023-10-13
 description: Những chuyến đi
 category:
