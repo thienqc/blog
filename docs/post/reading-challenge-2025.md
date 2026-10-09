@@ -6,6 +6,7 @@ aliases:
   - Reading challenge 2025
 tags:
   - DocSach
+  - Viet
 date: 2025-12-31
 category:
   - toi-doc
@@ -168,7 +169,6 @@ Nhân vật chính đã dùng “trăm phương ngàn kế” để tự biện 
 Tính ra được 4 bingo đấy chứ, cũng cũng.  
   
 ---  
-  
 Một số quyển sách chưa được nhắc tên:  
   
 - Lôi Mễ: [nang-tien-ca](../../nang-tien-ca.md)  
