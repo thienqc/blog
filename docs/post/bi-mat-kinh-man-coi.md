@@ -8,6 +8,7 @@ date: 2024-11-04
 tags:
   - Reading_challenge_RC_2024
   - SachThiengLieng
+  - Viet
 Cover: Bí mật kinh Mân Côi-1757087370065.webp
 Rating: ⭐⭐⭐⭐⭐
 type:
@@ -34,7 +35,6 @@ category:
 - Các phương pháp lần hạt Mân Côi sao cho hiệu quả, tránh bị phân tâm.  
 - Mọi người nên siêng năng lần hạt Mân Côi mỗi ngày để cứu rỗi linh hồn.  
 - Phần giải thích về ân xá dành cho các thành viên của Hiệp Hội Kinh Mân Côi và cách đọc kinh Mân Côi theo từng mầu nhiệm.  
-  
   
 > [!NOTE]- Hide  
 > ### Bông hồng 1  
