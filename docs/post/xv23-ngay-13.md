@@ -6,6 +6,7 @@ share: true
 comments: true
 tags:
   - XV23
+  - Viet
 date: 2023-12-14
 description: Biết thêm 1 người bạn "già"
 category:
