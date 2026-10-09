@@ -1,13 +1,12 @@
 ---
 filename: ta-ba-lo-tren-dat-a
-description:
-URL:
 Cover: Ta ba lô trên đất Á-1756729841671.webp
 Rating: ⭐⭐⭐⭐
 Total_Pages: 331
 tags:
   - Phuot
   - Reading_challenge_RC_2023
+  - Viet
 type:
   - Book
 Last_Read: 2023-11-09
