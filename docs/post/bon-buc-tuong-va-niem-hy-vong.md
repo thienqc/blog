@@ -6,6 +6,7 @@ aliases:
 share: true
 tags:
   - film
+  - Viet
 date: 2025-03-05
 category:
   - toi-cam
