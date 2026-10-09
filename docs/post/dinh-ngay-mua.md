@@ -4,6 +4,7 @@ share: true
 comments: true
 tags:
   - trek
+  - Viet
 date: 2022-05-21
 category:
   - toi-di

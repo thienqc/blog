@@ -1,7 +1,6 @@
 ---
 comments: true
 filename: suy-niem-va-chiem-niem-cau-nguyen-i-nha-voi-loi-chua
-aliases:
 share: true
 date: 2024-06-17
 tags:
@@ -9,8 +8,7 @@ tags:
   - pray
   - AMDG
   - SachThiengLieng
-URL:
-description:
+  - Viet
 Cover: Suy niệm và chiêm niệm - Cầu nguyện I Nhã với lời Chúa-20240617214625096.webp
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages:

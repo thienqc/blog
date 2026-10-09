@@ -5,6 +5,7 @@ comments: true
 tags:
   - DIY
   - trek
+  - Viet
 date: 2023-10-07
 description: Tự làm bếp cồn
 category:

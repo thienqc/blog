@@ -6,6 +6,7 @@ aliases:
   - Reading challenge 2018
 tags:
   - DocSach
+  - Viet
 date: 2024-01-21
 category:
   - toi-doc
@@ -99,6 +100,7 @@ Cũng khá nhiều, sách của Luis Sepúlveda, Nguyễn Nhật Ánh, TEDBooks.
 Đa số sách mình đều mua lại ở những chợ sách của góc sách, tiệm sách cũ, những trang chợ mua bán sách cũ online. Mình sẽ chọn quyển “[Hoá thân](../../H%C3%B3a%20Th%C3%A2n.md)” (Franz Kafka) trong mục này. Mình mua trong dịp Góc sách tổ chức ở trường UEL. Quyển này cũng là quyển đầu tiên mình đọc trong năm 2018. Lúc đọc xong cái cảm giác rất khó tả. Cốt truyện tưởng chừng đơn giản nhưng ẩn sâu trong nó là tầng tầng lớp lớp những thông điệp mà nhà văn xuất sắc nhất thế kỉ XX truyền tải.  
   
 OK. Hoàn thành cũng gần hết thử thách 12,5/14.  
+  
   
 ---  
   

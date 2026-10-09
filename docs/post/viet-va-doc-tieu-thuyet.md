@@ -1,13 +1,12 @@
 ---
 filename: viet-va-doc-tieu-thuyet
-description:
-URL:
 Cover: Viết và đọc tiểu thuyết-1761044570720.webp
 Last_Read: 2023-11-26
 Rating: ⭐⭐⭐
 Total_Pages: 104
 tags:
   - Reading_challenge_RC_2023
+  - Viet
 Type:
   - Book
 share: true

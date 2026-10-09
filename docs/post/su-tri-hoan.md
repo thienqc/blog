@@ -4,6 +4,7 @@ URL: https://www.youtube.com/watch?v=arj7oStGLkU
 date: 2023-09-21
 tags:
   - life-style
+  - Viet
 share: true
 comments: true
 aliases:

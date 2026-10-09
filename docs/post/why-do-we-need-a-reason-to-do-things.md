@@ -5,6 +5,7 @@ aliases:
 description: Lí do có bài viết này
 tags:
   - hmm
+  - Viet
 date: 2023-07-01
 URL: https://thienqc.substack.com/p/why-do-we-need-a-reason-to-do-things
 share: true

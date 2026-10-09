@@ -7,6 +7,7 @@ tags:
   - Reading_challenge_RC_2024
   - minimalism
   - KhoSach
+  - Viet
 URL: https://www.goodreads.com/book/show/41438250
 Cover: Sống đơn giản-1760539923128.webp
 Rating: ⭐⭐⭐⭐
@@ -100,4 +101,4 @@ category:
 > [!NOTE]- Giáo dục tinh thần giản dị  
 > - **Phương pháp giáo dục sai lầm**. Tác giả chỉ ra hai phương pháp giáo dục sai lầm thường gặp: dạy trẻ theo sở thích của bố mẹ, hoặc dạy trẻ theo sở thích của đứa trẻ. Cả hai phương pháp đều gây hại cho sự phát triển cá nhân và xã hội của trẻ, khiến trẻ trở thành nô lệ, độc tài, bất mãn hoặc bất lực.  
 > - **Phương pháp giáo dục đúng đắn**. Tác giả khuyên rằng ta nên dạy trẻ vì trẻ, cho trẻ, giúp trẻ trở thành những công dân tương lai có trách nhiệm, sáng tạo và tương thân tương ái. Ta nên tôn trọng nhân phẩm và đặc tính của trẻ, khuyến khích trẻ có ý chí và sức mạnh cá nhân, nhưng cũng dạy trẻ kính trọng quá khứ, gia đình, tập quán và sự thật. Ta nên nuôi dưỡng trẻ một cách giản dị, nghiêm khắc, dẻo dai và chịu đựng, không để trẻ bị lệ thuộc vào tiền bạc, xa xỉ, miếng ăn. Ta nên luyện cho trẻ thói quen nói rõ ràng, nói thẳng thắn, không ăn gian nói dối.  
-> - **Tham khảo**. Trang web này có nhiều tham khảo về các tác phẩm, nhân vật, sự kiện và nguồn gốc liên quan đến chủ đề giáo dục.  
+> - **Tham khảo**. Trang web này có nhiều tham khảo về các tác phẩm, nhân vật, sự kiện và nguồn gốc liên quan đến chủ đề giáo dục.

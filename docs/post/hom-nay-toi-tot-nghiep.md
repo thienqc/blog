@@ -5,6 +5,7 @@ comments: true
 tags:
   - Sisyphus
   - Reflection
+  - Viet
 date: 2023-10-21
 aliases:
   - Hôm nay tôi tốt nghiệp

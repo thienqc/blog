@@ -7,6 +7,7 @@ share: true
 comments: true
 tags:
   - manga
+  - Viet
 date: 2023-10-02
 description: Biết chính mình
 category:
@@ -27,7 +28,6 @@ Kẻ tự biết bản thân mình ra sao sẽ có được tất cả. Bản th
 > Dám nhìn nhận bản thân, dám thừa nhận lỗi sai, dám chấp nhận sự yếu kém, dám thay đổi, dám bước ra vùng an toàn.  
   
 ---  
-  
 ## Γνώθι σαυτόν  
   
 "Biết chính mình" là câu châm ngôn được khắc trên Đền thờ Apollo ở khu vực Delphi của Hy Lạp cổ đại.  
@@ -36,4 +36,4 @@ Kẻ tự biết bản thân mình ra sao sẽ có được tất cả. Bản th
   
 ## [Sự biết](./su-biet.md)  
   
-> Điều khiến chúng ta gặp trở ngại, không phải là điều mà mình không biết. Mà đó là khi ta ba hoa về điều bản thân nghĩ rằng mình đã biết. ~ Mark Twain  
+> Điều khiến chúng ta gặp trở ngại, không phải là điều mà mình không biết. Mà đó là khi ta ba hoa về điều bản thân nghĩ rằng mình đã biết. ~ Mark Twain

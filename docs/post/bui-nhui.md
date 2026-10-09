@@ -5,6 +5,7 @@ comments: true
 tags:
   - DIY
   - camp
+  - Viet
 date: 2023-10-25
 category:
   - toi-di

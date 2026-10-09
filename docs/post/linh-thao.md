@@ -7,6 +7,7 @@ tags:
   - LinhThao
   - Reading_challenge_RC_2024
   - SachThiengLieng
+  - Viet
 date: 2024-07-16
 Cover: Linh thao-1769243252953.webp
 Rating: ⭐⭐⭐⭐⭐
@@ -32,7 +33,7 @@ Cho dễ hiểu, để khoẻ mạnh về thể xác thì tập thể dục th�
   
 Tập thể dục là để tống đi bớt mỡ thừa, thải chất độc ... thì linh thao cũng là để thải đi những độc hại cho linh hồn: những lo lắng, những chán nản, những phân hoá nội tâm...  
   
-[Linh Thao.pdf](https://linhthao.net/wp-content/uploads/2014/01/Linh-Thao.pdf)  
+--> [Linh Thao.pdf](https://linhthao.net/wp-content/uploads/2014/01/Linh-Thao.pdf)  
   
 - [LT23 - Nguyên lý và nền tảng](./nguyen-li-va-nen-tang.md)  
 - [LT43 - Phương pháp xét mình chung](../../LT43%20-%20Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20x%C3%A9t%20m%C3%ACnh%20chung.md)

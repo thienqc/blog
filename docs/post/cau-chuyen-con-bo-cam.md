@@ -8,6 +8,7 @@ date: 2024-05-03
 tags:
   - Reading_challenge_RC_2024
   - SachThiengLieng
+  - Viet
 Cover: Câu Chuyện Con Bò Câm-1760877761786.webp
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 90

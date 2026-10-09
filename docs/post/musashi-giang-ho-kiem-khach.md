@@ -6,6 +6,7 @@ aliases:
   - Musashi - giang hồ kiếm khách
 tags:
   - Reading_challenge_RC_2024
+  - Viet
 date: 2024-01-21
 Cover: Musashi - giang hồ kiếm khách-1756563609903.webp
 Rating: ⭐⭐⭐⭐⭐
@@ -32,4 +33,4 @@ Con đường ông chọn là kiếm đạo, nhưng về sau cùng mọi con đ�
 - “Ta tự hào không sơ hở để địch thủ đâm hông được mà lại bị một bọn dốt nát lừa gạt. Thật không khác gì bị cái tát. Vậy mà mơ những chuyện cao xa, chỉ huy binh đội, lãnh đạo chiến tranh thì làm thế nào được !”.  
 - Kiếm đạo phải có mục đích hướng dẫn con người đến sự quân bình của tâm hồn, đến hạnh phúc.  
 - Núi Phú Sĩ tuy uy nghi, oai hùng, bất di bất dịch nhưng vẫn giữ yên lặng. Con muốn trở nên một người phi thường sau này, tốt lắm. Nhưng hãy giữ yên lặng như núi. Con làm nên việc phi thường, tự nhiên sẽ được nể trọng thật sự, không phải giữ chức vụ cao mới được nể trọng.  
-- Thế mà hắn là người thường đấy. Tự thấy không có điều gì phi thường, hắn đã luôn học hỏi, khép mình vào kỷ luật với một nghị lực vô biên để tự cải hoán. Từ một kẻ nông phu dốt nát, cục cằn, hắn đã trở thành kiếm sĩ tài năng, dũng lược không ai phủ nhận được. Thấy thế người ta cho hắn là siêu phàm, có tài năng thiên phú. Chẳng qua họ muốn che đậy, biện minh cho sự hèn nhát của họ mà thôi.  
+- Thế mà hắn là người thường đấy. Tự thấy không có điều gì phi thường, hắn đã luôn học hỏi, khép mình vào kỷ luật với một nghị lực vô biên để tự cải hoán. Từ một kẻ nông phu dốt nát, cục cằn, hắn đã trở thành kiếm sĩ tài năng, dũng lược không ai phủ nhận được. Thấy thế người ta cho hắn là siêu phàm, có tài năng thiên phú. Chẳng qua họ muốn che đậy, biện minh cho sự hèn nhát của họ mà thôi.

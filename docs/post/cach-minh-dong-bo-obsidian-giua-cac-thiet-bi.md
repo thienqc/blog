@@ -7,6 +7,7 @@ date: 2023-05-21
 URL: https://www.facebook.com/groups/594306492570157/posts/644009084266564
 tags:
   - obsidian
+  - Viet
 share: true
 comments: true
 category:

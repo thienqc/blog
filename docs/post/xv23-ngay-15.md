@@ -6,6 +6,7 @@ share: true
 comments: true
 tags:
   - XV23
+  - Viet
 date: 2023-12-16
 description: Một mình ở HN, gặp bạn
 category:

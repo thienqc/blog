@@ -6,6 +6,7 @@ aliases:
   - tâm tình khoa cấp cứu
 tags:
   - Reflection
+  - Viet
 date: 2026-06-16
 category:
   - toi-cam

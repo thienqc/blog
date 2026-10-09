@@ -6,6 +6,7 @@ comments: true
 description: yêu đời từ A đến Z
 tags:
   - love
+  - Viet
 aliases:
   - Làm gì cho yêu đời
 ---

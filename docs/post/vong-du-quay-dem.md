@@ -8,6 +8,7 @@ date: 2024-02-17
 tags:
   - Reading_challenge_RC_2024
   - Detective
+  - Viet
 URL: https://www.goodreads.com/book/show/53298537
 description:
 Cover: Vòng đu quay đêm-1764255282117.webp
@@ -33,5 +34,6 @@ Có lẽ việc ta phán xét cuộc sống, suy diễn cảm xúc của ngườ
   
 ---  
 ## Highlights  
-- “Không phải vì thế sao? Trẻ con bây giờ mà bị bảo là phải có ước mơ thì sẽ thấy áp lực nặng nề còn gì.”  
-    - Note: Bản thân mình thật may mắn khi mà lúc nhỏ không buộc phải trả lời câu hỏi "Ước mơ của con là gì?", tới hiện tại khi đã có chút suy nghĩ, thì mình vẫn chưa thể trả lời được câu hỏi này. Mà thật ra đối với mình, sống tốt với những gì được trao ban là đủ rồi, mình cũng không cần những ước mơ cao xa.
+> “Không phải vì thế sao? Trẻ con bây giờ mà bị bảo là phải có ước mơ thì sẽ thấy áp lực nặng nề còn gì.”  
+  
+Note: Bản thân mình thật may mắn khi mà lúc nhỏ không buộc phải trả lời câu hỏi "Ước mơ của con là gì?", tới hiện tại khi đã có chút suy nghĩ, thì mình vẫn chưa thể trả lời được câu hỏi này. Mà thật ra đối với mình, sống tốt với những gì được trao ban là đủ rồi, mình cũng không cần những ước mơ cao xa.

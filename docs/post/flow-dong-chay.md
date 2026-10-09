@@ -6,6 +6,7 @@ Total_Pages: 552
 tags:
   - happiness
   - KhoSach
+  - Viet
 Type:
   - Book
 share: true
@@ -26,13 +27,13 @@ category:
   
 ---  
 ## Highlights  
-Trong khi hạnh phúc được mưu cầu do lợi ích của chính nó, thì mọi mục tiêu khác – sức khỏe, sắc đẹp, tiền bạc, hay quyền lực – đều chỉ có giá trị bởi vì chúng ta kỳ vọng rằng việc có được chúng sẽ khiến chúng ta hạnh phúc. — location: [78]() ^ref-8602  
+Trong khi hạnh phúc được mưu cầu do lợi ích của chính nó, thì mọi mục tiêu khác – sức khỏe, sắc đẹp, tiền bạc, hay quyền lực – đều chỉ có giá trị bởi vì chúng ta kỳ vọng rằng việc có được chúng sẽ khiến chúng ta hạnh phúc.  
   
 ---  
-Trạng thái dòng chảy – trạng thái mà trong đó con người tham gia vào một hoạt động sâu sắc đến mức dường như chẳng còn điều gì khác là quan trọng nữa; — location: [175]() ^ref-18270  
+Trạng thái dòng chảy – trạng thái mà trong đó con người tham gia vào một hoạt động sâu sắc đến mức dường như chẳng còn điều gì khác là quan trọng nữa;  
   
 ---  
-Lý do chính khiến chúng ta rất khó đạt được các tâm điểm hạnh phúc nằm ở thực tế là, trái với các huyền thoại mà nhân loại đã xây dựng để tự trấn an họ, vũ trụ không được tạo ra để đáp ứng các nhu cầu của chúng ta. — location: [288]() ^ref-2751  
+Lý do chính khiến chúng ta rất khó đạt được các tâm điểm hạnh phúc nằm ở thực tế là, trái với các huyền thoại mà nhân loại đã xây dựng để tự trấn an họ, vũ trụ không được tạo ra để đáp ứng các nhu cầu của chúng ta.  
   
 ---  
   

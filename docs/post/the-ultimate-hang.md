@@ -9,6 +9,7 @@ tags:
   - outdoors
   - Reading_challenge_RC_2024
   - Survival
+  - Viet
 URL: https://www.goodreads.com/book/show/12989048
 Cover: The Ultimate Hang - An Illustrated Guide to Hammock Camping-1760709405355.webp
 Rating: ⭐⭐⭐⭐
@@ -24,7 +25,6 @@ category:
 ![The Ultimate Hang - An Illustrated Guide to Hammock Camping-1760709405355.webp](../assets/img/The%20Ultimate%20Hang%20-%20An%20Illustrated%20Guide%20to%20Hammock%20Camping-1760709405355.webp)  
   
 ---  
-  
 Được lấy cảm hứng từ [ Workshop DAO ĐI RỪNG-LỀU TRẠI-TĂNG VÕNG](./worksho-dao-di-rung-leu-trai-tang-vong.md), cũng như sau chuyến đi [xuyên việt](./xuyen-viet-2023.md), việc vác lều trong khi đi solo khá là nặng nề, mình quyết định tìm hiểu về cách sử dụng võng cắm trại.  
   
 Xem thêm: [The Ultimate Hang – Hammock tips, illustrations, and reviews.](https://theultimatehang.com/)  

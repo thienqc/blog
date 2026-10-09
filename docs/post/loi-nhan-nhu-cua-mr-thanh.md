@@ -6,6 +6,7 @@ share: true
 comments: true
 tags:
   - career
+  - Viet
 date: 2022-01-07
 aliases:
   - Lời nhắn nhủ của Mr. Thanh

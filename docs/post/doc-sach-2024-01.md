@@ -6,6 +6,7 @@ aliases:
   - Đọc sách -T01.2024
 tags:
   - DocSach
+  - Viet
 date: 2024-01-31
 category:
   - toi-doc
@@ -27,8 +28,6 @@ Con đường ông chọn là kiếm đạo, nhưng về sau cùng mọi con đ�
   
 ## [Chiến Binh Cầu Vồng](./chien-binh-cau-vong.md)  
 Đọc để biết rằng **được đi học là một điều may mắn**! Do đó, nếu bạn cảm thấy mình đang bất định, không biết làm gì thì hãy dùng thời gian đó mà học, học bất cứ điều gì, không có gì là thừa cả.  
-  
-  
   
 > [!Example] Xem thêm  
 > - [Reading challenge](./reading-challenge.md)

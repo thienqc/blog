@@ -4,6 +4,7 @@ share: true
 comments: true
 tags:
   - camp
+  - Viet
 date: 2023-10-24
 category:
   - toi-di

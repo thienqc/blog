@@ -12,6 +12,7 @@ tags:
   - Reading_challenge_RC_2021
   - KhoSach
   - quote
+  - Viet
 date: 2023-11-12
 description: Hồi kí của một bác sĩ cũng là một bệnh nhân, mình đã đọc 5 ln
 Cover: Khi Hơi Thở Hóa Thinh Không-1764255990981.webp

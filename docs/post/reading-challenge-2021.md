@@ -7,6 +7,7 @@ aliases:
 description: Tổng kết những quyển sách đã đọc trong năm 2021
 tags:
   - DocSach
+  - Viet
 date: 2024-01-24
 category:
   - toi-doc

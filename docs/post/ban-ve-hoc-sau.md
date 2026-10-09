@@ -4,8 +4,8 @@ share: true
 comments: true
 tags:
   - PKM
+  - Viet
 date: 2023-10-16
-URL:
 description: Vài điều bàn luận với Long
 aliases:
   - Bàn về học sâu

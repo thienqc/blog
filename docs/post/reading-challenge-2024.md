@@ -6,6 +6,7 @@ aliases:
   - Reading challenge 2024
 tags:
   - DocSach
+  - Viet
 date: 2024-12-31
 category:
   - toi-doc
@@ -13,9 +14,10 @@ tongsach: 23
 ---
 # Reading challenge 2024  
   
+<!-- photo-grid:start -->  
 ![](https://i.imgur.com/DcBEP7z.png)  
-![|654x368](https://i.imgur.com/f7S2RhN.png)  
-![|654x368](https://i.imgur.com/DkVNu0z.png)  
+![](https://i.imgur.com/f7S2RhN.png)  
+![](https://i.imgur.com/DkVNu0z.png)  
 ![](https://i.imgur.com/daYoW4v.png)  
 ![](https://i.imgur.com/j0DcopK.png)  
 ![](https://i.imgur.com/6mMYRPW.png)  
@@ -25,6 +27,7 @@ tongsach: 23
 ![](https://i.imgur.com/dBRrZqv.png)  
 ![](https://i.imgur.com/KAIaxgp.png)  
 ![](https://i.imgur.com/YxsITX5.png)  
+<!-- photo-grid:end -->  
   
   
 | Tháng   | Sách                                                                                                                                          |  

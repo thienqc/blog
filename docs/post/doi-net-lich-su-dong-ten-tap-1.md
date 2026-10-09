@@ -7,6 +7,7 @@ tags:
   - IHS
   - Reading_challenge_RC_2024
   - SachThiengLieng
+  - Viet
 Cover: Đôi nét lịch sử Dòng Tên - Thời kì khai sinh và phát triển-1764380365497.webp
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 300
@@ -23,7 +24,7 @@ category:
   
 **Lời mở**  
   
-Lịch sử luôn luôn là một bài học sống động và quý giá. Tìm hiểu về Dòng Tên, chúng tôi thấy lịch sử Dòng cũng chứa đựng nhiều bài học sống động và quý giá. Chúng tôi đã cố gắng ghi chép lại đây đó một số điều, đôi khi thêm một vài suy nghĩ. Cha Bề Trên Cả quá cố Pedro Arrupe nói: "Tôi cho là việc biết lịch sử Dòng rất quan trọng, nhưng là một lịch sử không những giúp chúng ta biết những biến cố - điều này tự nó cũng rất ích lợi - mà nhất là giúp suy nghĩ về sứ điệp các biến cố nói với bản thân tôi. Đó là một phương pháp hữu hiệu lạ thường." Ước mong bộ sách nhỏ này giúp được người đọc đôi chút trong viễn tượng ấy.  
+> Lịch sử luôn luôn là một bài học sống động và quý giá. Tìm hiểu về Dòng Tên, chúng tôi thấy lịch sử Dòng cũng chứa đựng nhiều bài học sống động và quý giá. Chúng tôi đã cố gắng ghi chép lại đây đó một số điều, đôi khi thêm một vài suy nghĩ. Cha Bề Trên Cả quá cố Pedro Arrupe nói: "Tôi cho là việc biết lịch sử Dòng rất quan trọng, nhưng là một lịch sử không những giúp chúng ta biết những biến cố - điều này tự nó cũng rất ích lợi - mà nhất là giúp suy nghĩ về sứ điệp các biến cố nói với bản thân tôi. Đó là một phương pháp hữu hiệu lạ thường." Ước mong bộ sách nhỏ này giúp được người đọc đôi chút trong viễn tượng ấy.  
   
 ## Thời kì khai sinh  
 - Những người bạn trong Chúa  
@@ -52,4 +53,4 @@ Lịch sử luôn luôn là một bài học sống động và quý giá. Tìm 
 - Sứ vụ tại triều đình Mogol  
 - Khởi đầu công cuộc truyền giáo ở Trung Hoa  
 	- Các thừa sai bắt đầu giảng đạo cho người Trung Hoa  
-	- Hội Thánh tăng trưởng tại Nam Kinh
+	- Hội Thánh tăng trưởng tại Nam Kinh  

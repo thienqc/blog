@@ -4,6 +4,7 @@ comments: true
 filename: doc-sach-2024-07
 tags:
   - DocSach
+  - Viet
 date: 2024-07-31
 category:
   - toi-doc
@@ -18,8 +19,6 @@ Nếu những hạnh phúc ở trần gian chỉ làm bạn thoả mãn trong ph
   
 ## [Sau giờ học](../../sau-gio-hoc.md)  
 Tác phẩm đầu tay của Keigo và vẫn đậm màu sắc của Keigo: lớp lang và xã hội!  
-  
-  
   
 > [!Example] Xem thêm  
 > - [Reading challenge](./reading-challenge.md)

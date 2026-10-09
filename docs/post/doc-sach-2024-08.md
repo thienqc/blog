@@ -4,6 +4,7 @@ comments: true
 filename: doc-sach-2024-08
 tags:
   - DocSach
+  - Viet
 date: 2024-08-31
 category:
   - toi-doc
@@ -19,7 +20,6 @@ Tháng này mình bắt đầu đọc nhiều cuốn, nhưng tất cả đều d
 Mình từng viết rằng [ không tham gia Reading challenge nữa](./toi-khong-tham-gia-reading-challenge.md), việc đọc không nên đo lường bằng số lượng `[thực thể]` sách đã đọc được, mà nên có một thang đo khác, chẳng hạn như những câu hỏi kiểu "Bạn cảm thấy bạn thu thập được bao nhiêu kiến thức hữu ích", thay số lượng sách bằng số lượng bài review của bản thân hoặc số note từ sách... (💡Bàn về vấn đề này sau)  
   
 Túm lại, việc đọc trong tháng này mình không ưu tiên nhiều, chỉ cố gắng đọc trong những lúc rảnh rang mỗi ngày, chứ không chú tâm vào nó, có thể điều này làm mình chưa hoàn thành xong cuốn này cả. Tháng mới, mình sẽ cố gắng dành thời gian cho việc đọc và viết ghi chú nhiều hơn.  
-  
   
 > [!Example] Xem thêm  
 > - [Reading challenge](./reading-challenge.md)  

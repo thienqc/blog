@@ -8,8 +8,8 @@ description:
 tags:
   - Reading_challenge_RC_2022
   - Reading_challenge_RC_2024
+  - Viet
 date: 2024-06-09
-URL:
 Cover: Thư viện nửa đêm-1760801949551.webp
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 420
@@ -33,7 +33,6 @@ Mỗi một lựa chọn sẽ đưa đến những con đường khác nhau, b�
 Mình tin chắc rằng, cho dù hiện tại ban đang cảm thấy cô đơn, lạc lõng, trầm uất tới độ nào, thì vẫn luôn có một Đáng để tâm, theo dõi từng bước đi của bạn. Xét kĩ cuộc đời của mình, bạn sẽ thấy những điều tuyệt diệu dù nhỏ nhoi nhưng đó là dấu chỉ cho thấy Chúa vẫn yêu thương chúng ta hết tình.  
   
 Vì vậy, HÃY CAN ĐẢM SỐNG.  
-  
   
 ---  
 Read:: [221018](../../221018.md), [240609](../../240609.md)
