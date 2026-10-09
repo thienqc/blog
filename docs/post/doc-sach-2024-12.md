@@ -4,6 +4,7 @@ comments: true
 filename: doc-sach-2024-12
 tags:
   - DocSach
+  - Viet
 date: 2024-12-31
 category:
   - toi-doc
@@ -21,8 +22,6 @@ Tháng này mình quay lại đọc trinh thám. 5 quyển lần này toàn là 
 ## Seri PHÁP Y TẦN MINH  
   
 Bộ ba "Chúng sinh" gồm [Vách núi tử thần](../../vach-nui-tu-than.md), [Kẻ lãng quên](../../ke-lang-quen.md) và [Búp bê](../../bup-be.md) nối tiếp 6 quyển về pháp y Tần Minh nổi danh trước đó.  
-  
-  
   
 > [!Example] Xem thêm  
 > - [Reading challenge](./reading-challenge.md)  
