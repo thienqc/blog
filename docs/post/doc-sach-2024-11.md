@@ -4,6 +4,7 @@ comments: true
 filename: doc-sach-2024-11
 tags:
   - DocSach
+  - Viet
 date: 2024-11-30
 category:
   - toi-doc
@@ -19,7 +20,6 @@ Thật ra quyển này mình đọc trong tháng 10 cơ, chỉ là kết thúc v
 | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |  
 | Kính mừng Maria đầy ơn phúc Đức Chúa Trời ở cùng bà, bà có phúc lạ hơn mọi người nữ và Giêsu còn lòng bà gồm phúc lạ. | Hail, Mary, full of grace! the Lord is with thee, blessed art thou among women, and blessed is the fruit of thy womb, Jesus. |  
 | Thánh Maria Đức Mẹ Chúa Trời cầu cho chúng con là kẻ có tội, khi này và trong giờ lâm tử. Amen.                       | Holy Mary, Mother of God, pray for us sinners, now, and in the hour of our death. Amen.                                      |  
-  
   
 > [!Example] Xem thêm  
 > - [Reading challenge](./reading-challenge.md)  
