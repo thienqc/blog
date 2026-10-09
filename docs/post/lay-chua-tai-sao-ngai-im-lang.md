@@ -6,6 +6,7 @@ date: 2024-10-10
 tags:
   - Reading_challenge_RC_2024
   - SachThiengLieng
+  - Viet
 Cover: Lạy Chúa - Tại sao Ngài im lặng-1757087431783.webp
 Rating: ⭐⭐⭐⭐⭐
 type:
@@ -84,5 +85,4 @@ category:
   
 > Ngài phải tôn trong định luật thiên – tự – nhiên và tự do chọn lựa của con người, nên Ngài không thể can thiệp vào những khuôn khổ nhất định của nó để cản ngăn những đau khổ xảy đến cho nhân loại.   
   
-> **“Này con! Tại sao con im lặng?”**   
-  
+> **“Này con! Tại sao con im lặng?”** 
