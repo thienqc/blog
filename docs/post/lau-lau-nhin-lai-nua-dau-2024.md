@@ -4,11 +4,9 @@ comments: true
 filename: lau-lau-nhin-lai-nua-dau-2024
 aliases:
   - Lâu lâu nhìn lại - nửa đầu 2024
-description:
 tags:
   - Reflection
 date: 2024-06-30
-URL:
 category:
   - toi-cam
 ---

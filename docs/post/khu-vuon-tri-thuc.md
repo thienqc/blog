@@ -22,4 +22,6 @@ Những loài cây và hoa ở đây đều là thành quả của những hạt
   
 Mảnh vườn đầu tiên mình muốn khai phá là về PHƯƠNG PHÁP GHI CHÚ. Đây sẽ là tập hợp những bài viết về chủ đề GHI CHÚ do chính các bạn viết nên, một sản phẩm đến từ Việt Nam!  
   
-Và nếu bạn cảm thấy hứng thú với dự án này, thì hãy cùng tham gia với [mình](http://m.me/yds.thienqc).
+Và nếu bạn cảm thấy hứng thú với dự án này, thì hãy cùng tham gia với [mình](http://m.me/yds.thienqc).  
+  
+*Cập nhật 08-10-2026*: dự án tạm thời ngưng (vô-thời-hạn) :( vì mình chưa tìm ra mảnh đất có thể trồng khu vườn này.

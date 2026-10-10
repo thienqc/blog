@@ -63,7 +63,6 @@ Chín phẩm Thiên Thần là chín cung bậc của tình yêu phục vụ Thi
   
 “Hãy sống thánh thiện để đời ta cũng trở nên một thiên ca ngợi khen Thiên Chúa.”  
   
-  
 > [!Example] Xem thêm  
 > - [29.09 | Saints Michael, Gabriel, và Raphael](./29-09-saints-michael-gabriel-and-raphael.md)  
 > - [02.10 | Các Thiên thần Bản mệnh](./02-10-cac-thien-than-ban-menh.md)
