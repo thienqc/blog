@@ -2,7 +2,6 @@
 filename: nhung-noi-buon-khong-ten
 aliases:
   - Những nỗi buồn không tên
-description:
 tags:
   - hmm
 date: 2023-07-06
@@ -24,4 +23,4 @@ Chiều mình ăn trưa muộn, nằm ngủ cả buổi chiều. Không bi
 Tối mình ra ngoài ăn tối với chị, sau đó mình đạp xe. Mỗi lần mình buồn thì mình thường đạp xe. Khi vận động cơ thể sẽ tiết ra [Endorphins](../../endorphins.md) - một dạng thuốc giảm đau tự nhiên, giúp cơ thể đối phó với những căng thẳng - thứ mà mình đang đương đầu những ngày gần đây. Mấy ngày nay mưa, không đạp xe được nên cơ thể mình khá chây lười. Đạp xe, tận hưởng những cơn gió lướt qua, tiếng xe cộ, mùi khói, quan sát những dòng suy nghĩ trong đầu. Những dòng suy nghĩ cứ tới rồi đi, về chuyện học, về những dự án mình đang làm, về những chuyện chưa xảy ra. Bóng dáng ai đó lại hiện lên thoáng chốc rồi lại trôi vào góc sâu mình đã trôn từ lâu.  
 Về nhà thì mình lại tiếp tục ngồi vào bàn học, phải chiến đấu tiếp thôi. Ngồi viết những dòng này. Thế là kết thúc một ngày.  
   
-Mai sẽ là ngày dài đây.  
+Mai sẽ là ngày dài đây.
