@@ -6,8 +6,6 @@ tags:
   - challenge
   - no-tech
 date: 2023-11-21
-URL:
-description:
 category:
   - toi-cam
 ---
@@ -43,10 +41,6 @@ Tìm ra cách chơi một mình với bộ bài :v
   
 Điều quan trọng sau khi kết thúc thử thách này có lao đầu vào nghiện lại hay không?  
   
-## Update ngày ``19/01/2019``  
+## Cập nhật ngày ``19/01/2019``  
   
-Qua trải nghiệm 3 ngày không dùng facebook và khoảng thời gian đã qua mình nhận thấy FB chỉ là một công cụ, việc sử dụng nó mà không có mục đích sẽ tạo ra một thói quen xấu. Nó là con dao 2 lưỡi, biết dùng sẽ tốt, không thì rất có hại. Nó làm ta mất nhiều thời gian, cứ nghĩ luót fb 5' thư giãn thôi, ai ngờ là thành 30' thậm chí là hơn. Vì vậy hãy dùng fb có chừng mực, **đừng để nó nuốt chửng chính mình.**  
-  
-  
-> [!Example] Xem thêm  
-> - [Dopamine detox](../../dopamine-detox.md)
+Qua trải nghiệm 3 ngày không dùng facebook và khoảng thời gian đã qua mình nhận thấy FB chỉ là một công cụ, việc sử dụng nó mà không có mục đích sẽ tạo ra một thói quen xấu. Nó là con dao 2 lưỡi, biết dùng sẽ tốt, không thì rất có hại. Nó làm ta mất nhiều thời gian, cứ nghĩ luót fb 5' thư giãn thôi, ai ngờ là thành 30' thậm chí là hơn. Vì vậy hãy dùng fb có chừng mực, **đừng để nó nuốt chửng chính mình.**
