@@ -92,4 +92,4 @@ Trong [video này](https://youtu.be/uoD6oURbRsc?si=T3sQG7tiyF6pwiNT&t=391), Nick
   
 Trong một buổi gặp gỡ của [nhóm Não hai](https://www.facebook.com/groups/obsidian.secondbrain) (bạn có thể xem [ở đây](https://youtu.be/FPSqnr_v49I?si=FN49a-3lzUj92ffu&t=2723)) mình cũng chia sẻ vài điều về lợi ích của việc [quản lí các ghi chú bằng liên kết](./folder-tag-link.md) và cách tạo MOCs theo 2 chiều.  
   
-*[Bài viết thuộc group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/673457237988415/)*
+> *[Bài viết thuộc group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/673457237988415/)*
