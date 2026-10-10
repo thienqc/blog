@@ -43,7 +43,7 @@ Trong quyển "[How to take smart note](../../how-to-take-smart-note.md)", Sön
   
 [hình minh hoạ](https://www.reddit.com/r/ObsidianMD/comments/vofakc/folders_vs_links_vs_tags/)  
   
-*[Thảo luận tại group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/663193479014791/)*  
+> *[Thảo luận tại group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/663193479014791/)*  
 ## Reference  
 - [Folders vs. Links vs. Tags -  reddit](https://www.reddit.com/r/ObsidianMD/comments/vofakc/folders_vs_links_vs_tags/)  
 - [Links vs Tags vs Folders in Obsidian -  When Should You Use Each - YouTube](https://www.youtube.com/watch?v=fwO8LzH9q3I)  
