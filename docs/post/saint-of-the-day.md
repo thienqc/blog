@@ -42,4 +42,3 @@ aliases:
 - [13.11 ᰻ Thánh Stanislaus Kostka, SJ](../../Stanislaus%20Kostka.md)  
   
 ## December  
-  
