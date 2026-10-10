@@ -49,4 +49,4 @@ Qua trải nghiệm 3 ngày không dùng facebook và khoảng thời gian đã 
   
   
 > [!Example] Xem thêm  
-> - [Dopamine detox](./dopamine-detox.md)
+> - [Dopamine detox](../../dopamine-detox.md)
