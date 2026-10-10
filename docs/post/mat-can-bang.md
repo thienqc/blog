@@ -1,12 +1,9 @@
 ---
 filename: mat-can-bang
-description:
-URL:
 share: true
 comments: true
 tags:
   - life-style
-  - Viet
 date: 2023-09-27
 aliases:
   - Mất cân bằng
@@ -45,6 +42,4 @@ category:
 - Biết khi nào bạn cần trợ giúp.  
   
 > [!Example] Xem thêm  
-> - [Làm gì cho yêu đời](./lam-gi-cho-yeu-doi.md)  
-> - [Mất lửa](./mat-lua.md)  
-> - [12 lời khuyên vì giấc ngủ tốt cho sức khoẻ](./12-loi-khuyen-vi-giac-ngu-tot-cho-suc-khoe.md)
+> - [Mất lửa](./mat-lua.md)
