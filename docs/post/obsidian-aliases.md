@@ -22,6 +22,7 @@ Ví dụ mình có 1 note là `[[Điều Kỳ Diệu Của Tiệm Tạp Hóa Nam
   
 Một ví dụ khác cho việc đặt bí danh: một note về `Bệnh lupus`, nó có thể là `SLE`, `Lupus`, `Lupus ban đỏ hệ thống`,...  
   
+  
 ## Plugin  
 ### Link with alias  
   
