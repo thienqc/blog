@@ -1,6 +1,5 @@
 ---
 filename: tao-mot-trang-blog-don-gian-bang-obsidian-va-mkdocs
-URL:
 share: true
 comments: true
 tags:
@@ -40,4 +39,4 @@ Nhược điểm:
   
 Mình dùng cách này để tạo ra trang [thienqc's blog](https://thienqc.github.io/blog/) như một bộ não thứ hai. Các bạn có thể ghé vào và khám phá. Nó sẽ được cập nhật hằng ngày và không ngừng lớn lên.  
   
-*[Thảo luận tại group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/709835517683920/)*
+> *[Thảo luận tại group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/709835517683920/)*
