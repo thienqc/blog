@@ -45,4 +45,5 @@ Bài viết [The new Obsidian icon](https://obsidian.md/blog/new-obsidian-icon/)
   
 - Sự trường tồn: sử dụng file markdown nên những ghi chú của bạn có thể đọc được vào những thế hệ sau này  
 - Sự tinh gọn: giúp bạn cắt tỉa những ý tưởng, ghi chú  
-- Sự linh hoạt: nhiều tuỳ chọn để tuỳ biến thành công cụ phù hợp với bạn.
+- Sự linh hoạt: nhiều tuỳ chọn để tuỳ biến thành công cụ phù hợp với bạn.  
+  
