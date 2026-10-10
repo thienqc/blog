@@ -22,11 +22,9 @@ Mình có thể vừa đọc vừa ghi chú vào Obsidian thì cần gì phải 
   
 ![](https://i.imgur.com/eMZZ9lt.png)  
   
-  
 ## MarkDownload  
   
 ![](https://i.imgur.com/cp1IcvA.png)  
-  
   
 MIỄN PHÍ!  
   
@@ -46,8 +44,7 @@ MIỄN PHÍ!
   
 ![](https://i.imgur.com/u51i8Xi.png)  
   
-  
-[Omnivore](https://omnivore.app/)  
+[Omnivore](https://omnivore.app/) --> ==đã dừng hoạt động==  
   
 MIỄN PHÍ! Sử dụng được trên PC (qua extension), Android và iOS. Có thể liên kết với Obsidian, Logseq.  
   
@@ -77,5 +74,4 @@ Hoặc bạn có thể đăng kí bằng link dưới đây để có được *
   
 ## Kết luận  
   
-Cho dù là ứng dụng nào, nếu bạn chỉ lưu và để dành đó đọc sau, thì rất dễ rơi vào "[Bẫy người sưu tập](./bay-nguoi-suu-tap.md)". Do đó hãy THỰC SỰ đọc.  
-  
+Cho dù là ứng dụng nào, nếu bạn chỉ lưu và để dành đó đọc sau, thì rất dễ rơi vào "[Bẫy người sưu tập](./bay-nguoi-suu-tap.md)". Do đó hãy THỰC SỰ đọc.
