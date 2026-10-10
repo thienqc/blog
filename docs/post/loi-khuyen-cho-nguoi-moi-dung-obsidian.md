@@ -209,8 +209,7 @@ Ngồi xuống và Viết.
     
 __________________________    
   
-### Thông tin bài viết:  
-  
-- Bài gốc: https://www.reddit.com/r/ObsidianMD/comments/160a518/  
-- [Thảo luận tại group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/697620295572109/)  
-- Dịch bởi thienqc
+> [!info] Thông tin bài viết:  
+> - Bài gốc: https://www.reddit.com/r/ObsidianMD/comments/160a518/  
+> - [Thảo luận tại group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/697620295572109/)  
+> - Dịch bởi thienqc

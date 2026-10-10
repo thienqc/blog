@@ -25,5 +25,6 @@ Nếu như lúc xưa chưa có máy tính, con người vẫn chỉ dùng sổ s
   
 Bài toán all-in-one mà Notion đặt ra thì tới giờ lời giải vẫn còn bỏ ngõ...  
   
+  
 > [!Example] Xem thêm  
 > - [BẠN CHỌN "APP-TẤT-CẢ-TRONG-MỘT" HAY "ĐÚNG-APP-ĐÚNG-VIỆC"?](./all-in-one-vs-right-tool-for-right-job.md)  

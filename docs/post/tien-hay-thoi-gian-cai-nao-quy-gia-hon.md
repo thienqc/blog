@@ -2,8 +2,6 @@
 filename: tien-hay-thoi-gian-cai-nao-quy-gia-hon
 aliases:
   - Tiền hay thời gian, cái nào quý giá hơn?
-description:
-URL:
 date: 2023-03-20
 tags:
   - hmm
@@ -25,5 +23,4 @@ Tôi luôn quan niệm rằng hãy sống thật xứng đáng ở thời điể
 Những ngày này, có cô ấy ngồi sau, dù không nói gì nhiều nhưng cái cảm giác có cô ấy ngồi sau, tôi thích cảm giác ấy. Một cảm giác yên tâm...  
   
 > [!Example] Xem thêm  
-> - [Làm gì cho yêu đời](../../lam-gi-cho-yeu-doi.md)  
 > - [Mất cân bằng](./mat-can-bang.md)

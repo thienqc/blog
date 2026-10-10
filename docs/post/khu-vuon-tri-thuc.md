@@ -24,4 +24,4 @@ Mảnh vườn đầu tiên mình muốn khai phá là về PHƯƠNG PHÁP GHI C
   
 Và nếu bạn cảm thấy hứng thú với dự án này, thì hãy cùng tham gia với [mình](http://m.me/yds.thienqc).  
   
-*Cập nhật 08-10-2026*: dự án tạm thời ngưng (vô-thời-hạn) :( vì mình chưa tìm ra mảnh đất có thể trồng khu vườn này.
+*Cập nhật 08-10-2026*: dự án tạm thời ngưng (vô-thời-hạn) :( vì mình chưa tìm ra mảnh đất có thể trồng khu vườn này.  

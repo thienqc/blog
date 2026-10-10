@@ -25,4 +25,4 @@ Mẹ Hồn Xác Lên Trời, thân xác của Mẹ không phải hư mất, vì 
   
 ## Đức Mẹ trọn đời đồng trinh (25/3)  
   
-Mẹ Đồng Trinh Trọn Đời như một người thuộc trọn về Chúa, cả cuộc đời của Mẹ là một hành trình đồng công với Con của mình trong công trình cứu chuộc.  
+Mẹ Đồng Trinh Trọn Đời như một người thuộc trọn về Chúa, cả cuộc đời của Mẹ là một hành trình đồng công với Con của mình trong công trình cứu chuộc.

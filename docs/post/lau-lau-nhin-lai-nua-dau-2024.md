@@ -22,4 +22,4 @@ Leo núi 1 lần, cắm trại 1 lần. Một con số khiêm tốn với cái t
   
 ![](https://i.imgur.com/JEX5fLc.png)  
   
-Chốn bình an ấy là trong tâm hồn. Mình biết con đường mình phải đi, mình biết việc mình cần phải làm, và mình chọn một lối sống mà người ta sẽ gọi là "đi ngược đời" - nhưng mình gọi là "SỐNG CHẤT!"
+Chốn bình an ấy là trong tâm hồn. Mình biết con đường mình phải đi, mình biết việc mình cần phải làm, và mình chọn một lối sống mà người ta sẽ gọi là "đi ngược đời" - nhưng mình gọi là "**SỐNG CHẤT**!"

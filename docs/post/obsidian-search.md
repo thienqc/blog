@@ -19,7 +19,6 @@ Cú pháp bình thường cho property sẽ là `[property]` ví dụ: `["type":
   
 Nếu property là checkbox hay dạng true/false thì dùng cú pháp là `["share: true"]`  
   
-  
 ### Phân biệt line và section  
 Định nghĩa:  
   
@@ -32,5 +31,4 @@ Khi tìm bằng `line:` thì các từ khoá phải trên cùng 1 dòng.
   
 Khi tìm bằng `section:` thì các từ khoá có thể trên nhiều dòng khác nhau.  
   
-  
-![](https://i.imgur.com/cCkQ0tR.png)  
+![](https://i.imgur.com/cCkQ0tR.png)

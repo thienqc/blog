@@ -16,5 +16,4 @@ Nếu chỉ nhìn vào bức tranh này trong bài [Sisyphus thời hiện đạ
   
 Vâng, từ một câu chuyện gốc là Sisyphus phải đẩy các tảng đá hằng ngày là do bị các vị thần *trừng phạt*, ta đã biến Sisyphus thành một **anh hùng** khi mà công việc đó là đang đem mặt trời lên đỉnh để soi sáng cho nhân loại!  
   
-Nghe vô lí nhưng rất thuyết phục. Làm sao có thể có được cái nhìn tích cực về một việc tiêu cực như thế?  
-  
+Nghe vô lí nhưng rất thuyết phục. Làm sao có thể có được cái nhìn tích cực về một việc tiêu cực như thế?

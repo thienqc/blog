@@ -55,7 +55,7 @@ Mình mua [ở đây](https://ketnoisingapore.com/voucher-ezlink-sim-card-2in1).
 Có thể mua kèm thêm *các vé tham quan trước* ở Việt Nam (giá sẽ rẻ hơn).  
   
 ## Những thứ cần thiết chuẩn bị khác  
-  
 - Passport  
 - Quần áo  
-- Sức khoẻ
+- Sức khoẻ  
+  

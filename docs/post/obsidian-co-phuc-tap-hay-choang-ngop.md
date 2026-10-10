@@ -31,4 +31,4 @@ Ý kiến của bạn về "**Lí do Obsidian khó dùng là gì?"** Ch
   
 Cre: [r/ObsidianMD](https://www.reddit.com/r/ObsidianMD/comments/u9uq8k/)  
   
-*[Bài viết thuộc group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/659231826077623/)*
+> *[Bài viết thuộc group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/659231826077623/)*

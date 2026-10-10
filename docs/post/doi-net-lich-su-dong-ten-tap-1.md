@@ -52,4 +52,5 @@ category:
 - Sứ vụ tại triều đình Mogol  
 - Khởi đầu công cuộc truyền giáo ở Trung Hoa  
 	- Các thừa sai bắt đầu giảng đạo cho người Trung Hoa  
-	- Hội Thánh tăng trưởng tại Nam Kinh
+	- Hội Thánh tăng trưởng tại Nam Kinh  
+  

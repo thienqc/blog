@@ -70,14 +70,15 @@ Nhưng lúc đó, chuỗi chấm có thể đã khép lại.
 Và điều duy nhất còn ở lại, sẽ là ký ức về cách bạn đã sống trong những dấu chấm ta từng có.  
   
 > Lạy Chúa, con không đợi chờ,  
->   con quyết sống phút hiện tại,  
->   và làm cho nó đầy tình thương,  
->   vì chấm này nối tiếp chấm kia,  
->   ngàn vạn chấm thành một đường dài.  
+> con quyết sống phút hiện tại,  
+> và làm cho nó đầy tình thương,  
+> vì chấm này nối tiếp chấm kia,  
+> ngàn vạn chấm thành một đường dài.  
 > Phút này nối tiếp phút kia, muôn triệu phút thành một đời sống.  
 > Chấm mỗi chấm cho đúng, đời sẽ đẹp.  
 > Sống mỗi phút cho tốt, đời sẽ thánh.  
 > ~ Trích [Năm chiếc bánh và hai con cá](../../N%C4%83m%20chi%E1%BA%BFc%20b%C3%A1nh%20v%C3%A0%20hai%20con%20c%C3%A1.md) - ĐHY FX Nguyễn Văn Thuận  
+  
   
 ---  
 [^1]: [Your Life in Weeks — Wait But Why](https://waitbutwhy.com/2014/05/life-weeks.html)

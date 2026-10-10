@@ -35,7 +35,7 @@ Một cách khác để giải quyết vấn đề dung lượng là ta
   
 Còn bạn, bạn chọn cách nào để lưu trữ hình ảnh?  
   
-*[Thảo luận tại group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/667179891949483/)*  
+> *[Thảo luận tại group Obsidian - Second Brain](https://www.facebook.com/groups/594306492570157/posts/667179891949483/)*  
   
 > [!Example] Xem thêm  
 > - [Obsidian plugins](./obsidian-plugins.md)

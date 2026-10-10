@@ -4,12 +4,10 @@ comments: true
 filename: toi-dang-ki-hien-tang
 aliases:
   - Tôi đăng kí hiến tạng
-description:
 tags:
   - life
   - love
 date: 2025-01-03
-URL:
 category:
   - toi-cam
 ---
@@ -45,5 +43,4 @@ Nếu bạn ở tại HCM, có thể tới BV Chợ Rẫy, vào khu "Phòng khá
 > Giờ làm việc : Tất cả các ngày trong tuần (trừ Thứ 7, Chủ Nhật ).  
 > Sáng : 7 giờ -11 giờ , chiều : 1 giờ - 4 giờ .  
   
-Đơn đăng kí bạn có thể làm tại chỗ hoặc làm trước ở nhà là được. Thẻ sẽ được phát hành sau khoảng 5 - 10 phút!  
-  
+Đơn đăng kí bạn có thể làm tại chỗ hoặc làm trước ở nhà là được. Thẻ sẽ được phát hành sau khoảng 5 - 10 phút!
