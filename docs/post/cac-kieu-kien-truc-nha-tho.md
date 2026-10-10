@@ -51,6 +51,7 @@ Nhà thờ hiện đại sử dụng nhiều kiểu dáng khác nhau. VD thánh 
 - Phòng xưng tội đặc biệt  
 - Giếng rửa tội: cuối nhà thờ, tượng trưng cho con đường từ tội nhân, người tín hữu tiến về cung thánh, sẵn sàng để gặp Chúa.  
   
+  
 ---  
 [^1]: Mc 1,21: Đức Giê-su và các môn đệ đi vào thành Ca-phác-na-um. Ngay ngày sa-bát, Người vào hội đường giảng dạy.  
   
