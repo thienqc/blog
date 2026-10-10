@@ -3,7 +3,6 @@ filename: no-hello
 tags:
   - hmm
 date: 2023-07-20
-URL:
 share: true
 comments: true
 description: đừng nói xin chào
