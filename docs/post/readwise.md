@@ -26,6 +26,7 @@ Cách Readwise hoạt động:
   
 Nhìn chung là Readwise sẽ đem tất cả highlight (trong quá trình đọc) từ nhiều nguồn khác nhau đem về một mối, nó sẽ dùng 1 thuật toán (dạng như lặp lại ngắt quảng loại nhẹ) để chọn ra những highlight gửi cho bạn qua email hằng ngày hoặc qua app. Nó cũng có thể kết nối tới những ứng dụng ghi chú khác như Obsidian, Notion, Evernote... để đưa dữ liệu vào kho tri thức của bạn.  
   
+  
 ## Reader  
 [Readwise Reader](https://readwise.io/read) là một [ứng dụng đọc sau](./ung-dung-read-it-later.md) do chính Readwise phát triển. Nó sẽ lưu nội dung từ "mọi thứ" để dành cho bạn tiêu thụ sau. Khi bạn đọc lại những nội dung này, ==đánh dấu== và ghi chú, thông qua Readwise những dữ liệu này (đánh dấu và ghi chú) sẽ được gửi tới các ứng dụng khác của bạn.  
   
@@ -119,6 +120,7 @@ Hoặc bạn có thể đăng kí bằng link dưới đây để có được 2
 [Đăng kí dùng thử Readwise trong 2 tháng](https://readwise.io/i/thienqc)  
   
 Bạn cũng có thể tăng 1 tháng dùng thử bằng cách này qua [đây](https://readwise.io/invite) và giới thiệu Readwise tới bạn bè.  
+  
   
 ## Kết luận  
   
