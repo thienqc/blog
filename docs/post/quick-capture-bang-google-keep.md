@@ -31,10 +31,11 @@ Khi làm việc với Obsidian trên máy tính, mình sẽ xử lí các ghi ch
   
 > một ghi chú sẽ không quá 6 dòng mỗi dòng không quá 6 chữ  
   
-`Update 2024-01-24`: sử dụng plugin Open Gate thay vì    
+`Cập nhật 2024-01-24`: sử dụng plugin Open Gate thay vì    
   
 - Ủng hộ tác giả VN: [nguyenvanduocit](https://github.com/nguyenvanduocit)  
 - Không còn bị lỗi [không đăng nhập được khi sử dụng Custom Frame](../../cach-xu-li-plugin-custom-frame-khong-dang-nhap-vao-tai-khoan.md)  
 - Câu lệnh: Open Gate tiện lợi hơn nhiều, cũng như cửa sổ có thể ở tab mới (center), hoặc right pane  
+  
   
 *[Thảo luận tại group Obsidian - Second Brain](https://www.facebook.com/groups/obsidian.secondbrain/posts/722121669788638/)*
