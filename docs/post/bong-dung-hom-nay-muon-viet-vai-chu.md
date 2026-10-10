@@ -4,7 +4,7 @@ comments: true
 filename: bong-dung-hom-nay-muon-viet-vai-chu
 aliases:
   - Bỗng dưng hôm nay muốn viết vài chữ
-description:
+description: Nổi hứng viết vào một đêm tháng 10/2026
 tags:
   - Viet
 date: 2026-10-09
