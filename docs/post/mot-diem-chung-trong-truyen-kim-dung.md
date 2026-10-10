@@ -26,4 +26,4 @@ Nhưng đều có một điểm chung: **GIỮ CHỮ TÍN**. Tất cả đều l
   
 > [!Example] Xem thêm  
 > - [Chịu trách nhiệm](./chiu-trach-nhiem.md)  
-> - [Be Kind, Be Useful, Be Fearless](./be-kind-be-useful-be-fearless.md)
+> - [Be Kind, Be Useful, Be Fearless](../../be-kind-be-useful-be-fearless.md)
