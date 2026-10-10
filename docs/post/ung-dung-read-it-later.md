@@ -74,4 +74,4 @@ Hoặc bạn có thể đăng kí bằng link dưới đây để có được *
   
 ## Kết luận  
   
-Cho dù là ứng dụng nào, nếu bạn chỉ lưu và để dành đó đọc sau, thì rất dễ rơi vào "[Bẫy người sưu tập](./bay-nguoi-suu-tap.md)". Do đó hãy THỰC SỰ đọc.
+Cho dù là ứng dụng nào, nếu bạn chỉ lưu và để dành đó đọc sau, thì rất dễ rơi vào "[Bẫy người sưu tập](./bay-nguoi-suu-tap.md)". ==Do đó hãy THỰC SỰ đọc.==
