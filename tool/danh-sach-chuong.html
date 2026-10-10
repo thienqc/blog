@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Tạo danh sách link chương</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    label {
+      display: block;
+      margin-top: 10px;
+    }
+    input {
+      width: 100%;
+      padding: 6px;
+      margin-top: 4px;
+      box-sizing: border-box;
+    }
+    button {
+      margin-top: 12px;
+      padding: 8px 16px;
+      background: #007acc;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #005fa3;
+    }
+    textarea {
+      width: 100%;
+      height: 300px;
+      margin-top: 20px;
+      font-family: monospace;
+      white-space: pre;
+    }
+  </style>
+</head>
+<body>
+  <h1>Danh sách chương → HTML code</h1>
+
+  <label for="baseUrl">Base URL:</label>
+  <input type="text" id="baseUrl" value="https://truyenhdt.com/truyen/toan-tri-doc-gia/chap/6661631-chuong-{}/">
+
+  <label for="start">Start:</label>
+  <input type="number" id="start" value="0">
+
+  <label for="end">End:</label>
+  <input type="number" id="end" value="99">
+
+  <button onclick="generateLinks()">Generate</button>
+  <button onclick="copyCode()">Copy</button>
+
+  <textarea id="output" placeholder="Kết quả HTML sẽ hiện ở đây..."></textarea>
+
+  <script>
+    function generateLinks() {
+      const baseUrl = document.getElementById("baseUrl").value.trim();
+      const start = parseInt(document.getElementById("start").value, 10);
+      const end = parseInt(document.getElementById("end").value, 10);
+
+      const output = document.getElementById("output");
+      output.value = "";
+
+      if (!baseUrl.includes("{}")) {
+        output.value = "❌ Base URL phải chứa {} để thay số chương!";
+        return;
+      }
+      if (isNaN(start) || isNaN(end) || start > end) {
+        output.value = "❌ Vui lòng nhập số start/end hợp lệ!";
+        return;
+      }
+
+      let result = "";
+      for (let i = start; i <= end; i++) {
+        result += `<a href="${baseUrl.replace("{}", i)}">${i}</a>\n`;
+      }
+      output.value = result;
+    }
+
+    function copyCode() {
+      const output = document.getElementById("output");
+      output.select();
+      document.execCommand("copy");
+      alert("✅ Đã copy code vào clipboard!");
+    }
+  </script>
+</body>
+</html>
