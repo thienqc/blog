@@ -7,7 +7,6 @@ tags:
   - IHS
   - Reading_challenge_RC_2024
   - SachThiengLieng
-  - Viet
 Cover: Đôi nét lịch sử Dòng Tên - Thời kì khai sinh và phát triển-1764380365497.webp
 Rating: ⭐⭐⭐⭐⭐
 Total_Pages: 300
@@ -42,7 +41,7 @@ category:
 ## Thời kì phát triển  
 - Thánh Phanxicô Borja  
 - Thánh Phêrô Kanijs  
-	- Thánh Stanislaô Kostka  
+	- Thánh [Stanislaô Kostka](../../Stanislaus%20Kostka.md)  
 - Cha Clauđiô Acquaviva  
 	- Thánh [Aloysius Gonzaga](../../Aloysius%20Gonzaga.md)  
 	- Hai chân phước Salès và Saultemouche tử đạo tại Aubena  
@@ -53,4 +52,4 @@ category:
 - Sứ vụ tại triều đình Mogol  
 - Khởi đầu công cuộc truyền giáo ở Trung Hoa  
 	- Các thừa sai bắt đầu giảng đạo cho người Trung Hoa  
-	- Hội Thánh tăng trưởng tại Nam Kinh  
+	- Hội Thánh tăng trưởng tại Nam Kinh
