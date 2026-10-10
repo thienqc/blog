@@ -33,4 +33,4 @@ Nghe có vẻ hay hay, nhưng vấn đề là tới thời điểm hiện tại 
 ## Tóm lại  
 Và còn vô số lỗi khác mà mình mày mò sửa trong quá trình thêm hệ thống bình luận này. Dù mình đọc đi đọc lại docs nhiều lần nhưng mà do đọc không kĩ, bỏ sót những từ quan trọng, không hiểu cấu trúc của blog nên mắc phải những lỗi như trên.  
   
-Nếu có bất kì bình luận này, vui lòng để lại bình luận bên dưới :))
+Nếu có bất kì bình luận nào, vui lòng để lại bình luận bên dưới :))
